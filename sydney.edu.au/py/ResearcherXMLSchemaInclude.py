@@ -22,7 +22,7 @@ rifdef=\
         ],
         "orcid",
         [
-          "data", 'fldData["AuthorNumber"]'
+          "data", 'fldData["AuthorORCID"]'
         ],
         "scopus_author_id",
         [
