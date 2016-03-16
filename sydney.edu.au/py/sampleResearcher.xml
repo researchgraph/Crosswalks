@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<researcher xmlns="http://researchgraph.org/schema/v1.1/xml/nodes"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://researchgraph.org/schema/v1.1/xml/nodes file:/Users/Admin/github/schema/xsd/researcher.xsd">
+    <key>sydney.edu.au/researcher/10009999</key>
+    <local_id>10009999</local_id>
+    <first_name>Peter</first_name>
+    <last_name>Smith</last_name>
+    <full_name>Peter Smith</full_name>
+    <orcid></orcid>
+    <scopus_author_id></scopus_author_id>
+</researcher>
