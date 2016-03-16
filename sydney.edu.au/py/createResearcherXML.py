@@ -85,13 +85,14 @@ def scopus_author_idf(rifplace,idt):
 
 def researcherf(rifplace,idt):
    emit("<researcher ",idt)
-   emit("http://researchgraph.org/schema/v1.1/xml/nodes\n" + \
-        'xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance\n"'+\
-        'xsi:schemaLocation="http://researchgraph.org/schema/v1.1/xml/nodes file:/Users/Admin/github/schema/xsd/researcher.xsd">\n',\
-        idt+1
-   )
+   emit("\n",0)
+   emit("http://researchgraph.org/schema/v1.1/xml/nodes",idt+1)
+   emit("\n",0)
+   emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
+   emit("\n",0)
+   emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/researcher.xsd"',idt+1)
    makeCalls(rifplace,idt)
-   emit("</researcher>\n",0)
+   emit("</researcher>\n",idt)
 
 def rifheader():
    emit('<?xml version="1.0" encoding="UTF-8" ?>\n',0)
@@ -144,8 +145,8 @@ if not os.path.isfile(rawDatIn):
 
 # Read csv publication input data and write output in appropriate XML format
 with open(rifout,"w") as rifoutfd:
-   with open(rawDatIn,"r") as fieldDatafd:
-      datreader=csv.reader(fieldDatafd,delimiter='\t')
+   with open(rawDatIn,"rtU") as fieldDatafd:
+      datreader=csv.reader(fieldDatafd,delimiter=',')
       headers=datreader.next()
 
       rifheader()
