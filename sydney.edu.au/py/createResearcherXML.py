@@ -3,8 +3,7 @@ import pdb
 
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Input Output files
-rawDatIn="qry_RDS_Sample.csv"
-#rawDatIn="Bates_etc_v2.csv"
+rawDatIn="sampleResearcher.csv"
 rifout="./rif-csOut.xml"
 ROCode="Needs a column in csv"
 
@@ -12,31 +11,6 @@ ROCode="Needs a column in csv"
 
 import sys,csv
 
-# Rifs XML data representation of RMA data fields below
-#  PublicationCode 
-#  OutputType   
-#  PublicationYear
-#  PublicationTitle
-#  Publisher
-#  Outlet
-#  ISSNISBN
-#  Volume
-#  Issue
-#  StartPage
-#  EndPage
-#  ScopusId
-#  DOI
-#  AuthorAssignedForCode1
-#  AuthorAssignedForCode2
-#  AuthorAssignedForCode3
-#  AuthorOrder
-#  AuthorType
-#  AuthorInternal
-#  AuthorNumber
-#  AuthorSurname
-#  AuthorFirstname
-#  AuthorFaculty
-#  AuthorSchool
 
 # key index data refers to a read data item in the dictionary fldData
 
@@ -45,7 +19,7 @@ import sys,csv
 
 OrigSource="rqf.library.usyd.edu.au"
 
-with open("rifsDef2Include.py","r") as fd:
+with open("ResearcherXMLSchemaInclude.py","r") as fd:
    rifdefinition=fd.read()
 
 exec(rifdefinition)
@@ -72,12 +46,6 @@ def keyf(rifplace,idt):
    keystr+="</key>\n"
    emit(keystr,idt)
 
-def dateFormatf(rifplace,idt):
-   rifoutfd.write(" dateFormat=" + rifplace)
-
-def groupf(rifplace,idt):
-   rifoutfd.write(' group="'+rifplace+'"')
-
 def typef(rifplace,idt):
    dval=' type="%s"' % rifplace
    rifoutfd.write(dval)
@@ -85,67 +53,48 @@ def typef(rifplace,idt):
 def dataf(rifplace,idt):
    rifoutfd.write(eval(rifplace))
 
-def originatingSourcef(rifplace,idt):
-   ostr="<originatingSource>"+rifplace[1]+"</originatingSource>\n"
-   emit(ostr,idt)
+def local_IDf(rifplace,idt):
+   emit("<local_id>",idt)
+   makeCalls(rifplace,idt)
+   emit("</local_id>>\n",0)
 
-def partyf(rifplace,idt):
-   emit("<party",idt)
+def first_namef(rifplace,idt):
+   emit("<first_name",idt)
    makeCalls(rifplace,idt)
-   emit("</party>\n",idt)
+   emit("</first_name>\n",idt)
 
-def identifierf(rifplace,idt):
-   emit("<identifier",idt)
+def last_namef(rifplace,idt):
+   emit("<last_name",idt)
    makeCalls(rifplace,idt)
-   emit("</identifier>\n",0)
+   emit("</last_name>\n",idt)
 
-def collectionf(rifplace,idt):
-   emit("<collection",idt)
+def full_namef(rifplace,idt):
+   emit("<full_name>",idt)
    makeCalls(rifplace,idt)
-   emit('</collection>\n',idt)
+   emit("</full_name>\n",0)
 
-def datef(rifplace,idt):
-   emit("<date",idt)
+def orcidf(rifplace,idt):
+   emit("<orcid>",idt)
    makeCalls(rifplace,idt)
-   emit("</date>\n",0)
+   emit("</orcid>\n",0)
 
-def datesf(rifplace,idt):
-   emit("<dates",idt)
+def scopus_author_idf(rifplace,idt):
+   emit("<scopus_author_id>",idt)
    makeCalls(rifplace,idt)
-   emit("</dates>\n",idt)
-   
-def namePartf(rifplace,idt):
-   emit("<namePart",idt)
-   makeCalls(rifplace,idt)
-   emit("</namePart>\n",0)
+   emit("</scopus_author_id>\n",0)
 
-def namef(rifplace,idt):
-   emit("<name",idt)
+def researcherf(rifplace,idt):
+   emit("<researcher ",idt)
+   emit("http://researchgraph.org/schema/v1.1/xml/nodes\n" + \
+        'xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance\n"'+\
+        'xsi:schemaLocation="http://researchgraph.org/schema/v1.1/xml/nodes file:/Users/Admin/github/schema/xsd/researcher.xsd">\n',\
+        idt+1
+   )
    makeCalls(rifplace,idt)
-   emit("</name>\n",idt)
-
-def relatedObjectf(rifplace,idt):
-   emit("<relatedObject",idt)
-   makeCalls(rifplace,idt)
-   emit("</relatedObject>\n",idt)
+   emit("</researcher>\n",0)
 
 def rifheader():
    emit('<?xml version="1.0" encoding="UTF-8" ?>\n',0)
-
-def subjectf(rifplace,idt):
-   if dataNotEmpty(rifplace):
-      emit("<subject>",idt)
-      makeCalls(rifplace,idt)
-      emit("</subject>\n",0)
-
-
-def locationf(rifplace,idt):
-   pass
-
-def registryObjectf(rifplace,idt):
-   emit('<registryObject',idt)
-   makeCalls(rifplace,idt)
-   emit('</registryObject>\n',idt)
 
 def dataNotEmpty(rifplace):
    dp = rifplace.index("data")

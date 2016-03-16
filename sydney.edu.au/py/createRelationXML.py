@@ -45,7 +45,7 @@ import sys,csv
 
 OrigSource="rqf.library.usyd.edu.au"
 
-with open("rifsDef2Include.py","r") as fd:
+with open("RelationXMLSchemaInclude.py","r") as fd:
    rifdefinition=fd.read()
 
 exec(rifdefinition)
@@ -85,35 +85,6 @@ def typef(rifplace,idt):
 def dataf(rifplace,idt):
    rifoutfd.write(eval(rifplace))
 
-def originatingSourcef(rifplace,idt):
-   ostr="<originatingSource>"+rifplace[1]+"</originatingSource>\n"
-   emit(ostr,idt)
-
-def partyf(rifplace,idt):
-   emit("<party",idt)
-   makeCalls(rifplace,idt)
-   emit("</party>\n",idt)
-
-def identifierf(rifplace,idt):
-   emit("<identifier",idt)
-   makeCalls(rifplace,idt)
-   emit("</identifier>\n",0)
-
-def collectionf(rifplace,idt):
-   emit("<collection",idt)
-   makeCalls(rifplace,idt)
-   emit('</collection>\n',idt)
-
-def datef(rifplace,idt):
-   emit("<date",idt)
-   makeCalls(rifplace,idt)
-   emit("</date>\n",0)
-
-def datesf(rifplace,idt):
-   emit("<dates",idt)
-   makeCalls(rifplace,idt)
-   emit("</dates>\n",idt)
-   
 def namePartf(rifplace,idt):
    emit("<namePart",idt)
    makeCalls(rifplace,idt)

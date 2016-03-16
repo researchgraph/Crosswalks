@@ -45,7 +45,7 @@ import sys,csv
 
 OrigSource="rqf.library.usyd.edu.au"
 
-with open("rifsDef2Include.py","r") as fd:
+with open("PublicationXMLSchemaInclude.py","r") as fd:
    rifdefinition=fd.read()
 
 exec(rifdefinition)
