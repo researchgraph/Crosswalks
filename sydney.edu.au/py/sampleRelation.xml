@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<relation xmlns="http://researchgraph.org/schema/v1.1/xml/nodes"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://researchgraph.org/schema/v1.1/xml/nodes file:/Users/Admin/github/schema/xsd/relation.xsd">
+    <from_key>sydney.edu.au/researcher/10009999</from_key>
+    <to_key>sydney.edu.au/publication/1000172xPUB10</to_key>
+    <label>relatedTo</label>
+</relation>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publication xmlns="http://researchgraph.org/schema/v1.1/xml/nodes"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/publication.xsd">
+    <key>sydney.edu.au/publication/1000172xPUB10</key>
+    <local_id>1000172xPUB10</local_id>
+    <title>Brain metabolic markers reflect susceptibility status in cytokine gene knockout mice with murine cerebral malaria.</title>
+    <authors_list>Parekh, S, Bubb, WA, Hunt, Smith, P</authors_list>
+    <doi>10.1016/j.ijpara.2006.07.004</doi>
+    <url>dx.doi.org/10.1016/j.ijpara.2006.07.004</url>
+    <anzsrc_purl>http://purl.org/au-research/vocabulary/anzsrc-for/2008/110199</anzsrc_purl>
+    <anzsrc_purl>http://purl.org/au-research/vocabulary/anzsrc-for/2008/110803</anzsrc_purl>
+    <anzsrc_purl>http://purl.org/au-research/vocabulary/anzsrc-for/2008/110902</anzsrc_purl>
+    <publication_year>2006</publication_year>
+    <scopus_id>2-s2.0-33749238497</scopus_id>
+</publication>

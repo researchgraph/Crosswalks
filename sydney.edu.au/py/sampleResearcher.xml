@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <researcher xmlns="http://researchgraph.org/schema/v1.1/xml/nodes"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://researchgraph.org/schema/v1.1/xml/nodes file:/Users/Admin/github/schema/xsd/researcher.xsd">
+    xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/researcher.xsd">
     <key>sydney.edu.au/researcher/10009999</key>
     <local_id>10009999</local_id>
     <first_name>Peter</first_name>
