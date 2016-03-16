@@ -51,7 +51,7 @@ def dataf(rifplace,idt):
    rifoutfd.write(eval(rifplace))
 
 def local_IDf(rifplace,idt):
-   emit("<local_id>",idt)
+   emit("<local_id",idt)
    makeCalls(rifplace,idt)
    emit("</local_id>>\n",0)
 
@@ -66,24 +66,24 @@ def last_namef(rifplace,idt):
    emit("</last_name>\n",idt)
 
 def full_namef(rifplace,idt):
-   emit("<full_name>",idt)
+   emit("<full_name",idt)
    makeCalls(rifplace,idt)
    emit("</full_name>\n",0)
 
 def orcidf(rifplace,idt):
-   emit("<orcid>",idt)
+   emit("<orcid",idt)
    makeCalls(rifplace,idt)
    emit("</orcid>\n",0)
 
 def scopus_author_idf(rifplace,idt):
-   emit("<scopus_author_id>",idt)
+   emit("<scopus_author_id",idt)
    makeCalls(rifplace,idt)
    emit("</scopus_author_id>\n",0)
 
 def researcherf(rifplace,idt):
    emit("<researcher ",idt)
    emit("\n",0)
-   emit("http://researchgraph.org/schema/v1.1/xml/nodes",idt+1)
+   emit('xmlns="http://researchgraph.org/schema/v1.1/xml/nodes"',idt+1)
    emit("\n",0)
    emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
    emit("\n",0)
