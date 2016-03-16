@@ -4,13 +4,10 @@ import pdb
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Input Output files
 rawDatIn="sampleResearcher.csv"
-rifout="./rif-csOut.xml"
-ROCode="Needs a column in csv"
+rifout="./researcher-csOut.xml"
+includeSchema="ResearcherXMLSchemaInclude.py"
 
 # Rifs XML data representation of RMA data fields below
-
-import sys,csv
-
 
 # key index data refers to a read data item in the dictionary fldData
 
@@ -19,7 +16,7 @@ import sys,csv
 
 OrigSource="rqf.library.usyd.edu.au"
 
-with open("ResearcherXMLSchemaInclude.py","r") as fd:
+with open(includeSchema,"r") as fd:
    rifdefinition=fd.read()
 
 exec(rifdefinition)

@@ -3,49 +3,18 @@ import pdb
 
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Input Output files
-rawDatIn="qry_RDS_Sample.csv"
-#rawDatIn="Bates_etc_v2.csv"
-rifout="./rif-csOut.xml"
-ROCode="Needs a column in csv"
+rawDatIn="samplePublication.csv"
+rifout="./publication-csOut.xml"
+includeSchema="PublicationXMLSchemaInclude.py"
 
 # Rifs XML data representation of RMA data fields below
-
-import sys,csv
-
-# Rifs XML data representation of RMA data fields below
-#  PublicationCode 
-#  OutputType   
-#  PublicationYear
-#  PublicationTitle
-#  Publisher
-#  Outlet
-#  ISSNISBN
-#  Volume
-#  Issue
-#  StartPage
-#  EndPage
-#  ScopusId
-#  DOI
-#  AuthorAssignedForCode1
-#  AuthorAssignedForCode2
-#  AuthorAssignedForCode3
-#  AuthorOrder
-#  AuthorType
-#  AuthorInternal
-#  AuthorNumber
-#  AuthorSurname
-#  AuthorFirstname
-#  AuthorFaculty
-#  AuthorSchool
 
 # key index data refers to a read data item in the dictionary fldData
 
 # The following dictionary/list structure defines an XML structure 
 # Mapping data values from a local database into positions in a RIFs XML file
 
-OrigSource="rqf.library.usyd.edu.au"
-
-with open("PublicationXMLSchemaInclude.py","r") as fd:
+with open(includeSchema,"r") as fd:
    rifdefinition=fd.read()
 
 exec(rifdefinition)
@@ -72,80 +41,65 @@ def keyf(rifplace,idt):
    keystr+="</key>\n"
    emit(keystr,idt)
 
-def dateFormatf(rifplace,idt):
-   rifoutfd.write(" dateFormat=" + rifplace)
-
-def groupf(rifplace,idt):
-   rifoutfd.write(' group="'+rifplace+'"')
-
-def typef(rifplace,idt):
-   dval=' type="%s"' % rifplace
-   rifoutfd.write(dval)
-
 def dataf(rifplace,idt):
    rifoutfd.write(eval(rifplace))
 
-def originatingSourcef(rifplace,idt):
-   ostr="<originatingSource>"+rifplace[1]+"</originatingSource>\n"
-   emit(ostr,idt)
+def prefixf(rifplace,idt):
+   rifoutfd.write(rifplace)
 
-def partyf(rifplace,idt):
-   emit("<party",idt)
+def local_IDf(rifplace,idt):
+   emit("<local_id>",idt)
    makeCalls(rifplace,idt)
-   emit("</party>\n",idt)
+   emit("</local_id>>\n",0)
 
-def identifierf(rifplace,idt):
-   emit("<identifier",idt)
+def titlef(rifplace,idt):
+   emit("<title",idt)
    makeCalls(rifplace,idt)
-   emit("</identifier>\n",0)
+   emit("</title>\n",idt)
 
-def collectionf(rifplace,idt):
-   emit("<collection",idt)
+def authors_listf(rifplace,idt):
+   emit("<last_name",idt)
    makeCalls(rifplace,idt)
-   emit('</collection>\n',idt)
+   emit("</last_name>\n",idt)
 
-def datef(rifplace,idt):
-   emit("<date",idt)
+def doif(rifplace,idt):
+   emit("<doi>",idt)
    makeCalls(rifplace,idt)
-   emit("</date>\n",0)
+   emit("</doi>\n",0)
 
-def datesf(rifplace,idt):
-   emit("<dates",idt)
+def urlf(rifplace,idt):
+   emit("<url>",idt)
    makeCalls(rifplace,idt)
-   emit("</dates>\n",idt)
-   
-def namePartf(rifplace,idt):
-   emit("<namePart",idt)
-   makeCalls(rifplace,idt)
-   emit("</namePart>\n",0)
+   emit("</url>\n",0)
 
-def namef(rifplace,idt):
-   emit("<name",idt)
+def anzsrc_purlf(rifplace,idt):
+   emit("<anzsrc_purl>",idt)
    makeCalls(rifplace,idt)
-   emit("</name>\n",idt)
+   emit("</anzsrc_purl>\n",0)
 
-def relatedObjectf(rifplace,idt):
-   emit("<relatedObject",idt)
+def publication_yearf(rifplace,idt):
+   emit("<publication_year>",idt)
    makeCalls(rifplace,idt)
-   emit("</relatedObject>\n",idt)
+   emit("</publication_year>\n",0)
+
+def scopus_idf(rifplace,idt):
+   emit("<scopus_id>",idt)
+   makeCalls(rifplace,idt)
+   emit("</scopus_id>\n",0)
+
+def publicationf(rifplace,idt):
+   emit("<publication ",idt)
+   emit("\n",0)
+   emit("http://researchgraph.org/schema/v1.1/xml/nodes",idt+1)
+   emit("\n",0)
+   emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
+   emit("\n",0)
+   emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/researcher.xsd"',idt+1)
+   makeCalls(rifplace,idt)
+   emit("</publication>\n",idt)
 
 def rifheader():
    emit('<?xml version="1.0" encoding="UTF-8" ?>\n',0)
-
-def subjectf(rifplace,idt):
-   if dataNotEmpty(rifplace):
-      emit("<subject>",idt)
-      makeCalls(rifplace,idt)
-      emit("</subject>\n",0)
-
-
-def locationf(rifplace,idt):
-   pass
-
-def registryObjectf(rifplace,idt):
-   emit('<registryObject',idt)
-   makeCalls(rifplace,idt)
-   emit('</registryObject>\n',idt)
 
 def dataNotEmpty(rifplace):
    dp = rifplace.index("data")
@@ -195,8 +149,8 @@ if not os.path.isfile(rawDatIn):
 
 # Read csv publication input data and write output in appropriate XML format
 with open(rifout,"w") as rifoutfd:
-   with open(rawDatIn,"r") as fieldDatafd:
-      datreader=csv.reader(fieldDatafd,delimiter='\t')
+   with open(rawDatIn,"rtU") as fieldDatafd:
+      datreader=csv.reader(fieldDatafd,delimiter=',')
       headers=datreader.next()
 
       rifheader()

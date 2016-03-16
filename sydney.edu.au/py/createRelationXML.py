@@ -3,40 +3,11 @@ import pdb
 
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Input Output files
-rawDatIn="qry_RDS_Sample.csv"
-#rawDatIn="Bates_etc_v2.csv"
-rifout="./rif-csOut.xml"
-ROCode="Needs a column in csv"
+rawDatIn="sampleRelation.csv"
+rifout="./relation-csOut.xml"
+includeSchema="RelationXMLSchemaInclude.py"
 
 # Rifs XML data representation of RMA data fields below
-
-import sys,csv
-
-# Rifs XML data representation of RMA data fields below
-#  PublicationCode 
-#  OutputType   
-#  PublicationYear
-#  PublicationTitle
-#  Publisher
-#  Outlet
-#  ISSNISBN
-#  Volume
-#  Issue
-#  StartPage
-#  EndPage
-#  ScopusId
-#  DOI
-#  AuthorAssignedForCode1
-#  AuthorAssignedForCode2
-#  AuthorAssignedForCode3
-#  AuthorOrder
-#  AuthorType
-#  AuthorInternal
-#  AuthorNumber
-#  AuthorSurname
-#  AuthorFirstname
-#  AuthorFaculty
-#  AuthorSchool
 
 # key index data refers to a read data item in the dictionary fldData
 
@@ -45,7 +16,7 @@ import sys,csv
 
 OrigSource="rqf.library.usyd.edu.au"
 
-with open("RelationXMLSchemaInclude.py","r") as fd:
+with open(includeSchema,"r") as fd:
    rifdefinition=fd.read()
 
 exec(rifdefinition)
@@ -54,9 +25,6 @@ exec(rifdefinition)
 # In each list the first entry is a key, item zero is a text key every second entry is either a list of data
 
 fieldmap={}
-
-actionList=["type","data","group"]
-taglist=["registryObject","collection"]
 
 def emit(txtout,idt):
    # writes string with indent 
@@ -72,51 +40,37 @@ def keyf(rifplace,idt):
    keystr+="</key>\n"
    emit(keystr,idt)
 
-def dateFormatf(rifplace,idt):
-   rifoutfd.write(" dateFormat=" + rifplace)
-
-def groupf(rifplace,idt):
-   rifoutfd.write(' group="'+rifplace+'"')
-
-def typef(rifplace,idt):
-   dval=' type="%s"' % rifplace
-   rifoutfd.write(dval)
-
 def dataf(rifplace,idt):
    rifoutfd.write(eval(rifplace))
 
-def namePartf(rifplace,idt):
-   emit("<namePart",idt)
+def from_keyf(rifplace,idt):
+   emit("<from_key",idt)
    makeCalls(rifplace,idt)
-   emit("</namePart>\n",0)
+   emit("</from_key>\n",0)
 
-def namef(rifplace,idt):
-   emit("<name",idt)
+def to_keyf(rifplace,idt):
+   emit("<to_key",idt)
    makeCalls(rifplace,idt)
-   emit("</name>\n",idt)
+   emit("</to_key>\n",0)
 
-def relatedObjectf(rifplace,idt):
-   emit("<relatedObject",idt)
+def labelf(rifplace,idt):
+   emit("<label",idt)
    makeCalls(rifplace,idt)
-   emit("</relatedObject>\n",idt)
+   emit("</label>\n",0)
+
+def relationf(rifplace,idt):
+   emit("<relation ",idt)
+   emit("\n",0)
+   emit("http://researchgraph.org/schema/v1.1/xml/nodes",idt+1)
+   emit("\n",0)
+   emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
+   emit("\n",0)
+   emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/researcher.xsd"',idt+1)
+   makeCalls(rifplace,idt)
+   emit("</researcher>\n",idt)
 
 def rifheader():
    emit('<?xml version="1.0" encoding="UTF-8" ?>\n',0)
-
-def subjectf(rifplace,idt):
-   if dataNotEmpty(rifplace):
-      emit("<subject>",idt)
-      makeCalls(rifplace,idt)
-      emit("</subject>\n",0)
-
-
-def locationf(rifplace,idt):
-   pass
-
-def registryObjectf(rifplace,idt):
-   emit('<registryObject',idt)
-   makeCalls(rifplace,idt)
-   emit('</registryObject>\n',idt)
 
 def dataNotEmpty(rifplace):
    dp = rifplace.index("data")
@@ -166,8 +120,8 @@ if not os.path.isfile(rawDatIn):
 
 # Read csv publication input data and write output in appropriate XML format
 with open(rifout,"w") as rifoutfd:
-   with open(rawDatIn,"r") as fieldDatafd:
-      datreader=csv.reader(fieldDatafd,delimiter='\t')
+   with open(rawDatIn,"rtU") as fieldDatafd:
+      datreader=csv.reader(fieldDatafd,delimiter=',')
       headers=datreader.next()
 
       rifheader()

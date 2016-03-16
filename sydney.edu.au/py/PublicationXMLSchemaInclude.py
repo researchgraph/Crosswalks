@@ -1,108 +1,51 @@
 rifdef=\
-   [ "registryObject",
-     [ "group","The University of Sydney" ,
-        "key",
+   [ "publication",
+     [ "key",
         [ "keytxt","sydney.edu.au/researcher/",
-          "data",'fldData["AuthorNumber"]',
+          "data",'fldData["PublicationCode"]'
         ],
-        "originatingSource",
-        ["data", OrigSource ],
-        "party",
-        [ "type","person",
-          "name",
-          [ "type","primary" ,
-            "namePart",
-            [ "type","given",
-              "data",'fldData["AuthorFirstname"]'
-            ],
-            "namePart",
-            [ "type","family",
-              "data",'fldData["AuthorSurname"]'
-            ],
-          ],
-          "identifier",
-          [ "type","orcid",
-            "data",'fldData["AuthorNumber"]'
-          ],
-          "identifier",
-          [ "type","scopus_aid",
-            "data", 'fldData["ScopusId"]',
-          ],
-          "identifier",
-          [ "type","doi",
-            "data", 'fldData["DOI"]'
-          ],
-          "location",
-          [ "address",
-            [ "electronic",
-              [ "type","email",
-                "data",'fldData["PersonContactEmail"]'
-              ]
-            ]
-          ]
+        "local_ID",
+        [ 
+            "data",'fldData["PublicationCode"]'
+        ],
+        "title",
+        [ 
+            "data",'fldData["PublicationTitle"]'
+        ],
+        "authors_list",
+        [
+          "data",'fldData["AllAuthors"]'
+        ],
+        "doi",
+        [
+          "data", 'fldData["DOI"]',
+        ],
+        "url",
+        [
+          "data", '"dx.doi.org/"+fldData["DOI"]'
+        ],
+        "anzsrc_purl",
+        [
+          "prefix","http://purl.org/au-research/vocabulary/anzsrc-for/2008/",
+          "data", 'fldData["AuthorAssignedForCode1"]'
+        ],
+        "anzsrc_purl",
+        [
+          "prefix","http://purl.org/au-research/vocabulary/anzsrc-for/2008/",
+          "data", 'fldData["AuthorAssignedForCode2"]'
+        ],
+        "anzsrc_purl",
+        [
+          "prefix","http://purl.org/au-research/vocabulary/anzsrc-for/2008/",
+          "data", 'fldData["AuthorAssignedForCode3"]'
+        ],
+        "publication_year",
+        [
+          "data", 'fldData["PublicationYear"]'
+        ],
+        "scopus_id",
+        [
+          "data", 'fldData["ScopusId"]'
         ]
-     ],
-     "registryObject",
-     [
-       "key",
-       [ "keytxt","sydney.edu.au/researcher/",
-         "data",'fldData["AuthorNumber"]',
-       ],
-       "originatingSource",
-       ["data", OrigSource ],
-       "collection",
-       [ "type","publication",
-         "name",
-         [ "type","primary",
-           "namePart",
-           [ "type","title",
-             "data",'fldData["PublicationTitle"]'
-           ]
-         ],
-         "dates",
-         [ "type","issued",
-           "date",
-           [ "type","dateFrom",
-             "dateFormat","UTC",
-             "data",'fldData["PublicationYear"]'
-           ]
-         ],
-         "identifier",
-         [ "type","issn",
-           "data",'fldData["ISSNISBN"]'
-         ],
-         "identifier",
-         [ "type","local",
-           "data",'fldData["ISSNISBN"]'
-         ],
-         "identifier",
-         [ "type","scopus_eid",
-           "data",'fldData["ScopusId"]'
-         ],
-         "identifier",
-         [ "type","doi",
-           "data",'fldData["DOI"]'
-         ],
-         "subject",
-         [ "type","anzsrc-for",
-           "data",'fldData["AuthorAssignedForCode1"]'
-         ],
-         "subject",
-         [ "type","anzsrc-for",
-           "data",'fldData["AuthorAssignedForCode2"]'
-         ],
-         "subject",
-         [ "type","anzsrc-for",
-           "data",'fldData["AuthorAssignedForCode3"]'
-         ],
-         "relatedObject",
-         [ "type",'isProducedBy',
-           "key",
-           [ "keytxt","sydney.edu.au/researcher/",
-             "data",'fldData["PublicationCode"]'
-           ]
-         ]
-       ]
-     ]
+      ]
    ]
-
