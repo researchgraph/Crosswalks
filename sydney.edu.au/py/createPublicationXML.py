@@ -73,9 +73,10 @@ def urlf(rifplace,idt):
    emit("</url>\n",0)
 
 def anzsrc_purlf(rifplace,idt):
-   emit("<anzsrc_purl>",idt)
-   makeCalls(rifplace,idt)
-   emit("</anzsrc_purl>\n",0)
+   if dataNotEmpty(rifplace):
+      emit("<anzsrc_purl>",idt)
+      makeCalls(rifplace,idt)
+      emit("</anzsrc_purl>\n",0)
 
 def publication_yearf(rifplace,idt):
    emit("<publication_year>",idt)
