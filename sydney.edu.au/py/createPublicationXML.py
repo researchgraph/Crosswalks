@@ -55,7 +55,7 @@ def local_IDf(rifplace,idt):
 def titlef(rifplace,idt):
    emit("<title",idt)
    makeCalls(rifplace,idt)
-   emit("</title>\n",idt)
+   emit("</title>\n",0)
 
 def authors_listf(rifplace,idt):
    emit("<authors_list",idt)
