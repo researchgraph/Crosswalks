@@ -48,9 +48,9 @@ def prefixf(rifplace,idt):
    rifoutfd.write(rifplace)
 
 def local_IDf(rifplace,idt):
-   emit("<local_id>",idt)
+   emit("<local_id",idt)
    makeCalls(rifplace,idt)
-   emit("</local_id>>\n",0)
+   emit("</local_id>\n",0)
 
 def titlef(rifplace,idt):
    emit("<title",idt)
@@ -58,17 +58,17 @@ def titlef(rifplace,idt):
    emit("</title>\n",idt)
 
 def authors_listf(rifplace,idt):
-   emit("<last_name",idt)
+   emit("<authors_list",idt)
    makeCalls(rifplace,idt)
-   emit("</last_name>\n",idt)
+   emit("</authors_list>\n",idt)
 
 def doif(rifplace,idt):
-   emit("<doi>",idt)
+   emit("<doi",idt)
    makeCalls(rifplace,idt)
    emit("</doi>\n",0)
 
 def urlf(rifplace,idt):
-   emit("<url>",idt)
+   emit("<url",idt)
    makeCalls(rifplace,idt)
    emit("</url>\n",0)
 
@@ -79,12 +79,12 @@ def anzsrc_purlf(rifplace,idt):
       emit("</anzsrc_purl>\n",0)
 
 def publication_yearf(rifplace,idt):
-   emit("<publication_year>",idt)
+   emit("<publication_year",idt)
    makeCalls(rifplace,idt)
    emit("</publication_year>\n",0)
 
 def scopus_idf(rifplace,idt):
-   emit("<scopus_id>",idt)
+   emit("<scopus_id",idt)
    makeCalls(rifplace,idt)
    emit("</scopus_id>\n",0)
 
