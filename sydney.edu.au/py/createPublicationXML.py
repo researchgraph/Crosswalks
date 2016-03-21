@@ -60,7 +60,7 @@ def titlef(rifplace,idt):
 def authors_listf(rifplace,idt):
    emit("<authors_list",idt)
    makeCalls(rifplace,idt)
-   emit("</authors_list>\n",idt)
+   emit("</authors_list>\n",0)
 
 def doif(rifplace,idt):
    emit("<doi",idt)
