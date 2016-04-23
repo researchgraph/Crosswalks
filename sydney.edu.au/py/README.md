@@ -1,1 +1,1 @@
-Crosswalk from RMS @USyd to ResearchGraph.org Schema
+Crosswalk from RMS @USyd to Research Graph Schema
