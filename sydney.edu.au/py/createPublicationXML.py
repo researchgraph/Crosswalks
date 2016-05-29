@@ -3,8 +3,9 @@ import pdb
 
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Input Output files
-rawDatIn="samplePublication.csv"
-rifout="./publication-csOut.xml"
+rawDatIn="testPubs.csv"
+#rifout="./publication-csOut.xml"
+rifout="/Users/Admin/github/rd-switchboard/Inference/Importers/RG/import_rg/sample_files/publication-csOut.xml"
 includeSchema="PublicationXMLSchemaInclude.py"
 
 # Rifs XML data representation of RMA data fields below
@@ -91,11 +92,11 @@ def scopus_idf(rifplace,idt):
 def publicationf(rifplace,idt):
    emit("<publication ",idt)
    emit("\n",0)
-   emit("http://researchgraph.org/schema/v1.1/xml/nodes",idt+1)
+   emit("http://researchgraph.org/schema/v2.0/xml/nodes",idt+1)
    emit("\n",0)
    emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
    emit("\n",0)
-   emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/researcher.xsd"',idt+1)
+   emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/publication.xsd"',idt+1)
    makeCalls(rifplace,idt)
    emit("</publication>\n",idt)
 
@@ -157,11 +158,12 @@ with open(rifout,"w") as rifoutfd:
       rifheader()
       idt+=1
       emit('<registryObjects>\n',idt)
+      emit('<publications>\n',idt)
       for row in datreader:
          for index in range(0,len(rifdef),2):
             fldData=dict(zip(headers,row))   #Header items as keys to values
             makeCalls(rifdef,idt)
-
+      emit('</publications>\n',idt)
       emit("</registryObjects>\n",idt)
 
 
