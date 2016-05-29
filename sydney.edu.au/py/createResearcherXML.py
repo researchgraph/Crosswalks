@@ -4,8 +4,17 @@ import pdb
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Input Output files
 rawDatIn="sampleResearcher.csv"
-rifout="./researcher-csOut.xml"
+rifout="./r.researchers.xml"
 includeSchema="ResearcherXMLSchemaInclude.py"
+
+if len(sys.argv)>1:
+   rawDatIn=str(sys.argv[1])
+   print("Output file will be at " + rifout)
+   print("Processing ...")
+else:
+   print("Please specify the input CSV file.")
+   print('For example: python createResearcherXML.py sampleResearcher.csv')
+   sys.exit()
 
 # Rifs XML data representation of RMA data fields below
 
@@ -158,5 +167,5 @@ with open(rifout,"w") as rifoutfd:
 
       emit("</registryObjects>\n",idt)
 
-
+print ("End.")
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016

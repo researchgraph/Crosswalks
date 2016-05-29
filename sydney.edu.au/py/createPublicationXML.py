@@ -3,10 +3,19 @@ import pdb
 
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Input Output files
-rawDatIn="testPubs.csv"
-#rifout="./publication-csOut.xml"
-rifout="/Users/Admin/github/rd-switchboard/Inference/Importers/RG/import_rg/sample_files/publication-csOut.xml"
+rawDatIn="samplePublication.csv"
+rifout="./r.publications.xml"
 includeSchema="PublicationXMLSchemaInclude.py"
+
+if len(sys.argv)>1:
+   rawDatIn=str(sys.argv[1])
+   print("Output file will be at " + rifout)
+   print("Processing ...")
+else:
+   print("Please specify the input CSV file.")
+   print('For example: python createPublicationXML.py samplePublication.csv')
+   sys.exit()
+
 
 # Rifs XML data representation of RMA data fields below
 
@@ -168,5 +177,5 @@ with open(rifout,"w") as rifoutfd:
       emit('</publications>\n',idt)
       emit("</registryObjects>\n",idt)
 
-
+print ("End.")
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
