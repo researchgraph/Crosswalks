@@ -120,7 +120,7 @@ if not os.path.isfile(rawDatIn):
 
 # Read csv publication input data and write output in appropriate XML format
 with open(rifout,"w") as rifoutfd:
-   with open(rawDatIn,"rtU") as fieldDatafd:
+   with open(rawDatIn,"rU") as fieldDatafd:
       datreader=csv.reader(fieldDatafd,delimiter=',')
       headers=datreader.next()
 
@@ -128,6 +128,8 @@ with open(rifout,"w") as rifoutfd:
       idt+=1
       emit('<registryObjects>\n',idt)
       for row in datreader:
+         row = [ x.replace('&apos;',"'").replace('&quot;','"').replace("&amp;","&").replace("&lt;", "<").replace("&gt;", ">") for x in row ] # decoding encoded html-unsafe symbols to cover the situation when some of them are already encoded ans some are not
+         row = [ x.replace("'",'&apos;').replace('"','&quot;').replace("&","&amp;").replace("<", "&lt;").replace(">", "&gt;") for x in row ] # encoding html-unsafe symbols
          for index in range(0,len(rifdef),2):
             fldData=dict(zip(headers,row))   #Header items as keys to values
             makeCalls(rifdef,idt)
