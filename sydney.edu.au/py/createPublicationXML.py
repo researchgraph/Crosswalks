@@ -159,7 +159,7 @@ with open(rifout,"w") as rifoutfd:
       emit('<registryObjects>\n',idt)
       for row in datreader:
          for index in range(0,len(rifdef),2):
-            row = [ x.replace("&","&amp;") for x in row ] # escaping "&" in texts to "&amp;"
+            row = [ x.replace("&amp;","&").replace("&","&amp;") for x in row ] # escaping "&" in texts to "&amp;"
             fldData=dict(zip(headers,row))   #Header items as keys to values
             makeCalls(rifdef,idt)
 
