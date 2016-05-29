@@ -150,7 +150,7 @@ if not os.path.isfile(rawDatIn):
 
 # Read csv publication input data and write output in appropriate XML format
 with open(rifout,"w") as rifoutfd:
-   with open(rawDatIn,"rtU") as fieldDatafd:
+   with open(rawDatIn,"rU") as fieldDatafd:
       datreader=csv.reader(fieldDatafd,delimiter=',')
       headers=datreader.next()
 
@@ -159,6 +159,7 @@ with open(rifout,"w") as rifoutfd:
       emit('<registryObjects>\n',idt)
       for row in datreader:
          for index in range(0,len(rifdef),2):
+            row = [ x.replace("&","&amp;") for x in row ] # escaping "&" in texts to "&amp;"
             fldData=dict(zip(headers,row))   #Header items as keys to values
             makeCalls(rifdef,idt)
 
