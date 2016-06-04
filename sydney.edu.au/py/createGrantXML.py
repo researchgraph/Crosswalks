@@ -4,8 +4,8 @@ import pdb
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Input Output filess
 
-rawDatIn="20160316_01_AllGrants_01_Sample.csv"
-#rawDatIn="sampleGrants.csv"
+#rawDatIn="20160316_01_AllGrants_01_Sample.csv"
+rawDatIn="sampleGrants.csv"
 rifout="./r.grants.xml"
 includeSchema="GrantXMLSchemaInclude.py"
 
