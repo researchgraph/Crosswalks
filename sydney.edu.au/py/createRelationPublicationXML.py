@@ -66,7 +66,7 @@ def relationf(rifplace,idt):
    emit("\n",0)
    emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
    emit("\n",0)
-   emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/researcher.xsd"',idt+1)
+   emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/relation.xsd"',idt+1)
    makeCalls(rifplace,idt)
    emit("</relation>\n",idt)
 
