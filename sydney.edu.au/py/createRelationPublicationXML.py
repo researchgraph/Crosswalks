@@ -5,7 +5,7 @@ import pdb
 # Input Output files
 rawDatIn="sampleRelation.csv"
 rifout="./r.relations.xml"
-includeSchema="RelationXMLSchemaInclude.py"
+includeSchema="RelationPublicationXMLSchemaInclude.py"
 
 if len(sys.argv)>1:
    rawDatIn=str(sys.argv[1])
@@ -146,5 +146,5 @@ with open(rifout,"w") as rifoutfd:
 
       emit("</registryObjects>\n",idt)
 
-Print("End.")
+print("End.")
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
