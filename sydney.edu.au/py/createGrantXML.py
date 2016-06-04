@@ -4,8 +4,8 @@ import pdb
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Input Output filess
 
-#rawDatIn="20160316_01_AllGrants_01_Sample.csv"
-rawDatIn="sampleGrants.csv"
+rawDatIn="20160316_01_AllGrants_01_Sample.csv"
+#rawDatIn="sampleGrants.csv"
 rifout="./r.grants.xml"
 includeSchema="GrantXMLSchemaInclude.py"
 
@@ -75,15 +75,15 @@ def participant_listf(rifplace,idt):
    emit("</participant_list>\n",0)   
 
 def publicationf(rifplace,idt):
-   emit("<publication ",idt)
+   emit("<grant ",idt)
    emit("\n",0)
    emit("http://researchgraph.org/schema/v2.0/xml/nodes",idt+1)
    emit("\n",0)
    emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
    emit("\n",0)
-   emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/publication.xsd"',idt+1)
+   emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/grant.xsd"',idt+1)
    makeCalls(rifplace,idt)
-   emit("</publication>\n",idt)
+   emit("</grant>\n",idt)
 
 def rifheader():
    emit('<?xml version="1.0" encoding="UTF-8" ?>\n',0)
@@ -143,14 +143,14 @@ with open(rifout,"w") as rifoutfd:
       rifheader()
       idt+=1
       emit('<registryObjects>\n',idt)
-      emit('<publications>\n',idt)
+      emit('<grants>\n',idt)
       for row in datreader:
          for index in range(0,len(rifdef),2):
             row = [ x.replace('&apos;',"'").replace('&quot;','"').replace("&amp;","&").replace("&lt;", "<").replace("&gt;", ">") for x in row ] # decoding encoded html-unsafe symbols to cover the situation when some of them are already encoded ans some are not
             row = [ x.replace("'",'&apos;').replace('"','&quot;').replace("&","&amp;").replace("<", "&lt;").replace(">", "&gt;") for x in row ] # encoding html-unsafe symbols
             fldData=dict(zip(headers,row))   #Header items as keys to values
             makeCalls(rifdef,idt)
-      emit('</publications>\n',idt)
+      emit('</grants>\n',idt)
       emit("</registryObjects>\n",idt)
 
 print ("End.")
