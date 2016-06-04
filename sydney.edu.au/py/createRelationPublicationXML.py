@@ -4,7 +4,7 @@ import pdb
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Input Output files
 rawDatIn="sampleRelation.csv"
-rifout="./r.relations.xml"
+rifout="./r.relations-publication.xml"
 includeSchema="RelationPublicationXMLSchemaInclude.py"
 
 if len(sys.argv)>1:
@@ -41,15 +41,6 @@ def emit(txtout,idt):
    idsize=4
    rifoutfd.write(" "*idt*idsize + txtout)
 
-def keyf(rifplace,idt):
-   keystr="<key>"
-   if rifplace[0]=="keytxt":
-      keystr+=rifplace[1]
-   if rifplace[2]=="data":
-      keystr+=eval(rifplace[3])
-   keystr+="</key>\n"
-   emit(keystr,idt)
-
 def dataf(rifplace,idt):
    rifoutfd.write(eval(rifplace))
 
@@ -58,10 +49,10 @@ def from_keyf(rifplace,idt):
    makeCalls(rifplace,idt)
    emit("</from_key>\n",0)
 
-def to_keyf(rifplace,idt):
-   emit("<to_key",idt)
+def to_urif(rifplace,idt):
+   emit("<to_uri",idt)
    makeCalls(rifplace,idt)
-   emit("</to_key>\n",0)
+   emit("</to_uri>\n",0)
 
 def labelf(rifplace,idt):
    emit("<label",idt)
@@ -77,7 +68,7 @@ def relationf(rifplace,idt):
    emit("\n",0)
    emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/researcher.xsd"',idt+1)
    makeCalls(rifplace,idt)
-   emit("</researcher>\n",idt)
+   emit("</relation>\n",idt)
 
 def rifheader():
    emit('<?xml version="1.0" encoding="UTF-8" ?>\n',0)
@@ -137,13 +128,14 @@ with open(rifout,"w") as rifoutfd:
       rifheader()
       idt+=1
       emit('<registryObjects>\n',idt)
+      emit('<relations>\n',idt)
       for row in datreader:
          row = [ x.replace('&apos;',"'").replace('&quot;','"').replace("&amp;","&").replace("&lt;", "<").replace("&gt;", ">") for x in row ] # decoding encoded html-unsafe symbols to cover the situation when some of them are already encoded ans some are not
          row = [ x.replace("'",'&apos;').replace('"','&quot;').replace("&","&amp;").replace("<", "&lt;").replace(">", "&gt;") for x in row ] # encoding html-unsafe symbols
          for index in range(0,len(rifdef),2):
             fldData=dict(zip(headers,row))   #Header items as keys to values
             makeCalls(rifdef,idt)
-
+      emit("</relations>\n",idt)
       emit("</registryObjects>\n",idt)
 
 print("End.")

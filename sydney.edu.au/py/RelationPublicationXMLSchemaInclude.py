@@ -1,14 +1,10 @@
 rifdef=\
    [ "relation",
-     [ "key",
-        [ "keytxt","sydney.edu.au/researcher/",
-          "data",'fldData["AuthorNumber"]'
-        ],
-        "from_key",
+     [  "from_key",
         [
-          "data", '"sydney.edu.au/researcher/"+fldData["AuthorNumber"]',
+          "data", '"sydney.edu.au/publication/"+fldData["PublicationCode"]',
         ],
-        "to_key",
+        "to_uri",
         [
           "data", '"sydney.edu.au/researcher/"+fldData["AuthorNumber"]'
         ],
