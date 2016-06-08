@@ -1,5 +1,6 @@
 import sys,csv,os
 import pdb
+import codecs
 
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Input Output files
@@ -144,7 +145,7 @@ if not os.path.isfile(rawDatIn):
    sys.exit()
 
 # Read csv publication input data and write output in appropriate XML format
-with open(rifout,"w") as rifoutfd:
+with codecs.open(rifout,"w",encoding='utf-8',errors='replace') as rifoutfd:
    with open(rawDatIn,"rU") as fieldDatafd:
       datreader=csv.reader(fieldDatafd,delimiter=',')
       headers=datreader.next()
@@ -160,8 +161,8 @@ with open(rifout,"w") as rifoutfd:
       emit("\n",0)
       emit('<researchers>\n',idt)
       for row in datreader:
-         row = [ x.replace('&apos;',"'").replace('&quot;','"').replace("&amp;","&").replace("&lt;", "<").replace("&gt;", ">") for x in row ] # decoding encoded html-unsafe symbols to cover the situation when some of them are already encoded ans some are not
-         row = [ x.replace("'",'&apos;').replace('"','&quot;').replace("&","&amp;").replace("<", "&lt;").replace(">", "&gt;") for x in row ] # encoding html-unsafe symbols
+         row = [ x.replace('&apos;',"'").replace('&quot;','"').replace("&amp;","&").replace("&lt;", "<").replace("&gt;", ">").decode('utf-8','ignore').encode("utf-8") for x in row ] # decoding encoded html-unsafe symbols to cover the situation when some of them are already encoded ans some are not
+         row = [ x.replace("'",'&apos;').replace('"','&quot;').replace("&","&amp;").replace("<", "&lt;").replace(">", "&gt;").decode('utf-8','ignore').encode("utf-8") for x in row ] # encoding html-unsafe symbols
          for index in range(0,len(rifdef),2):
             fldData=dict(zip(headers,row))   #Header items as keys to values
             makeCalls(rifdef,idt)
