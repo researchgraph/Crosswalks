@@ -90,13 +90,7 @@ def scopus_author_idf(rifplace,idt):
    emit("</scopus_author_id>\n",0)
 
 def researcherf(rifplace,idt):
-   emit("<researcher ",idt)
-   emit("\n",0)
-   emit('xmlns="http://researchgraph.org/schema/v1.1/xml/nodes"',idt+1)
-   emit("\n",0)
-   emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
-   emit("\n",0)
-   emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/researcher.xsd"',idt+1)
+   emit("<researcher",idt)
    makeCalls(rifplace,idt)
    emit("</researcher>\n",idt)
 
@@ -157,14 +151,21 @@ with open(rifout,"w") as rifoutfd:
 
       rifheader()
       idt+=1
-      emit('<registryObjects>\n',idt)
+      emit('<registryObjects\n',idt)
+      emit('xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"',idt+1)
+      emit("\n",0)
+      emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
+      emit("\n",0)
+      emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/researcher.xsd">',idt+1)
+      emit("\n",0)
+      emit('<researchers>\n',idt)
       for row in datreader:
          row = [ x.replace('&apos;',"'").replace('&quot;','"').replace("&amp;","&").replace("&lt;", "<").replace("&gt;", ">") for x in row ] # decoding encoded html-unsafe symbols to cover the situation when some of them are already encoded ans some are not
          row = [ x.replace("'",'&apos;').replace('"','&quot;').replace("&","&amp;").replace("<", "&lt;").replace(">", "&gt;") for x in row ] # encoding html-unsafe symbols
          for index in range(0,len(rifdef),2):
             fldData=dict(zip(headers,row))   #Header items as keys to values
             makeCalls(rifdef,idt)
-
+      emit('</researchers>\n',idt)
       emit("</registryObjects>\n",idt)
 
 print ("End.")

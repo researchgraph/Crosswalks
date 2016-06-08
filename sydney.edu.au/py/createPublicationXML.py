@@ -99,13 +99,7 @@ def scopus_idf(rifplace,idt):
    emit("</scopus_id>\n",0)
 
 def publicationf(rifplace,idt):
-   emit("<publication ",idt)
-   emit("\n",0)
-   emit("http://researchgraph.org/schema/v2.0/xml/nodes",idt+1)
-   emit("\n",0)
-   emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
-   emit("\n",0)
-   emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/publication.xsd"',idt+1)
+   emit("<publication",idt)
    makeCalls(rifplace,idt)
    emit("</publication>\n",idt)
 
@@ -166,7 +160,13 @@ with open(rifout,"w") as rifoutfd:
 
       rifheader()
       idt+=1
-      emit('<registryObjects>\n',idt)
+      emit('<registryObjects\n',idt)
+      emit('xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"',idt+1)
+      emit("\n",0)
+      emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
+      emit("\n",0)
+      emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/publication.xsd">',idt+1)
+      emit("\n",0)
       emit('<publications>\n',idt)
       for row in datreader:
          for index in range(0,len(rifdef),2):
