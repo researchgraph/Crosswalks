@@ -2,6 +2,9 @@ import sys,csv,os
 import pdb
 import codecs
 
+reload(sys)
+sys.setdefaultencoding('utf8')
+
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Input Output files
 rawDatIn="sampleResearcher.csv"
