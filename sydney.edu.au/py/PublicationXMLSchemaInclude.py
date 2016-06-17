@@ -1,7 +1,7 @@
 rifdef=\
    [ "publication",
      [ "key",
-        [ "keytxt","sydney.edu.au/researcher/",
+        [ "keytxt","sydney.edu.au/publication/",
           "data",'fldData["PublicationCode"]'
         ],
         "local_ID",
