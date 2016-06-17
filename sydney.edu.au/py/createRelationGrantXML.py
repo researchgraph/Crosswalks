@@ -59,14 +59,9 @@ def labelf(rifplace,idt):
    makeCalls(rifplace,idt)
    emit("</label>\n",0)
 
+
 def relationf(rifplace,idt):
-   emit("<relation ",idt)
-   emit("\n",0)
-   emit("http://researchgraph.org/schema/v1.1/xml/nodes",idt+1)
-   emit("\n",0)
-   emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
-   emit("\n",0)
-   emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/relation.xsd"',idt+1)
+   emit("<relation",idt)
    makeCalls(rifplace,idt)
    emit("</relation>\n",idt)
 
@@ -127,7 +122,15 @@ with open(rifout,"w") as rifoutfd:
 
       rifheader()
       idt+=1
-      emit('<registryObjects>\n',idt)
+      emit('<registryObjects\n',idt)
+      emit('xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"',idt+1)
+      emit("\n",0)
+      emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
+      emit("\n",0)
+      emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/relation.xsd">',idt+1)
+      emit("\n",0)
+
+
       emit('<relations>\n',idt)
       for row in datreader:
          row = [ x.replace('&apos;',"'").replace('&quot;','"').replace("&amp;","&").replace("&lt;", "<").replace("&gt;", ">") for x in row ] # decoding encoded html-unsafe symbols to cover the situation when some of them are already encoded ans some are not

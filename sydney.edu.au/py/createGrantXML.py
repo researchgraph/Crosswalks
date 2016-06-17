@@ -1,5 +1,9 @@
 import sys,csv,os
 import pdb
+import codecs
+
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 # Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Input Output filess
@@ -76,12 +80,6 @@ def participant_listf(rifplace,idt):
 
 def publicationf(rifplace,idt):
    emit("<grant ",idt)
-   emit("\n",0)
-   emit("http://researchgraph.org/schema/v2.0/xml/nodes",idt+1)
-   emit("\n",0)
-   emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
-   emit("\n",0)
-   emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/grant.xsd"',idt+1)
    makeCalls(rifplace,idt)
    emit("</grant>\n",idt)
 
@@ -135,19 +133,25 @@ if not os.path.isfile(rawDatIn):
    sys.exit()
 
 # Read csv publication input data and write output in appropriate XML format
-with open(rifout,"w") as rifoutfd:
+with codecs.open(rifout,"w",encoding='utf-8',errors='replace') as rifoutfd:
    with open(rawDatIn,"rU") as fieldDatafd:
       datreader=csv.reader(fieldDatafd,delimiter=',')
       headers=datreader.next()
 
       rifheader()
       idt+=1
-      emit('<registryObjects>\n',idt)
+      emit('<registryObjects\n',idt)
+      emit('xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"',idt+1)
+      emit("\n",0)
+      emit('xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"',idt+1)
+      emit("\n",0)
+      emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/grant.xsd">',idt+1)
+
       emit('<grants>\n',idt)
       for row in datreader:
          for index in range(0,len(rifdef),2):
-            row = [ x.replace('&apos;',"'").replace('&quot;','"').replace("&amp;","&").replace("&lt;", "<").replace("&gt;", ">") for x in row ] # decoding encoded html-unsafe symbols to cover the situation when some of them are already encoded ans some are not
-            row = [ x.replace("'",'&apos;').replace('"','&quot;').replace("&","&amp;").replace("<", "&lt;").replace(">", "&gt;") for x in row ] # encoding html-unsafe symbols
+            row = [ x.replace('&apos;',"'").replace('&quot;','"').replace("&amp;","&").replace("&lt;", "<").replace("&gt;", ">").decode('utf-8','ignore').encode("utf-8") for x in row ] # decoding encoded html-unsafe symbols to cover the situation when some of them are already encoded ans some are not
+            row = [ x.replace("'",'&apos;').replace('"','&quot;').replace("&","&amp;").replace("<", "&lt;").replace(">", "&gt;").decode('utf-8','ignore').encode("utf-8") for x in row ] # encoding html-unsafe symbols
             fldData=dict(zip(headers,row))   #Header items as keys to values
             makeCalls(rifdef,idt)
       emit('</grants>\n',idt)
