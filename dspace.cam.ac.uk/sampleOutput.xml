@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://researchgraph.org/schema/v2.0/xml/nodes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/dataset.xsd">
+	<datasets>
+		<dataset>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/217842</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/217842</local_id>
+			<title>Chromosomal instability determines taxane sensitivity - supplementary materials</title>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/217842</url>
+			<publication_year>2009</publication_year>
+		</dataset>
+	</datasets>
+	<publications>
+		<publication>
+			<key>http://stroke.ahajournals.org/cgi/content/full/32/11/2534</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id/>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://stroke.ahajournals.org/cgi/content/full/32/11/2534</url>
+			<title>Dynamics of Motor Network Overactivation After Striatocapsular Stroke. A Longitudinal PET Study Using a Fixed-Performance Paradigm</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Calautti, Cinzia; Guincestre, Jean-Yves; Leroy, François; Baron, Jean-Claude; </authors_list>
+		</publication>
+		<publication>
+			<key>http://stroke.ahajournals.org/cgi/reprint/37/7/1741</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id/>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://stroke.ahajournals.org/cgi/reprint/37/7/1741</url>
+			<title>Local relationships between restricted water diffusion and oxygen consumption in the ischaemic human brain</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Guadagno, Joseph V.; Simon Jones, P.; Fryer, Tim D.; Barret, Olivier; Aigbirhio, Franklin I.; Carpenter, T. Adrian; Price, Christopher J.; Gillard, Jonathan H.; Warburton, Elizabeth A.; Baron, Jean-Claude; </authors_list>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237255</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237255</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237255</url>
+			<title>Sequence optimization to reduce velocity offsets in cardiovascular magnetic resonance volume flow quantification - A multi-vendor study</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Rolf, Marijn P.; Hofman, Mark B. M.; Gatehouse, Peter D.; Markenroth Bloch, Karin; Heymans, Martijn W.; Ebbers, Tino; Graves, Martin J.; Totman, John J.; Werner, Beat; Rossum, Albert C. van; Kilner, Philip J.; Heethaar, Rob M.; </authors_list>
+			<doi>10.1186/1532-429X-13-18</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237257</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237257</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237257</url>
+			<title>Comparing genotyping algorithms for Illumina's Infinium whole-genome SNP BeadChips</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Ritchie, Matthew E.; Liu, Ruijie; Carvalho, Benilton S.; Australia and New Zealand Multiple Sclerosis Genetics Consortium, The; Irizarry, Rafael A; </authors_list>
+			<doi>10.1186/1471-2105-12-68</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237259</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237259</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237259</url>
+			<title>The Mesenchymal Stem Cells in Multiple Sclerosis (MSCIMS) Trial protocol and baseline cohort characteristics: an open-label pre-test : post-test study with blinded outcome assessments</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Connick, Peter; Kolappan, Madhan; Patani, Rickie; Scott, Michael A.; Crawley, Charles; He, Xiao-ling; Richardson, Karen; Barber, Kelly; Webber, Daniel J.; Wheeler-Kingshott, Claudia A. M.; Tozer, Daniel J.; Samson, Rebecca S.; Thomas, David L.; Du, Ming-Qing; Luan, Shi L.; Michell, Andrew W.; Altmann, Daniel R.; Thompson, Alan J.; Miller, David H.; Compston, Alastair; Chandran, Siddharthan; </authors_list>
+			<doi>10.1186/1745-6215-12-62</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237558</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237558</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237558</url>
+			<title>PREDICT: a new UK prognostic model that predicts survival following surgery for invasive breast cancer</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Wishart, Gordon C.; Azzato, Elizabeth M.; Greenberg, David C.; Rashbass, Jem; Kearins, Olive; Lawrence, Gill; Caldas, Carlos; Pharoah, Paul D. P.; </authors_list>
+			<doi>10.1186/bcr2464</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237559</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237559</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237559</url>
+			<title>The F-box protein Cdc4/Fbxw7 is a novel regulator of neural crest development in Xenopus laevis</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Almeida, Alexandra D.; Wise, Helen; Hindley, Christopher J.; Slevin, Michael K.; Hartley, Rebecca S.; Philpott, Anna; </authors_list>
+			<doi>10.1186/1749-8104-5-1</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237564</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237564</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237564</url>
+			<title>Development and validation of risk score for predicting positive repeat prostate biopsy in patients with a previous negative biopsy in a UK population</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Rochester, Mark A; Pashayan, Nora; Matthews, Fiona E; Doble, Andrew; McLoughlin, John; </authors_list>
+			<doi>10.1186/1471-2490-9-7</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237565</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237565</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237565</url>
+			<title>Neither in vivo MRI nor behavioural assessment indicate a therapeutic efficacy for a novel 5HT1A agonist in rat models of ischaemic stroke</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Ashioti, Maria; Beech, John S.; Lowe, Andrew S.; Bernanos, Michel; McCreary, Andrew; Modo, Michel M.; Williams, Steve C. R.; </authors_list>
+			<doi>10.1186/1471-2202-10-82</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237566</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237566</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237566</url>
+			<title>Transcriptional programs: Modelling higher order structure in transcriptional control</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Reid, John E; Ott, Sascha; Wernisch, Lorenz; </authors_list>
+			<doi>10.1186/1471-2105-10-218</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237567</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237567</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237567</url>
+			<title>Failure of hospital employees to comply with smoke-free policy is associated with nicotine dependence and motives for smoking: a descriptive cross-sectional study at a teaching hospital in the United Kingdom</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Parks, Tom; Wilson, Clare V. R.; Turner, Kenrick; Chin, Joel W. E.; </authors_list>
+			<doi>10.1186/1471-2458-9-238</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237571</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237571</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237571</url>
+			<title>The feasibility of a single-blinded fast-track pragmatic randomised controlled trial of a complex intervention for breathlessness in advanced disease.</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Farquhar, Morag C.; Higginson, Irene J.; Fagan, Petrea; Booth, Sara; </authors_list>
+			<doi>10.1186/1472-684X-8-9</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237573</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237573</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237573</url>
+			<title>Transomental defects as a cause of chronic abdominal pain, the role of diagnostic laparoscopy: a case series</title>
+			<publication_year>2011</publication_year>
+			<authors_list/>
+			<doi>10.4076/1757-1626-2-8356</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237576</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237576</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237576</url>
+			<title>Population studies of sporadic cerebral amyloid angiopathy and dementia: a systematic review</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Keage, Hannah A. D.; Carare, Roxana O.; Friedland, Robert P.; Ince, Paul G.; Love, Seth; Nicoll, James A.; Wharton, Stephen B.; Weller, Roy O.; Brayne, Carol; </authors_list>
+			<doi>10.1186/1471-2377-9-3</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237580</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237580</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237580</url>
+			<title>Emergency endovascular repair of ruptured visceral artery aneurysms</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Sadat, Umar; Noor, Nadim; Tang, Tjun Y; Varty, Kevin; </authors_list>
+			<doi>10.1186/1749-7922-2-17</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237582</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237582</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237582</url>
+			<title>Association between neuroserpin and molecular markers of brain damage in patients with acute ischemic stroke.</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Rodriguez-Gonzalez, Raquel; Sobrino, Tomas; Rodriguez-Yanez, Manuel; Millan, Monica; Brea, David; Miranda, Elena; Moldes, Octavio; Perez, Juan; Lomas, David A; Leira, Rogelio; Davalos, Antoni; Castillo, Jose; </authors_list>
+			<doi>10.1186/1479-5876-9-58</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237586</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237586</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237586</url>
+			<title>Evidence of association with type 1 diabetes in the SLC11A1 gene region</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Yang, Jennie H. M.; Downes, Kate; Howson, Joanna M. M.; Nutland, Sarah; Stevens, Helen; Walker, Neil M.; Todd, John A.; </authors_list>
+			<doi>10.1186/1471-2350-12-59</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237587</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237587</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237587</url>
+			<title>Which nets are being used: factors associated with mosquito net use in Amhara, Oromia and Southern Nations, Nationalities and Peoples' Regions of Ethiopia</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Ngondi, Jeremiah; Graves, Patricia M.; Gebre, Teshome; Mosher, Aryc W.; Shargie, Estifanos B.; Emerson, Paul M.; Richards, Frank O. Jr; Ethiopia Malaria Indicator Survey Working Group; </authors_list>
+			<doi>10.1186/1475-2875-10-92</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237588</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237588</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237588</url>
+			<title>Empirical Bayesian models for analysing molecular serotyping microarrays</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Newton, Richard; Hinds, Jason; Wernisch, Lorenz; </authors_list>
+			<doi>10.1186/1471-2105-12-88</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237590</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237590</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237590</url>
+			<title>Nutritional status and HIV in rural South African children</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Kimani-Murage, Elizabeth W.; Norris, Shane A.; Pettifor, John M.; Tollman, Stephen M.; Klipstein-Grobusch, Kerstin; Gomez-Olive, Xavier F.; Dunger, David B.; Kahn, Kathleen; </authors_list>
+			<doi>10.1186/1471-2431-11-23</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237591</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237591</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237591</url>
+			<title>A novel performance monitoring framework for health research systems: experiences of the National Institute for Health Research in England</title>
+			<publication_year>2011</publication_year>
+			<authors_list>El Turabi, Anas; Hallsworth, Michael; Ling, Tom; Grant, Jonathan; </authors_list>
+			<doi>10.1186/1478-4505-9-13</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237592</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237592</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237592</url>
+			<title>Systematic review of reviews of intervention components associated with increased effectiveness in dietary and physical activity interventions.</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Greaves, Colin J.; Sheppard, Kate E.; Abraham, Charles; Hardeman, Wendy; Roden, Michael; Evans, Philip H.; Schwarz, Peter; IMAGE Study Group; </authors_list>
+			<doi>10.1186/1471-2458-11-119</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237593</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237593</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237593</url>
+			<title>The identification and management of ADHD offenders within the criminal justice system: a consensus statement from the UK Adult ADHD Network and criminal justice agencies</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Young, Susan J.; Adamou, Marios; Bolea, Blanca; Gudjonsson, Gisli; Muller, Ulrich; Pitts, Mark; Thome, Johannes; Asherson, Philip; </authors_list>
+			<doi>10.1186/1471-244X-11-32</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237596</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237596</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237596</url>
+			<title>Trial Protocol: Communicating DNA-based risk assessments for Crohn's disease: a randomised controlled trial assessing impact upon stopping smoking</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Whitwell, Sophia C L; Mathew, Christopher G; Lewis, Cathryn M; Forbes, Alastair; Watts, Sally; Sanderson, Jeremy; Hollands, Gareth J; Prevost, A Toby; Armstrong, David; Kinmonth, Ann Louise; Sutton, Stephen; Marteau, Theresa M; </authors_list>
+			<doi>10.1186/1471-2458-11-44</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237597</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237597</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237597</url>
+			<title>Impairment-targeted exercises for older adults with knee pain: protocol for a proof-of-principle study</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Wood, Laurence R. J.; Peat, George M.; Mullis, Ricky; Thomas, Elaine; Foster, Nadine E.; </authors_list>
+			<doi>10.1186/1471-2474-12-2</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237601</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237601</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237601</url>
+			<title>Patient understanding of moles and skin cancer, and factors influencing presentation in primary care: a qualitative study</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Walter, Fiona M.; Humphrys, Elka; Tso, Simon; Johnson, Margaret; Cohn, Simon; </authors_list>
+			<doi>10.1186/1471-2296-11-62</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237602</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237602</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237602</url>
+			<title>Patient experience of access to primary care: identification of predictors in a national patient survey</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Kontopantelis, Evangelos; Roland, Martin; Reeves, David; </authors_list>
+			<doi>10.1186/1471-2296-11-61</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237603</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237603</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237603</url>
+			<title>IMPaCT Back study protocol. Implementation of subgrouping for targeted treatment systems for low back pain patients in primary care: a prospective population-based sequential comparison</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Foster, Nadine E.; Mullis, Ricky; Young, Julie; Doyle, Carol; Lewis, Martyn; Whitehurst, David G.; Hay, Elaine M.; IMPaCT Back Study Team; </authors_list>
+			<doi>10.1186/1471-2474-11-186</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237609</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237609</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237609</url>
+			<title>Hyperinsulinemia improves ischemic LV function in insulin resistant subjects</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Heck, Patrick M.; Hoole, Stephen P.; Khan, Sadia N.; Dutka, David P.; </authors_list>
+			<doi>10.1186/1475-2840-9-27</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237610</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237610</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237610</url>
+			<title>Validation of the historical adulthood physical activity questionnaire (HAPAQ) against objective measurements of physical activity</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Besson, Herve; Harwood, Ceryl A.; Ekelund, Ulf; Finucane, Francis M.; McDermott, Christopher J.; Shaw, Pamela J.; Wareham, Nicholas J.; </authors_list>
+			<doi>10.1186/1479-5868-7-54</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237613</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237613</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237613</url>
+			<title>BEX2 has a functional interplay with c-Jun/JNK and p65/RelA in breast cancer</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Naderi, Ali; Liu, Ji; Hughes-Davies, Luke; </authors_list>
+			<doi>10.1186/1476-4598-9-111</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237618</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237618</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237618</url>
+			<title>Tri-partite complex for axonal transport drug delivery achieves pharmacological effect</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Filler, Aaron G.; Whiteside, Garth T.; Bacon, Mark; Frederickson, Martyn; Howe, Franklyn A.; Rabinowitz, Miri D.; Sokoloff, Alan J.; Deacon, Terrence W.; Abell, Chris; Munglani, Raj; Griffiths, John R.; Bell, B. Anthony; Lever, Andrew M. L.; </authors_list>
+			<doi>10.1186/1471-2202-11-8</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237622</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237622</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237622</url>
+			<title>Extent of differential allelic expression of candidate breast cancer genes is similar in blood and breast</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Maia, Ana-Teresa; Spiteri, Inmaculada; Lee, Alvin J X; O'Reilly, Martin; Jones, Linda; Caldas, Carlos; Ponder, Bruce A J; </authors_list>
+			<doi>10.1186/bcr2458</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237623</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237623</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237623</url>
+			<title>The burden of stroke and transient ischemic attacks in Pakistan: a community-based prevalence study.</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Kamal, Ayeesha Kamran; Itrat, Ahmed; Murtaza, Muhammed; Khan, Maria; Rasheed, Asif; Ali, Amin; Akber, Amna; Akber, Zainab; Iqbal, Navaid; Shoukat, Sana; Majeed, Farzin; Saleheen, Danish; </authors_list>
+			<doi>10.1186/1471-2377-9-58</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237625</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237625</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237625</url>
+			<title>Sex chromosomes and genetic association studies</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Clayton, David G.; </authors_list>
+			<doi>10.1186/gm110</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237629</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237629</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237629</url>
+			<title>The GP Patient Survey for use in primary care in the National Health Service in the UK - development and psychometric characteristics</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Campbell, John; Smith, Patten; Nissen, Sonja; Bower, Peter; Elliott, Marc; Roland, Martin; </authors_list>
+			<doi>10.1186/1471-2296-10-57</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237635</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237635</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237635</url>
+			<title>Learning a novel technique to identify possible melanomas: are Australian general practitioners better than their U.K. colleagues?</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Watson, Tony; Walter, Fiona M.; Wood, Annabel; Morris, Helen C.; Hall, Per; Karner, Simone; Emery, Jon D.; </authors_list>
+			<doi>10.1186/1447-056X-8-3</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237636</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237636</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237636</url>
+			<title>An implementation research agenda</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Eccles, Martin P.; Armstrong, David; Baker, Richard; Cleary, Kevin; Davies, Huw; Davies, Stephen; Glasziou, Paul; Ilott, Irene; Kinmonth, Ann Louise; Leng, Gillian; Logan, Stuart; Marteau, Theresa M.; Michie, Susan; Rogers, Hugh; Rycroft-Malone, Jo; Sibbald, Bonnie; </authors_list>
+			<doi>10.1186/1748-5908-4-18</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237640</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237640</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237640</url>
+			<title>Genetic variation in stromal proteins decorin and lumican with breast cancer: investigations in two case-control studies</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Kelemen, Linda E.; Couch, Fergus J.; Ahmed, Shahana; Dunning, Alison M.; Pharoah, Paul D. P.; Easton, Douglas F.; Fredericksen, Zachary S.; Vierkant, Robert A.; Pankratz, Vernon Shane; Goode, Ellen L.; Scott, Christopher G.; Rider, David N.; Wang, Xianshu; Cerhan, James R.; Vachon, Celine M.; </authors_list>
+			<doi>10.1186/bcr2201</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237641</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237641</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237641</url>
+			<title>A comprehensive analysis of prognostic signatures reveals the high predictive capacity of the Proliferation, Immune response and RNA splicing modules in breast cancer</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Reyal, Fabien; van Vliet, Martin H.; Armstrong, Nicola J.; Horlings, Hugo M.; de Visser, Karin E.; Kok, Marlen; Teschendorff, Andrew E.; Mook, Stella; Van't Veer, Laura J.; Caldas, Carlos; Salmon, Remy J.; Van de Vijver, Marc J.; Wessels, Lodewyk F. A.; </authors_list>
+			<doi>10.1186/bcr2192</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237646</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237646</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237646</url>
+			<title>Regulation of expression of two Ly-6 family genes by intron retention and transcription induced chimerism.</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Calvanese, Vincenzo; Mallya, Meera; Campbell, R. Duncan; Aguado, Begona; </authors_list>
+			<doi>10.1186/1471-2199-9-81</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237648</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237648</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237648</url>
+			<title>An unusual complication following radiological percutaneous gastrostomy</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Veenith, Tonny; Bhagwat, Manasi; Bailey, Andrew; </authors_list>
+			<doi>10.1186/1755-7682-1-15</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237650</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237650</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237650</url>
+			<title>Pulmonary fibrosis secondary to siderosis causing symptomatic respiratory disease: a case report</title>
+			<publication_year>2011</publication_year>
+			<authors_list>McCormick, Liam M; Goddard, Martin; Mahadeva, Ravi; </authors_list>
+			<doi>10.1186/1752-1947-2-257</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237654</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237654</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237654</url>
+			<title>PMC42, a breast progenitor cancer cell line, has normal-like mRNA and miRNA transcriptomes</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Git, Anna; Spiteri, Inmaculada; Blenkiron, Cherie; Dunning, Mark J.; Pole, Jessica C. M.; Chin, Suet-Feung; Wang, Yanzhong; Smith, James C.; Livesey, Frederick J.; Caldas, Carlos; </authors_list>
+			<doi>10.1186/bcr2109</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237656</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237656</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237656</url>
+			<title>Meta-analysis confirms BCL2 is an independent prognostic marker in breast Cancer</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Callagy, Grace M.; Webber, Mark J.; Pharoah, Paul D. P.; Caldas, Carlos; </authors_list>
+			<doi>10.1186/1471-2407-8-153</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237660</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237660</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237660</url>
+			<title>The E3 ubiquitin ligase skp2 regulates neural differentiation independent from the cell cycle</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Boix-Perales, Hector; Horan, Ian; Wise, Helen; Lin, Horng-Ru; Chuang, Li-Chiou; Yew, P. Renee; Philpott, Anna; </authors_list>
+			<doi>10.1186/1749-8104-2-27</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237661</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237661</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237661</url>
+			<title>Dimerisation of HIV-2 genomic RNA is linked to efficient RNA packaging, normal particle maturation and viral infectivity</title>
+			<publication_year>2011</publication_year>
+			<authors_list>L'Hernault, Anne; Greatorex, Jane S.; Crowther, Anthony; Lever, Andrew M. L.; </authors_list>
+			<doi>10.1186/1742-4690-4-90</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237662</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237662</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237662</url>
+			<title>Breaking the waves: improved detection of copy number variation from microarray-based comparative genomic hybridization</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Marioni, John C.; Thorne, Natalie P.; Valsesia, Armand; Fitzgerald, Tomas; Redon, Richard; Fiegler, Heike; Andrews, T. Daniel; Stranger, Barbara E.; Lynch, Andrew G.; Dermitzakis, Emmanouil T.; Carter, Nigel P.; Tavare, Simon; Hurles, Matthew E.; </authors_list>
+			<doi>10.1186/gb-2007-8-10-r228</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237667</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237667</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237667</url>
+			<title>A randomised controlled trial of early insulin therapy in very low birth weight infants, "NIRTURE" (neonatal insulin replacement therapy in Europe)</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Beardsall, Kathryn; Vanhaesebrouck, Sophie; Ogilvy-Stuart, Amanda L.; Ahluwalia, Jagit; Vanhole, Christine; Palmer, Chris; Midgley, Paula; Thompson, Michael; Cornette, Luc; VanWeissenbruch, Mirjam; Thio, Marta; de Zegher, Francis; Dunger, David B.; </authors_list>
+			<doi>10.1186/1471-2431-7-29</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237669</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237669</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237669</url>
+			<title>Cohort differences in disease and disability in the young-old: findings from the MRC Cognitive Function and Ageing Study (MRC-CFAS)</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Jagger, Carol; Matthews, Ruth J; Matthews, Fiona E; Spiers, Nicola A; Nickson, Judith; Paykel, Eugene S; Huppert, Felicia A; Brayne, Carol; MRC-CFAS; </authors_list>
+			<doi>10.1186/1471-2458-7-156</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237670</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237670</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237670</url>
+			<title>A Cre-lox approach for transient transgene expression in neural precursor cells and long-term tracking of their progeny in vitro and in vivo.</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Geoffroy, Cedric G.; Raineteau, Olivier; </authors_list>
+			<doi>10.1186/1471-213X-7-45</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237671</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237671</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237671</url>
+			<title>Improvement and decline of cognitive function in schizophrenia over one year: a longitudinal investigation using latent growth modelling.</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Barnett, Jennifer H.; Croudace, Tim J.; Jaycock, Sue; Blackwell, Candice; Hynes, Fiona; Sahakian, Barbara J.; Joyce, Eileen M.; Jones, Peter B.; </authors_list>
+			<doi>10.1186/1471-244X-7-16</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237673</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237673</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237673</url>
+			<title>Bioinformatics strategies for lipidomics analysis: characterization of obesity related hepatic steatosis</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Yetukuri, Laxman; Katajamaa, Mikko; Medina-Gomez, Gema; Seppanen-Laakso, Tuulikki; Vidal-Puig, Antonio; Oresic, Matej; </authors_list>
+			<doi>10.1186/1752-0509-1-12</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237677</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237677</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237677</url>
+			<title>Cost-effectiveness of primary offer of IVF vs. primary offer of IUI followed by IVF (for IUI failures) in couples with unexplained or mild male factor subfertility</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Pashayan, Nora; Lyratzopoulos, Georgios; Mathur, Raj; </authors_list>
+			<doi>10.1186/1472-6963-6-80</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237679</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237679</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237679</url>
+			<title>Differential expression of selected histone modifier genes in human solid cancers</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Ozdag, Hilal; Teschendorff, Andrew E.; Ahmed, Ahmed A.; Hyland, Sarah J.; Blenkiron, Cherie; Bobrow, Linda; Veerakumarasivam, Abhi; Burtt, Glynn; Subkhankulova, Tatiana; Arends, Mark J.; Collins, V. Peter; Bowtell, David D.; Kouzarides, Tony; Brenton, James D.; Caldas, Carlos; </authors_list>
+			<doi>10.1186/1471-2164-7-90</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237681</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237681</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237681</url>
+			<title>BRCA1and BRCA2mutation predictions using the BOADICEA and BRCAPRO models and penetrance estimation in high-risk French-Canadian families</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Antoniou, Antonis C.; Francine, Durocher; Smith, Paula; Simard, Jacques; Easton, Douglas F.; </authors_list>
+			<doi>10.1186/bcr1365</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237683</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237683</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237683</url>
+			<title>The contribution of leading diseases and risk factors to excess losses of healthy life in eastern Europe: burden of disease study</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Powles, John W; Zatonski, Witold; Vander Hoorn, Stephen; Ezzati, Majid; </authors_list>
+			<doi>10.1186/1471-2458-5-116</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237684</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237684</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237684</url>
+			<title>The DiGEMtrial protocol - a randomised controlled trial to determine the effect on glycaemic control of different strategies of blood glucose self-monitoring in people with type 2 diabetes [ISRCTN47464659]</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Farmer, Andrew J.; Wade, Alisha; French, David P.; Goyder, Elizabeth; Kinmonth, Ann Louise; Neil, Andrew; </authors_list>
+			<doi>10.1186/1471-2296-6-25</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237687</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237687</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237687</url>
+			<title>Construction and analysis of tag single nucleotide polymorphism maps for six human-mouse orthologous candidate genes in type 1 diabetes</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Maier, Lisa M.; Smyth, Deborah J.; Vella, Adrian; Payne, Felicity; Cooper, Jason D.; Pask, Rebecca; Lowe, Christopher E.; Hulme, John S.; Smink, Luc J.; Fraser, Heather; Moule, Carolyn; Hunter, Kara M.; Chamberlain, Giselle; Walker, Neil M.; Nutland, Sarah; Undlien, Dag E.; Ronningen, Kjersti S.; Guja, Cristian; Ionescu-Tirgoviste, Constantin; Savage, David A.; Strachan, David P.; Peterson, Laurence B.; Todd, John A.; Wicker, Linda S.; Twells, Rebecca C. J.; </authors_list>
+			<doi>10.1186/1471-2156-6-9</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237692</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237692</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237692</url>
+			<title>Investigating the utility of combining Phi29 whole genome amplification and highly multiplexed single nucleotide polymorphism BeadArrayTM genotyping</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Pask, Rebecca; Rance, Helen E.; Barratt, Bryan J.; Nutland, Sarah; Smyth, Deborah J.; Sebastian, Meera; Twells, Rebecca C. J.; Smith, Anne; Lam, Alex C.; Smink, Luc J.; Walker, Neil M.; Todd, John A.; </authors_list>
+			<doi>10.1186/1472-6750-4-15</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237694</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237694</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237694</url>
+			<title>Cloning and functional characterisation of avian transcription factor E2A</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Conlon, Thomas M.; Meyer, Kerstin B.; </authors_list>
+			<doi>10.1186/1471-2172-5-11</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237710</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237710</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237710</url>
+			<title>Immunosenescence and Cytomegalovirus: where do we stand after a decade?</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Pawelec, Graham; Akbar, Arne; Beverley, Peter; Caruso, Calogero; Derhovanessian, Evelyna; Fulop, Tamas; Griffiths, Paul; Grubeck-Loebenstein, Beatrix; Hamprecht, Klaus; Jahn, Gerhard; Kern, Florian; Koch, Sven; Larbi, Anis; Maier, Andrea; Macallan, Derek; Moss, Paul; Samson, Sandrine; Strindhall, Jan; Trannoy, Emanuelle; Wills, Mark; </authors_list>
+			<doi>10.1186/1742-4933-7-13</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237716</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237716</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237716</url>
+			<title>Characterisation of microRNA expression in post-natal mouse mammary gland development</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Avril-Sassen, Stefanie; Goldstein, Leonard D.; Stingl, John; Blenkiron, Cherie; Le Quesne, John; Spiteri, Inmaculada; Karagavriilidou, Konstantina; Watson, Christine J.; Tavare, Simon; Miska, Eric A.; Caldas, Carlos; </authors_list>
+			<doi>10.1186/1471-2164-10-548</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237717</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237717</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237717</url>
+			<title>Intensity and timing of physical activity in relation to postmenopausal breast cancer risk: the prospective NIH-AARP Diet and Health Study</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Peters, Tricia M.; Moore, Steven C.; Gierach, Gretchen L.; Wareham, Nicholas J.; Ekelund, Ulf; Hollenbeck, Albert R.; Schatzkin, Arthur; Leitzmann, Michael F.; </authors_list>
+			<doi>10.1186/1471-2407-9-349</doi>
+		</publication>
+		<publication>
+			<key>http://dx.doi.org/10.1186/1471-2261-9-6</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id/>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://dx.doi.org/10.1186/1471-2261-9-6</url>
+			<title>Protocol for a randomised controlled trial of telemonitoring and self- management in the control of hypertension: Telemonitoring and self-management in hypertension.</title>
+			<publication_year>2011</publication_year>
+			<authors_list>McManus, Richard; Bray, Emma P.; Mant, Jonathan; Holder, Roger; Greenfield, Sheila; Bryan, Stirling; Jones, Miren I.; Little, Paul; Williams, Bryan; Hobbs, F. D. Richard; </authors_list>
+			<doi>10.1186/1471-2261-9-6</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237725</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237725</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237725</url>
+			<title>Evading the annotation bottleneck: using sequence similarity to search non-sequence gene data.</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Gilchrist, Michael J.; Christensen, Mikkel B.; Harland, Richard; Pollet, Nicolas; Smith, James C.; Ueno, Naoto; Papalopulu, Nancy; </authors_list>
+			<doi>10.1186/1471-2105-9-442</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237726</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237726</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237726</url>
+			<title>Altered expression of cell cycle and apoptotic proteins in chronic hepatitis C virus infection</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Sarfraz, Saira; Hamid, Saeed; Siddiqui, Anwar; Hussain, Snawar; Pervez, Shahid; Alexander, Graeme; </authors_list>
+			<doi>10.1186/1471-2180-8-133</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237727</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237727</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237727</url>
+			<title>Evaluation of light microscopy and rapid diagnostic test for the detection of malaria under operational field conditions: a household survey in Ethiopia</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Endeshaw, Tekola; Gebre, Teshome; Ngondi, Jeremiah; Graves, Patricia M.; Shargie, Estifanos B.; Ejigsemahu, Yeshewamebrat; Ayele, Berhan; Yohannes, Gedeon; Teferi, Tesfaye; Messele, Ayenew; Zerihun, Mulat; Genet, Asrat; Mosher, Aryc W.; Emerson, Paul M.; Richards, Frank O. Jr; </authors_list>
+			<doi>10.1186/1475-2875-7-118</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237729</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237729</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237729</url>
+			<title>Investigation of the hydrodynamic properties of a new MRI-resistant programmable hydrocephalus shunt</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Allin, David M.; Czosnyka, Marek; Richards, Hugh K.; Pickard, John D.; Czosnyka, Zofia; </authors_list>
+			<doi>10.1186/1743-8454-5-8</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237734</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237734</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237734</url>
+			<title>Analysis of polymorphisms in 16 genes in type 1 diabetes that have been associated with other immune-mediated diseases</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Smyth, Deborah J.; Howson, Joanna M. M.; Payne, Felicity; Maier, Lisa M.; Bailey, Rebecca; Holland, Kieran; Lowe, Christopher E.; Cooper, Jason D.; Hulme, John S.; Vella, Adrian; Dalhman, Ingrid; Lam, Alex C.; Nutland, Sarah; Walker, Neil M.; Twells, Rebecca C. J.; Todd, John A.; </authors_list>
+			<doi>10.1186/1471-2350-7-20</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237737</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237737</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237737</url>
+			<title>Study Protocol: Phase III single-blinded fast-track pragmatic randomised controlled trial of a complex intervention for breathlessness in advanced disease.</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Farquhar, Morag C.; Prevost, A. Toby; McCrone, Paul; Higginson, Irene J.; Gray, Jennifer; Brafman-Kennedy, Barbara; Booth, Sara; </authors_list>
+			<doi>10.1186/1745-6215-12-130</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237741</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237741</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237741</url>
+			<title>Why my disease is important: metrics of disease occurrence used in the introductory sections of papers in three leading general medical journals in 1993 and 2003</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Gouda, Hebe N.; Powles, John W.; </authors_list>
+			<doi>10.1186/1478-7954-9-14</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237744</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237744</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237744</url>
+			<title>What could infant and young child nutrition learn from sweatshops?</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Singer, Peter A; Ansett, Sean; Sagoe-Moses, Isabella; </authors_list>
+			<doi>10.1186/1471-2458-11-276</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237752</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237752</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237752</url>
+			<title>A Kallikrein 15 (KLK15) single nucleotide polymorphism located close to a novel exon shows evidence of association with poor ovarian cancer survival</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Batra, Jyotsna; Nagle, Christina M.; O'Mara, Tracy; Higgins, Melanie; Dong, Ying; Tan, Olivia L.; Lose, Felicity; Skeie, Lene Marie; Srinivasan, Srilakshmi; Bolton, Kelly L.; Song, Honglin; Ramus, Susan J.; Gayther, Simon A.; Pharoah, Paul D. P.; Kedda, Mary-Anne; Spurdle, Amanda B.; Clements, Judith A.; </authors_list>
+			<doi>10.1186/1471-2407-11-119</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237753</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237753</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237753</url>
+			<title>Creating web applications for spatial epidemiological analysis and mapping in R using Rwui</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Newton, Richard; Deonarine, Andrew; Wernisch, Lorenz; </authors_list>
+			<doi>10.1186/1751-0473-6-6</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237754</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237754</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237754</url>
+			<title>The association of education with body mass index and waist circumference in the EPIC-PANACEA study</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Hermann, Silke; Rohrmann, Sabine; Linseisen, Jakob; May, Anne M.; Kunst, Anton; Besson, Herve; Romaguera, Dora; Travier, Noemie; Tormo, Maria-Jose; Molina, Esther; Dorronsoro, Miren; Barricarte, Aurelio; Rodriguez, Laudina; Crowe, Francesca L.; Khaw, Kay-Tee; Wareham, Nicholas J.; van Boeckel, Petra G. A.; Bueno-de-Mesquita, H. Bas; Overvad, Kim; Uhre Jakobsen, Marianne; Tjonneland, Anne; Halkjaer, Jytte; Agnoli, Claudia; Mattiello, Amalia; Tumino, Rosario; Masala, Giovanna; Vineis, Paolo; Naska, Androniki; Orfanos, Philippos; Trichopoulou, Antonia; Kaaks, Rudolf; Bergmann, Manuela M.; Steffen, Annika; Van Guelpen, Bethany; Johansson, Ingegerd; Borgquist, Signe; Manjer, Jonas; Braaten, Tonje; Fagherazzi, Guy; Clavel-Chapelon, Françoise; Mouw, Traci; Norat, Teresa; Riboli, Elio; Rinaldi, Sabina; Slimani, Nadia; Peeters, Petra H. M.; </authors_list>
+			<doi>10.1186/1471-2458-11-169</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237761</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237761</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237761</url>
+			<title>A random effects variance shift model for detecting and accommodating outliers in meta-analysis</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Gumedze, Freedom N.; Jackson, Dan; </authors_list>
+			<doi>10.1186/1471-2288-11-19</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237764</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237764</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237764</url>
+			<title>Strengthening evaluation and implementation by specifying components of behaviour change interventions: a study protocol</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Michie, Susan; Abraham, Charles; Eccles, Martin P.; Francis, Jill J.; Hardeman, Wendy; Johnston, Marie; </authors_list>
+			<doi>10.1186/1748-5908-6-10</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237765</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237765</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237765</url>
+			<title>Quantitative analysis of DNA methylation at all human imprinted regions reveals preservation of epigenetic stability in adult somatic tissue</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Woodfine, Kathryn; Huddleston, Joanna E; Murrell, Adele; </authors_list>
+			<doi>10.1186/1756-8935-4-1</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237770</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237770</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237770</url>
+			<title>MMP1 bimodal expression and differential response to inflammatory mediators is linked to promoter polymorphisms</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Affara, Muna; Dunmore, Benjamin J.; Sanders, Deborah A.; Johnson, Nicola; Print, Cristin G.; Charnock-Jones, D. Stephen; </authors_list>
+			<doi>10.1186/1471-2164-12-43</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237771</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237771</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237771</url>
+			<title>European Society of Intensive Care Medicine study of therapeutic hypothermia (32-35degreesC) for intracranial pressure reduction after traumatic brain injury (the Eurotherm3235Trial)</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Andrews, Peter J. D.; Sinclair, Helen Louise K.; Battison, Claire G.; Polderman, Kees K.; Citerio, Giuseppe K.; Mascia, Luciana K.; Harris, Bridget A.; Murray, Gordon D.; Stocchetti, Nino K.; Menon, David K.; Shakur, Haleema K.; De Backer, Daniel K.; Eurotherm3235 Trial Collaborators; </authors_list>
+			<doi>10.1186/1745-6215-12-8</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237773</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237773</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237773</url>
+			<title>Intraplaque hemorrhage is associated with higher structural stresses in human atherosclerotic plaques: an in vivo MRI-based 3d fluid-structure interaction study</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Huang, Xueying; Teng, Zhong-zhao; Canton, Gador; Ferguson, Marina; Yuan, Chun; Tang, Dalin; </authors_list>
+			<doi>10.1186/1475-925X-9-86</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237779</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237779</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237779</url>
+			<title>Behavioural and psychological symptoms in the older population without dementia - relationship with socio-demographics, health and cognition</title>
+			<publication_year>2011</publication_year>
+			<authors_list>van der Linde, Rianne; Stephan, Blossom C M; Matthews, Fiona E; Brayne, Carol; Savva, George M; Cognitive Function and Ageing Study, Medical Research Council; </authors_list>
+			<doi>10.1186/1471-2318-10-87</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237780</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237780</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237780</url>
+			<title>Effect of colony morphology variation of Burkholderia pseudomallei on intracellular survival and resistance to antimicrobial environments in human macrophages in vitro</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Tandhavanant, Sarunporn; Thanwisai, Aunchalee; Limmathurotsakul, Direk; Korbsrisate, Sunee; Day, Nicholas P. J.; Peacock, Sharon J.; Chantratita, Narisara; </authors_list>
+			<doi>10.1186/1471-2180-10-303</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237783</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237783</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237783</url>
+			<title>Perioperative care of a patient with stroke</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Veenith, Tonny; Din, Asmat H.; Eaton, Danielle M. J.; Burnstein, Rowan M.; </authors_list>
+			<doi>10.1186/1755-7682-3-33</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237785</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237785</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237785</url>
+			<title>Trial Protocol: Using genotype to tailor prescribing of nicotine replacement therapy: a randomised controlled trial assessing impact of communication upon adherence</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Marteau, Theresa M.; Munafo, Marcus R.; Aveyard, Paul; Hill, Chloe; Whitwell, Sophia C. L.; Willis, Thomas A.; Crockett, Rachel A.; Hollands, Gareth J.; Johnstone, Elaine C.; Wright, Alison J.; Prevost, A. Toby; Armstrong, David; Sutton, Stephen; Kinmonth, Ann Louise; </authors_list>
+			<doi>10.1186/1471-2458-10-680</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237786</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237786</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237786</url>
+			<title>Improved prognostic classification of breast cancer defined by antagonistic activation patterns of immune response pathway modules</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Teschendorff, Andrew E; Gomez, Sergio; Arenas, Alex; El-Ashry, Dorraya; Schmidt, Marcus; Gehrmann, Mathias; Caldas, Carlos; </authors_list>
+			<doi>10.1186/1471-2407-10-604</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237792</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237792</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237792</url>
+			<title>The INSIG2 rs7566605 polymorphism is not associated with body mass index and breast cancer risk</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Campa, Daniele; Husing, Anika; McKay, James D.; Sinilnikova, Olga M.; Vogel, Ulla; Tjonneland, Anne; Overvad, Kim; Stegger, Jakob; Clavel-Chapelon, Françoise; Chabbert-Buffet, Nathalie; Fagherazzi, Guy; Trichopoulou, Antonia; Zylis, Dimosthenis; Oustoglou, Erifili; Rohrmann, Sabine; Teucher, Birgit; Fisher, Eva; Boeing, Heiner; Masala, Giovanna; Krogh, Vittorio; Sacerdote, Carlotta; Panico, Salvatore; Tumino, Rosario; Onland-Moret, N. Charlotte; van Gils, Carla H.; Bueno-de-Mesquita, H. Bas; Lund, Eiliv; Chirlaque, Maria-Dolores; Sala, Nuria; Quiros, Jose R.; Ardanaz, Eva; Amiano, Pilar; Molina-Montes, Esther; Hallmans, Goran; Lenner, Per; Travis, Ruth C.; Key, Timothy J.; Wareham, Nicholas J.; Khaw, Kay-Tee; Rinaldi, Sabina; Slimani, Nadia; Chajes, Veronique; Siddiq, Afshan; Riboli, Elio; Kaaks, Rudolf; Canzian, Federico; </authors_list>
+			<doi>10.1186/1471-2407-10-563</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237794</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237794</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237794</url>
+			<title>The cost of reducing starting RNA quantity for Illumina BeadArrays: A bead-level dilution experiment.</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Lynch, Andrew G.; Hadfield, James; Dunning, Mark J.; Osborne, Michelle; Thorne, Natalie P.; Tavare, Simon; </authors_list>
+			<doi>10.1186/1471-2164-11-540</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237797</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237797</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237797</url>
+			<title>Genome-wide conserved consensus transcription factor binding motifs are hyper-methylated</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Choy, Mun-Kit; Movassagh, Mehregan; Goh, Hock-Guan; Bennett, Martin; Down, Thomas A.; Foo, Roger S.-Y.; </authors_list>
+			<doi>10.1186/1471-2164-11-519</doi>
+		</publication>
+		<publication>
+			<key>http://www.dspace.cam.ac.uk/handle/1810/237798</key>
+			<source>dspace.cam.ac.uk</source>
+			<local_id>1810/237798</local_id>
+			<last_updated>2016-05-20T01:20:57Z</last_updated>
+			<url>http://www.dspace.cam.ac.uk/handle/1810/237798</url>
+			<title>Accuracy of SIAscopy for pigmented skin lesions encountered in primary care: development and validation of a new diagnostic algorithm.</title>
+			<publication_year>2011</publication_year>
+			<authors_list>Emery, Jon D.; Hunter, Judith; Watson, Antony J.; Hall, Per; Moncrieff, Marc; Walter, Fiona M.; </authors_list>
+			<doi>10.1186/1471-5945-10-9</doi>
+		</publication>
+	</publications>
+</registryObjects>
