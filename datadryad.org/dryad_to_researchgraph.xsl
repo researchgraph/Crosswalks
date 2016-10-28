@@ -85,16 +85,16 @@
 	<!-- =========================================== -->
 	<!-- Publication Template                        -->
 	<!-- =========================================== -->
-	<!-- <xsl:template match="oai:OAI-PMH/*/oai:record" mode="publication">
+	<xsl:template match="oai:OAI-PMH/*/oai:record" mode="publication">
 		<xsl:param name="date-stamp"/>
 		<xsl:variable name="record-type">
-			<xsl:value-of select=".//mods:genre"/>
+			<xsl:value-of select=".//oai:xmlDate/mods:genre"/>
 		</xsl:variable>
 		<xsl:if test="contains(translate($record-type,$uppercase,$smallcase),
 			'article')">
-			<xsl:applly-templates select="mods:metadata/mets" mode="publication">
+			<xsl:apply-templates select="oai:metadata/oai:mets" mode="publication">
 				<xsl:with-param name="date-stamp" select="$date-stamp"/>
-			</xsl:applly-templates>
+			</xsl:apply-templates>
 		</xsl:if>
 	</xsl:template>
 	<xsl:template match="mets" mode="publication">
@@ -109,8 +109,8 @@
 			</source>
 			<local_id>
 				<xsl:choose>
-					<xsl:when test="boolean(contains(mods:identifier, 'hdl.handle.net/10255/')">
-						<xsl:value-of select="substring-after(mods:identifier, '10255/'"/>
+					<xsl:when test="boolean(contains(mods:identifier[@type='uri'], 'hdl.handle.net/10255/'))">
+						<xsl:value-of select="substring-after(mods:identifier[@type='uri'], '10255/')"/>
 					</xsl:when>
 				</xsl:choose>
 			</local_id>
@@ -130,10 +130,10 @@
 				<xsl:for-each select="mods:namePart">
 					<xsl:value-of select="concat(.,'; ')"/>
 				</xsl:for-each>
-			</authors_list> -->
+			</authors_list>
 
 			<!-- If there is DOI -->
-			<!-- <xsl:for-each select="mods:identifier">
+			<xsl:for-each select="mods:identifier">
 				<xsl:if test="boolean(contains(.,'doi.org'))">
 					<doi>
 						<xsl:value-of select="substring-after(., 'doi.org/')"/>
@@ -141,6 +141,6 @@
 				</xsl:if>
 			</xsl:for-each>
 		</publication>
-	</xsl:template> -->
+	</xsl:template>
 </xsl:stylesheet>
 
