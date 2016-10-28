@@ -7,6 +7,7 @@
    xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
    xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+   xmlns:mods="http://www.loc.gov/mods/v3"
    version="1.0" exclude-result-prefixes="xs fn xsl dc oai_dc oai">
 	<!-- =========================================== -->
 	<!-- Configuration                               -->
