@@ -27,11 +27,11 @@
                <xsl:with-param name="date-stamp" select="$date-stamp" />
             </xsl:apply-templates>
          </datasets>
-         <!--<publications>
+         <publications>
             <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication">
                <xsl:with-param name="date-stamp" select="$date-stamp" />
             </xsl:apply-templates>
-         </publications>-->
+         </publications>
       </registryObjects>
    </xsl:template>
 	<!-- =========================================== -->
@@ -54,61 +54,61 @@
 		<xsl:variable name="forCode" select="substring-after(., ':')"/>
 		<dataset>
 			<key>
-				<xsl:value-of select="mods:identifier[@type='uri']"/>
+				<xsl:value-of select=".//mods:identifier[@type='uri']"/>
 			</key>
 			<source>
 				<xsl:value-of select="$source"/>
 			</source>
 			<local_id>
 				<xsl:choose>
-					<xsl:when test="boolean(contains(mods:identifier[@type='uri'],'hdl.handle.net/10255/'))">
-						<xsl:value-of select="substring-after(mods:identifier,'10255/')"/>
+					<xsl:when test="boolean(contains(.//mods:identifier[@type='uri'],'hdl.handle.net/10255/'))">
+						<xsl:value-of select="substring-after(.//mods:identifier[@type='uri'],'10255/')"/>
 					</xsl:when>
 				</xsl:choose>
 			</local_id>
 			<title>
-				<xsl:value-of select="mods:titleInfo"/>
+				<xsl:value-of select=".//mods:titleInfo"/>
 			</title>
 			<last_updated>
 				<xsl:value-of select="$date-stamp"/>
 			</last_updated>
 			<url>
-				<xsl:value-of select="mods:identifier[@type='uri']"/>
+				<xsl:value-of select=".//mods:identifier[@type='uri']"/>
 			</url>
 			<publication_year>
-				<xsl:value-of select="substring(mods:dateIssued, 1, 4) "/>
+				<xsl:value-of select="substring(.//mods:dateIssued, 1, 4) "/>
 			</publication_year>
 		</dataset>
 	</xsl:template>
 	<!-- =========================================== -->
 	<!-- Publication Template                        -->
 	<!-- =========================================== -->
-	<!--<xsl:template match="oai:OAI-PMH/*/oai:record" mode="publication">
+	<xsl:template match="oai:OAI-PMH/*/oai:record" mode="publication">
 		<xsl:param name="date-stamp"/>
 		<xsl:variable name="record-type">
-			<xsl:value-of select=".//oai:xmlDate/mods:genre"/>
+			<xsl:value-of select=".//mods:genre"/>
 		</xsl:variable>
 		<xsl:if test="contains(translate($record-type,$uppercase,$smallcase),
 			'article')">
-			<xsl:apply-templates select="oai:metadata/oai:mets" mode="publication">
+			<xsl:apply-templates select=".//oai:metadata" mode="publication">
 				<xsl:with-param name="date-stamp" select="$date-stamp"/>
 			</xsl:apply-templates>
 		</xsl:if>
 	</xsl:template>
-	<xsl:template match="mets" mode="publication">
+	<xsl:template match="oai:metadata" mode="publication">
 		<xsl:param name="date-stamp"/>
 		<xsl:variable name="forCode" select="substring-after(., ':')"/>
 		<publication>
 			<key>
-				<xsl:value-of select="mods:identifier"/>
+				<xsl:value-of select=".//mods:identifier[@type='uri']"/>
 			</key>
 			<source>
 				<xsl:value-of select="$source"/>
 			</source>
 			<local_id>
 				<xsl:choose>
-					<xsl:when test="boolean(contains(mods:identifier[@type='uri'], 'hdl.handle.net/10255/'))">
-						<xsl:value-of select="substring-after(mods:identifier[@type='uri'], '10255/')"/>
+					<xsl:when test="boolean(contains(.//mods:identifier[@type='uri'], 'hdl.handle.net/10255/'))">
+						<xsl:value-of select="substring-after(.//mods:identifier[@type='uri'], '10255/')"/>
 					</xsl:when>
 				</xsl:choose>
 			</local_id>
@@ -116,29 +116,29 @@
 				<xsl:value-of select="$date-stamp"/>
 			</last_updated>
 			<url>
-				<xsl:value-of select="mods:identifier"/>
+				<xsl:value-of select=".//mods:identifier[@type='uri']"/>
 			</url>
 			<title>
-				<xsl:value-of select="mods:titleInfo"/>
+				<xsl:value-of select=".//mods:titleInfo"/>
 			</title>
 			<publication_year>
-				<xsl:value-of select="substring(mods:dateAccessioned, 1, 4)"/>
+				<xsl:value-of select="substring(.//mods:dateAccessioned, 1, 4)"/>
 			</publication_year>
 			<authors_list>
-				<xsl:for-each select="mods:namePart">
+				<xsl:for-each select=".//mods:namePart">
 					<xsl:value-of select="concat(.,'; ')"/>
 				</xsl:for-each>
-			</authors_list>-->
+			</authors_list>
 
 			<!-- If there is DOI -->
-			<!--<xsl:for-each select="mods:identifier">
+			<!--<xsl:for-each select=".//mods:identifier">
 				<xsl:if test="boolean(contains(.,'doi.org'))">
 					<doi>
 						<xsl:value-of select="substring-after(., 'doi.org/')"/>
 					</doi>
 				</xsl:if>
-			</xsl:for-each>
+			</xsl:for-each>-->
 		</publication>
-	</xsl:template>-->
+	</xsl:template>
 </xsl:stylesheet>
 
