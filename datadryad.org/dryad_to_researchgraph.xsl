@@ -32,6 +32,11 @@
                <xsl:with-param name="date-stamp" select="$date-stamp" />
             </xsl:apply-templates>
          </publications>
+		 <!--<relations>
+		 	<xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation">
+		 		<xsl:with-param name="date-stamp" select="$date-stamp"/>
+		 	</xsl:apply-templates>
+		 </relations>-->
       </registryObjects>
    </xsl:template>
 	<!-- =========================================== -->
@@ -129,16 +134,19 @@
 					<xsl:value-of select="concat(.,'; ')"/>
 				</xsl:for-each>
 			</authors_list>
-
-			<!-- If there is DOI -->
-			<!--<xsl:for-each select=".//mods:identifier">
-				<xsl:if test="boolean(contains(.,'doi.org'))">
-					<doi>
-						<xsl:value-of select="substring-after(., 'doi.org/')"/>
-					</doi>
-				</xsl:if>
-			</xsl:for-each>-->
+			<xsl:if test=".//mods:identifier[not(@*)]">
+				<doi>
+					<xsl:value-of select=".//mods:identifier[not(@*)]"/>
+				</doi>
+			</xsl:if>
+			
 		</publication>
+	</xsl:template>
+	<!-- =========================================== -->
+	<!-- Relation Template                           -->
+	<!-- =========================================== -->
+	<xsl:template match="oai:metadata" mode="relation">
+		<xsl:param name="data-stamp"/>
 	</xsl:template>
 </xsl:stylesheet>
 
