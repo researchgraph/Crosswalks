@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
    xmlns="http://researchgraph.org/schema/v2.0/xml/nodes" 
-   xmlns:dc="http://purl.org/dc/elements/1.1/" 
    xmlns:fn="http://www.w3.org/2005/xpath-functions" 
    xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
-   xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
    xmlns:xs="http://www.w3.org/2001/XMLSchema" 
    xmlns:mods="http://www.loc.gov/mods/v3"
-   version="1.0" exclude-result-prefixes="xs fn xsl dc oai_dc oai">
+   version="1.0" exclude-result-prefixes="xs fn xsl oai mods">
 	<!-- =========================================== -->
 	<!-- Configuration                               -->
 	<!-- =========================================== -->
@@ -29,11 +26,11 @@
                <xsl:with-param name="date-stamp" select="$date-stamp" />
             </xsl:apply-templates>
          </datasets>
-         <publications>
+         <!--<publications>
             <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication">
                <xsl:with-param name="date-stamp" select="$date-stamp" />
             </xsl:apply-templates>
-         </publications>
+         </publications>-->
       </registryObjects>
    </xsl:template>
 	<!-- =========================================== -->
@@ -45,7 +42,7 @@
 			<xsl:value-of select=".//oai:xmlData/mods:genre"/>
 		</xsl:variable>
 		<xsl:if test="contains(translate($record-type,$uppercase,$smallcase), 'dataset')">
-			<xsl:apply-templates select="oai:metadata/oai:mets" mode="dataset">
+			<xsl:apply-templates select="oai:metadata/mets" mode="dataset">
 				<xsl:with-param name="date-stamp" select="$date-stamp"/>
 			</xsl:apply-templates>
 		</xsl:if>
@@ -56,14 +53,14 @@
 		<xsl:variable name="forCode" select="substring-after(., ':')"/>
 		<dataset>
 			<key>
-				<xsl:value-of select="mods:identifier"/>
+				<xsl:value-of select="mods:identifier[@type='uri']"/>
 			</key>
 			<source>
 				<xsl:value-of select="$source"/>
 			</source>
 			<local_id>
 				<xsl:choose>
-					<xsl:when test="boolean(contains(mods:identifier,'hdl.handle.net/10255/'))">
+					<xsl:when test="boolean(contains(mods:identifier[@type='uri'],'hdl.handle.net/10255/'))">
 						<xsl:value-of select="substring-after(mods:identifier,'10255/')"/>
 					</xsl:when>
 				</xsl:choose>
@@ -75,17 +72,17 @@
 				<xsl:value-of select="$date-stamp"/>
 			</last_updated>
 			<url>
-				<xsl:value-of select="mods:identifier"/>
+				<xsl:value-of select="mods:identifier[@type='uri']"/>
 			</url>
 			<publication_year>
-				<xsl:value-of select="substring(mods:dateAccessioned, 1, 4) "/>
+				<xsl:value-of select="substring(mods:dateIssued, 1, 4) "/>
 			</publication_year>
 		</dataset>
 	</xsl:template>
 	<!-- =========================================== -->
 	<!-- Publication Template                        -->
 	<!-- =========================================== -->
-	<xsl:template match="oai:OAI-PMH/*/oai:record" mode="publication">
+	<!--<xsl:template match="oai:OAI-PMH/*/oai:record" mode="publication">
 		<xsl:param name="date-stamp"/>
 		<xsl:variable name="record-type">
 			<xsl:value-of select=".//oai:xmlDate/mods:genre"/>
@@ -115,7 +112,7 @@
 				</xsl:choose>
 			</local_id>
 			<last_updated>
-				<xsl:value-of select="$datestamp"/>
+				<xsl:value-of select="$date-stamp"/>
 			</last_updated>
 			<url>
 				<xsl:value-of select="mods:identifier"/>
@@ -130,10 +127,10 @@
 				<xsl:for-each select="mods:namePart">
 					<xsl:value-of select="concat(.,'; ')"/>
 				</xsl:for-each>
-			</authors_list>
+			</authors_list>-->
 
 			<!-- If there is DOI -->
-			<xsl:for-each select="mods:identifier">
+			<!--<xsl:for-each select="mods:identifier">
 				<xsl:if test="boolean(contains(.,'doi.org'))">
 					<doi>
 						<xsl:value-of select="substring-after(., 'doi.org/')"/>
@@ -141,6 +138,6 @@
 				</xsl:if>
 			</xsl:for-each>
 		</publication>
-	</xsl:template>
+	</xsl:template>-->
 </xsl:stylesheet>
 
