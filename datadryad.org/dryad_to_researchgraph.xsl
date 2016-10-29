@@ -5,7 +5,8 @@
    xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
    xmlns:xs="http://www.w3.org/2001/XMLSchema" 
    xmlns:mods="http://www.loc.gov/mods/v3"
-   version="1.0" exclude-result-prefixes="xs fn xsl oai mods">
+   xmlns:mets="http://www.loc.gov/METS/"
+   version="1.0" exclude-result-prefixes="xs fn xsl oai mods mets">
 	<!-- =========================================== -->
 	<!-- Configuration                               -->
 	<!-- =========================================== -->
@@ -39,16 +40,16 @@
 	<xsl:template match="oai:OAI-PMH/*/oai:record" mode="dataset">
 		<xsl:param name="date-stamp"/>
 		<xsl:variable name="record-type">
-			<xsl:value-of select=".//oai:xmlData/mods:genre"/>
+			<xsl:value-of select=".//mods:genre"/>
 		</xsl:variable>
 		<xsl:if test="contains(translate($record-type,$uppercase,$smallcase), 'dataset')">
-			<xsl:apply-templates select="oai:metadata/mets" mode="dataset">
+			<xsl:apply-templates select=".//oai:metadata" mode="dataset">
 				<xsl:with-param name="date-stamp" select="$date-stamp"/>
 			</xsl:apply-templates>
 		</xsl:if>
 	</xsl:template>
 
-	<xsl:template match="mets" mode="dataset">
+	<xsl:template match="oai:metadata" mode="dataset">
 		<xsl:param name="date-stamp"/>
 		<xsl:variable name="forCode" select="substring-after(., ':')"/>
 		<dataset>
