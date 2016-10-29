@@ -10,7 +10,7 @@
 	<!-- =========================================== -->
 	<!-- Configuration                               -->
 	<!-- =========================================== -->
-	<xsl:param name="source" select="'hdl.handle.net'"/>
+	<xsl:param name="source" select="'daradryad.org'"/>
 	<xsl:variable name="smallcase" select="'abcdefghijklmnopqrstuvwxyz'" />
 	<xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
 	<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" />
