@@ -85,6 +85,11 @@
 			<publication_year>
 				<xsl:value-of select="substring(.//mods:dateIssued, 1, 4) "/>
 			</publication_year>
+			<xsl:if test=".//mods:identifier[not(@*)]">
+				<doi>
+					<xsl:value-of select=".//mods:identifier[not(@*)]"/>
+				</doi>
+			</xsl:if>
 		</dataset>
 	</xsl:template>
 	<!-- =========================================== -->

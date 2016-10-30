@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <registryObjects xmlns="http://researchgraph.org/schema/v2.0/xml/nodes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes        https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
    <datasets>
       <dataset>
@@ -9,6 +9,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.16</url>
          <publication_year>2007</publication_year>
+         <doi>doi:10.5061/dryad.18/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.17</key>
@@ -18,6 +19,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.17</url>
          <publication_year>2007</publication_year>
+         <doi>doi:10.5061/dryad.18/2</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.19</key>
@@ -27,6 +29,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.19</url>
          <publication_year>2007</publication_year>
+         <doi>doi:10.5061/dryad.18/3</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.23</key>
@@ -36,6 +39,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.23</url>
          <publication_year>2007</publication_year>
+         <doi>doi:10.5061/dryad.20/2</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.26</key>
@@ -45,6 +49,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.26</url>
          <publication_year>2008</publication_year>
+         <doi>doi:10.5061/dryad.25/12</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.28</key>
@@ -54,6 +59,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.28</url>
          <publication_year>2008</publication_year>
+         <doi>doi:10.5061/dryad.25/30</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.57</key>
@@ -63,6 +69,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.57</url>
          <publication_year>2008</publication_year>
+         <doi>doi:10.5061/dryad.20/3</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.58</key>
@@ -72,6 +79,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.58</url>
          <publication_year>2008</publication_year>
+         <doi>doi:10.5061/dryad.20/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.60</key>
@@ -81,6 +89,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.60</url>
          <publication_year>2008</publication_year>
+         <doi>doi:10.5061/dryad.59/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.65</key>
@@ -90,6 +99,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.65</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.64/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.67</key>
@@ -99,6 +109,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.67</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.66/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.71</key>
@@ -108,6 +119,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.71</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/5</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.72</key>
@@ -117,6 +129,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.72</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/8</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.73</key>
@@ -126,6 +139,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.73</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/9</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.74</key>
@@ -135,6 +149,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.74</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/11</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.75</key>
@@ -144,6 +159,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.75</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/10</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.76</key>
@@ -153,6 +169,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.76</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/16</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.77</key>
@@ -162,6 +179,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.77</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/23</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.78</key>
@@ -171,6 +189,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.78</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/25</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.79</key>
@@ -180,6 +199,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.79</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/12</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.80</key>
@@ -189,6 +209,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.80</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/21</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.81</key>
@@ -198,6 +219,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.81</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/19</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.83</key>
@@ -207,6 +229,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.83</url>
          <publication_year>2007</publication_year>
+         <doi>doi:10.5061/dryad.82/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.84</key>
@@ -216,6 +239,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.84</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/20</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.85</key>
@@ -225,6 +249,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.85</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/3</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.86</key>
@@ -234,6 +259,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.86</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.87</key>
@@ -243,6 +269,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.87</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/7</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.88</key>
@@ -252,6 +279,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.88</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/4</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.89</key>
@@ -261,6 +289,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.89</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/18</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.90</key>
@@ -270,6 +299,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.90</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/6</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.91</key>
@@ -279,6 +309,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.91</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/14</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.92</key>
@@ -288,6 +319,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.92</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/15</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.93</key>
@@ -297,6 +329,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.93</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/22</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.94</key>
@@ -306,6 +339,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.94</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/13</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.95</key>
@@ -315,6 +349,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.95</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/27</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.96</key>
@@ -324,6 +359,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.96</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/17</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.97</key>
@@ -333,6 +369,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.97</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/26</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.98</key>
@@ -342,6 +379,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.98</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/24</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.99</key>
@@ -351,6 +389,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.99</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.70/2</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.101</key>
@@ -360,6 +399,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.101</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.100/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.103</key>
@@ -369,6 +409,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.103</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.102/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.105</key>
@@ -378,6 +419,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.105</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.104/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.107</key>
@@ -387,6 +429,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.107</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.106/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.109</key>
@@ -396,6 +439,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.109</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.108/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.110</key>
@@ -405,6 +449,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.110</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.108/2</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.112</key>
@@ -414,6 +459,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.112</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.111/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.113</key>
@@ -423,6 +469,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.113</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.111/2</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.114</key>
@@ -432,6 +479,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.114</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.111/3</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.115</key>
@@ -441,6 +489,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.115</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.111/4</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.117</key>
@@ -450,6 +499,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.117</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.116/1</doi>
       </dataset>
       <dataset>
          <key>http://hdl.handle.net/10255/dryad.118</key>
@@ -459,6 +509,7 @@
          <last_updated>2011-08-02T20:00:05Z</last_updated>
          <url>http://hdl.handle.net/10255/dryad.118</url>
          <publication_year>1998</publication_year>
+         <doi>doi:10.5061/dryad.116/2</doi>
       </dataset>
    </datasets>
    <publications>
@@ -1089,6 +1140,10 @@
       <relation>
          <from_key>http://hdl.handle.net/10255/dryad.116</from_key>
          <to_uri>http://hdl.handle.net/10255/dryad.116/2</to_uri>
+         <label>constituent</label>
+      </relation>
+   </relations>
+</registryObjects>255/dryad.116/2</to_uri>
          <label>constituent</label>
       </relation>
    </relations>
