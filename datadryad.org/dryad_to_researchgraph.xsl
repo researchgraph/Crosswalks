@@ -32,11 +32,11 @@
                <xsl:with-param name="date-stamp" select="$date-stamp" />
             </xsl:apply-templates>
          </publications>
-		 <!--<relations>
+		 <relations>
 		 	<xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation">
 		 		<xsl:with-param name="date-stamp" select="$date-stamp"/>
 		 	</xsl:apply-templates>
-		 </relations>-->
+		 </relations>
       </registryObjects>
    </xsl:template>
 	<!-- =========================================== -->
@@ -139,14 +139,37 @@
 					<xsl:value-of select=".//mods:identifier[not(@*)]"/>
 				</doi>
 			</xsl:if>
-			
 		</publication>
 	</xsl:template>
 	<!-- =========================================== -->
 	<!-- Relation Template                           -->
 	<!-- =========================================== -->
+	<xsl:template match="oai:OAI-PMH/*/oai:record" mode="relation">
+		<xsl:param name="date-stamp"/>
+		<xsl:if test=".//mods:relatedItem[*]">
+			<xsl:apply-templates select=".//oai:metadata" mode="relation">
+				<xsl:with-param name="date-stamp" select="$date-stamp"/>
+			</xsl:apply-templates>
+		</xsl:if>
+	</xsl:template>
 	<xsl:template match="oai:metadata" mode="relation">
 		<xsl:param name="data-stamp"/>
+		<xsl:for-each select=".//mods:relatedItem">
+			<xsl:if test="contains(.,'dryad')">
+				<relation>
+					<from_key>
+						<xsl:value-of select="..//mods:identifier[@type='uri']"/>
+					</from_key>
+					<to_uri>
+						<xsl:value-of select="substring-before(..//mods:identifier[@type='uri'],'dryad')"/>
+						<xsl:value-of select="substring(.,string-length(substring-before(.,'dryad'))+1)"/>
+					</to_uri>
+					<label>
+						<xsl:value-of select="@type"/>
+					</label>
+				</relation>
+			</xsl:if>
+		</xsl:for-each>
 	</xsl:template>
 </xsl:stylesheet>
 
