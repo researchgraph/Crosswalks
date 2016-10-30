@@ -21,7 +21,9 @@
       <xsl:param name="date-stamp">
          <xsl:value-of select=".//oai:header/oai:datestamp" />
       </xsl:param>
-      <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/dataset.xsd">
+      <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      	xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes
+      	https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
          <datasets>
             <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset">
                <xsl:with-param name="date-stamp" select="$date-stamp" />
