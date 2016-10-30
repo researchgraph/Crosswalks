@@ -124,7 +124,7 @@
 				<xsl:value-of select=".//mods:identifier[@type='uri']"/>
 			</url>
 			<title>
-				<xsl:value-of select=".//mods:titleInfo"/>
+				<xsl:value-of select="substring-after(.//mods:titleInfo,'Data from: ')"/>
 			</title>
 			<publication_year>
 				<xsl:value-of select="substring(.//mods:dateAccessioned, 1, 4)"/>
