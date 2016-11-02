@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes          https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <grants>
+      <grant>
+         <source>http://dev.founders-and-survivors.org/pub/collections/html/AP20:a-condig-arcgrant</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Convicts and Diggers: a demography of life courses, families and generations ARC Discovery Grant</title>
+         <start_year>2011</start_year>
+         <end_year>2014</end_year>
+      </grant>
+      <grant>
+         <source>http://services.ands.org.au/sandbox/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>AusStage Phase 1 - National Electronic Facility to Promote Research into Australian Performing Arts</title>
+      </grant>
+      <grant>
+         <source>http://researchdata.ands.org.au/registry/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Federation University Australia Historical Collection -Victorian collections project</title>
+         <start_year>2010-09-12T00:00:00Z</start_year>
+      </grant>
+      <grant>
+         <source>http://researchdata.ands.org.au/registry/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Yarra Ranges Opportunity Assessment for Economic and Community Growth</title>
+         <start_year>2011-02-22T00:00:00Z</start_year>
+         <end_year>2011-12-22T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>http://researchdata.ands.org.au/registry/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Great South Coast Regional Communication Strategy</title>
+         <start_year>2011-03-25T00:00:00Z</start_year>
+         <end_year>2011-11-25T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>http://researchdata.ands.org.au/registry/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Moorabool Community Broadband and Telecommunications Strategy</title>
+         <start_year>2009-04-14T00:00:00Z</start_year>
+         <end_year>2010-04-14T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>http://researchdata.ands.org.au/registry/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Sport and Recreation Spatial Project</title>
+         <start_year>2012-04-05T00:00:00Z</start_year>
+      </grant>
+      <grant>
+         <source>http://researchdata.ands.org.au/registry/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>FedUni Spatial project</title>
+         <start_year>2006-02-18T00:00:00Z</start_year>
+      </grant>
+      <grant>
+         <source>http://researchdata.ands.org.au/registry/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>City of Ballarat and Golden Plains Shire GIS Strategic review, 2011</title>
+         <start_year>2010-11-01T00:00:00Z</start_year>
+         <end_year>2011-01-01T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>http://researchdata.ands.org.au/registry/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Gippslink project –Stategic plan for Gippsland regional geographical information system (2010)</title>
+         <start_year>2010-01-30T00:00:00Z</start_year>
+         <end_year>2010-05-30T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>http://researchdata.ands.org.au/registry/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Central Highlands Information and Communication and Technologies Study, 2010</title>
+         <start_year>2010-04-14T00:00:00Z</start_year>
+         <end_year>2010-09-14T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>http://researchdata.ands.org.au/registry/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Wimmera Southern Mallee Information Communication and Technologies Study, 2010-2011</title>
+         <start_year>2010-06-12T00:00:00Z</start_year>
+         <end_year>2011-01-12T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>http://bioflow.hpcu.uq.edu.au:8080/oaiBPA/admin/data-provider.do</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>BPA-Wheat-Cultivars</title>
+      </grant>
+      <grant>
+         <source>http://services.ands.org.au/home/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>The Audio-Video Australian-English Speech Data Corpus AVOZES project</title>
+      </grant>
+      <grant>
+         <source>http://services.ands.org.au/home/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Investigations in Audiovisual Speaker Identity Verification</title>
+      </grant>
+      <grant>
+         <source>http://services.ands.org.au/home/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Static Facial Expressions In The Wild: Data and Experiment Protocol project</title>
+      </grant>
+      <grant>
+         <source>http://services.ands.org.au/home/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Acted Facial Expressions In The Wild project</title>
+      </grant>
+      <grant>
+         <source>http://researchdata.ands.org.au/registry/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Coral community and extent mapping of the Wide Bay - Burnett Coastal fringe project </title>
+      </grant>
+      <grant>
+         <source>http://services.ands.org.au/sandbox/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Foothills Connection Community Heritage Project</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>The PAINT study</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Local canons: institutional authority and the category of the literary in Australian secondary-school English syllabuses, 1901-2001</title>
+      </grant>
+      <grant>
+         <source>http://services.ands.org.au/sandbox/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Western Australian Folklife Project</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Accurate simulations of the structure and properties of molecular crystals via grid computing</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Impact of multislice CT on image quality and patient dose: Phantom study and multi-centre survey</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Learning to predict polymorphism through simulation of nucleation and nanoparticle evolution</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Inheritance of white colour in alpacas: identifying the genes involved</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Optimization of imaging parameters in digital chest radiography: A comparison of computed radiography and direct radiography</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Development of algorithms for low level feature extraction</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>3D stereoscopic visualisation of abdominal aortic aneurysm and stent graft: Assessment of role in preoperative planning of fenestrated stent graft</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Multi-target tracking with random finite sets</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Dimensions of Delinquency: Exploring the prevalence and frequency of offending in the Western Australian population</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Political perceptions of the public library – the Australian view</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Incremental clustering of dynamic data streams using connectivity based representative points</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Transitions to a Sustainable City, Geraldton WA: An applied study into co-creating sustainability though civic deliberation and social media</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Efficient algorithms for subwindow search</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Australian one person libraries and librarians</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Articulated human body tracking through clutter</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Analysis of feature effectiveness in tracking</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Australian Library &amp; Information Studies (LIS) researchers’ ranking of LIS journals</title>
+      </grant>
+      <grant>
+         <source>http://www.curtin.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Colour space selection and depth for face recognition</title>
+      </grant>
+      <grant>
+         <source>http://services.ands.org.au/sandbox/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>CLSM study of the effects of backwashing on membrane organic fouling </title>
+      </grant>
+      <grant>
+         <source>http://services.ands.org.au/sandbox/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>EBSD study of TRIP steel microstructure during fatigue cracking.</title>
+      </grant>
+      <grant>
+         <source>http://services.ands.org.au/sandbox/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>DC20B Enhancing Filtration Membrane Fouling Data Collection for Water Treatment Research</title>
+      </grant>
+      <grant>
+         <source>http://services.ands.org.au/sandbox/orca/register_my_data</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Project to determine texture selection mechanisms in uniaxially extruded magnesium alloys</title>
+      </grant>
+      <grant>
+         <source>http://gbrcat.metadata.net/gbrcat</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>AIMS Long Term Monitoring Program </title>
+      </grant>
+      <grant>
+         <source>http://gbrcat.metadata.net/gbrcat</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Detecting changes in coral reef environments in response to subtle disturbances: from organism to holobiont community responses</title>
+      </grant>
+      <grant>
+         <source>http://gbrcat.metadata.net/gbrcat</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>CoralWatch</title>
+      </grant>
+      <grant>
+         <source>http://gbrcat.metadata.net/gbrcat</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Coral disease research, UQ Centre for Marine Studies</title>
+      </grant>
+      <grant>
+         <source>http://gbrcat.metadata.net/gbrcat</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Heron Island Research Station Weather Logging Program</title>
+      </grant>
+      <grant>
+         <source>http://gbrcat.metadata.net/gbrcat</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>UQ Satellite Oceanography (OceanSpace)</title>
+      </grant>
+      <grant>
+         <source>https://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Queensland Films 1930-1960: From the Talkies to Television</title>
+         <start_year>2007-07-01T00:00:00Z</start_year>
+         <end_year>2009-12-31T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>http://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>PPBio Australasia - Karawatha</title>
+      </grant>
+      <grant>
+         <source>http://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Tropical Rivers and Coastal Knowledge Research Hub: Queensland Node</title>
+         <start_year>2007-01-01T00:01:00Z</start_year>
+         <end_year>2010-01-01T00:01:00Z</end_year>
+      </grant>
+      <grant>
+         <source>https://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Program for Planned Biodiversity Studies (Ppbio) - Karawatha Forest 2009-2012</title>
+         <start_year>2009-07-01T00:00:00Z</start_year>
+         <end_year>2013-12-31T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>https://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Both Smart and Healthy: Learning Communities as a Settings-based Approaches to Health Promotion</title>
+         <start_year>2009-07-23T00:00:00Z</start_year>
+         <end_year>2016-06-30T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>https://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Olfactory ensheathing cells: a major contributor to axon guidance?</title>
+         <start_year>2008-01-01T00:00:00Z</start_year>
+         <end_year>2010-12-31T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>https://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Stories from the split: memories, confessions and evaluations of a political struggle</title>
+         <start_year>2001-01-01T00:00:00Z</start_year>
+         <end_year>2004-08-24T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>https://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>The development of copper-free click chemistry to label biomolecules within living cells</title>
+         <start_year>2010-01-01T00:00:00Z</start_year>
+         <end_year>2012-12-31T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>http://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>The Braided Channels creative research project - Part Two</title>
+      </grant>
+      <grant>
+         <source>https://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>The development and evaluation of an online support system for mental health workers in rural, remote and regional areas</title>
+         <start_year>2003-01-01T00:00:00Z</start_year>
+         <end_year>2006-12-31T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>http://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Stories from the split: memories, confessions and evaluations of a political struggle.</title>
+      </grant>
+      <grant>
+         <source>https://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Adult Stem Cell Transplantation Therapy in Parkinsonian Rat</title>
+         <start_year>2006-01-01T00:00:00Z</start_year>
+         <end_year>2009-12-31T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>https://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>An Investigation into Suicidal Behaviours by Males during the Process of Marital and De Facto Separation.</title>
+         <start_year>2005-01-01T00:00:00Z</start_year>
+         <end_year>2008-12-31T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>https://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Beyond pyschopathology: Pathways to suicide in mentally well young adult males</title>
+         <start_year>2008-01-01T00:00:00Z</start_year>
+         <end_year>2011-12-31T00:00:00Z</end_year>
+      </grant>
+      <grant>
+         <source>http://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>The Braided Channels creative research project: Part One</title>
+      </grant>
+      <grant>
+         <source>http://griffith.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Domestic Water End Use Study - High Resolution Water Measurement</title>
+         <start_year>2010-01-01T00:09:00Z</start_year>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Australian Film Theory and Criticism</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Reducing the clinical placement burden on health services - creating a contemporary model of simulated clinical education using innovative teaching methods for multiple health care professionals</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Precipitation events over Tasmania and their response to weather modification</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Making Space:  Artist-run Initiatives in Victoria</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Discovery of novel antibiotics against Gram-negative 'superbugs' from myxobacteria, a special class of soil bacteria</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Basic pharmacokinetic evaluation of NAB 7061</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Implementation and Evaluation of an Intensive Music Education Program for Schoolchildren</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Randomised  controlled trial of multimedia patient education approaches to preventing in-hospital falls</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Longitudinal Head injury Outcome Study</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Australia's Response to Trafficking in Women: Towards A Model for the Regulation of Forced Migration in the Asia-Pacific Region</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Iron uptake and toxicity in brain cells: implications for neurodegenerative diseases. ID: 284393</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>BlakStages: an interactive digitalised archive of Indigenous Australian Theatre Ephemera</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Impact of wildfires on tourism and visitation in national parks</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Australian Partnership in Light Metals Research</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>The construction and validation of the assesment of mental health related quality of life(PsyQoL) instrument.</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Targeting polymyxin-resistant Gram-negative 'superbugs': development of novel antimicrobial peptides
+				</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Westernport Training Enterprise Feasibility Study</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Context-aware mobile decision support systems for medical emergency management in mass gatherings</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>A Study of Work-Life Practices and Effectiveness in Australian Organisations</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>The history of Asian Australian Cinema:  Diaspora, Policy and Ethics</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>The effect of weight loss on the risk of knee osteoarthritis and potential modification by biomechanical factors ; ID: 384233</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Song lyrics for the English theatre 1660-1700: a performance analysis</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>From dependence to independence: examining the support needs and pathways of young people leaving state care in rural Victoria</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Structural information about integrase and integrase complexed with inhibitors or fragments of inhibitors developed by Avexa</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Policy Notes: Local Popular Music in Global Creative Economies</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Therapeutic approaches to treat human immunodeficiency virus infection: development of HIV-1 integrase inhibitors</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Novel therapeutic strategy against multidrug-resistant gram-negative bacteria ; ID: 384194</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>The Synthesis of Potential Novel Non-addictive Analgesics</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Applying Human Rights Legislation In Closed Environments: A Strategic Framework For Managing Compliance</title>
+         <start_year>2009</start_year>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Information technology driven integrated decision support for mass casualty disaster management in Australia</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Rethinking Mental Health Laws: An Integrated Approach</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Improved Management of Australian Port Infrastructure by Development of Predictive Ageing Simulation</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Encoding active tactile sensing in the brain.</title>
+      </grant>
+      <grant>
+         <source>http://www.monash.edu.au</source>
+         <last_updated>2014-07-17T02:36:14Z</last_updated>
+         <title>Corrosion Resistance of Nanocrystalline Materials</title>
+      </grant>
+   </grants>
+</registryObjects>
