@@ -47,9 +47,13 @@
         <xsl:param name="date-stamp"/>
         <xsl:variable name="forCode" select="substring-after(., ':')"/>
         <dataset>
-            <key>
-                <xsl:value-of select=".//rif:key"/>
-            </key>
+            <xsl:choose>
+                <xsl:when test=".//rif:electronic[@type='url']/rif:value">
+                   <key>
+                       <xsl:value-of select=".//rif:electronic[@type='url']/rif:value"/>
+                   </key>
+                </xsl:when>
+            </xsl:choose>
         </dataset>
     </xsl:template>
 </xsl:stylesheet>
