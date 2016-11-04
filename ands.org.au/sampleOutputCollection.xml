@@ -2,504 +2,904 @@
 <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
    <datasets>
       <dataset>
+         <group>The University of Melbourne</group>
          <key>http://dev.founders-and-survivors.org/khrd/yggdrasil/reports/002-lifedata-V2/</key>
          <source>researchdata.ands.org</source>
          <local_id>UNIMELB:AP20:c-khrd-rpt-lifedata</local_id>
+         <last_updated>2014-07-17T02:36:15Z</last_updated>
+         <url>http://dev.founders-and-survivors.org/khrd/yggdrasil/reports/002-lifedata-V2/</url>
+         <title>Koori Health Research Database life expectancy dataset</title>
       </dataset>
       <dataset>
+         <group>The University of Melbourne</group>
          <key>http://foundersandsurvivors.org/pubsearch</key>
          <source>researchdata.ands.org</source>
          <local_id>UNIMELB:AP20:c-khrdsourceV3</local_id>
+         <last_updated>2014-07-17T02:36:15Z</last_updated>
+         <url>http://foundersandsurvivors.org/pubsearch</url>
+         <title>Koori Health Research Database original source dataset (Version 3)</title>
       </dataset>
       <dataset>
+         <group>The University of Melbourne</group>
          <key>http://foundersandsurvivors.org/contact</key>
          <source>researchdata.ands.org</source>
          <local_id>UNIMELB:AP20:c-vjssource</local_id>
+         <last_updated>2014-07-17T02:36:16Z</last_updated>
+         <url>http://foundersandsurvivors.org/contact</url>
+         <title>Selected Van Diemen's Land Convict Ships volunteers research data</title>
       </dataset>
       <dataset>
+         <group>The University of Melbourne</group>
          <key>http://foundersandsurvivors.org/contact</key>
          <source>researchdata.ands.org</source>
          <local_id>UNIMELB:AP20:c-ertsource</local_id>
+         <last_updated>2014-07-17T02:36:16Z</last_updated>
+         <url>http://foundersandsurvivors.org/contact</url>
+         <title>WWI AIF Enlistment Records Tasmanian born</title>
       </dataset>
       <dataset>
+         <group>AuScope</group>
          <key>http://www.groundwater.com.au</key>
          <source>researchdata.ands.org</source>
          <local_id>http://portal.auscope.org/NCGRTData</local_id>
+         <last_updated>2014-07-17T04:28:40Z</last_updated>
+         <url>http://www.groundwater.com.au</url>
+         <title>National Centre for Groundwater Research and Training Data</title>
       </dataset>
       <dataset>
+         <group>AuScope</group>
          <key>http://maps.ubspatial.com.au/vvg.php</key>
          <source>researchdata.ands.org</source>
          <local_id>http://portal.auscope.org/VVG</local_id>
+         <last_updated>2014-08-28T02:53:58Z</last_updated>
+         <url>http://maps.ubspatial.com.au/vvg.php</url>
+         <title>Visualising Victoria's Groundwater</title>
       </dataset>
       <dataset>
+         <group>Australian National Corpus</group>
          <key>http://ns.ausnc.org.au/corpora/art</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>ausnc.org.au/corpora:art</local_id>
+         <last_updated>2014-07-17T02:36:23Z</last_updated>
+         <url>http://ns.ausnc.org.au/corpora/art</url>
+         <title>Australian Radio Talkback</title>
       </dataset>
       <dataset>
+         <group>Australian National Corpus</group>
          <key>http://ns.ausnc.org.au/corpora/ice</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>ausnc.org.au/corpora:ice</local_id>
+         <last_updated>2014-09-11T06:52:43Z</last_updated>
+         <url>http://ns.ausnc.org.au/corpora/ice</url>
+         <title>International Corpus of English (Australia contribution is ICE-AUS)</title>
       </dataset>
       <dataset>
+         <group>Australian National Corpus</group>
          <key>http://ns.ausnc.org.au/corpora/braidedchannels</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>ausnc.org.au/corpora:braidedchannels</local_id>
+         <last_updated>2014-07-17T02:36:24Z</last_updated>
+         <url>http://ns.ausnc.org.au/corpora/braidedchannels</url>
+         <title>Braided Channels</title>
       </dataset>
       <dataset>
+         <group>Australian National Corpus</group>
          <key>http://ns.ausnc.org.au/corpora/austlit</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>ausnc.org.au/corpora:austlit</local_id>
+         <last_updated>2014-07-17T02:36:24Z</last_updated>
+         <url>http://ns.ausnc.org.au/corpora/austlit</url>
+         <title>AustLit</title>
       </dataset>
       <dataset>
+         <group>Australian National Corpus</group>
          <key>http://ns.ausnc.org.au/corpora/ace</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>ausnc.org.au/corpora:ace</local_id>
+         <last_updated>2014-09-11T06:52:43Z</last_updated>
+         <url>http://ns.ausnc.org.au/corpora/ace</url>
+         <title>Australian Corpus of English</title>
       </dataset>
       <dataset>
+         <group>Australian National Corpus</group>
          <key>http://ns.ausnc.org.au/corpora/cooee</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>ausnc.org.au/corpora:cooee</local_id>
+         <last_updated>2014-09-11T06:52:43Z</last_updated>
+         <url>http://ns.ausnc.org.au/corpora/cooee</url>
+         <title>Corpus of Oz Early English</title>
       </dataset>
       <dataset>
+         <group>Australian National Corpus</group>
          <key>http://ns.ausnc.org.au/corpora/mitcheldelbridge</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>ausnc.org.au/corpora:mitcheldelbridge</local_id>
+         <last_updated>2014-07-17T02:36:25Z</last_updated>
+         <url>http://ns.ausnc.org.au/corpora/mitcheldelbridge</url>
+         <title>Mitchell and Delbridge Database</title>
       </dataset>
       <dataset>
+         <group>Australian National Corpus</group>
          <key>http://ns.ausnc.org.au/corpora/gcsause</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>ausnc.org.au/corpora:gcsause</local_id>
+         <last_updated>2014-07-17T02:36:26Z</last_updated>
+         <url>http://ns.ausnc.org.au/corpora/gcsause</url>
+         <title>Griffith Corpus of Spoken Australian English</title>
       </dataset>
       <dataset>
+         <group>Australian National Corpus</group>
          <key>http://ns.ausnc.org.au/corpora/monash</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>ausnc.org.au/corpora:monash</local_id>
+         <last_updated>2014-07-17T02:36:26Z</last_updated>
+         <url>http://ns.ausnc.org.au/corpora/monash</url>
+         <title>Monash Corpus of Spoken English</title>
       </dataset>
       <dataset>
+         <group>Australian National Corpus</group>
          <key>http://ns.ausnc.org.au/corpora/ausnc</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>ausnc.org.au/corpora:ausnc</local_id>
+         <last_updated>2014-09-11T06:52:43Z</last_updated>
+         <url>http://ns.ausnc.org.au/corpora/ausnc</url>
+         <title>Australian National Corpus</title>
       </dataset>
       <dataset>
+         <group>AusStage: Gateway to the Australian Performing Arts</group>
          <key>http://www.ausstage.edu.au</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>102.100.100/4580</local_id>
+         <last_updated>2014-07-17T02:36:28Z</last_updated>
+         <url>http://www.ausstage.edu.au</url>
+         <title>AusStage: Gateway to the Australian Performing Arts</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/AUMPLawAYbk/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/AUMPLawAYbk/</local_id>
+         <last_updated>2016-08-16T01:53:31Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/AUMPLawAYbk/</url>
+         <title>Australian Mining and Petroleum Association Yearbook 1977-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/rulings/ato/ATODFTR/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/rulings/ato/ATODFTR/</local_id>
+         <last_updated>2016-08-16T01:52:58Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/rulings/ato/ATODFTR/</url>
+         <title>ATO Draft Fuel Tax Rulings 2007-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/cth/num_reg_es/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/cth/num_reg_es/</local_id>
+         <last_updated>2016-08-16T01:52:28Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/cth/num_reg_es/</url>
+         <title>Commonwealth Numbered Regulations Explanatory Statements 1991-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/rulings/ato/ATODSMSFD/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/rulings/ato/ATODSMSFD/</local_id>
+         <last_updated>2016-08-16T01:52:47Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/rulings/ato/ATODSMSFD/</url>
+         <title>ATO Draft Self Managed Superannuation Funds Determinations 2007-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/wa/WAGAB/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/wa/WAGAB/</local_id>
+         <last_updated>2016-08-16T01:50:52Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/wa/WAGAB/</url>
+         <title>Guardianship and Administration Board of Western Australia 2004-2005</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/DeakinLawRw/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/DeakinLawRw/</local_id>
+         <last_updated>2016-08-16T01:53:27Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/DeakinLawRw/</url>
+         <title>Deakin Law Review 1994-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/qld/QLRT/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/qld/QLRT/</local_id>
+         <last_updated>2016-08-16T01:51:30Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/qld/QLRT/</url>
+         <title>Land and Resources Tribunal of Queensland 2000-2007</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/IntJlLawEdu/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/IntJlLawEdu/</local_id>
+         <last_updated>2016-08-16T01:53:19Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/IntJlLawEdu/</url>
+         <title>International Journal of Law and Education 2009-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/UMelbLRS/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/UMelbLRS/</local_id>
+         <last_updated>2016-08-16T01:53:08Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/UMelbLRS/</url>
+         <title>University of Melbourne Law School Research Series 2005-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/qlrc/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/qlrc/</local_id>
+         <last_updated>2016-08-16T01:51:36Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/qlrc/</url>
+         <title>Queensland Law Reform Commission</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/act/repealed_act/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/act/repealed_act/</local_id>
+         <last_updated>2016-08-16T01:53:42Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/act/repealed_act/</url>
+         <title>Australian Capital Territory Repealed Acts</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/cth/HREOCA/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/cth/HREOCA/</local_id>
+         <last_updated>2016-08-16T01:52:35Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/cth/HREOCA/</url>
+         <title>Human Rights and Equal Opportunity Commission 1985-2001</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/cth/ATP/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/cth/ATP/</local_id>
+         <last_updated>2016-08-16T01:52:40Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/cth/ATP/</url>
+         <title>Australian Takeovers Panel 2000-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/rulings/ato/ATOPR/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/rulings/ato/ATOPR/</local_id>
+         <last_updated>2016-08-16T01:52:47Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/rulings/ato/ATOPR/</url>
+         <title>ATO Product Rulings 1999-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/UNSWLawJl/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/UNSWLawJl/</local_id>
+         <last_updated>2016-08-16T01:50:37Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/UNSWLawJl/</url>
+         <title>University of New South Wales Law Journal 1977-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/nf/NFSC/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/nf/NFSC/</local_id>
+         <last_updated>2016-08-16T01:52:21Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/nf/NFSC/</url>
+         <title>Supreme Court of Norfolk Island 1984-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/AUIndigLawRpr/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/AUIndigLawRpr/</local_id>
+         <last_updated>2016-08-16T01:53:34Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/AUIndigLawRpr/</url>
+         <title>Australian Indigenous Law Reporter 1996-2006</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/qld/QRVT/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/qld/QRVT/</local_id>
+         <last_updated>2016-08-16T01:51:23Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/qld/QRVT/</url>
+         <title>Queensland Retirement Villages Tribunal 2001-2002</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/act/num_reg/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/act/num_reg/</local_id>
+         <last_updated>2016-08-16T01:53:42Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/act/num_reg/</url>
+         <title>Australian Capital Territory Numbered Regulations 1986-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/nt/num_reg/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/nt/num_reg/</local_id>
+         <last_updated>2016-08-16T01:52:01Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/nt/num_reg/</url>
+         <title>Northern Territory Numbered Regulations 1961-1988, 2004-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/wa/WATPAT/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/wa/WATPAT/</local_id>
+         <last_updated>2016-08-16T01:50:45Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/wa/WATPAT/</url>
+         <title>Town Planning Appeal Tribunal of Western Australia 2003-2004</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/qld/bill_en/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/qld/bill_en/</local_id>
+         <last_updated>2016-08-16T01:51:24Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/qld/bill_en/</url>
+         <title>Queensland Bills Explanatory Notes 1999-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.nzlii.org/nz/cases/NZRSAA/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.nzlii.org/nz/cases/NZRSAA/</local_id>
+         <last_updated>2016-08-16T01:51:40Z</last_updated>
+         <url>http://www.nzlii.org/nz/cases/NZRSAA/</url>
+         <title>New Zealand Refugee Status Appeals Authority 1991-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/media/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/media/</local_id>
+         <last_updated>2016-08-16T01:53:43Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/media/</url>
+         <title>Media Law Workstation</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/act/ACTCA/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/act/ACTCA/</local_id>
+         <last_updated>2016-08-16T01:53:47Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/act/ACTCA/</url>
+         <title>Supreme Court of the Australian Capital Territory - Court of Appeal 2002-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.nzlii.org/nz/cases/NZEmpC/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.nzlii.org/nz/cases/NZEmpC/</local_id>
+         <last_updated>2016-08-16T01:51:46Z</last_updated>
+         <url>http://www.nzlii.org/nz/cases/NZEmpC/</url>
+         <title>Employment Court of New Zealand 2000-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/AUOmbIRp/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/AUOmbIRp/</local_id>
+         <last_updated>2016-08-16T01:52:59Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/AUOmbIRp/</url>
+         <title>Commonwealth Ombudsman's Investigation Reports 1996-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/AJHR/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/AJHR/</local_id>
+         <last_updated>2016-08-16T01:53:37Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/AJHR/</url>
+         <title>Australian Journal of Human Rights 1994-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/rulings/ato/ATOLCTD/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/rulings/ato/ATOLCTD/</local_id>
+         <last_updated>2016-08-16T01:52:52Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/rulings/ato/ATOLCTD/</url>
+         <title>ATO Luxury Car Tax Determinations 2003-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/BondCGeJ/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/BondCGeJ/</local_id>
+         <last_updated>2016-08-16T01:53:30Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/BondCGeJ/</url>
+         <title>Corporate Governance eJournal (Bond) 2005-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.nzlii.org/nz/cases/NZLCRO/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.nzlii.org/nz/cases/NZLCRO/</local_id>
+         <last_updated>2016-08-16T01:51:50Z</last_updated>
+         <url>http://www.nzlii.org/nz/cases/NZLCRO/</url>
+         <title>New Zealand Legal Complaints Review Officer 2009-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/rulings/ato/ATOGSTR/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/rulings/ato/ATOGSTR/</local_id>
+         <last_updated>2016-08-16T01:52:51Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/rulings/ato/ATOGSTR/</url>
+         <title>ATO Goods and Services Tax Rulings 1999-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/rulings/ato/ATOSCR/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/rulings/ato/ATOSCR/</local_id>
+         <last_updated>2016-08-16T01:52:41Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/rulings/ato/ATOSCR/</url>
+         <title>ATO Superannuation Contributions Rulings 1997-1999</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/cth/FCAFC/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/cth/FCAFC/</local_id>
+         <last_updated>2016-08-16T01:52:33Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/cth/FCAFC/</url>
+         <title>Federal Court of Australia - Full Court 2002-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/CyberLRes/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/CyberLRes/</local_id>
+         <last_updated>2016-08-16T01:52:27Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/CyberLRes/</url>
+         <title>Cyberspace Law Resources</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/cth/AATA/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/cth/AATA/</local_id>
+         <last_updated>2016-08-16T01:52:37Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/cth/AATA/</url>
+         <title>Administrative Appeals Tribunal 1976-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/sa/SAHPT/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/sa/SAHPT/</local_id>
+         <last_updated>2016-08-16T01:51:19Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/sa/SAHPT/</url>
+         <title>Health Practitioners Tribunal of South Australia 2011-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/vic/num_act/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/vic/num_act/</local_id>
+         <last_updated>2016-08-16T01:50:50Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/vic/num_act/</url>
+         <title>Victorian Numbered Acts 2004-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.nzlii.org/nz/cases/NZWHT/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.nzlii.org/nz/cases/NZWHT/</local_id>
+         <last_updated>2016-08-16T01:51:42Z</last_updated>
+         <url>http://www.nzlii.org/nz/cases/NZWHT/</url>
+         <title>New Zealand Weathertight Homes Tribunal 2003-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/QldOmbIRp/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/QldOmbIRp/</local_id>
+         <last_updated>2016-08-16T01:51:35Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/QldOmbIRp/</url>
+         <title>Queensland Ombudsman Investigative Reports 2002-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/cth/consol_act/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/cth/consol_act/</local_id>
+         <last_updated>2016-08-16T01:52:32Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/cth/consol_act/</url>
+         <title>Commonwealth Consolidated Acts</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/liac/hot_topic/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/liac/hot_topic/</local_id>
+         <last_updated>2016-08-16T01:52:28Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/liac/hot_topic/</url>
+         <title>Hot Topics - Legal Information Access Centre</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/lawreform/VicLRComm/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/lawreform/VicLRComm/</local_id>
+         <last_updated>2016-08-16T01:51:02Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/lawreform/VicLRComm/</url>
+         <title>Law Reform Commission of Victoria 1985-1992</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/sa/SAIRC/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/sa/SAIRC/</local_id>
+         <last_updated>2016-08-16T01:51:20Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/sa/SAIRC/</url>
+         <title>South Australian Industrial Relations Court 1992- </title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/SportsLeJ/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/SportsLeJ/</local_id>
+         <last_updated>2016-08-16T01:53:07Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/SportsLeJ/</url>
+         <title>Sports Law eJournal 2005-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/JCULawRw/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/JCULawRw/</local_id>
+         <last_updated>2016-08-16T01:53:21Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/JCULawRw/</url>
+         <title>James Cook University Law Review 2002-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/nsw/NSWSC/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/nsw/NSWSC/</local_id>
+         <last_updated>2016-08-16T01:52:10Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/nsw/NSWSC/</url>
+         <title>Supreme Court of New South Wales 1993-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/dfat/seldoc/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/dfat/seldoc/</local_id>
+         <last_updated>2016-08-16T01:53:01Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/dfat/seldoc/</url>
+         <title>Select Documents on International Affairs 1966-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.nzlii.org/nz/cases/NZREADT/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.nzlii.org/nz/cases/NZREADT/</local_id>
+         <last_updated>2016-08-16T01:51:39Z</last_updated>
+         <url>http://www.nzlii.org/nz/cases/NZREADT/</url>
+         <title>New Zealand Real Estate Agents Disciplinary Tribunal 2010-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.nzlii.org/nz/cases/NZPrivCmr/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.nzlii.org/nz/cases/NZPrivCmr/</local_id>
+         <last_updated>2016-08-16T01:51:38Z</last_updated>
+         <url>http://www.nzlii.org/nz/cases/NZPrivCmr/</url>
+         <title>New Zealand Privacy Commissioner Cases 1996-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.nzlii.org/nz/journals/NZYbkIntLaw/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.nzlii.org/nz/journals/NZYbkIntLaw/</local_id>
+         <last_updated>2016-08-16T01:51:54Z</last_updated>
+         <url>http://www.nzlii.org/nz/journals/NZYbkIntLaw/</url>
+         <title>New Zealand Yearbook of International Law 2004-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/rulings/ato/ATOSMSFD/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/rulings/ato/ATOSMSFD/</local_id>
+         <last_updated>2016-08-16T01:52:42Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/rulings/ato/ATOSMSFD/</url>
+         <title>ATO Self Managed Superannuation Funds Determinations 2007-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/qld/QCCTA/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/qld/QCCTA/</local_id>
+         <last_updated>2016-08-16T01:51:34Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/qld/QCCTA/</url>
+         <title>Queensland Commercial and Consumer Tribunal - Architects List 2004-2009</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/qld/QCCTPAMD/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/qld/QCCTPAMD/</local_id>
+         <last_updated>2016-08-16T01:51:27Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/qld/QCCTPAMD/</url>
+         <title>Queensland Commercial and Consumer Tribunal - Property Agents and Motor Dealers List 2003-2009</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/sa/num_act/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/sa/num_act/</local_id>
+         <last_updated>2016-08-16T01:51:16Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/sa/num_act/</url>
+         <title>South Australian Numbered Acts 1837-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/qld/QIRComm/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/qld/QIRComm/</local_id>
+         <last_updated>2016-08-16T01:50:24Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/qld/QIRComm/</url>
+         <title>Queensland Industrial Relations Commission 1999-2014</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/lawreform/VLRC/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/lawreform/VLRC/</local_id>
+         <last_updated>2016-08-16T01:50:22Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/lawreform/VLRC/</url>
+         <title>Victorian Law Reform Commission 2002-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/wa/WAIRComm/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/wa/WAIRComm/</local_id>
+         <last_updated>2016-08-16T01:50:54Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/wa/WAIRComm/</url>
+         <title>Western Australian Industrial Relations Commission 1991-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/vic/aat/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/vic/aat/</local_id>
+         <last_updated>2016-08-16T01:51:04Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/vic/aat/</url>
+         <title>Victorian Civil and Administrative Tribunal/Administrative Appeals Tribunal of Victoria 1989-1999</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/wa/bill/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/wa/bill/</local_id>
+         <last_updated>2016-08-16T01:50:46Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/wa/bill/</url>
+         <title>Western Australian Bills 1998-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/nsw/NSWCCA/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/nsw/NSWCCA/</local_id>
+         <last_updated>2016-08-16T01:52:19Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/nsw/NSWCCA/</url>
+         <title>Supreme Court of New South Wales - Court of Criminal Appeal 1998-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/QUTLJJ/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/QUTLJJ/</local_id>
+         <last_updated>2016-08-16T01:53:10Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/QUTLJJ/</url>
+         <title>Queensland University of Technology Law and Justice Journal 2001-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/cth/PrivCmrACD/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/cth/PrivCmrACD/</local_id>
+         <last_updated>2016-08-16T01:50:32Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/cth/PrivCmrACD/</url>
+         <title>Federal Privacy Commissioner of Australia Complaint Determinations 1993-2004</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/nsw/num_reg/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/nsw/num_reg/</local_id>
+         <last_updated>2016-08-16T01:52:06Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/nsw/num_reg/</url>
+         <title>New South Wales Regulations As Made 1990-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/qld/QIC/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/qld/QIC/</local_id>
+         <last_updated>2016-08-16T01:50:24Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/qld/QIC/</url>
+         <title>Queensland Industrial Court 1999-2009</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/IndigLRes/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/IndigLRes/</local_id>
+         <last_updated>2016-08-16T01:52:27Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/IndigLRes/</url>
+         <title>Indigenous Law Resources</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.nzlii.org/nz/legis/hist_act/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.nzlii.org/nz/legis/hist_act/</local_id>
+         <last_updated>2016-08-16T01:51:32Z</last_updated>
+         <url>http://www.nzlii.org/nz/legis/hist_act/</url>
+         <title>New Zealand Acts As Enacted (1841-2007)</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/wa/consol_reg/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/wa/consol_reg/</local_id>
+         <last_updated>2016-08-16T01:50:17Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/wa/consol_reg/</url>
+         <title>Western Australian Current Regulations</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/sa/consol_act/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/sa/consol_act/</local_id>
+         <last_updated>2016-08-16T01:51:15Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/sa/consol_act/</url>
+         <title>South Australian Current Acts</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/nt/repealed_act/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/nt/repealed_act/</local_id>
+         <last_updated>2016-08-16T01:52:02Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/nt/repealed_act/</url>
+         <title>Northern Territory Repealed Acts</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/wa/repealed_reg/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/wa/repealed_reg/</local_id>
+         <last_updated>2016-08-16T01:50:47Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/wa/repealed_reg/</url>
+         <title>Western Australian Repealed Regulations</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/lawreform/NSWLRCDP/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/lawreform/NSWLRCDP/</local_id>
+         <last_updated>2016-08-16T01:52:22Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/lawreform/NSWLRCDP/</url>
+         <title>New South Wales Law Reform Commission - Discussion Papers 1979-2005</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.nzlii.org/nz/cases/NZIPOTM/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.nzlii.org/nz/cases/NZIPOTM/</local_id>
+         <last_updated>2016-08-16T01:51:50Z</last_updated>
+         <url>http://www.nzlii.org/nz/cases/NZIPOTM/</url>
+         <title>Intellectual Property Office of New Zealand - Trade Marks 1955-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/cth/NNTTA/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/cth/NNTTA/</local_id>
+         <last_updated>2016-08-16T01:52:30Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/cth/NNTTA/</url>
+         <title>National Native Title Tribunal 1994-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/GriffLawRw/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/GriffLawRw/</local_id>
+         <last_updated>2016-08-16T01:53:22Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/GriffLawRw/</url>
+         <title>Griffith Law Review 1992- </title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/FedLRev/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/FedLRev/</local_id>
+         <last_updated>2016-08-16T01:53:23Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/FedLRev/</url>
+         <title>Federal Law Review 2001- </title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/vic/repealed_reg/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/vic/repealed_reg/</local_id>
+         <last_updated>2016-08-16T01:50:50Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/vic/repealed_reg/</url>
+         <title>Victorian Repealed Regulations</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/journals/ElderLawRw/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/journals/ElderLawRw/</local_id>
+         <last_updated>2016-08-16T01:53:25Z</last_updated>
+         <url>http://www.austlii.edu.au/au/journals/ElderLawRw/</url>
+         <title>Elder Law Review 2002- </title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/other/rulings/ato/ATOSMSFPR/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/other/rulings/ato/ATOSMSFPR/</local_id>
+         <last_updated>2016-08-16T01:52:42Z</last_updated>
+         <url>http://www.austlii.edu.au/au/other/rulings/ato/ATOSMSFPR/</url>
+         <title>ATO Self Managed Superannuation Funds Product Rulings 2009-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.nzlii.org/nz/cases/NZHSE/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.nzlii.org/nz/cases/NZHSE/</local_id>
+         <last_updated>2016-08-16T01:51:48Z</last_updated>
+         <url>http://www.nzlii.org/nz/cases/NZHSE/</url>
+         <title>New Zealand Health and Safety in Employment 1997-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.nzlii.org/nz/cases/NZMLC/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.nzlii.org/nz/cases/NZMLC/</local_id>
+         <last_updated>2016-08-16T01:51:37Z</last_updated>
+         <url>http://www.nzlii.org/nz/cases/NZMLC/</url>
+         <title>Maori Land Court of New Zealand 1993-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/legis/cth/table/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/legis/cth/table/</local_id>
+         <last_updated>2016-08-16T01:52:29Z</last_updated>
+         <url>http://www.austlii.edu.au/au/legis/cth/table/</url>
+         <title>Commonwealth Legislation Tables 1901-</title>
       </dataset>
       <dataset>
+         <group>AustLII</group>
          <key>http://www.austlii.edu.au/au/cases/cth/HCA/</key>
          <source>researchdata.ands.org</source>
-         <local_id/>
+         <local_id>http://www.austlii.edu.au/au/cases/cth/HCA/</local_id>
+         <last_updated>2016-08-16T01:52:34Z</last_updated>
+         <url>http://www.austlii.edu.au/au/cases/cth/HCA/</url>
+         <title>High Court of Australia 1903-</title>
       </dataset>
    </datasets>
 </registryObjects>

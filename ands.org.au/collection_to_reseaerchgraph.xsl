@@ -19,16 +19,12 @@
     <!-- RegistryObjects (root) Template             -->
     <!-- =========================================== -->
     <xsl:template match="/">
-        <xsl:param name="date-stamp">
-            <xsl:value-of select="date-stamp"/>
-        </xsl:param>
         <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes
             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
             <datasets>
-                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset">
-                    <xsl:with-param name="date-stamp" select="$date-stamp"/>
-                </xsl:apply-templates>
+                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
+                
             </datasets>
         </registryObjects>
     </xsl:template>
@@ -37,7 +33,9 @@
     <!-- Dataset Template                            -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="dataset">
-        <xsl:param name="date-stamp"/>
+        <xsl:param name="date-stamp">
+            <xsl:value-of select=".//oai:datestamp"/>
+        </xsl:param>
         <xsl:apply-templates select=".//oai:metadata" mode="dataset">
             <xsl:with-param name="date-stamp" select="$date-stamp"/>
         </xsl:apply-templates>
@@ -47,15 +45,32 @@
         <xsl:param name="date-stamp"/>
         <xsl:variable name="forCode" select="substring-after(., ':')"/>
         <dataset>
-           <key>
-               <xsl:value-of select=".//rif:electronic[@type='url']/rif:value"/>
-           </key>
+            <group>
+                <xsl:value-of select=".//rif:registryObject/@group"/>
+            </group>
+            <key>
+                <xsl:value-of select=".//rif:electronic[@type='url']/rif:value"/>
+            </key>
             <source>
                 <xsl:value-of select="$source"/>
             </source>
             <local_id>
-                <xsl:value-of select=".//rif:identifier[@type='local']"/>
+                <xsl:value-of select=".//rif:key"/>
             </local_id>
+            <last_updated>
+                <xsl:value-of select="$date-stamp"/>
+            </last_updated>
+            <url>
+                <xsl:value-of select=".//rif:electronic[@type='url']/rif:value"/>
+            </url>
+            <title>
+                <xsl:value-of select=".//rif:name[@type='primary']/rif:namePart"/>
+            </title>
+            <!--<xsl:if test=".//rif:dates[@type='dc.created']/rif:date">
+                <publication_year>
+                    <xsl:value-of select=".//rif:dates[@type='dc.created']/rif:date"/>
+                </publication_year>
+            </xsl:if>-->
         </dataset>
     </xsl:template>
 </xsl:stylesheet>
