@@ -61,7 +61,7 @@
 		<xsl:variable name="forCode" select="substring-after(., ':')"/>
 		<dataset>
 			<key>
-				<xsl:value-of select=".//mods:identifier[@type='uri']"/>
+				<xsl:value-of select="$source"/>/<xsl:value-of select="substring-after(.//mods:identifier[not(@*)],'doi:')"/>
 			</key>
 			<source>
 				<xsl:value-of select="$source"/>
@@ -107,17 +107,13 @@
 		<xsl:variable name="forCode" select="substring-after(., ':')"/>
 		<publication>
 			<key>
-				<xsl:value-of select=".//mods:identifier[@type='uri']"/>
+				<xsl:value-of select="$source"/>/<xsl:value-of select="substring-after(.//mods:identifier[not(@*)],'doi:')"/>
 			</key>
 			<source>
 				<xsl:value-of select="$source"/>
 			</source>
 			<local_id>
-				<xsl:choose>
-					<xsl:when test="boolean(contains(.//mods:identifier[@type='uri'], 'hdl.handle.net/10255/'))">
-						<xsl:value-of select="substring-after(.//mods:identifier[@type='uri'], '10255/')"/>
-					</xsl:when>
-				</xsl:choose>
+				<xsl:value-of select="substring-after(.//mods:identifier[not(@*)],'doi:')"/>
 			</local_id>
 			<last_updated>
 				<xsl:value-of select="$date-stamp"/>
