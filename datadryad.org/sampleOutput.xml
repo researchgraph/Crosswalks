@@ -2,7 +2,7 @@
 <registryObjects xmlns="http://researchgraph.org/schema/v2.0/xml/nodes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes        https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
    <datasets>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.18/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.18/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.18/1</local_id>
          <title>Maximum Likelihood Estimator</title>
@@ -12,7 +12,7 @@
          <doi>doi:10.5061/dryad.18/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.18/2</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.18/2</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.18/2</local_id>
          <title>Statistical Analyzer</title>
@@ -22,7 +22,7 @@
          <doi>doi:10.5061/dryad.18/2</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.18/3</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.18/3</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.18/3</local_id>
          <title>Sporulation Rate Data</title>
@@ -32,7 +32,7 @@
          <doi>doi:10.5061/dryad.18/3</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.20/2</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.20/2</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.20/2</local_id>
          <title>Relative Warps</title>
@@ -42,7 +42,7 @@
          <doi>doi:10.5061/dryad.20/2</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.25/12</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.25/12</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.25/12</local_id>
          <title>Nexus File</title>
@@ -52,7 +52,7 @@
          <doi>doi:10.5061/dryad.25/12</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.25/30</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.25/30</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.25/30</local_id>
          <title>Schematic Lithostratigraphy of the Wealden</title>
@@ -62,7 +62,7 @@
          <doi>doi:10.5061/dryad.25/30</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.20/3</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.20/3</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.20/3</local_id>
          <title>Landmark Consensuses</title>
@@ -72,7 +72,7 @@
          <doi>doi:10.5061/dryad.20/3</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.20/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.20/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.20/1</local_id>
          <title>Morphospace Specimens</title>
@@ -82,7 +82,7 @@
          <doi>doi:10.5061/dryad.20/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.59/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.59/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.59/1</local_id>
          <title>Pinus-Rhizopogon Cross-Inoculation Experiment</title>
@@ -92,7 +92,7 @@
          <doi>doi:10.5061/dryad.59/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.64/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.64/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.64/1</local_id>
          <title>Soltis et al. Table 1</title>
@@ -102,7 +102,7 @@
          <doi>doi:10.5061/dryad.64/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.66/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.66/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.66/1</local_id>
          <title>Baum et. al Data Matrix</title>
@@ -112,7 +112,7 @@
          <doi>doi:10.5061/dryad.66/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/5</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/5</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/5</local_id>
          <title>Cerchio and Tucker Data Matrix: Clustal</title>
@@ -122,7 +122,7 @@
          <doi>doi:10.5061/dryad.70/5</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/8</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/8</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/8</local_id>
          <title>Cerchio and Tucker Data Matrix: Conservative-1</title>
@@ -132,7 +132,7 @@
          <doi>doi:10.5061/dryad.70/8</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/9</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/9</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/9</local_id>
          <title>Cerchio and Tucker Data Matrix: Conservative-2</title>
@@ -142,7 +142,7 @@
          <doi>doi:10.5061/dryad.70/9</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/11</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/11</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/11</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.111.01</title>
@@ -152,7 +152,7 @@
          <doi>doi:10.5061/dryad.70/11</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/10</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/10</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/10</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.111.02</title>
@@ -162,7 +162,7 @@
          <doi>doi:10.5061/dryad.70/10</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/16</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/16</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/16</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.111.03</title>
@@ -172,7 +172,7 @@
          <doi>doi:10.5061/dryad.70/16</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/23</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/23</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/23</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.124.01</title>
@@ -182,7 +182,7 @@
          <doi>doi:10.5061/dryad.70/23</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/25</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/25</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/25</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.124.02</title>
@@ -192,7 +192,7 @@
          <doi>doi:10.5061/dryad.70/25</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/12</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/12</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/12</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.124.03</title>
@@ -202,7 +202,7 @@
          <doi>doi:10.5061/dryad.70/12</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/21</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/21</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/21</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.124.04</title>
@@ -212,7 +212,7 @@
          <doi>doi:10.5061/dryad.70/21</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/19</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/19</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/19</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.124.05</title>
@@ -222,7 +222,7 @@
          <doi>doi:10.5061/dryad.70/19</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.82/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.82/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.82/1</local_id>
          <title>Price and Gittleman Data Set</title>
@@ -232,7 +232,7 @@
          <doi>doi:10.5061/dryad.82/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/20</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/20</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/20</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.124.06</title>
@@ -242,7 +242,7 @@
          <doi>doi:10.5061/dryad.70/20</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/3</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/3</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/3</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.124.07</title>
@@ -252,7 +252,7 @@
          <doi>doi:10.5061/dryad.70/3</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/1</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.124.08</title>
@@ -262,7 +262,7 @@
          <doi>doi:10.5061/dryad.70/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/7</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/7</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/7</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.124.09</title>
@@ -272,7 +272,7 @@
          <doi>doi:10.5061/dryad.70/7</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/4</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/4</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/4</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.124.10</title>
@@ -282,7 +282,7 @@
          <doi>doi:10.5061/dryad.70/4</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/18</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/18</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/18</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.136.01</title>
@@ -292,7 +292,7 @@
          <doi>doi:10.5061/dryad.70/18</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/6</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/6</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/6</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.136.02</title>
@@ -302,7 +302,7 @@
          <doi>doi:10.5061/dryad.70/6</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/14</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/14</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/14</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.136.03</title>
@@ -312,7 +312,7 @@
          <doi>doi:10.5061/dryad.70/14</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/15</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/15</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/15</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.136.04</title>
@@ -322,7 +322,7 @@
          <doi>doi:10.5061/dryad.70/15</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/22</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/22</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/22</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.136.05</title>
@@ -332,7 +332,7 @@
          <doi>doi:10.5061/dryad.70/22</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/13</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/13</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/13</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.136.06</title>
@@ -342,7 +342,7 @@
          <doi>doi:10.5061/dryad.70/13</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/27</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/27</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/27</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.136.07</title>
@@ -352,7 +352,7 @@
          <doi>doi:10.5061/dryad.70/27</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/17</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/17</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/17</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.136.08</title>
@@ -362,7 +362,7 @@
          <doi>doi:10.5061/dryad.70/17</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/26</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/26</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/26</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.136.09</title>
@@ -372,7 +372,7 @@
          <doi>doi:10.5061/dryad.70/26</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/24</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/24</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/24</local_id>
          <title>Cerchio and Tucker Data Matrix: MALIGN.136.10</title>
@@ -382,7 +382,7 @@
          <doi>doi:10.5061/dryad.70/24</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.70/2</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70/2</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70/2</local_id>
          <title>Cerchio and Tucker Data Matrix: Milinkovitch</title>
@@ -392,7 +392,7 @@
          <doi>doi:10.5061/dryad.70/2</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.100/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.100/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.100/1</local_id>
          <title>Davis et al Data Matrix</title>
@@ -402,7 +402,7 @@
          <doi>doi:10.5061/dryad.100/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.102/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.102/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.102/1</local_id>
          <title>Stone Data Matrix</title>
@@ -412,7 +412,7 @@
          <doi>doi:10.5061/dryad.102/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.104/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.104/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.104/1</local_id>
          <title>Burk et al Data Matrix</title>
@@ -422,7 +422,7 @@
          <doi>doi:10.5061/dryad.104/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.106/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.106/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.106/1</local_id>
          <title>Chombard et al Data Matrix</title>
@@ -432,7 +432,7 @@
          <doi>doi:10.5061/dryad.106/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.108/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.108/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.108/1</local_id>
          <title>Normark and Lanteri Appendix 1</title>
@@ -442,7 +442,7 @@
          <doi>doi:10.5061/dryad.108/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.108/2</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.108/2</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.108/2</local_id>
          <title>Normark and Lanteri Appendix 2</title>
@@ -452,7 +452,7 @@
          <doi>doi:10.5061/dryad.108/2</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.111/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.111/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.111/1</local_id>
          <title>Wiens 40 Taxon Matrix</title>
@@ -462,7 +462,7 @@
          <doi>doi:10.5061/dryad.111/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.111/2</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.111/2</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.111/2</local_id>
          <title>Wiens Tree I Matrix</title>
@@ -472,7 +472,7 @@
          <doi>doi:10.5061/dryad.111/2</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.111/3</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.111/3</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.111/3</local_id>
          <title>Wiens Tree II Matrix</title>
@@ -482,7 +482,7 @@
          <doi>doi:10.5061/dryad.111/3</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.111/4</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.111/4</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.111/4</local_id>
          <title>Wiens Tree III Matrix</title>
@@ -492,7 +492,7 @@
          <doi>doi:10.5061/dryad.111/4</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.116/1</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.116/1</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.116/1</local_id>
          <title>Graham et al Appendix 1</title>
@@ -502,7 +502,7 @@
          <doi>doi:10.5061/dryad.116/1</doi>
       </dataset>
       <dataset>
-         <key>daradryad.org/10.5061/dryad.116/2</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.116/2</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.116/2</local_id>
          <title>Graham et al Appendix 2</title>
@@ -514,7 +514,7 @@
    </datasets>
    <publications>
       <publication>
-         <key>daradryad.org/10.5061/dryad.12</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.12</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.12</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -525,7 +525,7 @@
          <doi>doi:10.5061/dryad.12</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.18</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.18</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.18</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -536,7 +536,7 @@
          <doi>doi:10.5061/dryad.18</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.20</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.20</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.20</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -547,7 +547,7 @@
          <doi>doi:10.5061/dryad.20</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.25</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.25</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.25</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -558,7 +558,7 @@
          <doi>doi:10.5061/dryad.25</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.59</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.59</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.59</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -569,7 +569,7 @@
          <doi>doi:10.5061/dryad.59</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.64</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.64</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.64</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -580,7 +580,7 @@
          <doi>doi:10.5061/dryad.64</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.66</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.66</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.66</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -591,7 +591,7 @@
          <doi>doi:10.5061/dryad.66</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.68</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.68</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.68</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -602,7 +602,7 @@
          <doi>doi:10.5061/dryad.68</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.70</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.70</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.70</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -613,7 +613,7 @@
          <doi>doi:10.5061/dryad.70</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.82</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.82</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.82</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -624,7 +624,7 @@
          <doi>doi:10.5061/dryad.82</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.100</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.100</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.100</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -635,7 +635,7 @@
          <doi>doi:10.5061/dryad.100</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.102</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.102</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.102</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -646,7 +646,7 @@
          <doi>doi:10.5061/dryad.102</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.104</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.104</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.104</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -657,7 +657,7 @@
          <doi>doi:10.5061/dryad.104</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.106</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.106</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.106</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -668,7 +668,7 @@
          <doi>doi:10.5061/dryad.106</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.108</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.108</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.108</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -679,7 +679,7 @@
          <doi>doi:10.5061/dryad.108</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.111</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.111</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.111</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
@@ -690,7 +690,7 @@
          <doi>doi:10.5061/dryad.111</doi>
       </publication>
       <publication>
-         <key>daradryad.org/10.5061/dryad.116</key>
+         <key>Researchgraph.org/dryad/10.5061/dryad.116</key>
          <source>daradryad.org</source>
          <local_id>10.5061/dryad.116</local_id>
          <last_updated>2011-08-02T20:00:05Z</last_updated>
