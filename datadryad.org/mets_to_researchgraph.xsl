@@ -67,11 +67,7 @@
 				<xsl:value-of select="$source"/>
 			</source>
 			<local_id>
-				<xsl:choose>
-					<xsl:when test="boolean(contains(.//mods:identifier[@type='uri'],'hdl.handle.net/10255/'))">
-						<xsl:value-of select="substring-after(.//mods:identifier[@type='uri'],'10255/')"/>
-					</xsl:when>
-				</xsl:choose>
+				<xsl:value-of select="substring-after(.//mods:identifier[not(@*)],'doi:')"/>
 			</local_id>
 			<title>
 				<xsl:value-of select=".//mods:titleInfo"/>
@@ -85,11 +81,10 @@
 			<publication_year>
 				<xsl:value-of select="substring(.//mods:dateIssued, 1, 4) "/>
 			</publication_year>
-			<xsl:if test=".//mods:identifier[not(@*)]">
-				<doi>
-					<xsl:value-of select=".//mods:identifier[not(@*)]"/>
-				</doi>
-			</xsl:if>
+			<doi>
+				<xsl:value-of select=".//mods:identifier[not(@*)]"/>
+			</doi>
+			
 		</dataset>
 	</xsl:template>
 	<!-- =========================================== -->
