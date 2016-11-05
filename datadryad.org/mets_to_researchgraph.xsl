@@ -61,7 +61,7 @@
 		<xsl:variable name="forCode" select="substring-after(., ':')"/>
 		<dataset>
 			<key>
-				<xsl:value-of select="concat('researchgraph.org/dryad/',substring-after(.//mods:identifier[not(@*)],'doi:'))"/>
+				<xsl:value-of select="concat('Researchgraph.org/dryad/',substring-after(.//mods:identifier[not(@*)],'doi:'))"/>
 			</key>
 			<source>
 				<xsl:value-of select="$source"/>
@@ -107,8 +107,7 @@
 		<xsl:variable name="forCode" select="substring-after(., ':')"/>
 		<publication>
 			<key>
-				researchgraph.org/dryad/<xsl:value-of select="substring-after(.//mods:identifier[not(@*)],'doi:')"/>
-			</key>
+				<xsl:value-of select="concat('Researchgraph.org/dryad/',substring-after(.//mods:identifier[not(@*)],'doi:'))"/>			</key>
 			<source>
 				<xsl:value-of select="$source"/>
 			</source>
