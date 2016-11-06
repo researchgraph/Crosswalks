@@ -2,8 +2,8 @@
 <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
    <researchers>
       <researcher>
-         <key>102.100.100/4589</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/102.100.100/4589</key>
+         <source>flinders.edu.au</source>
          <local_id>102.100.100/4589</local_id>
          <last_updated>2014-07-17T02:36:27Z</last_updated>
          <url>http://www.flinders.edu.au/people/julie.holledge</url>
@@ -13,8 +13,8 @@
          <orcid>102.100.100/4589</orcid>
       </researcher>
       <researcher>
-         <key>102.100.100/4591</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/102.100.100/4591</key>
+         <source>flinders.edu.au</source>
          <local_id>102.100.100/4591</local_id>
          <last_updated>2014-07-17T02:36:27Z</last_updated>
          <url/>
@@ -24,8 +24,8 @@
          <orcid>102.100.100/4591</orcid>
       </researcher>
       <researcher>
-         <key>102.100.100/4586</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/102.100.100/4586</key>
+         <source>flinders.edu.au</source>
          <local_id>102.100.100/4586</local_id>
          <last_updated>2014-07-17T02:36:28Z</last_updated>
          <url>http://www.flinders.edu.au/people/jonathan.bollen</url>
@@ -35,8 +35,8 @@
          <orcid>102.100.100/4586</orcid>
       </researcher>
       <researcher>
-         <key>102.100.100/4623</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/102.100.100/4623</key>
+         <source>flinders.edu.au</source>
          <local_id>102.100.100/4623</local_id>
          <last_updated>2014-07-17T02:36:28Z</last_updated>
          <url>http://www.flinders.edu.au/people/joh.hartog</url>
@@ -46,8 +46,8 @@
          <orcid>102.100.100/4623</orcid>
       </researcher>
       <researcher>
-         <key>www.ballarat.edu.au/party/0000015158</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</key>
+         <source>federation.edu.au</source>
          <local_id>www.ballarat.edu.au/party/0000015158</local_id>
          <last_updated>2015-03-22T22:47:38Z</last_updated>
          <url/>
@@ -57,8 +57,8 @@
          <orcid>www.ballarat.edu.au/party/0000015158</orcid>
       </researcher>
       <researcher>
-         <key>www.ballarat.edu.au/party/0000017769</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.ballarat.edu.au/party/0000017769</key>
+         <source>federation.edu.au</source>
          <local_id>www.ballarat.edu.au/party/0000017769</local_id>
          <last_updated>2014-07-17T02:36:31Z</last_updated>
          <url/>
@@ -68,8 +68,8 @@
          <orcid>www.ballarat.edu.au/party/0000017769</orcid>
       </researcher>
       <researcher>
-         <key>www.ballarat.edu.au/party/0000017632</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.ballarat.edu.au/party/0000017632</key>
+         <source>federation.edu.au</source>
          <local_id>www.ballarat.edu.au/party/0000017632</local_id>
          <last_updated>2014-07-17T02:36:31Z</last_updated>
          <url/>
@@ -79,8 +79,8 @@
          <orcid>www.ballarat.edu.au/party/0000017632</orcid>
       </researcher>
       <researcher>
-         <key>www.ballarat.edu.au/party/0000022532</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.ballarat.edu.au/party/0000022532</key>
+         <source>federation.edu.au</source>
          <local_id>www.ballarat.edu.au/party/0000022532</local_id>
          <last_updated>2014-07-17T02:36:32Z</last_updated>
          <url/>
@@ -90,8 +90,8 @@
          <orcid>www.ballarat.edu.au/party/0000022532</orcid>
       </researcher>
       <researcher>
-         <key>lateralplains.com/gfong</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/lateralplains.com/gfong</key>
+         <source>federation.edu.au</source>
          <local_id>lateralplains.com/gfong</local_id>
          <last_updated>2014-07-17T02:36:37Z</last_updated>
          <url/>
@@ -101,8 +101,8 @@
          <orcid>lateralplains.com/gfong</orcid>
       </researcher>
       <researcher>
-         <key>www.ballarat.edu.au/staff/hethompson</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.ballarat.edu.au/staff/hethompson</key>
+         <source>federation.edu.au</source>
          <local_id>www.ballarat.edu.au/staff/hethompson</local_id>
          <last_updated>2015-05-11T04:03:29Z</last_updated>
          <url/>
@@ -112,8 +112,8 @@
          <orcid>www.ballarat.edu.au/staff/hethompson</orcid>
       </researcher>
       <researcher>
-         <key>www.ballarat.edu.au/party/FCHARCHAR</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.ballarat.edu.au/party/FCHARCHAR</key>
+         <source>federation.edu.au</source>
          <local_id>www.ballarat.edu.au/party/FCHARCHAR</local_id>
          <last_updated>2014-07-17T02:36:39Z</last_updated>
          <url/>
@@ -123,8 +123,8 @@
          <orcid>www.ballarat.edu.au/party/FCHARCHAR</orcid>
       </researcher>
       <researcher>
-         <key>bradley.evans@mq.edu.au</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bradley.evans@mq.edu.au</key>
+         <source>mq.edu.au</source>
          <local_id>bradley.evans@mq.edu.au</local_id>
          <last_updated>2014-07-17T02:36:41Z</last_updated>
          <url/>
@@ -134,8 +134,8 @@
          <orcid>bradley.evans@mq.edu.au</orcid>
       </researcher>
       <researcher>
-         <key>colin.prentice@mq.edu.au</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/colin.prentice@mq.edu.au</key>
+         <source>mq.edu.au</source>
          <local_id>colin.prentice@mq.edu.au</local_id>
          <last_updated>2014-07-17T02:36:42Z</last_updated>
          <url/>
@@ -145,8 +145,8 @@
          <orcid>colin.prentice@mq.edu.au</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-2</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-2</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-2</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
          <url/>
@@ -156,8 +156,8 @@
          <orcid>www.bioplatforms.com/party-2</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-15</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-15</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-15</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
          <url/>
@@ -167,8 +167,8 @@
          <orcid>www.bioplatforms.com/party-15</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-7</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-7</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-7</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
          <url/>
@@ -178,8 +178,8 @@
          <orcid>www.bioplatforms.com/party-7</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-10</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-10</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-10</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
          <url/>
@@ -189,8 +189,8 @@
          <orcid>www.bioplatforms.com/party-10</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-12</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-12</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-12</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
          <url/>
@@ -200,8 +200,8 @@
          <orcid>www.bioplatforms.com/party-12</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-17</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-17</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-17</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
          <url/>
@@ -211,8 +211,8 @@
          <orcid>www.bioplatforms.com/party-17</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-14</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-14</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-14</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
          <url/>
@@ -222,8 +222,8 @@
          <orcid>www.bioplatforms.com/party-14</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-3</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-3</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-3</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
          <url/>
@@ -233,8 +233,8 @@
          <orcid>www.bioplatforms.com/party-3</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-9</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-9</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-9</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
          <url/>
@@ -244,8 +244,8 @@
          <orcid>www.bioplatforms.com/party-9</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-16</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-16</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-16</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
          <url/>
@@ -255,8 +255,8 @@
          <orcid>www.bioplatforms.com/party-16</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-13</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-13</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-13</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
          <url/>
@@ -266,8 +266,8 @@
          <orcid>www.bioplatforms.com/party-13</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-8</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-8</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-8</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
          <url/>
@@ -277,8 +277,8 @@
          <orcid>www.bioplatforms.com/party-8</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-4</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-4</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-4</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
          <url/>
@@ -288,8 +288,8 @@
          <orcid>www.bioplatforms.com/party-4</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-5</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-5</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-5</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
          <url/>
@@ -299,8 +299,8 @@
          <orcid>www.bioplatforms.com/party-5</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-11</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-11</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-11</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
          <url/>
@@ -310,8 +310,8 @@
          <orcid>www.bioplatforms.com/party-11</orcid>
       </researcher>
       <researcher>
-         <key>www.bioplatforms.com/party-6</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.bioplatforms.com/party-6</key>
+         <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-6</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
          <url/>
@@ -321,8 +321,8 @@
          <orcid>www.bioplatforms.com/party-6</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/8</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/8</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/8</local_id>
          <last_updated>2014-07-17T02:36:59Z</last_updated>
          <url/>
@@ -332,8 +332,8 @@
          <orcid>bond.edu.au/PTY/8</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/18</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/18</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/18</local_id>
          <last_updated>2014-07-17T02:37:00Z</last_updated>
          <url/>
@@ -343,8 +343,8 @@
          <orcid>bond.edu.au/PTY/18</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY13</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY13</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY13</local_id>
          <last_updated>2014-07-17T02:37:00Z</last_updated>
          <url/>
@@ -354,8 +354,8 @@
          <orcid>bond.edu.au/PTY13</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/5</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/5</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/5</local_id>
          <last_updated>2014-07-17T02:37:00Z</last_updated>
          <url/>
@@ -365,8 +365,8 @@
          <orcid>bond.edu.au/PTY/5</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/7</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/7</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/7</local_id>
          <last_updated>2014-07-17T02:37:00Z</last_updated>
          <url/>
@@ -376,8 +376,8 @@
          <orcid>bond.edu.au/PTY/7</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY12</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY12</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY12</local_id>
          <last_updated>2014-07-17T02:37:01Z</last_updated>
          <url/>
@@ -387,8 +387,8 @@
          <orcid>bond.edu.au/PTY12</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/21</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/21</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/21</local_id>
          <last_updated>2014-07-17T02:37:01Z</last_updated>
          <url/>
@@ -398,8 +398,8 @@
          <orcid>bond.edu.au/PTY/21</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/22</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/22</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/22</local_id>
          <last_updated>2014-07-17T02:37:01Z</last_updated>
          <url/>
@@ -409,8 +409,8 @@
          <orcid>bond.edu.au/PTY/22</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY15</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY15</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY15</local_id>
          <last_updated>2014-07-17T02:37:01Z</last_updated>
          <url/>
@@ -420,8 +420,8 @@
          <orcid>bond.edu.au/PTY15</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/9</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/9</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/9</local_id>
          <last_updated>2014-07-17T02:37:03Z</last_updated>
          <url/>
@@ -431,8 +431,8 @@
          <orcid>bond.edu.au/PTY/9</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/10</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/10</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/10</local_id>
          <last_updated>2014-07-17T02:37:03Z</last_updated>
          <url/>
@@ -442,8 +442,8 @@
          <orcid>bond.edu.au/PTY/10</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/11</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/11</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/11</local_id>
          <last_updated>2014-07-17T02:37:03Z</last_updated>
          <url/>
@@ -453,8 +453,8 @@
          <orcid>bond.edu.au/PTY/11</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/20</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/20</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/20</local_id>
          <last_updated>2014-07-17T02:37:04Z</last_updated>
          <url/>
@@ -464,8 +464,8 @@
          <orcid>bond.edu.au/PTY/20</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/17</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/17</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/17</local_id>
          <last_updated>2014-07-17T02:37:05Z</last_updated>
          <url/>
@@ -475,8 +475,8 @@
          <orcid>bond.edu.au/PTY/17</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/4</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/4</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/4</local_id>
          <last_updated>2014-07-17T02:37:05Z</last_updated>
          <url/>
@@ -486,8 +486,8 @@
          <orcid>bond.edu.au/PTY/4</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/19</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/19</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/19</local_id>
          <last_updated>2014-07-17T02:37:05Z</last_updated>
          <url/>
@@ -497,8 +497,8 @@
          <orcid>bond.edu.au/PTY/19</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY14</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY14</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY14</local_id>
          <last_updated>2014-07-17T02:37:05Z</last_updated>
          <url/>
@@ -508,8 +508,8 @@
          <orcid>bond.edu.au/PTY14</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/1</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/1</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/1</local_id>
          <last_updated>2014-07-17T02:37:06Z</last_updated>
          <url/>
@@ -519,8 +519,8 @@
          <orcid>bond.edu.au/PTY/1</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/6</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/6</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/6</local_id>
          <last_updated>2014-07-17T02:37:06Z</last_updated>
          <url/>
@@ -530,8 +530,8 @@
          <orcid>bond.edu.au/PTY/6</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/2</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/2</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/2</local_id>
          <last_updated>2014-07-17T02:37:07Z</last_updated>
          <url/>
@@ -541,8 +541,8 @@
          <orcid>bond.edu.au/PTY/2</orcid>
       </researcher>
       <researcher>
-         <key>bond.edu.au/PTY/3</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/bond.edu.au/PTY/3</key>
+         <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/3</local_id>
          <last_updated>2014-07-17T02:37:07Z</last_updated>
          <url/>
@@ -552,8 +552,8 @@
          <orcid>bond.edu.au/PTY/3</orcid>
       </researcher>
       <researcher>
-         <key>www.cai.uq.edu.au/party-3</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-3</key>
+         <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-3</local_id>
          <last_updated>2014-08-25T14:00:20Z</last_updated>
          <url>http://www.qbi.uq.edu.au/group-leader-bartlett</url>
@@ -563,8 +563,8 @@
          <orcid>www.cai.uq.edu.au/party-3</orcid>
       </researcher>
       <researcher>
-         <key>www.cai.uq.edu.au/party-12</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-12</key>
+         <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-12</local_id>
          <last_updated>2014-08-25T14:00:18Z</last_updated>
          <url>http://www.cai.uq.edu.au/janke</url>
@@ -574,8 +574,8 @@
          <orcid>www.cai.uq.edu.au/party-12</orcid>
       </researcher>
       <researcher>
-         <key>www.cai.uq.edu.au/party-13</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-13</key>
+         <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-13</local_id>
          <last_updated>2014-08-25T14:00:17Z</last_updated>
          <url>http://www.cai.uq.edu.au/kurniawan</url>
@@ -585,8 +585,8 @@
          <orcid>www.cai.uq.edu.au/party-13</orcid>
       </researcher>
       <researcher>
-         <key>www.cai.uq.edu.au/party-2</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-2</key>
+         <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-2</local_id>
          <last_updated>2014-08-25T14:00:20Z</last_updated>
          <url>http://www.cai.uq.edu.au/reutens</url>
@@ -596,8 +596,8 @@
          <orcid>www.cai.uq.edu.au/party-2</orcid>
       </researcher>
       <researcher>
-         <key>www.cai.uq.edu.au/party-7</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-7</key>
+         <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-7</local_id>
          <last_updated>2014-08-25T14:00:18Z</last_updated>
          <url/>
@@ -607,8 +607,8 @@
          <orcid>www.cai.uq.edu.au/party-7</orcid>
       </researcher>
       <researcher>
-         <key>www.cai.uq.edu.au/party-8</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-8</key>
+         <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-8</local_id>
          <last_updated>2014-08-25T14:00:18Z</last_updated>
          <url/>
@@ -618,8 +618,8 @@
          <orcid>www.cai.uq.edu.au/party-8</orcid>
       </researcher>
       <researcher>
-         <key>www.cai.uq.edu.au/party-6</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-6</key>
+         <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-6</local_id>
          <last_updated>2014-08-25T14:00:19Z</last_updated>
          <url/>
@@ -629,8 +629,8 @@
          <orcid>www.cai.uq.edu.au/party-6</orcid>
       </researcher>
       <researcher>
-         <key>www.cai.uq.edu.au/party-5</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-5</key>
+         <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-5</local_id>
          <last_updated>2014-08-25T14:00:19Z</last_updated>
          <url/>
@@ -640,8 +640,8 @@
          <orcid>www.cai.uq.edu.au/party-5</orcid>
       </researcher>
       <researcher>
-         <key>www.cai.uq.edu.au/party-10</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-10</key>
+         <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-10</local_id>
          <last_updated>2014-08-25T14:00:18Z</last_updated>
          <url>http://www.cai.uq.edu.au/keller</url>
@@ -651,8 +651,8 @@
          <orcid>www.cai.uq.edu.au/party-10</orcid>
       </researcher>
       <researcher>
-         <key>www.cai.uq.edu.au/party-4</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-4</key>
+         <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-4</local_id>
          <last_updated>2014-08-25T14:00:20Z</last_updated>
          <url>http://www.cai.uq.edu.au/galloway</url>
@@ -662,8 +662,8 @@
          <orcid>www.cai.uq.edu.au/party-4</orcid>
       </researcher>
       <researcher>
-         <key>canberra.edu.au/Party/Ps614519</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/canberra.edu.au/Party/Ps614519</key>
+         <source>canberra.edu.au</source>
          <local_id>canberra.edu.au/Party/Ps614519</local_id>
          <last_updated>2015-05-29T01:26:43Z</last_updated>
          <url>http://ise.canberra.edu.au/mwagner/</url>
@@ -673,8 +673,8 @@
          <orcid>canberra.edu.au/Party/Ps614519</orcid>
       </researcher>
       <researcher>
-         <key>canberra.edu.au/Party/Ps423738</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/canberra.edu.au/Party/Ps423738</key>
+         <source>canberra.edu.au</source>
          <local_id>canberra.edu.au/Party/Ps423738</local_id>
          <last_updated>2015-05-27T03:59:26Z</last_updated>
          <url>http://staff.estem-uc.edu.au/roland</url>
@@ -684,8 +684,8 @@
          <orcid>canberra.edu.au/Party/Ps423738</orcid>
       </researcher>
       <researcher>
-         <key>(QCQU)rm115819</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/(QCQU)rm115819</key>
+         <source>cqu.edu.au</source>
          <local_id>(QCQU)rm115819</local_id>
          <last_updated>2014-07-17T02:37:36Z</last_updated>
          <url>http://cem.cqu.edu.au/FCWViewer/staff.do;jsessionid...sid=MELZERA</url>
@@ -695,8 +695,8 @@
          <orcid>(QCQU)rm115819</orcid>
       </researcher>
       <researcher>
-         <key>(QCQU)rm353122</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/(QCQU)rm353122</key>
+         <source>cqu.edu.au</source>
          <local_id>(QCQU)rm353122</local_id>
          <last_updated>2014-07-17T02:37:39Z</last_updated>
          <url/>
@@ -706,8 +706,8 @@
          <orcid>(QCQU)rm353122</orcid>
       </researcher>
       <researcher>
-         <key>(QCQU)rm364697</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/(QCQU)rm364697</key>
+         <source>cqu.edu.au</source>
          <local_id>(QCQU)rm364697</local_id>
          <last_updated>2014-07-17T02:37:40Z</last_updated>
          <url/>
@@ -717,8 +717,8 @@
          <orcid>(QCQU)rm364697</orcid>
       </researcher>
       <researcher>
-         <key>(QCQU)rm260337</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/(QCQU)rm260337</key>
+         <source>cqu.edu.au</source>
          <local_id>(QCQU)rm260337</local_id>
          <last_updated>2014-07-17T02:37:44Z</last_updated>
          <url>http://cem.cqu.edu.au</url>
@@ -728,8 +728,8 @@
          <orcid>(QCQU)rm260337</orcid>
       </researcher>
       <researcher>
-         <key>(QCQU)rm397621</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/(QCQU)rm397621</key>
+         <source>cqu.edu.au</source>
          <local_id>(QCQU)rm397621</local_id>
          <last_updated>2014-07-17T02:37:44Z</last_updated>
          <url/>
@@ -739,8 +739,8 @@
          <orcid>(QCQU)rm397621</orcid>
       </researcher>
       <researcher>
-         <key>(QCQU)rda647864</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/(QCQU)rda647864</key>
+         <source>cqu.edu.au</source>
          <local_id>(QCQU)rda647864</local_id>
          <last_updated>2014-07-17T02:37:44Z</last_updated>
          <url>http://cem.cqu.edu.au</url>
@@ -750,8 +750,8 @@
          <orcid>(QCQU)rda647864</orcid>
       </researcher>
       <researcher>
-         <key>(QCQU)rm337168</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/(QCQU)rm337168</key>
+         <source>cqu.edu.au</source>
          <local_id>(QCQU)rm337168</local_id>
          <last_updated>2014-07-17T02:37:45Z</last_updated>
          <url>http://researchexpertise.cqu.edu.au/expertise/profile.php?facid=17&amp;amp;schoolid=&amp;amp;staffid=492</url>
@@ -761,8 +761,8 @@
          <orcid>(QCQU)rm337168</orcid>
       </researcher>
       <researcher>
-         <key>(QCQU)rm108872</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/(QCQU)rm108872</key>
+         <source>cqu.edu.au</source>
          <local_id>(QCQU)rm108872</local_id>
          <last_updated>2014-07-17T02:37:46Z</last_updated>
          <url>http://researchexpertise.cqu.edu.au/expertise/profile.php?facid=17&amp;amp;schoolid=&amp;amp;staffid=34</url>
@@ -772,8 +772,8 @@
          <orcid>(QCQU)rm108872</orcid>
       </researcher>
       <researcher>
-         <key>(QCQU)rm170823</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/(QCQU)rm170823</key>
+         <source>cqu.edu.au</source>
          <local_id>(QCQU)rm170823</local_id>
          <last_updated>2014-07-17T02:37:47Z</last_updated>
          <url>http://cem.cqu.edu.au/FCWViewer/staff.do?sid=SMALLK</url>
@@ -783,8 +783,8 @@
          <orcid>(QCQU)rm170823</orcid>
       </researcher>
       <researcher>
-         <key>(QCQU)rm347839</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/(QCQU)rm347839</key>
+         <source>cqu.edu.au</source>
          <local_id>(QCQU)rm347839</local_id>
          <last_updated>2014-07-17T02:37:49Z</last_updated>
          <url/>
@@ -794,8 +794,8 @@
          <orcid>(QCQU)rm347839</orcid>
       </researcher>
       <researcher>
-         <key>(QCQU)rm301672</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/(QCQU)rm301672</key>
+         <source>cqu.edu.au</source>
          <local_id>(QCQU)rm301672</local_id>
          <last_updated>2014-07-17T02:37:49Z</last_updated>
          <url>http://researchexpertise.cqu.edu.au/expertise/profile.php?facid=17&amp;amp;schoolid=&amp;amp;staffid=603</url>
@@ -805,8 +805,8 @@
          <orcid>(QCQU)rm301672</orcid>
       </researcher>
       <researcher>
-         <key>(QCQU)rm330044</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/(QCQU)rm330044</key>
+         <source>cqu.edu.au</source>
          <local_id>(QCQU)rm330044</local_id>
          <last_updated>2014-07-17T02:37:50Z</last_updated>
          <url>http://cem.cqu.edu.au/FCWViewer/staff.do?sid=BOYDW</url>
@@ -816,8 +816,8 @@
          <orcid>(QCQU)rm330044</orcid>
       </researcher>
       <researcher>
-         <key>http://vivo.curtin.edu.au/vivo/individual/tm706235</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm706235</key>
+         <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm706235</local_id>
          <last_updated>2015-11-19T07:04:52Z</last_updated>
          <url>http://nanochemistry.curtin.edu.au/people/andrew.cfm</url>
@@ -827,8 +827,8 @@
          <orcid>http://vivo.curtin.edu.au/vivo/individual/tm706235</orcid>
       </researcher>
       <researcher>
-         <key>http://vivo.curtin.edu.au/vivo/individual/tm51984603</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm51984603</key>
+         <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm51984603</local_id>
          <last_updated>2014-07-17T02:37:56Z</last_updated>
          <url>http://oasisapps.curtin.edu.au/staff/profile/view/K.Munyard</url>
@@ -838,8 +838,8 @@
          <orcid>http://vivo.curtin.edu.au/vivo/individual/tm51984603</orcid>
       </researcher>
       <researcher>
-         <key>http://vivo.curtin.edu.au/vivo/individual/tm17407726</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm17407726</key>
+         <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm17407726</local_id>
          <last_updated>2014-09-18T03:23:21Z</last_updated>
          <url>http://nanochemistry.curtin.edu.au/people/damien.cfm</url>
@@ -849,8 +849,8 @@
          <orcid>http://vivo.curtin.edu.au/vivo/individual/tm17407726</orcid>
       </researcher>
       <researcher>
-         <key>curtin.edu.au/P0003</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/curtin.edu.au/P0003</key>
+         <source>curtin.edu.au</source>
          <local_id>curtin.edu.au/P0003</local_id>
          <last_updated>2014-07-17T02:37:58Z</last_updated>
          <url/>
@@ -860,8 +860,8 @@
          <orcid>curtin.edu.au/P0003</orcid>
       </researcher>
       <researcher>
-         <key>http://vivo.curtin.edu.au/vivo/individual/tm11565244</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm11565244</key>
+         <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm11565244</local_id>
          <last_updated>2014-07-17T02:38:01Z</last_updated>
          <url>http://humanities.curtin.edu.au/about/staff/index.cfm/j.yiannakis</url>
@@ -871,8 +871,8 @@
          <orcid>http://vivo.curtin.edu.au/vivo/individual/tm11565244</orcid>
       </researcher>
       <researcher>
-         <key>curtin.edu.au/P0002</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/curtin.edu.au/P0002</key>
+         <source>curtin.edu.au</source>
          <local_id>curtin.edu.au/P0002</local_id>
          <last_updated>2014-07-17T02:38:02Z</last_updated>
          <url/>
@@ -882,8 +882,8 @@
          <orcid>curtin.edu.au/P0002</orcid>
       </researcher>
       <researcher>
-         <key>http://vivo.curtin.edu.au/vivo/individual/tm12229346</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12229346</key>
+         <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm12229346</local_id>
          <last_updated>2014-07-17T02:38:03Z</last_updated>
          <url>http://healthsciences.curtin.edu.au/faculty/research_staff_hide.cfm/O.Carter</url>
@@ -893,8 +893,8 @@
          <orcid>http://vivo.curtin.edu.au/vivo/individual/tm12229346</orcid>
       </researcher>
       <researcher>
-         <key>http://vivo.curtin.edu.au/vivo/individual/tm12410681</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12410681</key>
+         <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm12410681</local_id>
          <last_updated>2014-07-17T02:38:04Z</last_updated>
          <url>http://healthsciences.curtin.edu.au/research/chronic_innovators.cfm</url>
@@ -904,8 +904,8 @@
          <orcid>http://vivo.curtin.edu.au/vivo/individual/tm12410681</orcid>
       </researcher>
       <researcher>
-         <key>http://vivo.curtin.edu.au/vivo/individual/tm12212269</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12212269</key>
+         <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm12212269</local_id>
          <last_updated>2014-07-17T02:38:04Z</last_updated>
          <url>http://healthsciences.curtin.edu.au/research/chiri_adjunct_staff.cfm/Marthe.Smith</url>
@@ -915,8 +915,8 @@
          <orcid>http://vivo.curtin.edu.au/vivo/individual/tm12212269</orcid>
       </researcher>
       <researcher>
-         <key>http://vivo.curtin.edu.au/vivo/individual/tm26961945</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm26961945</key>
+         <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm26961945</local_id>
          <last_updated>2014-07-17T02:38:05Z</last_updated>
          <url>http://geophysics.curtin.edu.au/about_us/academic_oasis.cfm/A.Squelch</url>
@@ -926,8 +926,8 @@
          <orcid>http://vivo.curtin.edu.au/vivo/individual/tm26961945</orcid>
       </researcher>
       <researcher>
-         <key>http://vivo.curtin.edu.au/vivo/individual/tm54522248</key>
-         <source>researchdata.ands.org</source>
+         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm54522248</key>
+         <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm54522248</local_id>
          <last_updated>2014-07-17T02:38:05Z</last_updated>
          <url>http://cs.curtin.edu.au/people/index.cfm/T.Tan</url>

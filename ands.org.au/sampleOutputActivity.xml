@@ -2,1001 +2,1101 @@
 <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes          https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
    <grants>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0667253</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0667253</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0667253_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0667253</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0667253</url>
          <title>British Empire and the Natural World: the Environmental History of the British Empire and Commonwealth 1600-2000</title>
          <start_year>2006</start_year>
          <end_year>2010</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0985120</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0985120</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0985120_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0985120</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0985120</url>
          <title>A Novel Reconfigurable Unlimited Spherical Motion Generator</title>
          <start_year>2009</start_year>
          <end_year>2011</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0209948</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0209948</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0209948_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0209948</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0209948</url>
          <title>The Fine Tuned Physiology of Microaerophilic Gastric Spirilla</title>
          <start_year>2002</start_year>
          <end_year>2004</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0450145</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0450145</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450145_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0450145</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0450145</url>
          <title>Self-assembled nanolayers of functionalised latexes as selective and adaptable nano-stationary phases in separation science</title>
          <start_year>2004</start_year>
          <end_year>2008</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LX0454426</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LX0454426</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0454426_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0454426</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LX0454426</url>
          <title>Development of Optical Clocks and Their Applications to Precision Frequency Measurements and Time Keeping</title>
          <start_year>2004</start_year>
          <end_year>2006</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0882478</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0882478</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882478_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0882478</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0882478</url>
          <title>Digestive Physiology of Crocodilians: Towards an Improved Diet and Feeding Regime for Use by the Farming Industry</title>
          <start_year>2008</start_year>
          <end_year>2010</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP1094033</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP1094033</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094033_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1094033</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP1094033</url>
          <title>Dreams: A Cultural History, 1840-1940</title>
          <start_year>2010</start_year>
          <end_year>2012</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0346529</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0346529</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0346529_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0346529</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0346529</url>
          <title>Interferometry beyond the Standard Quantum Limit</title>
          <start_year>2003</start_year>
          <end_year>2005</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0449516</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0449516</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449516_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0449516</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0449516</url>
          <title>Neoliberalism, Inequality and Politics: Public Policy and the Transformation of Australian Society</title>
          <start_year>2004</start_year>
          <end_year>2007</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0451923</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0451923</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451923_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0451923</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0451923</url>
          <title>Disruption of Sex Pheromone Biosynthesis: A Novel Control Method for Pestiferous Fruit Flies by</title>
          <start_year>2004</start_year>
          <end_year>2006</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0558543</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0558543</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0558543_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0558543</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0558543</url>
          <title>Surface Polymorphism of Hard Brittle Materials</title>
          <start_year>2005</start_year>
          <end_year>2007</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LE0882221</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LE0882221</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0882221_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LE0882221</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LE0882221</url>
          <title>A National Facility for Light Metal Powder Processing</title>
          <start_year>2008</start_year>
          <end_year>2008</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0663600</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0663600</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0663600_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0663600</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0663600</url>
          <title>Ambivalent Adolescents in Indonesia</title>
          <start_year>2006</start_year>
          <end_year>2009</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LE0668534</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LE0668534</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0668534_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LE0668534</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LE0668534</url>
          <title>High resolution bioanalytical Fourier transform mass spectrometer combined with liquid chromatograph</title>
          <start_year>2006</start_year>
          <end_year>2006</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0668009</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0668009</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0668009_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0668009</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0668009</url>
          <title>CONTROL OF AGGREGATE STRUCTURE, SETTLING AND DEWATERING IN MINERAL TAILINGS PROCESSING</title>
          <start_year>2006</start_year>
          <end_year>2008</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0880250</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0880250</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0880250_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0880250</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0880250</url>
          <title>SeqSeeker: a search engine for large numbers of very long sequences</title>
          <start_year>2008</start_year>
          <end_year>2010</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0884010</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0884010</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0884010_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0884010</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0884010</url>
          <title>Managing the world's most precious resource:  The role of water accounting</title>
          <start_year>2008</start_year>
          <end_year>2011</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0342945</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0342945</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0342945_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0342945</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0342945</url>
          <title>Testing the ghost with the machine: Empirical investigations of cognition using high-field functional magnetic resonance imaging</title>
          <start_year>2003</start_year>
          <end_year>2005</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0347418</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0347418</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347418_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0347418</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0347418</url>
          <title>A longitudinal study of language learning to assess early intervention outcomes in pre-school children with impaired hearing</title>
          <start_year>2003</start_year>
          <end_year>2005</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0449434</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0449434</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449434_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0449434</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0449434</url>
          <title>A framework for optimisation and concurrent design in photonics</title>
          <start_year>2004</start_year>
          <end_year>2008</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0347690</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0347690</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347690_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0347690</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0347690</url>
          <title>Manipulation of the growth potential  and carcass composition of domestic animal species</title>
          <start_year>2003</start_year>
          <end_year>2005</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0342788</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0342788</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0342788_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0342788</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0342788</url>
          <title>Stable isotopes in marsupials: reconstruction of environmental change in Australia</title>
          <start_year>2003</start_year>
          <end_year>2005</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0454851</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0454851</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0454851_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0454851</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0454851</url>
          <title>Competition and Collaboration in the Market for Digital Publishing</title>
          <start_year>2004</start_year>
          <end_year>2007</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0235210</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0235210</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0235210_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0235210</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0235210</url>
          <title>Analysis of non-invasive central aortic pressure using a Web-based international database</title>
          <start_year>2002</start_year>
          <end_year>2004</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0345279</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0345279</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0345279_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0345279</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0345279</url>
          <title>Adaptive Agents Simulation of Freshwater Ecosystems: Artificial Intelligence Framework to Discover and Forecast Emergent Ecosystem Structures and Behaviours in Response to Environmental Changes</title>
          <start_year>2003</start_year>
          <end_year>2005</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP1095620</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP1095620</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1095620_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1095620</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP1095620</url>
          <title>Structure, Dynamics and Control of Wall-Bounded Turbulence</title>
          <start_year>2010</start_year>
          <end_year>2012</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LX0560258</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LX0560258</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0560258_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0560258</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LX0560258</url>
          <title>Male germ line transgenesis and siRNA technology for manipulating genes in domestic species</title>
          <start_year>2004</start_year>
          <end_year>2005</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0771208</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0771208</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0771208_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0771208</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0771208</url>
          <title>A study of vocal tract resonances in the singing voice to develop tools for teaching singing</title>
          <start_year>2007</start_year>
          <end_year>2009</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0880295</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0880295</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0880295_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0880295</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0880295</url>
          <title>Failure-Based Testing: An In-Depth Theoretical and Experimental Study</title>
          <start_year>2008</start_year>
          <end_year>2010</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0772763</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0772763</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0772763_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0772763</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0772763</url>
          <title>The Dissemination and Control of Clandestine Writing in England 1695--1774</title>
          <start_year>2007</start_year>
          <end_year>2009</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0879002</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0879002</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879002_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0879002</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0879002</url>
          <title>Examining organisational complexity and clinical risk to improve hospital patients' safety.</title>
          <start_year>2008</start_year>
          <end_year>2010</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0345664</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0345664</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0345664_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0345664</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0345664</url>
          <title>Implementing Feferman-Landin Logic</title>
          <start_year>2003</start_year>
          <end_year>2003</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0770913</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0770913</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0770913_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0770913</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0770913</url>
          <title>Passive mechanical properties of human muscles</title>
          <start_year>2007</start_year>
          <end_year>2009</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LE0347955</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LE0347955</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0347955_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LE0347955</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LE0347955</url>
          <title>A Cell Sorter Facility for Neuroscience and Related Biotechnology</title>
          <start_year>2003</start_year>
          <end_year>2003</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP1094328</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP1094328</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094328_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1094328</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP1094328</url>
          <title>Moduli spaces</title>
          <start_year>2010</start_year>
          <end_year>2012</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0990196</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0990196</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0990196_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0990196</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0990196</url>
          <title>Investigation of Australian crop species for the rhizoremediation of residual sulfonyl urea herbicide contaminations in agricultural soils.</title>
          <start_year>2009</start_year>
          <end_year>2012</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0986003</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0986003</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0986003_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0986003</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0986003</url>
          <title>Digital Interferometry: A platform technology for robust optical measurements</title>
          <start_year>2009</start_year>
          <end_year>2011</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0664077</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0664077</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0664077_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0664077</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0664077</url>
          <title>Reaching the superheavy elements: a new approach with a novel ultra-sensitive detector array</title>
          <start_year>2006</start_year>
          <end_year>2008</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0662989</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0662989</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0662989_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0662989</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0662989</url>
          <title>Synthesis of Novel Dual Acting, Selenium Containing Antioxidants</title>
          <start_year>2006</start_year>
          <end_year>2008</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP100100776</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP100100776</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP100100776_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP100100776</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP100100776</url>
          <title>Functional proteomics of Giardia</title>
          <start_year>2010</start_year>
          <end_year>2012</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0208535</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0208535</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208535_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0208535</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0208535</url>
          <title>Molecular basis for the synergistic potentiation of anthracycline anticancer agents by formaldehyde-releasing prodrugs.</title>
          <start_year>2002</start_year>
          <end_year>2006</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0987900</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0987900</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0987900_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0987900</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0987900</url>
          <title>Escaping the concurrency trade-off: a new approach to enterprise software</title>
          <start_year>2009</start_year>
          <end_year>2011</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0556525</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0556525</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0556525_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0556525</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0556525</url>
          <title>The role of sulphate reducing bacteria in the pitting corrosion of mild steel as used for engineering infrastructure applications</title>
          <start_year>2005</start_year>
          <end_year>2007</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0669864</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0669864</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0669864_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0669864</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0669864</url>
          <title>Implementation and Evaluation of an Intensive Music Education Program for Schoolchildren</title>
          <start_year>2006</start_year>
          <end_year>2009</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0665247</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0665247</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0665247_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0665247</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0665247</url>
          <title>Photonic Crystal Enhanced Wavelength Selective, Multi-Colour Quantum Dot Infrared Photodetectors</title>
          <start_year>2006</start_year>
          <end_year>2008</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP100100477</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP100100477</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP100100477_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP100100477</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP100100477</url>
          <title>Novel Self Assembled Particle Systems as a Key to Next Generation Biosensor Technology</title>
          <start_year>2010</start_year>
          <end_year>2012</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0451545</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0451545</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451545_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0451545</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0451545</url>
          <title>Function of the unique mitotic form of MEK</title>
          <start_year>2004</start_year>
          <end_year>2006</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0208246</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0208246</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208246_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0208246</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0208246</url>
          <title>Evolutionary ecology of snakes and lizards</title>
          <start_year>2002</start_year>
          <end_year>2006</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP1095875</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP1095875</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1095875_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1095875</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP1095875</url>
          <title>Understanding an exotic disease: Initiation of sex and infection by the sugarcane smut Ustilago scitaminea</title>
          <start_year>2010</start_year>
          <end_year>2012</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0662810</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0662810</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0662810_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0662810</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0662810</url>
          <title>Very high energy gamma-ray astronomy in Australia and the development of future gamma-ray detectors</title>
          <start_year>2006</start_year>
          <end_year>2010</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/SR0354804</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>SR0354804</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/SR0354804_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/SR0354804</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/SR0354804</url>
          <title>ARC Research Network on Degraded Environment Assessment and Remediation</title>
          <start_year>2003</start_year>
          <end_year>2003</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0455349</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0455349</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0455349_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0455349</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0455349</url>
          <title>The cause of basal stem rot  in second rotation Eucalyptus globulus plantations</title>
          <start_year>2004</start_year>
          <end_year>2007</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0555903</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0555903</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0555903_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0555903</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0555903</url>
          <title>Parallel-Link Mechanism Control using new Concept and Techniques</title>
          <start_year>2005</start_year>
          <end_year>2007</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0562504</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0562504</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0562504_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0562504</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0562504</url>
          <title>Combating subsoil acidity for sustainable production through managing plant cation-anion uptake</title>
          <start_year>2005</start_year>
          <end_year>2008</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0343598</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0343598</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0343598_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0343598</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0343598</url>
          <title>Computational Modeling of RNA Control Networks</title>
          <start_year>2003</start_year>
          <end_year>2005</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0449560</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0449560</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449560_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0449560</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0449560</url>
          <title>Stepping-Stones or Barrier: The Movement and Impact of People throughout the Far Eastern Pacific Islands.</title>
          <start_year>2004</start_year>
          <end_year>2007</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0208516</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0208516</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208516_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0208516</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0208516</url>
          <title>Minimum sizes and habitat areas for viable populations</title>
          <start_year>2002</start_year>
          <end_year>2003</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP1092717</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP1092717</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1092717_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1092717</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP1092717</url>
          <title>Complementary metal_oxide_semiconductor (CMOS) -compatible ultra-high response piezoelectric thin films for efficient energy harvesting</title>
          <start_year>2010</start_year>
          <end_year>2012</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LX0882079</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LX0882079</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0882079_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0882079</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LX0882079</url>
          <title>Mapping the past using advanced technologies: Satellite applications for uncovering archaeological remains at Angkor</title>
          <start_year>2008</start_year>
          <end_year>2008</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0557608</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0557608</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0557608_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0557608</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0557608</url>
          <title>Co-operative intellectual property management and technology transfer for the Australian biotechnology industry</title>
          <start_year>2005</start_year>
          <end_year>2007</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0347032</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0347032</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347032_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0347032</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0347032</url>
          <title>Laser based combustion diagnostics of an automotive development engine</title>
          <start_year>2003</start_year>
          <end_year>2005</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0451508</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0451508</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451508_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0451508</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0451508</url>
          <title>Functional Analyses of Bacteria Involved in Enhanced Biological Phosphorus Removal from Wastewater</title>
          <start_year>2004</start_year>
          <end_year>2007</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0776987</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0776987</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0776987_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0776987</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0776987</url>
          <title>Metapopulation and habitat quality: towards an integrated approach to the conservation of an endangered grassland lizard</title>
          <start_year>2007</start_year>
          <end_year>2010</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0209047</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0209047</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0209047_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0209047</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0209047</url>
          <title>Metapopulation dynamics of coral communities on the Great Barrier Reef</title>
          <start_year>2002</start_year>
          <end_year>2002</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0559769</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0559769</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0559769_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0559769</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0559769</url>
          <title>A Spatially-Aware RFID-enhanced Sensor Network</title>
          <start_year>2005</start_year>
          <end_year>2007</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0562507</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0562507</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0562507_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0562507</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0562507</url>
          <title>The effect of dissolved organic matter on the toxicity and bioavailability of metals in tropical freshwater ecosystems</title>
          <start_year>2005</start_year>
          <end_year>2008</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0990393</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0990393</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0990393_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0990393</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0990393</url>
          <title>Novel cloud computing based workflow technology for managing large numbers of process instances</title>
          <start_year>2009</start_year>
          <end_year>2012</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0451536</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0451536</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451536_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0451536</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0451536</url>
          <title>Compact Low-Cost Tunable UV Lasers for Biosensing Applications</title>
          <start_year>2004</start_year>
          <end_year>2006</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0560472</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0560472</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0560472_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0560472</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0560472</url>
          <title>On Line Real Time Inspection of Vehicle Structures</title>
          <start_year>2005</start_year>
          <end_year>2007</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0663392</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0663392</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0663392_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0663392</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0663392</url>
          <title>The Semantics of Canonical Parallelism: Oral composition among Rotinese poets, eastern Indonesia</title>
          <start_year>2006</start_year>
          <end_year>2008</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0879344</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0879344</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879344_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0879344</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0879344</url>
          <title>Voice over Internet Protocol: Privacy and Electronic Evidence Implications</title>
          <start_year>2008</start_year>
          <end_year>2010</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LX0667392</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LX0667392</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0667392_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0667392</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LX0667392</url>
          <title>Ionization and excitation of excited helium atoms</title>
          <start_year>2006</start_year>
          <end_year>2006</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LX0664539</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LX0664539</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0664539_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0664539</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LX0664539</url>
          <title>CNTs-modified polymer composites for tribological applications</title>
          <start_year>2006</start_year>
          <end_year>2006</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0450012</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0450012</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450012_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0450012</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0450012</url>
          <title>Bacterial cell behaviour in micro/nano-confined environments</title>
          <start_year>2004</start_year>
          <end_year>2006</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0988064</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0988064</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0988064_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0988064</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0988064</url>
          <title>Investigation of three dimensional terahertz computed tomography for biomedical applications</title>
          <start_year>2009</start_year>
          <end_year>2011</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP1092694</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP1092694</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1092694_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1092694</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP1092694</url>
          <title>Triggering the release of polymer bound platinum drugs</title>
          <start_year>2010</start_year>
          <end_year>2012</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0991378</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0991378</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0991378_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0991378</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0991378</url>
          <title>The costs of youth homelessness in Australia</title>
          <start_year>2009</start_year>
          <end_year>2012</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0450037</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0450037</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450037_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0450037</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0450037</url>
          <title>Healthier Water: Innovative Processes for Arsenic Removal and  Sludge Management</title>
          <start_year>2004</start_year>
          <end_year>2006</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0770083</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0770083</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0770083_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0770083</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0770083</url>
          <title>Epitaxial Nanowires for Optoelectronic Device Applications</title>
          <start_year>2007</start_year>
          <end_year>2011</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LX0561265</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LX0561265</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0561265_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0561265</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LX0561265</url>
          <title>Echoes of the earliest Homo sapiens movement out of Africa</title>
          <start_year>2005</start_year>
          <end_year>2005</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0883549</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0883549</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0883549_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0883549</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0883549</url>
          <title>Development and evaluation of an Occupational Health and Safety framework for work related driving</title>
          <start_year>2008</start_year>
          <end_year>2011</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0211395</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0211395</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0211395_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0211395</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0211395</url>
          <title>The changing geographies of power, knowledge and access in Australia's financial services sector: a regional development perspective.</title>
          <start_year>2002</start_year>
          <end_year>2002</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/SR0354827</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>SR0354827</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/SR0354827_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/SR0354827</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/SR0354827</url>
          <title>HEALTHY AGEING - PREVENTION AND INTERVENTION  (HA-PI) NETWORK:     A RESEARCH NETWORK PROPOSAL ON THE BIOLOGICAL, SOCIAL AND PRIMARY CARE DYNAMICS OF AGEING</title>
          <start_year>2003</start_year>
          <end_year>2003</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0879330</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0879330</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879330_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0879330</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0879330</url>
          <title>Crustal-Scale Fluid Flow in Deep Intracontinental Settings: Conditions, Sources and Deformational Responses</title>
          <start_year>2008</start_year>
          <end_year>2010</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0346641</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0346641</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0346641_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0346641</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0346641</url>
          <title>Advanced Studies of Turbulent Combustion: Premixed to Nonpremixed</title>
          <start_year>2003</start_year>
          <end_year>2005</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0455443</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0455443</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0455443_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0455443</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0455443</url>
          <title>A Public Health Framework of Effectiveness: Evaluating the Framework for Telephone Counselling.</title>
          <start_year>2004</start_year>
          <end_year>2007</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0666004</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0666004</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0666004_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0666004</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0666004</url>
          <title>Development of constitutive models for concentrated suspensions via particle-level simulations</title>
          <start_year>2006</start_year>
          <end_year>2008</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0344142</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0344142</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0344142_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0344142</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0344142</url>
          <title>Using the fractionation of hydrogen and carbon isotopes to analyse the mechanisms of the primary processes of photosynthesis.</title>
          <start_year>2003</start_year>
          <end_year>2005</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0772168</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0772168</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0772168_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0772168</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0772168</url>
          <title>Effective Marketing Communication: Pre-existing Knowledge Structures and Contextual Effects</title>
          <start_year>2007</start_year>
          <end_year>2009</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0882799</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0882799</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882799_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0882799</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0882799</url>
          <title>Enhancing the Production of Functional Food Powders by Studying Reaction Processes in Spray Dryers</title>
          <start_year>2008</start_year>
          <end_year>2010</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0773270</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0773270</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0773270_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0773270</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0773270</url>
          <title>MicroRNA control of gene expression and development in plants.</title>
          <start_year>2007</start_year>
          <end_year>2009</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0208429</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0208429</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208429_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0208429</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0208429</url>
          <title>Mechanisms in Catalytic Chain Transfer Polymerization</title>
          <start_year>2002</start_year>
          <end_year>2004</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LX0882710</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LX0882710</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0882710_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0882710</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LX0882710</url>
          <title>Collaboration with The NANTEN2 International Star Formation Consortium</title>
          <start_year>2008</start_year>
          <end_year>2010</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0453652</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0453652</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0453652_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0453652</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0453652</url>
          <title>Creative digital industries in Australia: innovation in quantitative and qualitative mapping</title>
          <start_year>2004</start_year>
          <end_year>2006</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0773012</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0773012</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0773012_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0773012</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0773012</url>
          <title>Rapidly Locating Items in Distribution Networks with Process-Driven Nodes</title>
          <start_year>2007</start_year>
          <end_year>2009</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0774125</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0774125</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0774125_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0774125</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0774125</url>
          <title>The role of extracurricular activity participation in promoting healthy development of Australian youth</title>
          <start_year>2007</start_year>
          <end_year>2009</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/LP0882090</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>LP0882090</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882090_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0882090</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/LP0882090</url>
          <title>The conservation of widely distributed species: implications of differences between western and eastern koala populations</title>
          <start_year>2008</start_year>
          <end_year>2010</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP1094059</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP1094059</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094059_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1094059</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP1094059</url>
          <title>Intracellular calcium in intact muscle during fatigue and stretch-induced damage</title>
          <start_year>2010</start_year>
          <end_year>2012</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0450393</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0450393</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450393_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0450393</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0450393</url>
          <title>The status and conceptualisation of cultural knowledge in language-in-education policy for second/foreign language education</title>
          <start_year>2004</start_year>
          <end_year>2006</end_year>
       </grant>
       <grant>
-         <group>Australian Research Council</group>
-         <key>http://purl.org/au-research/grants/arc/DP0452646</key>
-         <source>arc.gov.au/general/searchable_data.htm</source>
-         <local_id>DP0452646</local_id>
+         <key>Researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0452646_
+         </key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0452646</local_id>
          <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <url>http://purl.org/au-research/grants/arc/DP0452646</url>
          <title>Assessing Bone Quality and Health: Experimental imaging, structural characterisation, and mechanical modelling of bone in 3D</title>
          <start_year>2004</start_year>
          <end_year>2006</end_year>

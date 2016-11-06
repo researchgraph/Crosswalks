@@ -14,6 +14,7 @@
     <xsl:variable name="smallcase" select="'abcdefghijklmnopqrstuvwxyz'" />
     <xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" />
+    <xsl:variable name="andsGroupList" select="document('ands_group.xml')"/>
     
     <!-- =========================================== -->
     <!-- RegistryObjects (root) Template             -->
@@ -46,12 +47,15 @@
     <xsl:template match="oai:metadata" mode="researcher">
         <xsl:param name="date-stamp"/>
         <xsl:variable name="forCode" select="substring-after(., ':')"/>
+        <xsl:variable name="groupName" select=".//rif:registryObject/@group"/>
+        <xsl:variable name="groupSource" select="$andsGroupList/root/row[group = $groupName]/source"/>
+        
         <researcher>
             <key>
-                <xsl:value-of select=".//rif:key"/>
+                <xsl:value-of select="concat('Researchgraph.org/ands/',.//rif:key)"/>
             </key>
             <source>
-                <xsl:value-of select="$source"/>
+                <xsl:value-of select="$groupSource"/>
             </source>
             <local_id>
                 <xsl:value-of select=".//rif:key"/>
