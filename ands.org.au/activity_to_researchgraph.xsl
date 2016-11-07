@@ -15,7 +15,7 @@
    <xsl:variable name="smallcase" select="'abcdefghijklmnopqrstuvwxyz'" />
    <xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
    <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" />
-   <xsl:variable name="andsGroupList" select="document('ands_group.xml')"/>
+   <xsl:variable name="andsGroupList" select="document('https://raw.githubusercontent.com/researchgraph/Crosswalks/master/ands.org.au/ands_group.xml')"/>
    
    <!-- =========================================== -->
    <!-- RegistryObjects (root) Template             -->
