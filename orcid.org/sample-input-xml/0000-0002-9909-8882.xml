@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<message-version>1.2</message-version>
+	<orcid-profile>
+		<orcid />
+		<orcid-id />
+		<orcid-identifier>
+			<value />
+			<uri>http://orcid.org/0000-0002-9909-8882</uri>
+			<path>0000-0002-9909-8882</path>
+			<host>orcid.org</host>
+		</orcid-identifier>
+		<orcid-deprecated />
+		<orcid-preferences>
+			<locale>ES</locale>
+		</orcid-preferences>
+		<orcid-history>
+			<creation-method>WEBSITE</creation-method>
+			<completion-date />
+			<submission-date>
+				<value>1381335492878</value>
+			</submission-date>
+			<last-modified-date>
+				<value>1410273142778</value>
+			</last-modified-date>
+			<claimed>
+				<value>true</value>
+			</claimed>
+			<source />
+			<deactivation-date />
+			<verified-email>
+				<value>true</value>
+			</verified-email>
+			<verified-primary-email>
+				<value>true</value>
+			</verified-primary-email>
+			<visibility />
+		</orcid-history>
+		<orcid-bio>
+			<personal-details>
+				<given-names>
+					<value>Jesús Hazael</value>
+				</given-names>
+				<family-name>
+					<value>García Gallegos</value>
+				</family-name>
+				<credit-name />
+				<other-names />
+			</personal-details>
+			<biography />
+			<researcher-urls />
+			<contact-details />
+			<keywords />
+			<external-identifiers />
+			<delegation />
+			<applications />
+			<scope />
+		</orcid-bio>
+		<orcid-activities />
+		<orcid-internal />
+		<type>USER</type>
+		<group-type />
+		<client-type />
+	</orcid-profile>
+	<orcid-search-results />
+	<error-desc />
+</root>
