@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <group>The University of Melbourne</group>
+    <source>unimelb.edu.au</source>
+  </row>
+  <row>
+    <group>AusStage: Gateway to the Australian Performing Arts</group>
+    <source>ausstage.edu.au</source>
+  </row>
+  <row>
+    <group>Federation University Australia</group>
+    <source>federation.edu.au</source>
+  </row>
+  <row>
+    <group>Bioplatforms Australia</group>
+    <source>bioplatforms.com</source>
+  </row>
+  <row>
+    <group>University of Canberra</group>
+    <source>canberra.edu.au</source>
+  </row>
+  <row>
+    <group>Central Queensland University</group>
+    <source>cqu.edu.au</source>
+  </row>
+  <row>
+    <group>Curtin University</group>
+    <source>curtin.edu.au</source>
+  </row>
+  <row>
+    <group>Deakin University</group>
+    <source>deakin.edu.au</source>
+  </row>
+  <row>
+    <group>The University of Queensland</group>
+    <source>uq.edu.au</source>
+  </row>
+  <row>
+    <group>Griffith University</group>
+    <source>griffith.edu.au</source>
+  </row>
+  <row>
+    <group>Monash University</group>
+    <source>monash.edu</source>
+  </row>
+  <row>
+    <group>The University of Sydney</group>
+    <source>sydney.edu.au</source>
+  </row>
+  <row>
+    <group>Western Sydney University</group>
+    <source>westernsydney.edu.au</source>
+  </row>
+  <row>
+    <group>NCRIS</group>
+    <source>ncris.innovation.gov.au</source>
+  </row>
+  <row>
+    <group>The University of Newcastle, Australia</group>
+    <source>newcastle.edu.au</source>
+  </row>
+  <row>
+    <group>PARADISEC</group>
+    <source>paradisec.org.au</source>
+  </row>
+  <row>
+    <group>The University of Adelaide</group>
+    <source>adelaide.edu.au</source>
+  </row>
+  <row>
+    <group>Queensland University of Technology</group>
+    <source>qut.edu.au</source>
+  </row>
+  <row>
+    <group>RMIT University</group>
+    <source>rmit.edu.au</source>
+  </row>
+  <row>
+    <group>Southern Cross University</group>
+    <source>scu.edu.au</source>
+  </row>
+  <row>
+    <group>Australian Research Council</group>
+    <source>arc.gov.au</source>
+  </row>
+  <row>
+    <group>National Health and Medical Research Council</group>
+    <source>nhrmc.gov.au</source>
+  </row>
+  <row>
+    <group>Swinburne University of Technology</group>
+    <source>swinburn.edu.au</source>
+  </row>
+  <row>
+    <group>La Trobe University</group>
+    <source>latrobe.edu.au</source>
+  </row>
+  <row>
+    <group>Tasmanian Partnership for Advanced Computing</group>
+    <source>tpac.org.au</source>
+  </row>
+  <row>
+    <group>University of New England</group>
+    <source>une.edu.au</source>
+  </row>
+  <row>
+    <group>University of New South Wales</group>
+    <source>unsw.edu.au</source>
+  </row>
+  <row>
+    <group>University of Wollongong</group>
+    <source>uow.edu.au</source>
+  </row>
+  <row>
+    <group>University of Southern Queensland</group>
+    <source>usq.edu.au</source>
+  </row>
+  <row>
+    <group>University of Technology, Sydney</group>
+    <source>uts.edu.au</source>
+  </row>
+  <row>
+    <group>ARC Centre of Excellence for Climate System Science</group>
+    <source>climatescience.org.au</source>
+  </row>
+  <row>
+    <group>Australian Catholic University</group>
+    <source>acu.edu.au</source>
+  </row>
+  <row>
+    <group>Australian Nuclear Science and Technology Organisation</group>
+    <source>ansto.gov.au</source>
+  </row>
+  <row>
+    <group>The Australian National University</group>
+    <source>anu.edu.au</source>
+  </row>
+  <row>
+    <group>James Cook University</group>
+    <source>jcu.edu.au</source>
+  </row>
+  <row>
+    <group>Victoria University</group>
+    <source>vu.edu.au</source>
+  </row>
+  <row>
+    <group>Hydrology and Catchment Management</group>
+    <source>sydney.edu.au</source>
+  </row>
+  <row>
+    <group>Desert Ecology Research Group</group>
+    <source>sydney.edu.au</source>
+  </row>
+  <row>
+    <group>University of South Australia</group>
+    <source>unisa.edu.au</source>
+  </row>
+  <row>
+    <group>Flinders University</group>
+    <source>flinders.edu.au</source>
+  </row>
+  <row>
+    <group>International_Centre_for_Classroom_Research</group>
+    <source>unimelb.edu.au</source>
+  </row>
+  <row>
+    <group>University_of_Melbourne</group>
+    <source>unimelb.edu.au</source>
+  </row>
+  <row>
+    <group>Murdoch University</group>
+    <source>murdoch.edu.au</source>
+  </row>
+  <row>
+    <group>Charles Darwin University</group>
+    <source>edu.edu.au</source>
+  </row>
+  <row>
+    <group>The University of Western Australia</group>
+    <source>uwa.edu.au</source>
+  </row>
+  <row>
+    <group>Australian Coastal Ecosystems Facility</group>
+    <source>acef.tern.org.au</source>
+  </row>
+  <row>
+    <group>Australian Supersite Network</group>
+    <source>supersites.net.au</source>
+  </row>
+  <row>
+    <group>Terrestrial Ecosystem Research Network</group>
+    <source>tern.org.au</source>
+  </row>
+  <row>
+    <group>Commonwealth Scientific and Industrial Research Organisation</group>
+    <source>csiro.au</source>
+  </row>
+  <row>
+    <group>OzFlux: Australian and New Zealand Flux Research and Monitoring</group>
+    <source>ozflux.org.au/</source>
+  </row>
+  <row>
+    <group>Ecosystem Modelling and Scaling Infrastructure (eMAST) Facility</group>
+    <source>emast.org.au</source>
+  </row>
+  <row>
+    <group>Australian Institute of Marine Science</group>
+    <source>aims.gov.au</source>
+  </row>
+  <row>
+    <group>Integrated Marine Observing System</group>
+    <source>imos.org.au</source>
+  </row>
+  <row>
+    <group>Charles Sturt University</group>
+    <source>csu.edu.au</source>
+  </row>
+  <row>
+    <group>Public Record Office Victoria</group>
+    <source>prov.vic.gov.au</source>
+  </row>
+  <row>
+    <group>eAtlas</group>
+    <source>eatlas.org.au</source>
+  </row>
+  <row>
+    <group>University of Tasmania, Australia</group>
+    <source>utas.edu.au</source>
+  </row>
+  <row>
+    <group>RMIT University, Australia</group>
+    <source>rmit.edu.au</source>
+  </row>
+  <row>
+    <group>Edith Cowan University</group>
+    <source>ecu.edu.au</source>
+  </row>
+  <row>
+    <group>Geoscience Australia</group>
+    <source>ga.gov.au</source>
+  </row>
+  <row>
+    <group>Australian Synchrotron</group>
+    <source>synchrotron.org.au</source>
+  </row>
+  <row>
+    <group>The University of Sydney, Australia</group>
+    <source>sydney.edu.au</source>
+  </row>
+  <row>
+    <group>N2O Network</group>
+    <source>n2o.net.au</source>
+  </row>
+  <row>
+    <group>Long Term Ecological Research Network</group>
+    <source>ltern.org.au</source>
+  </row>
+  <row>
+    <group>TERN Australian SuperSite Network</group>
+    <source>tern.org.au</source>
+  </row>
+  <row>
+    <group>Atlas of Living Australia</group>
+    <source>ala.org.au</source>
+  </row>
+  <row>
+    <group>Queensland Department of Agriculture, Fisheries and Forestry</group>
+    <source>era.daf.qld.gov.au</source>
+  </row>
+  <row>
+    <group>Australian Ecological Knowledge and Observation System</group>
+    <source>aekos.org.au</source>
+  </row>
+  <row>
+    <group>University of the Sunshine Coast</group>
+    <source>usc.edu.au</source>
+  </row>
+  <row>
+    <group>data.qld.gov.au</group>
+    <source>data.qld.gov.au</source>
+  </row>
+  <row>
+    <group>med.data.edu.au</group>
+    <source>med.data.edu.au</source>
+  </row>
+  <row>
+    <group>National Environmental Information Infrastructure</group>
+    <source>neii.gov.au</source>
+  </row>
+  <row>
+    <group>Australian Antarctic Data Centre</group>
+    <source>data.aad.gov.au</source>
+  </row>
+  <row>
+    <group>data.gov.au</group>
+    <source>data.gov.au</source>
+  </row>
+  <row>
+    <group>AuScope</group>
+    <source>auscope.org.au</source>
+  </row>
+  <row>
+    <group>AMMRF</group>
+    <source>ammrf.org.au</source>
+  </row>
+  <row>
+    <group>SIB Swiss Institute of Bioinformatics</group>
+    <source>sib.swiss</source>
+  </row>
+  <row>
+    <group>Seattle Proteome Center (SPC)</group>
+    <source>proteomebrowser.org</source>
+  </row>
+  <row>
+    <group>Human Protein Atlas Consortium</group>
+    <source>proteinatlas.org</source>
+  </row>
+  <row>
+    <group>Global Proteome Machine Organization</group>
+    <source>thegpm.org</source>
+  </row>
+  <row>
+    <group>Macquarie University</group>
+    <source>mq.edu.au</source>
+  </row>
+  <row>
+    <group>NICTA</group>
+    <source>nicta.com.au</source>
+  </row>
+  <row>
+    <group>Polar Information Commons</group>
+    <source>polarcommons.org</source>
+  </row>
+  <row>
+    <group>Publish My Data</group>
+    <source>researchdata.ands.org.au</source>
+  </row>
+  <row>
+    <group>QFAB</group>
+    <source>qfab.org</source>
+  </row>
+  <row>
+    <group>Bond University</group>
+    <source>bond.edu.au</source>
+  </row>
+  <row>
+    <group>EOAS_OHRM</group>
+    <source>eoas.info</source>
+  </row>
+  <row>
+    <group>BioGrid Australia Ltd</group>
+    <source>biogrid.org.au</source>
+  </row>
+  <row>
+    <group>OzTrack</group>
+    <source>oztrack.com.au</source>
+  </row>
+  <row>
+    <group>Australian Ocean Data Network</group>
+    <source>aodn.org.au</source>
+  </row>
+  <row>
+    <group>National Computational Infrastructure</group>
+    <source>nci.org.au</source>
+  </row>
+  <row>
+    <group>LTERN</group>
+    <source>ltern.org.au</source>
+  </row>
+  <row>
+    <group>National Library of Australia</group>
+    <source>nla.gov.au</source>
+  </row>
+  <row>
+    <group>University Of Southern Queensland</group>
+    <source>usq.edu.au</source>
+  </row>
+  <row>
+    <group>State Records Authority of New South Wales</group>
+    <source>records.nsw.gov.au</source>
+  </row>
+  <row>
+    <group>Australian SuperSite Network</group>
+    <source>supersites.net.au</source>
+  </row>
+  <row>
+    <group>MyTARDIS Default Group</group>
+    <source>synchrotron.org.au</source>
+  </row>
+  <row>
+    <group>University of Melbourne</group>
+    <source>unimelb.edu.au</source>
+  </row>
+  <row>
+    <group>AustLII</group>
+    <source>austlii.edu.au</source>
+  </row>
+  
+</root>
