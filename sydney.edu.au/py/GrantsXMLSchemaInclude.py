@@ -15,34 +15,7 @@ rifdef=\
         "participant_list",
         [
           "data",'fldData["FirstTenInvestigators"]'
-        ],
-        "ARC/NHMRC",
-        [
-          "data",'fldData["ARC/NHMRC"]'
-        ],
-        "FirstTenInvestigators",
-        [
-           "data",'fldData["FirstTenInvestigators"]'
-        ],
-        "SponsorName",
-        [
-           "data",'fldData["SponsorName"]'
-        ],
-        "SchemeName",
-        [
-           "data",'fldData["SchemeName"]'
-        ],
-        "chrFORcode1",
-        [
-           "data",'fldData["chrFORcode1"]'
-        ],
-        "chrFORcode2",
-        [
-           "data",'fldData["chrFORcode2"]'
-        ],
-        "chrFORcode3",
-        [
-           "data",'fldData["chrFORcode3"]'
         ]
+
       ]
    ]

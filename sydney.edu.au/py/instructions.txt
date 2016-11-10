@@ -1,0 +1,37 @@
+ERA machine is source of infornation having an ODBC connection to IRMA
+
+On the server chara.library.usyd.edu.au
+CSV files are created by the shell script
+runRdSwitchQueries.sh
+which runs on a regular basis employing a set of SQL queries.
+The queries are located in /home/dspace/rdswitchQueries and are run by 
+a cron job.
+
+Each query is named using the convention qry_<identifying keyword>.sh
+The shell scripts run SQL programs drawing in information from the
+IRMA and writing out CSV files named using the convention
+<identifying keyword>.csv
+
+The resulting CSV is then automatically pushed to the server 
+rdswitchboard.library.usyd.edu.au:/home/dspace/  using ssh keys
+as a secure method of transfer.
+
+On rdswitchboard a Python program  writes XML from the CSV file
+
+The identifying keyword is used to link the input CSV and the defined
+XML syntax and the output XML. So for example
+
+For example, an identifying keyword might be "Grants". CSV information relating to
+grants is in the CSV file Grants.csv. The XML schema is to be located in
+the file GrantsXMLSchemaInclude.py
+
+The csv to xml conversion program is rdswitchcsv2xml.py and is run with
+an argument rdswitchcsv2xml.py <identifying keyword> 
+in this example
+
+rdswitchcsv2xml.py Grants
+
+The above program expects a schema file called
+GrantsXMLSchemaInclude.py and an input csv file called Grants.csv.
+The program will output an xml file called r.Grants.xml
+
