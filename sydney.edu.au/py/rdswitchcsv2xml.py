@@ -1,4 +1,5 @@
-#Author Keir Vaughan-Taylor
+#!/usr/bin/python
+# Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
 # Oct 12 2016
 # Mapping data values from a local database into positions in a RIFs XML file
 import sys,csv,os
@@ -8,9 +9,9 @@ import pdb
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-# Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
-# Input Output files
-rawDatIn="qry_FullPubs.csv"
+# Rifs XML data representation of RMA data fields below
+# rifplace is a nested set of rif tag entities expressed as nested lists
+# In each list the first entry is a key, item zero is a text key every second entry is either a list of data
 
 if len(sys.argv)>1:
    setname=str(sys.argv[1])
@@ -19,15 +20,8 @@ else:
    print('For example: python createResearcherXML.py sampleResearcher.csv')
    sys.exit()
 
-rawDatIn=setname+".csv"
-rifout="./r."+setname+".xml"
-print("Output file will be at " + rifout)
-
-# Rifs XML data representation of RMA data fields below
-# rifplace is a nested set of rif tag entities expressed as nested lists
-# In each list the first entry is a key, item zero is a text key every second entry is either a list of data
-
 includeSchema="./"+setname+"XMLSchemaInclude.py"
+
 if not os.path.isfile(includeSchema):
    print("Schema File %s cannot be found." % includeSchema)
    sys.exit()
@@ -135,13 +129,24 @@ def makeCalls(rifplace,idt):
 
 # main Main    -------------------------------------------------------
 
+csvsrc="/home/dspace/rd_switchboard"
+
+# Input Output files
+rawDatIn=csvsrc+"/"+setname+".csv"
+xmlOut="/usr/local/rdswitchboard/xml/"
+rifout=xmlOut+"r."+setname+".xml"
+print "CSV sourced from " + rawDatIn
+print("Output file will be at " + rifout)
+
 idt=0    # idt is indent
 # Test input file availablility
 if not os.path.isfile(rawDatIn):
    print "Error: Input file %s not found" % rawDatIn
+   pdb.set_trace()
    sys.exit()
 
 # Read csv publication input data and write output in appropriate XML format
+#Nhgube Xrve Inhtuna-Gnlybe Jrq Abi  2 07:40:25 NRQG 2016
 with codecs.open(rifout,"w",encoding='utf-8',errors='replace') as rifoutfd:
    with open(rawDatIn,"rU") as fieldDatafd:
       datreader=csv.reader(fieldDatafd,delimiter='	')
@@ -175,4 +180,3 @@ with codecs.open(rifout,"w",encoding='utf-8',errors='replace') as rifoutfd:
       emit("</registryObjects>\n",idt)
 
 print ("End.")
-# Author Keir Vaughan-Taylor     Mon Feb  1 11:37:37 AEDT 2016
