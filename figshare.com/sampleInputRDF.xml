@@ -1,0 +1,1810 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="/v2/static/oai2.xsl"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2016-11-12T05:44:05Z</responseDate>
+  <request metadataPrefix="rdf" verb="ListRecords">https://api.figshare.com/v2/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/145088</identifier>
+        <datestamp>2010-01-08T01:24:55Z</datestamp>
+        <setSpec>category_4</setSpec>
+        <setSpec>category_12</setSpec>
+        <setSpec>portal_5</setSpec>
+        <setSpec>item_type_3</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <vivo:Dataset rdf:about="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088">
+            <bibo:doi>10.1371/journal.pone.0008619</bibo:doi>
+            <rdfs:label>A Modular BAM Complex in the Outer Membrane of the α-Proteobacterium &lt;em&gt;Caulobacter crescentus&lt;/em&gt;</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <bibo:abstract>&lt;div&gt;&lt;p&gt;Mitochondria are organelles derived from an intracellular α-proteobacterium. The biogenesis of mitochondria relies on the assembly of β-barrel proteins into the mitochondrial outer membrane, a process inherited from the bacterial ancestor. &lt;em&gt;Caulobacter crescentus&lt;/em&gt; is an α-proteobacterium, and the BAM (β-barrel assembly machinery) complex was purified and characterized from this model organism. Like the mitochondrial sorting and assembly machinery complex, we find the BAM complex to be modular in nature. A ∼150 kDa core BAM complex containing BamA, BamB, BamD, and BamE associates with additional modules in the outer membrane. One of these modules, Pal, is a lipoprotein that provides a means for anchorage to the peptidoglycan layer of the cell wall. We suggest the modular design of the BAM complex facilitates access to substrates from the protein translocase in the inner membrane.&lt;/p&gt;&lt;/div&gt;</bibo:abstract>
+            <bibo:freetextKeyword>modular</bibo:freetextKeyword>
+            <bibo:freetextKeyword>bam</bibo:freetextKeyword>
+            <bibo:freetextKeyword>membrane</bibo:freetextKeyword>
+          </vivo:Dataset>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088-authorship-254980">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Khatira_Anwari/254980-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-name">
+            <vcard:givenName>Khatira</vcard:givenName>
+            <vcard:familyName>Anwari</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088-authorship-251019">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sebastian_Poggio/251019-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-name">
+            <vcard:givenName>Sebastian</vcard:givenName>
+            <vcard:familyName>Poggio</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088-authorship-254989">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Andrew_Perry/254989-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Andrew_Perry/254989-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Andrew_Perry/254989-name">
+            <vcard:givenName>Andrew</vcard:givenName>
+            <vcard:familyName>Perry</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088-authorship-254994">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Xenia_Gatsos/254994-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-name">
+            <vcard:givenName>Xenia</vcard:givenName>
+            <vcard:familyName>Gatsos</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088-authorship-255001">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name">
+            <vcard:givenName>Sri</vcard:givenName>
+            <vcard:familyName>Harsha Ramarathinam</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088-authorship-255006">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_A_Williamson/255006-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-name">
+            <vcard:givenName>Nicholas A.</vcard:givenName>
+            <vcard:familyName>Williamson</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088-authorship-216256">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_Noinaj/216256-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-name">
+            <vcard:givenName>Nicholas</vcard:givenName>
+            <vcard:familyName>Noinaj</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088-authorship-255012">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Susan_Buchanan/255012-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-name">
+            <vcard:givenName>Susan</vcard:givenName>
+            <vcard:familyName>Buchanan</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088-authorship-189246">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Kipros_Gabriel/189246-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-name">
+            <vcard:givenName>Kipros</vcard:givenName>
+            <vcard:familyName>Gabriel</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088-authorship-105036">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Anthony_W_Purcell/105036-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-name">
+            <vcard:givenName>Anthony W.</vcard:givenName>
+            <vcard:familyName>Purcell</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088-authorship-255016">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name">
+            <vcard:givenName>Christine</vcard:givenName>
+            <vcard:familyName>Jacobs-Wagner</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088-authorship-105055">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Trevor_Lithgow/105055-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-name">
+            <vcard:givenName>Trevor</vcard:givenName>
+            <vcard:familyName>Lithgow</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/538945</identifier>
+        <datestamp>2010-01-08T02:29:10Z</datestamp>
+        <setSpec>category_4</setSpec>
+        <setSpec>category_12</setSpec>
+        <setSpec>portal_5</setSpec>
+        <setSpec>item_type_1</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Image rdf:about="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945">
+            <bibo:doi>10.1371/journal.pone.0008619.g001</bibo:doi>
+            <rdfs:label>BamA in &lt;i&gt;Caulobacter crescentus&lt;/i&gt;.</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <bibo:abstract>&lt;p&gt;(A) The domain structure of BamA. The 5 predicted POTRA domains (P1–P5) are shown in white, with the secondary structure β-α-α-β-β indicated &lt;a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008619#pone.0008619-Kim1" target="_blank"&gt;[56]&lt;/a&gt;–&lt;a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008619#pone.0008619-GatzevaTopalova1" target="_blank"&gt;[58]&lt;/a&gt; and the predicted β-barrel domain in grey. The defining “Omp85” motif &lt;a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008619#pone.0008619-Gentle2" target="_blank"&gt;[63]&lt;/a&gt; is shaded a darker grey. The mitochondrial Sam50 proteins from yeast (&lt;i&gt;S. cerevisiae&lt;/i&gt;) and humans (&lt;i&gt;H. sapiens&lt;/i&gt;) are shown for comparison. (B) Membranes from wild-type &lt;i&gt;C. crescentus&lt;/i&gt; were fractionated on sucrose gradient and analysed by SDS-PAGE. Coomassie Brilliant Blue staining (upper panel) reveals separation of the membrane protein profiles and immunoblotting (lower panel) for the inner membrane protein TimA and the outer membrane protein BamA. Mass spectrometry of the major protein bands indicated revealed identities of fifteen proteins (CC0288, CC0925, etc) annotated as TonB-dependent receptors &lt;a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008619#pone.0008619-Nierman1" target="_blank"&gt;[37]&lt;/a&gt;.&lt;/p&gt;</bibo:abstract>
+            <bibo:freetextKeyword>biochemistry/cell signaling and trafficking structures</bibo:freetextKeyword>
+            <bibo:freetextKeyword>biochemistry/membrane proteins and energy transduction</bibo:freetextKeyword>
+            <bibo:freetextKeyword>cell biology/membranes and sorting</bibo:freetextKeyword>
+            <bibo:freetextKeyword>cell biology/microbial growth and development</bibo:freetextKeyword>
+          </bibo:Image>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945-authorship-254980">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Khatira_Anwari/254980-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-name">
+            <vcard:givenName>Khatira</vcard:givenName>
+            <vcard:familyName>Anwari</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945-authorship-251019">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sebastian_Poggio/251019-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-name">
+            <vcard:givenName>Sebastian</vcard:givenName>
+            <vcard:familyName>Poggio</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945-authorship-254989">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Andrew_Perry/254989-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Andrew_Perry/254989-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Andrew_Perry/254989-name">
+            <vcard:givenName>Andrew</vcard:givenName>
+            <vcard:familyName>Perry</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945-authorship-254994">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Xenia_Gatsos/254994-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-name">
+            <vcard:givenName>Xenia</vcard:givenName>
+            <vcard:familyName>Gatsos</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945-authorship-255001">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name">
+            <vcard:givenName>Sri</vcard:givenName>
+            <vcard:familyName>Harsha Ramarathinam</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945-authorship-255006">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_A_Williamson/255006-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-name">
+            <vcard:givenName>Nicholas A.</vcard:givenName>
+            <vcard:familyName>Williamson</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945-authorship-216256">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_Noinaj/216256-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-name">
+            <vcard:givenName>Nicholas</vcard:givenName>
+            <vcard:familyName>Noinaj</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945-authorship-255012">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Susan_Buchanan/255012-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-name">
+            <vcard:givenName>Susan</vcard:givenName>
+            <vcard:familyName>Buchanan</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945-authorship-189246">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Kipros_Gabriel/189246-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-name">
+            <vcard:givenName>Kipros</vcard:givenName>
+            <vcard:familyName>Gabriel</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945-authorship-105036">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Anthony_W_Purcell/105036-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-name">
+            <vcard:givenName>Anthony W.</vcard:givenName>
+            <vcard:familyName>Purcell</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945-authorship-255016">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name">
+            <vcard:givenName>Christine</vcard:givenName>
+            <vcard:familyName>Jacobs-Wagner</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945-authorship-105055">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Trevor_Lithgow/105055-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/BamA_in_i_Caulobacter_crescentus_i_/538945"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-name">
+            <vcard:givenName>Trevor</vcard:givenName>
+            <vcard:familyName>Lithgow</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/539031</identifier>
+        <datestamp>2010-01-08T02:30:37Z</datestamp>
+        <setSpec>category_4</setSpec>
+        <setSpec>category_12</setSpec>
+        <setSpec>portal_5</setSpec>
+        <setSpec>item_type_1</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Image rdf:about="https://figshare.com/articles/The_BAM_complex_is_modular_/539031">
+            <bibo:doi>10.1371/journal.pone.0008619.g002</bibo:doi>
+            <rdfs:label>The BAM complex is modular.</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <bibo:abstract>&lt;p&gt;(A) Outer membrane vesicles (100 µg protein) were solubilised with 0.38% (w/v) dodecyl-maltoside and loaded for analysis by blue native-PAGE. The Coomassie Brilliant Blue-stained gel shows the major outer membrane protein complexes. (B) Outer membrane vesicles (100 µg protein per lane) solubilised with the indicated concentrations of dodecyl-maltoside, separated by blue native-PAGE and analysed by immuno-staining with an antiserum to BamA. The migration positions of the molecular weight markers are shown. Arrows indicate three modular forms of the BAM complex.&lt;/p&gt;</bibo:abstract>
+            <bibo:freetextKeyword>bam</bibo:freetextKeyword>
+          </bibo:Image>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_BAM_complex_is_modular_/539031-authorship-254980">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Khatira_Anwari/254980-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_BAM_complex_is_modular_/539031"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-name">
+            <vcard:givenName>Khatira</vcard:givenName>
+            <vcard:familyName>Anwari</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_BAM_complex_is_modular_/539031-authorship-251019">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sebastian_Poggio/251019-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_BAM_complex_is_modular_/539031"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-name">
+            <vcard:givenName>Sebastian</vcard:givenName>
+            <vcard:familyName>Poggio</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_BAM_complex_is_modular_/539031-authorship-254989">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Andrew_Perry/254989-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Andrew_Perry/254989-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_BAM_complex_is_modular_/539031"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Andrew_Perry/254989-name">
+            <vcard:givenName>Andrew</vcard:givenName>
+            <vcard:familyName>Perry</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_BAM_complex_is_modular_/539031-authorship-254994">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Xenia_Gatsos/254994-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_BAM_complex_is_modular_/539031"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-name">
+            <vcard:givenName>Xenia</vcard:givenName>
+            <vcard:familyName>Gatsos</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_BAM_complex_is_modular_/539031-authorship-255001">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_BAM_complex_is_modular_/539031"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name">
+            <vcard:givenName>Sri</vcard:givenName>
+            <vcard:familyName>Harsha Ramarathinam</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_BAM_complex_is_modular_/539031-authorship-255006">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_A_Williamson/255006-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_BAM_complex_is_modular_/539031"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-name">
+            <vcard:givenName>Nicholas A.</vcard:givenName>
+            <vcard:familyName>Williamson</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_BAM_complex_is_modular_/539031-authorship-216256">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_Noinaj/216256-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_BAM_complex_is_modular_/539031"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-name">
+            <vcard:givenName>Nicholas</vcard:givenName>
+            <vcard:familyName>Noinaj</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_BAM_complex_is_modular_/539031-authorship-255012">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Susan_Buchanan/255012-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_BAM_complex_is_modular_/539031"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-name">
+            <vcard:givenName>Susan</vcard:givenName>
+            <vcard:familyName>Buchanan</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_BAM_complex_is_modular_/539031-authorship-189246">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Kipros_Gabriel/189246-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_BAM_complex_is_modular_/539031"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-name">
+            <vcard:givenName>Kipros</vcard:givenName>
+            <vcard:familyName>Gabriel</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_BAM_complex_is_modular_/539031-authorship-105036">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Anthony_W_Purcell/105036-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_BAM_complex_is_modular_/539031"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-name">
+            <vcard:givenName>Anthony W.</vcard:givenName>
+            <vcard:familyName>Purcell</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_BAM_complex_is_modular_/539031-authorship-255016">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_BAM_complex_is_modular_/539031"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name">
+            <vcard:givenName>Christine</vcard:givenName>
+            <vcard:familyName>Jacobs-Wagner</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_BAM_complex_is_modular_/539031-authorship-105055">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Trevor_Lithgow/105055-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_BAM_complex_is_modular_/539031"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-name">
+            <vcard:givenName>Trevor</vcard:givenName>
+            <vcard:familyName>Lithgow</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/539147</identifier>
+        <datestamp>2010-01-08T02:32:33Z</datestamp>
+        <setSpec>category_4</setSpec>
+        <setSpec>category_12</setSpec>
+        <setSpec>portal_5</setSpec>
+        <setSpec>item_type_1</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Image rdf:about="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147">
+            <bibo:doi>10.1371/journal.pone.0008619.g003</bibo:doi>
+            <rdfs:label>Subunit composition of the BAM complex in &lt;i&gt;C. crescentus&lt;/i&gt;.</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <bibo:abstract>&lt;p&gt;(A) Outer membrane vesicles (800 µg protein) were solubilised with 0.75% (w/v) dodecyl-maltoside and the BAM complex immunoprecipitated with an antiserum recognizing the BamA subunit (lane 3) or preimmune serum (lane 4). Samples corresponding to 8 µg protein of total outer membranes (Lane 1), 8 µg protein of unbound fraction (Lane 2) and all of the material immunoprecipitated (Lane 3, 4) are shown. Asterisks indicate the IgG heavy and light chains, with the migration positions of the molecular markers shown in kDa. (B) Mass spectrometry data summarizing the identification of immunoprecipitated proteins (see &lt;a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008619#s2" target="_blank"&gt;Methods&lt;/a&gt;). In addition to the number of high confidence peptides identified by MS/MS data and sequence coverage; a MOWSE score is included, which is a probabilistic score that indicates the match of the experimental peptide precursor masses (peptide mass fingerprint) to the sequence of a candidate parental protein. Typically a MOWSE score &amp;gt;75 is considered as significant &lt;a href="http://www.plosone.org/article/info:doi/10.1371/journal.pone.0008619#pone.0008619-Pappin1" target="_blank"&gt;[64]&lt;/a&gt;.&lt;/p&gt;</bibo:abstract>
+            <bibo:freetextKeyword>bam</bibo:freetextKeyword>
+          </bibo:Image>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147-authorship-254980">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Khatira_Anwari/254980-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-name">
+            <vcard:givenName>Khatira</vcard:givenName>
+            <vcard:familyName>Anwari</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147-authorship-251019">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sebastian_Poggio/251019-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-name">
+            <vcard:givenName>Sebastian</vcard:givenName>
+            <vcard:familyName>Poggio</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147-authorship-254989">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Andrew_Perry/254989-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Andrew_Perry/254989-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Andrew_Perry/254989-name">
+            <vcard:givenName>Andrew</vcard:givenName>
+            <vcard:familyName>Perry</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147-authorship-254994">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Xenia_Gatsos/254994-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-name">
+            <vcard:givenName>Xenia</vcard:givenName>
+            <vcard:familyName>Gatsos</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147-authorship-255001">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name">
+            <vcard:givenName>Sri</vcard:givenName>
+            <vcard:familyName>Harsha Ramarathinam</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147-authorship-255006">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_A_Williamson/255006-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-name">
+            <vcard:givenName>Nicholas A.</vcard:givenName>
+            <vcard:familyName>Williamson</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147-authorship-216256">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_Noinaj/216256-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-name">
+            <vcard:givenName>Nicholas</vcard:givenName>
+            <vcard:familyName>Noinaj</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147-authorship-255012">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Susan_Buchanan/255012-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-name">
+            <vcard:givenName>Susan</vcard:givenName>
+            <vcard:familyName>Buchanan</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147-authorship-189246">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Kipros_Gabriel/189246-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-name">
+            <vcard:givenName>Kipros</vcard:givenName>
+            <vcard:familyName>Gabriel</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147-authorship-105036">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Anthony_W_Purcell/105036-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-name">
+            <vcard:givenName>Anthony W.</vcard:givenName>
+            <vcard:familyName>Purcell</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147-authorship-255016">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name">
+            <vcard:givenName>Christine</vcard:givenName>
+            <vcard:familyName>Jacobs-Wagner</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147-authorship-105055">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Trevor_Lithgow/105055-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Subunit_composition_of_the_BAM_complex_in_i_C_crescentus_i_/539147"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-name">
+            <vcard:givenName>Trevor</vcard:givenName>
+            <vcard:familyName>Lithgow</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/539255</identifier>
+        <datestamp>2010-01-08T02:34:21Z</datestamp>
+        <setSpec>category_4</setSpec>
+        <setSpec>category_12</setSpec>
+        <setSpec>portal_5</setSpec>
+        <setSpec>item_type_1</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Image rdf:about="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255">
+            <bibo:doi>10.1371/journal.pone.0008619.g004</bibo:doi>
+            <rdfs:label>Pal is an essential outer membrane protein, associated with the BAM complex.</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <bibo:abstract>&lt;p&gt;(A) BAM complex was immunoprecipitated using BamA antiserum added to outer membrane vesicles that were solubilised with 0.75% (w/v) (Lane 1) and 2.25% (w/v) (Lane 2) dodecyl-maltoside. Immunoprecipitate obtained with preimmune serum was loaded in Lane 3. Asterisks indicate the IgG heavy and light chains, with the migration positions of the molecular markers shown in kDa. (B) Cells with the &lt;i&gt;pal&lt;/i&gt; gene under the control of a xylose-inducible promoter (↓ &lt;i&gt;pal&lt;/i&gt;) were grown in the presence (right montage) and absence (left montage) of xylose (0.3% [w/v]) for 10 hrs. Outer membrane blebs that form predominantly from the division site or cell poles are evident only in the Pal-depleted cells. Scale bars (white) represent 1 micrometer. (C) Membranes were fractionated on sucrose gradient and analysed by SDS-PAGE. Coomassie Brilliant Blue staining (upper panel) reveals separation of the membrane protein profiles and immunoblotting (lower panel) for the inner membrane protein TimA and the outer membrane protein BamA, and the mCherry epitope to determine the location of Pal.&lt;/p&gt;</bibo:abstract>
+            <bibo:freetextKeyword>membrane</bibo:freetextKeyword>
+            <bibo:freetextKeyword>bam</bibo:freetextKeyword>
+          </bibo:Image>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255-authorship-254980">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Khatira_Anwari/254980-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-name">
+            <vcard:givenName>Khatira</vcard:givenName>
+            <vcard:familyName>Anwari</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255-authorship-251019">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sebastian_Poggio/251019-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-name">
+            <vcard:givenName>Sebastian</vcard:givenName>
+            <vcard:familyName>Poggio</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255-authorship-254989">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Andrew_Perry/254989-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Andrew_Perry/254989-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Andrew_Perry/254989-name">
+            <vcard:givenName>Andrew</vcard:givenName>
+            <vcard:familyName>Perry</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255-authorship-254994">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Xenia_Gatsos/254994-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-name">
+            <vcard:givenName>Xenia</vcard:givenName>
+            <vcard:familyName>Gatsos</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255-authorship-255001">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name">
+            <vcard:givenName>Sri</vcard:givenName>
+            <vcard:familyName>Harsha Ramarathinam</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255-authorship-255006">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_A_Williamson/255006-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-name">
+            <vcard:givenName>Nicholas A.</vcard:givenName>
+            <vcard:familyName>Williamson</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255-authorship-216256">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_Noinaj/216256-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-name">
+            <vcard:givenName>Nicholas</vcard:givenName>
+            <vcard:familyName>Noinaj</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255-authorship-255012">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Susan_Buchanan/255012-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-name">
+            <vcard:givenName>Susan</vcard:givenName>
+            <vcard:familyName>Buchanan</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255-authorship-189246">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Kipros_Gabriel/189246-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-name">
+            <vcard:givenName>Kipros</vcard:givenName>
+            <vcard:familyName>Gabriel</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255-authorship-105036">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Anthony_W_Purcell/105036-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-name">
+            <vcard:givenName>Anthony W.</vcard:givenName>
+            <vcard:familyName>Purcell</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255-authorship-255016">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name">
+            <vcard:givenName>Christine</vcard:givenName>
+            <vcard:familyName>Jacobs-Wagner</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255-authorship-105055">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Trevor_Lithgow/105055-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_is_an_essential_outer_membrane_protein_associated_with_the_BAM_complex_/539255"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-name">
+            <vcard:givenName>Trevor</vcard:givenName>
+            <vcard:familyName>Lithgow</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/539363</identifier>
+        <datestamp>2010-01-08T02:36:09Z</datestamp>
+        <setSpec>category_4</setSpec>
+        <setSpec>category_12</setSpec>
+        <setSpec>portal_5</setSpec>
+        <setSpec>item_type_1</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Image rdf:about="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363">
+            <bibo:doi>10.1371/journal.pone.0008619.g005</bibo:doi>
+            <rdfs:label>Pal anchors the BAM complex to the peptidoglycan layer of the cell wall.</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <bibo:abstract>&lt;p&gt;(A) Photobleaching analysis of Pal-mCherry dynamics required pre-treatment with chloramphenicol to block protein synthesis, and cells expressing Pal-mCherry were immobilized on an agarose-padded slide containing chloramphenicol. The left panel shows a representative cell in which the circle indicates the region that will be photobleached. The right panel shows a kymograph representation of Pal-mCherry fluorescence intensity along the cell axis before (−1 min) and following photobleaching. (B) Fluorescence micrographs showing a cell expressing Pal-mCherry before photobleaching (left), right after being completely photobleached (middle) and after 126 min of growth (right). (C) Outer membrane vesicles (100 µg protein per lane) from cells expressing Pal-mCherry were solubilised with dodecyl-maltoside and analysed by blue native-PAGE and immuno-staining with antisera recognizing either Pal or BamA. The migration position of molecular markers (kDa) are shown, arrow indicates the 300 kDa form of the BAM complex. Scale bars (white) represent 1 micrometer.&lt;/p&gt;</bibo:abstract>
+            <bibo:freetextKeyword>anchors</bibo:freetextKeyword>
+            <bibo:freetextKeyword>bam</bibo:freetextKeyword>
+            <bibo:freetextKeyword>peptidoglycan</bibo:freetextKeyword>
+          </bibo:Image>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363-authorship-254980">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Khatira_Anwari/254980-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-name">
+            <vcard:givenName>Khatira</vcard:givenName>
+            <vcard:familyName>Anwari</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363-authorship-251019">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sebastian_Poggio/251019-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-name">
+            <vcard:givenName>Sebastian</vcard:givenName>
+            <vcard:familyName>Poggio</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363-authorship-254989">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Andrew_Perry/254989-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Andrew_Perry/254989-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Andrew_Perry/254989-name">
+            <vcard:givenName>Andrew</vcard:givenName>
+            <vcard:familyName>Perry</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363-authorship-254994">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Xenia_Gatsos/254994-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-name">
+            <vcard:givenName>Xenia</vcard:givenName>
+            <vcard:familyName>Gatsos</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363-authorship-255001">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name">
+            <vcard:givenName>Sri</vcard:givenName>
+            <vcard:familyName>Harsha Ramarathinam</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363-authorship-255006">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_A_Williamson/255006-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-name">
+            <vcard:givenName>Nicholas A.</vcard:givenName>
+            <vcard:familyName>Williamson</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363-authorship-216256">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_Noinaj/216256-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-name">
+            <vcard:givenName>Nicholas</vcard:givenName>
+            <vcard:familyName>Noinaj</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363-authorship-255012">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Susan_Buchanan/255012-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-name">
+            <vcard:givenName>Susan</vcard:givenName>
+            <vcard:familyName>Buchanan</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363-authorship-189246">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Kipros_Gabriel/189246-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-name">
+            <vcard:givenName>Kipros</vcard:givenName>
+            <vcard:familyName>Gabriel</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363-authorship-105036">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Anthony_W_Purcell/105036-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-name">
+            <vcard:givenName>Anthony W.</vcard:givenName>
+            <vcard:familyName>Purcell</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363-authorship-255016">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name">
+            <vcard:givenName>Christine</vcard:givenName>
+            <vcard:familyName>Jacobs-Wagner</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363-authorship-105055">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Trevor_Lithgow/105055-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pal_anchors_the_BAM_complex_to_the_peptidoglycan_layer_of_the_cell_wall_/539363"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-name">
+            <vcard:givenName>Trevor</vcard:givenName>
+            <vcard:familyName>Lithgow</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/539459</identifier>
+        <datestamp>2010-01-08T02:37:45Z</datestamp>
+        <setSpec>category_4</setSpec>
+        <setSpec>category_12</setSpec>
+        <setSpec>portal_5</setSpec>
+        <setSpec>item_type_1</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Image rdf:about="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459">
+            <bibo:doi>10.1371/journal.pone.0008619.g006</bibo:doi>
+            <rdfs:label>Structural homology model for CC3229 as the Pal from &lt;i&gt;C. crescentus&lt;/i&gt;.</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2010-01-08"/>
+            <bibo:abstract>&lt;p&gt;The homology model is based on the known structures of Pal (PDB code 2AIZ) and YiaD (PDB code 2K1S) from &lt;i&gt;E. coli&lt;/i&gt;, and RmpM (PDB code 1R1M) from &lt;i&gt;N. meningitidis&lt;/i&gt;. Note that YiaD, &lt;i&gt;Cc&lt;/i&gt;Pal and RmpM have N-terminal extensions that are not resolved in the crystal structures. Residues that show at least 50% conservation in structure are colour coded according to their properties. Below the sequence alignment is the conservation plot, which is based on a 1–10 scale with completely conserved residues highlighted with yellow bars and asterisks.&lt;/p&gt;</bibo:abstract>
+            <bibo:freetextKeyword>homology</bibo:freetextKeyword>
+            <bibo:freetextKeyword>cc3229</bibo:freetextKeyword>
+            <bibo:freetextKeyword>pal</bibo:freetextKeyword>
+          </bibo:Image>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459-authorship-254980">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Khatira_Anwari/254980-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Khatira_Anwari/254980-name">
+            <vcard:givenName>Khatira</vcard:givenName>
+            <vcard:familyName>Anwari</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459-authorship-251019">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sebastian_Poggio/251019-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sebastian_Poggio/251019-name">
+            <vcard:givenName>Sebastian</vcard:givenName>
+            <vcard:familyName>Poggio</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459-authorship-254989">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Andrew_Perry/254989-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Andrew_Perry/254989-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Andrew_Perry/254989-name">
+            <vcard:givenName>Andrew</vcard:givenName>
+            <vcard:familyName>Perry</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459-authorship-254994">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Xenia_Gatsos/254994-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Xenia_Gatsos/254994-name">
+            <vcard:givenName>Xenia</vcard:givenName>
+            <vcard:familyName>Gatsos</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459-authorship-255001">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001-name">
+            <vcard:givenName>Sri</vcard:givenName>
+            <vcard:familyName>Harsha Ramarathinam</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459-authorship-255006">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_A_Williamson/255006-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_A_Williamson/255006-name">
+            <vcard:givenName>Nicholas A.</vcard:givenName>
+            <vcard:familyName>Williamson</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459-authorship-216256">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Nicholas_Noinaj/216256-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Nicholas_Noinaj/216256-name">
+            <vcard:givenName>Nicholas</vcard:givenName>
+            <vcard:familyName>Noinaj</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459-authorship-255012">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Susan_Buchanan/255012-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Susan_Buchanan/255012-name">
+            <vcard:givenName>Susan</vcard:givenName>
+            <vcard:familyName>Buchanan</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459-authorship-189246">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Kipros_Gabriel/189246-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Kipros_Gabriel/189246-name">
+            <vcard:givenName>Kipros</vcard:givenName>
+            <vcard:familyName>Gabriel</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459-authorship-105036">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Anthony_W_Purcell/105036-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Anthony_W_Purcell/105036-name">
+            <vcard:givenName>Anthony W.</vcard:givenName>
+            <vcard:familyName>Purcell</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459-authorship-255016">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Christine_Jacobs_Wagner/255016-name">
+            <vcard:givenName>Christine</vcard:givenName>
+            <vcard:familyName>Jacobs-Wagner</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459-authorship-105055">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Trevor_Lithgow/105055-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Structural_homology_model_for_CC3229_as_the_Pal_from_i_C_crescentus_i_/539459"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Trevor_Lithgow/105055-name">
+            <vcard:givenName>Trevor</vcard:givenName>
+            <vcard:familyName>Lithgow</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/145058</identifier>
+        <datestamp>2010-01-13T01:24:25Z</datestamp>
+        <setSpec>category_12</setSpec>
+        <setSpec>category_14</setSpec>
+        <setSpec>category_15</setSpec>
+        <setSpec>portal_5</setSpec>
+        <setSpec>item_type_4</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Collection rdf:about="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058">
+            <bibo:doi>10.1371/journal.pone.0008626</bibo:doi>
+            <rdfs:label>Control of Alzheimer's Amyloid Beta Toxicity by the High Molecular Weight Immunophilin FKBP52 and Copper Homeostasis in &lt;em&gt;Drosophila&lt;/em&gt;</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2010-01-13"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2010-01-13"/>
+            <bibo:abstract>&lt;div&gt;&lt;p&gt;FK506 binding proteins (FKBPs), also called immunophilins, are prolyl-isomerases (PPIases) that participate in a wide variety of cellular functions including hormone signaling and protein folding. Recent studies indicate that proteins that contain PPIase activity can also alter the processing of Alzheimer's Amyloid Precursor Protein (APP). Originally identified in hematopoietic cells, FKBP52 is much more abundantly expressed in neurons, including the hippocampus, frontal cortex, and basal ganglia. Given the fact that the high molecular weight immunophilin FKBP52 is highly expressed in CNS regions susceptible to Alzheimer's, we investigated its role in Aβ toxicity. Towards this goal, we generated Aβ transgenic &lt;em&gt;Drosophila&lt;/em&gt; that harbor gain of function or loss of function mutations of &lt;em&gt;FKBP52&lt;/em&gt;. &lt;em&gt;FKBP52&lt;/em&gt; overexpression reduced the toxicity of Aβ and increased lifespan in Aβ flies, whereas loss of function of &lt;em&gt;FKBP52&lt;/em&gt; exacerbated these Aβ phenotypes. Interestingly, the Aβ pathology was enhanced by mutations in the copper transporters &lt;em&gt;Atox1&lt;/em&gt;, which interacts with &lt;em&gt;FKBP52&lt;/em&gt;, and &lt;em&gt;Ctr1A&lt;/em&gt; and was suppressed in &lt;em&gt;FKBP52&lt;/em&gt; mutant flies raised on a copper chelator diet. Using mammalian cultures, we show that &lt;em&gt;FKBP52&lt;/em&gt; (−/−) cells have increased intracellular copper and higher levels of Aβ. This effect is reversed by reconstitution of &lt;em&gt;FKBP52&lt;/em&gt;. Finally, we also found that FKBP52 formed stable complexes with APP through its FK506 interacting domain. Taken together, these studies identify a novel role for FKBP52 in modulating toxicity of Aβ peptides.&lt;/p&gt;&lt;/div&gt;</bibo:abstract>
+            <bibo:freetextKeyword>amyloid</bibo:freetextKeyword>
+            <bibo:freetextKeyword>beta</bibo:freetextKeyword>
+            <bibo:freetextKeyword>toxicity</bibo:freetextKeyword>
+            <bibo:freetextKeyword>molecular</bibo:freetextKeyword>
+            <bibo:freetextKeyword>immunophilin</bibo:freetextKeyword>
+            <bibo:freetextKeyword>fkbp52</bibo:freetextKeyword>
+            <bibo:freetextKeyword>copper</bibo:freetextKeyword>
+            <bibo:freetextKeyword>homeostasis</bibo:freetextKeyword>
+          </bibo:Collection>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058-authorship-254909">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Reiko_Sanokawa_Akakura/254909-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Reiko_Sanokawa_Akakura/254909-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Reiko_Sanokawa_Akakura/254909-name">
+            <vcard:givenName>Reiko</vcard:givenName>
+            <vcard:familyName>Sanokawa-Akakura</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058-authorship-254912">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Weihuan_Cao/254912-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Weihuan_Cao/254912-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Weihuan_Cao/254912-name">
+            <vcard:givenName>Weihuan</vcard:givenName>
+            <vcard:familyName>Cao</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058-authorship-254915">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Kirsten_Allan/254915-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Kirsten_Allan/254915-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Kirsten_Allan/254915-name">
+            <vcard:givenName>Kirsten</vcard:givenName>
+            <vcard:familyName>Allan</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058-authorship-254918">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Khyati_Patel/254918-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Khyati_Patel/254918-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Khyati_Patel/254918-name">
+            <vcard:givenName>Khyati</vcard:givenName>
+            <vcard:familyName>Patel</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058-authorship-254919">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Anupama_Ganesh/254919-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Anupama_Ganesh/254919-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Anupama_Ganesh/254919-name">
+            <vcard:givenName>Anupama</vcard:givenName>
+            <vcard:familyName>Ganesh</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058-authorship-254921">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Gary_Heiman/254921-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Gary_Heiman/254921-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Gary_Heiman/254921-name">
+            <vcard:givenName>Gary</vcard:givenName>
+            <vcard:familyName>Heiman</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058-authorship-199095">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Richard_Burke/199095-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Richard_Burke/199095-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Richard_Burke/199095-name">
+            <vcard:givenName>Richard</vcard:givenName>
+            <vcard:familyName>Burke</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058-authorship-254924">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Francis_W_Kemp/254924-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Francis_W_Kemp/254924-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Francis_W_Kemp/254924-name">
+            <vcard:givenName>Francis</vcard:givenName>
+            <vcard:familyName>W. Kemp</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058-authorship-254927">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/John_D_Bogden/254927-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/John_D_Bogden/254927-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/John_D_Bogden/254927-name">
+            <vcard:givenName>John</vcard:givenName>
+            <vcard:familyName>D. Bogden</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058-authorship-234851">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/James_Camakaris/234851-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/James_Camakaris/234851-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/James_Camakaris/234851-name">
+            <vcard:givenName>James</vcard:givenName>
+            <vcard:familyName>Camakaris</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058-authorship-254929">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Raymond_B_Birge/254929-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Raymond_B_Birge/254929-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Raymond_B_Birge/254929-name">
+            <vcard:givenName>Raymond</vcard:givenName>
+            <vcard:familyName>B. Birge</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058-authorship-254931">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Mary_Konsolaki/254931-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Mary_Konsolaki/254931-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Control_of_Alzheimer_s_Amyloid_Beta_Toxicity_by_the_High_Molecular_Weight_Immunophilin_FKBP52_and_Copper_Homeostasis_in_em_Drosophila_em_/145058"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Mary_Konsolaki/254931-name">
+            <vcard:givenName>Mary</vcard:givenName>
+            <vcard:familyName>Konsolaki</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/538200</identifier>
+        <datestamp>2010-01-13T02:16:46Z</datestamp>
+        <setSpec>category_12</setSpec>
+        <setSpec>category_14</setSpec>
+        <setSpec>category_15</setSpec>
+        <setSpec>portal_5</setSpec>
+        <setSpec>item_type_1</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Image rdf:about="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200">
+            <bibo:doi>10.1371/journal.pone.0008626.g001</bibo:doi>
+            <rdfs:label>Effects of &lt;i&gt;dFKBP59&lt;/i&gt; mutations on Aβ42 toxicity in &lt;i&gt;Drosophila&lt;/i&gt;.</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2010-01-13"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2010-01-13"/>
+            <bibo:abstract>&lt;p&gt;(A–D) Eye phenotypes. (A) wild-type eyes of FKBP59&lt;sup&gt;c01413&lt;/sup&gt;/FKBP59&lt;sup&gt;c01413&lt;/sup&gt; flies. (B) rough-eye phenotype of &lt;i&gt;Aβ&lt;/i&gt; flies. (C) enhanced rough-eye phenotype of Aβ flies carrying the loss-of-function mutation &lt;i&gt;dFKBP59&lt;sup&gt;c01413&lt;/sup&gt;&lt;/i&gt;. (D) suppressed rough-eye phenotype of &lt;i&gt;Aβ&lt;/i&gt; flies carrying the gain-of-function mutation &lt;i&gt;dFKBP59&lt;sup&gt;EY03538&lt;/sup&gt;&lt;/i&gt;. (E–F) Lifespan analysis of Aβ flies carrying &lt;i&gt;dFKBP59&lt;/i&gt; mutations. (E) CNS-directed expression of Aβ42 (blue) causes a shorter lifespan compared to flies expressing only the elavGal4 driver (green). (F) A gain-of-function mutation in &lt;i&gt;dFKBP59&lt;/i&gt; rescues the Aβ phenotype. Comparison of &lt;i&gt;Aβ-only&lt;/i&gt; (blue) and &lt;i&gt;Aβ/dFKBP59&lt;sup&gt;EY03538&lt;/sup&gt;&lt;/i&gt; (red). (G) A loss-of-function mutation in &lt;i&gt;dFKBP59&lt;/i&gt; rescues the Aβ phenotype. Comparison of &lt;i&gt;Aβ-only&lt;/i&gt; (blue) and &lt;i&gt;Aβ/dFKBP59&lt;sup&gt;c01413&lt;/sup&gt;&lt;/i&gt; (red). (H) Over-expression of FKBP59 (FKBP59gof) in 15–17 day old Aβ42- expressing flies reduces the levels of total Aβ42.&lt;/p&gt;</bibo:abstract>
+            <bibo:freetextKeyword>mutations</bibo:freetextKeyword>
+            <bibo:freetextKeyword>toxicity</bibo:freetextKeyword>
+          </bibo:Image>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200-authorship-254909">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Reiko_Sanokawa_Akakura/254909-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Reiko_Sanokawa_Akakura/254909-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Reiko_Sanokawa_Akakura/254909-name">
+            <vcard:givenName>Reiko</vcard:givenName>
+            <vcard:familyName>Sanokawa-Akakura</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200-authorship-254912">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Weihuan_Cao/254912-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Weihuan_Cao/254912-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Weihuan_Cao/254912-name">
+            <vcard:givenName>Weihuan</vcard:givenName>
+            <vcard:familyName>Cao</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200-authorship-254915">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Kirsten_Allan/254915-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Kirsten_Allan/254915-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Kirsten_Allan/254915-name">
+            <vcard:givenName>Kirsten</vcard:givenName>
+            <vcard:familyName>Allan</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200-authorship-254918">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Khyati_Patel/254918-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Khyati_Patel/254918-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Khyati_Patel/254918-name">
+            <vcard:givenName>Khyati</vcard:givenName>
+            <vcard:familyName>Patel</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200-authorship-254919">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Anupama_Ganesh/254919-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Anupama_Ganesh/254919-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Anupama_Ganesh/254919-name">
+            <vcard:givenName>Anupama</vcard:givenName>
+            <vcard:familyName>Ganesh</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200-authorship-254921">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Gary_Heiman/254921-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Gary_Heiman/254921-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Gary_Heiman/254921-name">
+            <vcard:givenName>Gary</vcard:givenName>
+            <vcard:familyName>Heiman</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200-authorship-199095">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Richard_Burke/199095-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Richard_Burke/199095-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Richard_Burke/199095-name">
+            <vcard:givenName>Richard</vcard:givenName>
+            <vcard:familyName>Burke</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200-authorship-254924">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Francis_W_Kemp/254924-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Francis_W_Kemp/254924-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Francis_W_Kemp/254924-name">
+            <vcard:givenName>Francis</vcard:givenName>
+            <vcard:familyName>W. Kemp</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200-authorship-254927">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/John_D_Bogden/254927-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/John_D_Bogden/254927-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/John_D_Bogden/254927-name">
+            <vcard:givenName>John</vcard:givenName>
+            <vcard:familyName>D. Bogden</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200-authorship-234851">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/James_Camakaris/234851-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/James_Camakaris/234851-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/James_Camakaris/234851-name">
+            <vcard:givenName>James</vcard:givenName>
+            <vcard:familyName>Camakaris</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200-authorship-254929">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Raymond_B_Birge/254929-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Raymond_B_Birge/254929-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Raymond_B_Birge/254929-name">
+            <vcard:givenName>Raymond</vcard:givenName>
+            <vcard:familyName>B. Birge</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200-authorship-254931">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Mary_Konsolaki/254931-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Mary_Konsolaki/254931-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_i_dFKBP59_i_mutations_on_A_42_toxicity_in_i_Drosophila_i_/538200"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Mary_Konsolaki/254931-name">
+            <vcard:givenName>Mary</vcard:givenName>
+            <vcard:familyName>Konsolaki</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/538284</identifier>
+        <datestamp>2010-01-13T02:18:10Z</datestamp>
+        <setSpec>category_12</setSpec>
+        <setSpec>category_14</setSpec>
+        <setSpec>category_15</setSpec>
+        <setSpec>portal_5</setSpec>
+        <setSpec>item_type_1</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Image rdf:about="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284">
+            <bibo:doi>10.1371/journal.pone.0008626.g002</bibo:doi>
+            <rdfs:label>Effects of copper on Aβ42 phenotypes.</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2010-01-13"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2010-01-13"/>
+            <bibo:abstract>&lt;p&gt;(A–D) Eye phenotypes of 15–17 day old flies. (A) wild type flies on 1 mM Cu (B) &lt;i&gt;Aβ&lt;/i&gt; flies on normal food. (C) &lt;i&gt;Aβ&lt;/i&gt; flies on food supplemented with 1 mM Cu. (D) &lt;i&gt;Aβ&lt;/i&gt; flies on food supplemented with 1 mM BCS. (E–F) Quantification of the effects of Cu (E) and BCS (F) feeding on the rough eye phenotype. Phenotypes were evaluated as mild (light gray), moderate (dark gray) or severe (black) and the percent distribution of these phenotypes is shown. The graphs show a shift in the distribution of phenotypes when flies are raised on supplemented food. (G) Dose-dependent increase in levels of copper in flies raised on Cu-supplemented food.&lt;/p&gt;</bibo:abstract>
+            <bibo:freetextKeyword>copper</bibo:freetextKeyword>
+          </bibo:Image>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284-authorship-254909">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Reiko_Sanokawa_Akakura/254909-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Reiko_Sanokawa_Akakura/254909-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Reiko_Sanokawa_Akakura/254909-name">
+            <vcard:givenName>Reiko</vcard:givenName>
+            <vcard:familyName>Sanokawa-Akakura</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284-authorship-254912">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Weihuan_Cao/254912-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Weihuan_Cao/254912-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Weihuan_Cao/254912-name">
+            <vcard:givenName>Weihuan</vcard:givenName>
+            <vcard:familyName>Cao</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284-authorship-254915">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Kirsten_Allan/254915-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Kirsten_Allan/254915-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Kirsten_Allan/254915-name">
+            <vcard:givenName>Kirsten</vcard:givenName>
+            <vcard:familyName>Allan</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284-authorship-254918">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Khyati_Patel/254918-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Khyati_Patel/254918-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Khyati_Patel/254918-name">
+            <vcard:givenName>Khyati</vcard:givenName>
+            <vcard:familyName>Patel</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284-authorship-254919">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Anupama_Ganesh/254919-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Anupama_Ganesh/254919-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Anupama_Ganesh/254919-name">
+            <vcard:givenName>Anupama</vcard:givenName>
+            <vcard:familyName>Ganesh</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284-authorship-254921">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Gary_Heiman/254921-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Gary_Heiman/254921-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Gary_Heiman/254921-name">
+            <vcard:givenName>Gary</vcard:givenName>
+            <vcard:familyName>Heiman</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284-authorship-199095">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Richard_Burke/199095-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Richard_Burke/199095-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Richard_Burke/199095-name">
+            <vcard:givenName>Richard</vcard:givenName>
+            <vcard:familyName>Burke</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284-authorship-254924">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Francis_W_Kemp/254924-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Francis_W_Kemp/254924-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Francis_W_Kemp/254924-name">
+            <vcard:givenName>Francis</vcard:givenName>
+            <vcard:familyName>W. Kemp</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284-authorship-254927">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/John_D_Bogden/254927-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/John_D_Bogden/254927-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/John_D_Bogden/254927-name">
+            <vcard:givenName>John</vcard:givenName>
+            <vcard:familyName>D. Bogden</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284-authorship-234851">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/James_Camakaris/234851-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/James_Camakaris/234851-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/James_Camakaris/234851-name">
+            <vcard:givenName>James</vcard:givenName>
+            <vcard:familyName>Camakaris</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284-authorship-254929">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Raymond_B_Birge/254929-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Raymond_B_Birge/254929-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Raymond_B_Birge/254929-name">
+            <vcard:givenName>Raymond</vcard:givenName>
+            <vcard:familyName>B. Birge</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284-authorship-254931">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Mary_Konsolaki/254931-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Mary_Konsolaki/254931-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Effects_of_copper_on_A_42_phenotypes_/538284"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Mary_Konsolaki/254931-name">
+            <vcard:givenName>Mary</vcard:givenName>
+            <vcard:familyName>Konsolaki</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2016-11-12T06:44:05Z">ZXhwaXJhdGlvbj0yMDE2LTExLTEyJTIwMDYlM0E0NCUzQTA1JnZlcmI9TGlzdFJlY29yZHMmcGFnZT0yJm1ldGFkYXRhUHJlZml4PXJkZg==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>
