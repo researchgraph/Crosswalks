@@ -74,12 +74,12 @@
          </title>
          <xsl:if test=".//rif:startDate">
             <start_year>
-               <xsl:value-of select=".//rif:startDate"/>
+               <xsl:value-of select="year-from-date(xs:date(.//rif:startDate))"/>
             </start_year>
          </xsl:if>
          <xsl:if test=".//rif:endDate">
             <end_year>
-               <xsl:value-of select=".//rif:endDate"/>
+               <xsl:value-of select="year-from-date(xs:date(.//rif:endDate))"/>
             </end_year>
          </xsl:if>
          <xsl:if test=".//rif:identifier[@type='purl'] and contains(.//rif:identifier[@type='purl'],'purl.org')">
