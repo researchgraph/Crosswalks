@@ -87,6 +87,11 @@
                <xsl:value-of select=".//rif:identifier[@type='purl']"/>
             </purl>
          </xsl:if>
+         <xsl:if test=".//rif:description[@type='researchers']">
+            <participant_list>
+                  <xsl:value-of select=".//rif:description[@type='researchers']"/>
+            </participant_list>
+         </xsl:if>
       </grant>
    </xsl:template>
 </xsl:stylesheet>
