@@ -53,16 +53,13 @@
       <xsl:variable name="groupSource" select="$andsGroupList/root/row[group = $groupName]/source"/>
       <grant>
          <key>
-<!--            <xsl:value-of select="$source"/>/<xsl:value-of select=".//rif:key[1]"/>-->
-<!--            <xsl:value-of select="$source"/>/<xsl:value-of select=".//rif:identifier[@type='arc']"/>-->
-            <xsl:value-of select="concat('Researchgraph.org/ands/',.//rif:key[1])"/>_
+            <xsl:value-of select="concat('Researchgraph.org/ands/',.//rif:key[1])"/>
          </key>
          <source>
             <xsl:value-of select="$groupSource"/>
          </source>
          <local_id>
             <xsl:value-of select=".//rif:key[1]"/>
-<!--            <xsl:value-of select=".//rif:identifier[@type='arc']"/>-->
          </local_id>
          <last_updated>
             <xsl:value-of select="$date-stamp"/>
