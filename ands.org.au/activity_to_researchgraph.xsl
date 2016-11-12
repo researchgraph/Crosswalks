@@ -92,6 +92,9 @@
                   <xsl:value-of select=".//rif:description[@type='researchers']"/>
             </participant_list>
          </xsl:if>
+         <founder>
+            <xsl:value-of select="$groupSource"/>
+         </founder>
       </grant>
    </xsl:template>
 </xsl:stylesheet>
