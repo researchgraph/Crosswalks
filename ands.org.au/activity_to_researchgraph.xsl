@@ -64,9 +64,11 @@
          <last_updated>
             <xsl:value-of select="$date-stamp"/>
          </last_updated>
-         <url>
-            <xsl:value-of select=".//rif:identifier[@type='purl']"/>
-         </url>
+         <xsl:if test=".//rif:electronic[@type='url']">
+            <url>
+               <xsl:value-of select=".//rif:electronic[@type='url']/rif:value"/>
+            </url>
+         </xsl:if>
          <title>
             <xsl:value-of select=".//rif:name[@type='primary']/rif:namePart"/>
          </title>
@@ -79,6 +81,11 @@
             <end_year>
                <xsl:value-of select=".//rif:endDate"/>
             </end_year>
+         </xsl:if>
+         <xsl:if test=".//rif:identifier[@type='purl'] and contains(.//rif:identifier[@type='purl'],'purl.org')">
+            <purl>
+               <xsl:value-of select=".//rif:identifier[@type='purl']"/>
+            </purl>
          </xsl:if>
       </grant>
    </xsl:template>
