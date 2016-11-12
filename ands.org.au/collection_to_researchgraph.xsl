@@ -73,11 +73,16 @@
             <title>
                 <xsl:value-of select=".//rif:name[@type='primary']/rif:namePart"/>
             </title>
-            <!--<xsl:if test=".//rif:dates[@type='dc.created']/rif:date">
-                <publication_year>
-                    <xsl:value-of select=".//rif:dates[@type='dc.created']/rif:date"/>
-                </publication_year>
-            </xsl:if>-->
+            <xsl:if test=".//rif:identifier[@type='doi']">
+                <doi>
+                    <xsl:value-of select=".//rif:identifier[@type='doi']"/>
+                </doi>
+            </xsl:if>
+            <xsl:if test=".//rif:licence">
+                <licence>
+                    <xsl:value-of select=".//rif:licence/@rightsUri"/>
+                </licence>
+            </xsl:if>
         </dataset>
     </xsl:template>
 </xsl:stylesheet>
