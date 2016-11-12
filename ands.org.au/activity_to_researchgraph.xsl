@@ -5,7 +5,7 @@
    xmlns:fn="http://www.w3.org/2005/xpath-functions"
    xmlns:rif="http://ands.org.au/standards/rif-cs/registryObjects"
    exclude-result-prefixes="xs xsl oai fn rif"
-   version="1.0">
+   version="2.0">
    
    <!-- =========================================== -->
    <!-- Configuration                               -->
@@ -64,22 +64,37 @@
          <last_updated>
             <xsl:value-of select="$date-stamp"/>
          </last_updated>
-         <url>
-            <xsl:value-of select=".//rif:identifier[@type='purl']"/>
-         </url>
+         <xsl:if test=".//rif:electronic[@type='url']">
+            <url>
+               <xsl:value-of select=".//rif:electronic[@type='url']/rif:value"/>
+            </url>
+         </xsl:if>
          <title>
             <xsl:value-of select=".//rif:name[@type='primary']/rif:namePart"/>
          </title>
          <xsl:if test=".//rif:startDate">
             <start_year>
-               <xsl:value-of select=".//rif:startDate"/>
+               <xsl:value-of select="year-from-date(xs:date(.//rif:startDate))"/>
             </start_year>
          </xsl:if>
          <xsl:if test=".//rif:endDate">
             <end_year>
-               <xsl:value-of select=".//rif:endDate"/>
+               <xsl:value-of select="year-from-date(xs:date(.//rif:endDate))"/>
             </end_year>
          </xsl:if>
+         <xsl:if test=".//rif:identifier[@type='purl'] and contains(.//rif:identifier[@type='purl'],'purl.org')">
+            <purl>
+               <xsl:value-of select=".//rif:identifier[@type='purl']"/>
+            </purl>
+         </xsl:if>
+         <xsl:if test=".//rif:description[@type='researchers']">
+            <participant_list>
+                  <xsl:value-of select=".//rif:description[@type='researchers']"/>
+            </participant_list>
+         </xsl:if>
+         <founder>
+            <xsl:value-of select="$groupSource"/>
+         </founder>
       </grant>
    </xsl:template>
 </xsl:stylesheet>

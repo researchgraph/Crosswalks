@@ -5,7 +5,7 @@
     xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
     xmlns:rif="http://ands.org.au/standards/rif-cs/registryObjects"
     exclude-result-prefixes="xs xsl fn oai rif"
-    version="1.0">
+    version="2.0">
     
     <!-- =========================================== -->
     <!-- Configuration                               -->

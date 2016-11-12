@@ -4,7 +4,8 @@
     xmlns:fn="http://www.w3.org/2005/xpath-functions" 
     xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
     xmlns:rif="http://ands.org.au/standards/rif-cs/registryObjects"
-    exclude-result-prefixes="xs fn xsl oai rif" version="1.0">
+    exclude-result-prefixes="xs fn xsl oai rif" 
+    version="2.0">
     
     <!-- =========================================== -->
     <!-- Configuration                               -->
