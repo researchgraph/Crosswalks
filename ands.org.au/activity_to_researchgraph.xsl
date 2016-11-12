@@ -5,7 +5,7 @@
    xmlns:fn="http://www.w3.org/2005/xpath-functions"
    xmlns:rif="http://ands.org.au/standards/rif-cs/registryObjects"
    exclude-result-prefixes="xs xsl oai fn rif"
-   version="1.0">
+   version="2.0">
    
    <!-- =========================================== -->
    <!-- Configuration                               -->
