@@ -78,6 +78,11 @@
                     <xsl:value-of select=".//rif:identifier[@type='doi']"/>
                 </doi>
             </xsl:if>
+            <xsl:if test=".//rif:licence">
+                <licence>
+                    <xsl:value-of select=".//rif:licence/@rightsUri"/>
+                </licence>
+            </xsl:if>
         </dataset>
     </xsl:template>
 </xsl:stylesheet>
