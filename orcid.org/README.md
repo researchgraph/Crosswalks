@@ -13,6 +13,9 @@ sudo apt-get install python3.5
 ## pip
     'python get-pip.py'
     
+## Using pip, install dicttoxml package
+    'python pip install dicttoxml'
+    
 ## How to run the python program
 **Type**:'python script.py'
 
