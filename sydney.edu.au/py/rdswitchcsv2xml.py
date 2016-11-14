@@ -52,7 +52,7 @@ fieldmap={}
 # Special action tags
 actionList=["type","data","group"]
 taglist=["registryObject","collection"]
-specialTag=["key","type","data","dataNotEmpty","prefix"]
+specialTag=["key","type","data","prefix"]
 
 def emit(txtout,idt):
    # writes string with indent 
@@ -76,6 +76,7 @@ def typef(rifplace,idt):
 
 def dataf(rifplace,idt):
    rifoutfd.write(eval(rifplace))
+   dataOut=True
 
 def prefixf(rifplace,idt):
    rifoutfd.write(rifplace)
@@ -83,15 +84,20 @@ def prefixf(rifplace,idt):
 def rifheader():
    emit('<?xml version="1.0" encoding="UTF-8" ?>\n',0)
 
-def dataNotEmpty(rifplace):
-   dp = rifplace.index("data")
-   value=eval(rifplace[dp+1])
-   return not value.isspace()
-
 def tagFunc(tagname,rifplace,idt):
+   if rifplace[0]=="data":
+      dataval=eval(rifplace[1])
+      #if tagname=="doi":
+      # pdb.set_trace()
+      if dataval in [""," "]:return
+
    emit("<"+tagname,idt)
    makeCalls(rifplace,idt)
-   emit("</"+tagname+">\n",idt)
+   # Data item on same line as lead/trail tags should have no spaces
+   if rifplace[0]=="data":
+      emit("</"+tagname+">\n",0)
+   else:
+      emit("</"+tagname+">\n",idt)
 
 def makeCalls(rifplace,idt):
    # Indexes  0,2,4,6,8 etc are keywords 
@@ -113,8 +119,9 @@ def makeCalls(rifplace,idt):
             bkout=True
 
       tagname=rifplace[index]
+      # tagname is the function that will be called (function name ends with f)
       if isinstance(tagname,basestring):
-         if tagname in specialTag:
+         if tagname in specialTag:  # all functions do the same things except these
             calltxt=tagname+"f(rifplace[index+1],idt+1)"
             eval(calltxt)
          else:
