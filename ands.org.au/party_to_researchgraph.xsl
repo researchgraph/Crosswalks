@@ -5,7 +5,7 @@
     xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
     xmlns:rif="http://ands.org.au/standards/rif-cs/registryObjects"
     exclude-result-prefixes="xs xsl fn oai rif"
-    version="1.0">
+    version="2.0">
     
     <!-- =========================================== -->
     <!-- Configuration                               -->
@@ -14,7 +14,7 @@
     <xsl:variable name="smallcase" select="'abcdefghijklmnopqrstuvwxyz'" />
     <xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" />
-    <xsl:variable name="andsGroupList" select="document('https://raw.githubusercontent.com/researchgraph/Crosswalks/master/ands.org.au/ands_group.xml')"/>
+    <xsl:variable name="andsGroupList" select="document('ands_group.xml')"/>
     
     <!-- =========================================== -->
     <!-- RegistryObjects (root) Template             -->

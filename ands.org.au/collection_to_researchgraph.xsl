@@ -4,8 +4,8 @@
     xmlns:fn="http://www.w3.org/2005/xpath-functions" 
     xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
     xmlns:rif="http://ands.org.au/standards/rif-cs/registryObjects"
-    exclude-result-prefixes="xs fn xsl oai rif"
-    version="1.0">git add co
+    exclude-result-prefixes="xs fn xsl oai rif" 
+    version="2.0">
     
     <!-- =========================================== -->
     <!-- Configuration                               -->
@@ -14,7 +14,7 @@
     <xsl:variable name="smallcase" select="'abcdefghijklmnopqrstuvwxyz'" />
     <xsl:variable name="uppercase" select="'ABCDEFGHIJKLMNOPQRSTUVWXYZ'" />
     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" />
-    <xsl:variable name="andsGroupList" select="document('https://raw.githubusercontent.com/researchgraph/Crosswalks/master/ands.org.au/ands_group.xml')"/>
+    <xsl:variable name="andsGroupList" select="document('ands_group.xml')"/>
     
     <!-- =========================================== -->
     <!-- RegistryObjects (root) Template             -->
@@ -74,11 +74,16 @@
             <title>
                 <xsl:value-of select=".//rif:name[@type='primary']/rif:namePart"/>
             </title>
-            <!--<xsl:if test=".//rif:dates[@type='dc.created']/rif:date">
-                <publication_year>
-                    <xsl:value-of select=".//rif:dates[@type='dc.created']/rif:date"/>
-                </publication_year>
-            </xsl:if>-->
+            <xsl:if test=".//rif:identifier[@type='doi']">
+                <doi>
+                    <xsl:value-of select=".//rif:identifier[@type='doi']"/>
+                </doi>
+            </xsl:if>
+            <xsl:if test=".//rif:licence">
+                <licence>
+                    <xsl:value-of select=".//rif:licence/@rightsUri"/>
+                </licence>
+            </xsl:if>
         </dataset>
     </xsl:template>
 </xsl:stylesheet>
