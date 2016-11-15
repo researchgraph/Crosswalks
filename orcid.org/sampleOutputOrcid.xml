@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <researcher>
+      <key>Researchgraph.org/orcid/0000-0002-4259-9774</key>
+      <source>orcid.org</source>
+      <local_id>0000-0002-4259-9774</local_id>
+      <last_updated>1443749769654</last_updated>
+      <url>http://people.anu.edu.au/amir.aryani/</url>
+      <full_name>Amir Aryani</full_name>
+      <first_name>Amir</first_name>
+      <last_name>Aryani</last_name>
+      <orcid>0000-0002-4259-9774</orcid>
+      <scopus_author_id>35068996400</scopus_author_id>
+   </researcher>
+</registryObjects>
