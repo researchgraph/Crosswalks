@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet xmlns="http://researchgraph.org/schema/v2.0/xml/nodes" 
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:fn="http://www.w3.org/2005/xpath-functions" 
     xmlns:xdt="http://www.w3.org/2005/02/xpath-datatypes"
@@ -157,19 +158,20 @@
             <title>
                 <xsl:value-of select=".//work-title/title/value"/>
             </title>
-            <authors_list>
-<!--                <xsl:value-of select="substring-before(substring-after(.//citation,'author = {'),'}')"/>-->
-                <xsl:choose>
+            <xsl:choose>
                     <xsl:when test=".//work-contributors/contributor/item[.//contributor-role='AUTHOR']">
                         <xsl:for-each select=".//work-contributors/contributor/item[.//contributor-role='AUTHOR']">
-                            <xsl:value-of select=".//credit-name/value"/>
+                            <authors_list>
+                                <xsl:value-of select=".//credit-name/value"/>
+                            </authors_list>
                         </xsl:for-each>
                     </xsl:when>
-                    <xsl:otherwise>
-                        <xsl:value-of select=".//work-citation/citation"/>
-                    </xsl:otherwise>
-                </xsl:choose>
-            </authors_list>
+                    <xsl:when test="boolean(contains(.//work-citation/citation,'author'))">
+                        <authors_list>
+                            <xsl:value-of select="substring-before(substring-after(substring-after(.//work-citation/citation,'author'),'{'),'}')"/>
+                        </authors_list>
+                    </xsl:when>
+            </xsl:choose>
             <xsl:if test=".//work-external-identifier/item[work-external-identifier-type='DOI']">
                 <local_id>
                     <xsl:value-of select="concat('Researchgraph.org/orcid/',.//work-external-identifier-id/value)"/>
