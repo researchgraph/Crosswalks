@@ -1,12 +1,10 @@
 import json
 import dicttoxml
-import urllib
 
-url = "https://raw.githubusercontent.com/researchgraph/Crosswalks/master/orcid.org/sample-input-json/0000-0002-4259-9774.json"
-response = urllib.urlopen(url)
-jsonData = json.loads(response.read())
+filepath = raw_input("Enter the file name : ")
+jsonData = json.loads(open(filepath))
 xml = dicttoxml.dicttoxml(jsonData)
 
-xml_file = open("Output.xml","w")
+xml_file = open(filepath.rsplit(".json",1)[0],"w")
 xml_file.write(xml)
 xml_file.close()
