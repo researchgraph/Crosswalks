@@ -24,15 +24,19 @@
         <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes
             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
-            <researcher>
+            <researchers>
                 <xsl:apply-templates select=".//orcid-bio" mode="researcher"/>
-            </researcher>
-            <grants>
-                <xsl:apply-templates select=".//affiliations/affiliation/item" mode="grant"/>
-            </grants>
-            <publications>
-                <xsl:apply-templates select=".//orcid-work/item"/>
-            </publications>
+            </researchers>
+            <xsl:if test=".//affiliations/affiliation/item">
+                <grants>
+                    <xsl:apply-templates select=".//affiliations/affiliation/item" mode="grant"/>
+                </grants>
+            </xsl:if>
+            <xsl:if test=".//orcid-work/item">
+                <publications>
+                    <xsl:apply-templates select=".//orcid-work/item"/>
+                </publications>
+            </xsl:if>
         </registryObjects>
     </xsl:template>
     
@@ -70,7 +74,6 @@
                 <xsl:value-of select="substring-after(..//orcid-identifier/uri,'orcid.org/')"/>
             </orcid>
         </xsl:if>
-        
         <xsl:if test=".//external-id-common-name[value='Scopus Author ID']">
             <scopus_author_id>
                 <xsl:value-of select=".//item[external-id-common-name/value='Scopus Author ID']/external-id-reference/value"/>

@@ -27,6 +27,9 @@
         <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes
             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+            <datasets>
+                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
+            </datasets>
             <publications>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
             </publications>
@@ -72,5 +75,30 @@
                 <xsl:value-of select="substring-before(substring-after(.//vivo:datePublished/@rdf:resource,'date'),'-')"/>
             </publication_year>
         </publication>
+    </xsl:template>
+    
+    <!-- =========================================== -->
+    <!-- Dataset Template                            -->
+    <!-- =========================================== -->
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="dataset">
+        <xsl:if test=".//vivo:Dataset">
+            <xsl:apply-templates select=".//oai:metadata" mode="dataset"/>
+        </xsl:if>
+    </xsl:template>
+    <xsl:template match="oai:metadata" mode="dataset">
+        <dataset>
+            <key>
+                <xsl:value-of select="concat('Researchgraph.org/figshare/',.//vivo:Dataset/bibo:doi)"/>
+            </key>
+            <source>
+                <xsl:value-of select="$source"/>
+            </source>
+            <local_id>
+                <xsl:value-of select=".//vivo:Dataset/bibo:doi"/>
+            </local_id>
+            <last_updated>
+                <xsl:value-of select="substring-before(substring-after(.//vivo:Dataset/vivo:datePublished/@rdf:resource,'date'),'-')"/>
+            </last_updated>
+        </dataset>
     </xsl:template>
 </xsl:stylesheet>
