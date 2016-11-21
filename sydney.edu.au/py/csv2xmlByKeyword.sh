@@ -6,7 +6,7 @@
 # usage:     runAllcsv2xml.sh <keywordlist> 
 
 csvDir=/home/dspace/rd_switchboard
-cmd="ls "
+cmd="ls $csvDir"
 if [ $# -eq 1 ]
 then
    cmd="ls $csvDir/*.csv"
@@ -24,9 +24,15 @@ for csv in $($cmd)
 do
    echo convert $csv
    idkeyword=$(basename $csv .csv)
-   local=$(basename $csv)
-   ./clean.py $csv > ./$local
-   # ./rdswitchcsv2xml.py $idkeyword
-   echo removing $local
-   rm -f $local
+   python ./rdswitchcsv2xml.py $idkeyword
+   localxml=/usr/local/rdswitchboard/tmp/$idkeyword.xml
+
+   cleanedXML=/home/ftpuser/xml/r.${idkeyword}.xml
+   ./clean.py $localxml > $cleanedXML
+
+   echo removing $localxml
+   rm -f $localxml
+
+   cp /home/ftpuser/xml/* /usr/local/rdswitchboard/xml/
+   chown ftpuser:ftpuser /home/ftpuser/xml/*
 done

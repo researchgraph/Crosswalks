@@ -140,8 +140,8 @@ csvsrc="/home/dspace/rd_switchboard"
 
 # Input Output files
 rawDatIn=csvsrc+"/"+setname+".csv"
-xmlOut="/usr/local/rdswitchboard/xml/"
-rifout=xmlOut+"r."+setname+".xml"
+xmlOut="/usr/local/rdswitchboard/tmp/"
+rifout=xmlOut+setname+".xml"
 print "CSV sourced from " + rawDatIn
 print("Output file will be at " + rifout)
 
