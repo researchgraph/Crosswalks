@@ -1,4 +1,4 @@
-#Crosswalk figshare:RDF to R.XML
+#Crosswalk figshare:VIVO-RDF to R.XML
 This is the crosswalk between figshare RDF files and Research Graph XML schema. 
 
 ##Node type
