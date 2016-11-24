@@ -37,7 +37,6 @@
                     <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
                 </datasets>
             </xsl:if>
-            
             <xsl:if test=".//oai:header[oai:setSpec='item_type_5' or
                                         oai:setSpec='item_type_6' or
                                         oai:setSpec='item_type_7' or
@@ -46,6 +45,9 @@
                     <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
                 </publications>
             </xsl:if>
+            <relations>
+                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
+            </relations>
         </registryObjects>
     </xsl:template>
     
@@ -53,26 +55,7 @@
     <!-- Dataset Template                            -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="dataset">
-        <xsl:choose>
-            <xsl:when test=".//oai:header[oai:setSpec='item_type_1']">
-                <xsl:apply-templates select=".//oai:metadata" mode="dataset"/>
-            </xsl:when>
-            <xsl:when test=".//oai:header[oai:setSpec='item_type_2']">
-                <xsl:apply-templates select=".//oai:metadata" mode="dataset"/>
-            </xsl:when>
-            <xsl:when test=".//oai:header[oai:setSpec='item_type_3']">
-                <xsl:apply-templates select=".//oai:metadata" mode="dataset"/>
-            </xsl:when>
-            <xsl:when test=".//oai:header[oai:setSpec='item_type_4']">
-                <xsl:apply-templates select=".//oai:metadata" mode="dataset"/>
-            </xsl:when>
-            <xsl:when test=".//oai:header[oai:setSpec='item_type_9']">
-                <xsl:apply-templates select=".//oai:metadata" mode="dataset"/>
-            </xsl:when>
-            <xsl:when test=".//oai:header[oai:setSpec='item_type_11']">
-                <xsl:apply-templates select=".//oai:metadata" mode="dataset"/>
-            </xsl:when>
-        </xsl:choose>
+        <xsl:apply-templates select=".//oai:metadata" mode="dataset"/>
     </xsl:template>
     <xsl:template match="oai:metadata" mode="dataset">
         <dataset>
@@ -108,20 +91,7 @@
     <!-- Publication Template                        -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="publication">
-        <xsl:choose>
-            <xsl:when test=".//oai:header[oai:setSpec='item_type_5']">
-                <xsl:apply-templates select=".//oai:metadata" mode="publication"/>
-            </xsl:when>
-            <xsl:when test=".//oai:header[oai:setSpec='item_type_6']">
-                <xsl:apply-templates select=".//oai:metadata" mode="publication"/>
-            </xsl:when>
-            <xsl:when test=".//oai:header[oai:setSpec='item_type_7']">
-                <xsl:apply-templates select=".//oai:metadata" mode="publication"/>
-            </xsl:when>
-            <xsl:when test=".//oai:header[oai:setSpec='item_type_8']">
-                <xsl:apply-templates select=".//oai:metadata" mode="publication"/>
-            </xsl:when>
-        </xsl:choose>
+        <xsl:apply-templates select=".//oai:metadata" mode="publication"/>
     </xsl:template>
     <xsl:template match="oai:metadata" mode="publication">
         <publication>
@@ -156,5 +126,54 @@
                 <xsl:value-of select="substring-before(substring-after(.//vivo:datePublished/@rdf:resource,'date'),'-')"/>
             </publication_year>
         </publication>
+    </xsl:template>
+    
+    <!-- =========================================== -->
+    <!-- Relation Template                           -->
+    <!-- =========================================== -->
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relation">
+        <xsl:apply-templates select=".//oai:metadata" mode="relation"/>
+    </xsl:template>
+    <xsl:template match="oai:metadata" mode="relation">
+        <xsl:for-each select=".//vivo:relates[*]">
+            <relation>
+                <xsl:choose>
+                    <xsl:when test=".//vivo:orcidId">
+                        <from_key>
+                            <xsl:value-of select="concat('Researchgraph.org/figshare/',substring-after(.//vivo:orcidId/@rdf:resource,'orcid.org/'))"/>
+                        </from_key>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <from_key>
+                            <xsl:value-of select="concat('Researchgraph.org/figshare/',..//bibo:doi)"/>
+                        </from_key>
+                    </xsl:otherwise>
+                </xsl:choose>
+                <xsl:choose>
+                    <xsl:when test=".//vivo:orcidId">
+                        <to_uri>
+                            <xsl:value-of select=".//vivo:orcidId/@rdf:resource"/>
+                        </to_uri>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <to_uri>
+                            <xsl:value-of select=".//vcard:Individual/@rdf:about"/>
+                        </to_uri>
+                    </xsl:otherwise>
+                </xsl:choose>
+                <xsl:choose>
+                    <xsl:when test=".//vivo:orcidId">
+                        <label>
+                            <xsl:value-of select="'Author_ORCID'"/>
+                        </label>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <label>
+                            <xsl:value-of select="'Author'"/>
+                        </label>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </relation>
+        </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>
