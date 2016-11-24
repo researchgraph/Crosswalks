@@ -13,14 +13,24 @@ sys.setdefaultencoding('utf8')
 # rifplace is a nested set of rif tag entities expressed as nested lists
 # In each list the first entry is a key, item zero is a text key every second entry is either a list of data
 
-if len(sys.argv)>1:
-   setname=str(sys.argv[1])
+if len(sys.argv) == 4:
+   csvSrcDir=str(sys.argv[1])
+   if not os.path.isdir(csvSrcDir):
+       print( csvSrcDir+" Not found")
+       sys.exit()
+
+   xmlDestDir=str(sys.argv[2])
+   if not os.path.isdir(xmlDestDir):
+       print( xmlDestDir+" Not found")
+       sys.exit()
+   idKeyWord=str(sys.argv[3])
 else:
    print("Please specify a set name for  CSV input file and output.")
    print('For example: python createResearcherXML.py sampleResearcher.csv')
    sys.exit()
 
-includeSchema="./"+setname+"XMLSchemaInclude.py"
+
+includeSchema="./"+idKeyWord+"XMLSchemaInclude.py"
 
 if not os.path.isfile(includeSchema):
    print("Schema File %s cannot be found." % includeSchema)
@@ -87,8 +97,6 @@ def rifheader():
 def tagFunc(tagname,rifplace,idt):
    if rifplace[0]=="data":
       dataval=eval(rifplace[1])
-      #if tagname=="doi":
-      # pdb.set_trace()
       if dataval in [""," "]:return
 
    emit("<"+tagname,idt)
@@ -110,7 +118,7 @@ def makeCalls(rifplace,idt):
    bkout=False
    for index in range(0,len(rifplace),2):
       #Decides whether to close off XML tag with closing angle bracket
-      if not bkout and idt > 1:
+      if not bkout and idt > 2:
          if rifplace[index]=="data": 
             rifoutfd.write(">")
             bkout=True
@@ -134,22 +142,48 @@ def makeCalls(rifplace,idt):
          print
          sys.exit()
 
+def rifListOut(rifdef,idt):
+   # List of heirachial tags
+   global fldData
+   lastrow=[]
+   for row in datreader:
+      # decoding encoded html-unsafe symbols to cover the situation when some of them are already encoded ans some are not
+      # encoding html-unsafe symbols
+      row=replaceStrings(row)
+      row=lastrow+row           # Mostly lastrow is empty
+      if len(row) < headlen:    # If two lines actually one (Maybe DOD ctrl M)
+         lastrow=row
+      else:
+         lastrow=[]
+         for index in range(0,len(rifdef),2):
+            fldData=dict(zip(headers,row))   #Header items as keys to values
+            makeCalls(rifdef,idt)
+
+def groupOut(rifdef,idt):
+   if type(rifdef) is dict:
+      idt+=1
+      groupItem=next(iter(rifdef))
+      groupTag="<%s>\n" % groupItem
+      emit(groupTag,idt)
+      groupOut(rifdef[groupItem],idt)      # Either another group tag or list of conained tags
+      groupTag="</%s>\n" % groupItem
+      emit(groupTag,idt)
+   else:
+      rifListOut(rifdef,idt)                   # Assumed that list doesn't contain dictionaries
+
 # main Main    -------------------------------------------------------
 
-csvsrc="/home/dspace/rd_switchboard"
-
 # Input Output files
-rawDatIn=csvsrc+"/"+setname+".csv"
-xmlOut="/usr/local/rdswitchboard/tmp/"
-rifout=xmlOut+setname+".xml"
+rawDatIn=csvSrcDir+"/"+idKeyWord+".csv"
+rifout=xmlDestDir+"/"+idKeyWord+".xml"
 print "CSV sourced from " + rawDatIn
 print("Output file will be at " + rifout)
 
+fldData={}
 idt=0    # idt is indent
 # Test input file availablility
 if not os.path.isfile(rawDatIn):
    print "Error: Input file %s not found" % rawDatIn
-   pdb.set_trace()
    sys.exit()
 
 # Read csv publication input data and write output in appropriate XML format
@@ -169,21 +203,9 @@ with codecs.open(rifout,"w",encoding='utf-8',errors='replace') as rifoutfd:
       emit("\n",0)
       emit('xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/researcher.xsd">',idt+1)
       emit("\n",0)
-      emit('<researchers>\n',idt)
-      lastrow=[]
-      for row in datreader:
-         # decoding encoded html-unsafe symbols to cover the situation when some of them are already encoded ans some are not
-         # encoding html-unsafe symbols
-         row=replaceStrings(row)
-         row=lastrow+row           # Mostly lastrow is empty
-         if len(row) < headlen:    # If two lines actually one (Maybe DOD ctrl M)
-            lastrow=row
-         else:
-            lastrow=[]
-            for index in range(0,len(rifdef),2):
-               fldData=dict(zip(headers,row))   #Header items as keys to values
-               makeCalls(rifdef,idt)
-      emit('</researchers>\n',idt)
+
+      groupOut(rifdef,idt)
+
       emit("</registryObjects>\n",idt)
 
 print ("End.")

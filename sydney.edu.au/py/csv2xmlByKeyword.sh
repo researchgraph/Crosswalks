@@ -6,33 +6,35 @@
 # usage:     runAllcsv2xml.sh <keywordlist> 
 
 csvDir=/home/dspace/rd_switchboard
-cmd="ls $csvDir"
-if [ $# -eq 1 ]
+xmlDir=/usr/local/rdswitchboard/xml
+appdir=/usr/local/rdswitchboard/Crosswalks/sydney.edu.au/py
+
+# Use arguments to determine which CSVs to process
+# With no arguments process them all
+function csv2xml {
+      csvname=$1
+      echo csvname $csvname
+      #ensure just the keyword
+      idkeyword=$(basename $csvname .csv)
+      xmlfile=${xmlDir}/${idkeyword}.xml
+      echo convert $idkeyword
+
+      ${appdir}/rdswitchcsv2xml.py ${csvDir} $xmlDir $idkeyword
+      ${appdir}/clean.py $xmlfile > ${xmlDir}/r.$idkeyword.xml
+      rm -f $xmlfile
+      cp ${xmlDir}/r.$idkeyword.xml /home/ftpuser/xml/
+}
+
+if [ $# -eq 0 ]
 then
-   cmd="ls $csvDir/*.csv"
+   # Process all the CSV
+   for csvfile in `ls $csvDir/*.csv`
+   do
+      csv2xml $csvfile
+   done
 else
    for arg
    do
-      keyword=$(basename $arg)
-      cmd="$cmd ${csvDir}/${keyword}.csv"
+      csv2xml $arg
    done
 fi
-
-echo $arg
-
-for csv in $($cmd)
-do
-   echo convert $csv
-   idkeyword=$(basename $csv .csv)
-   python ./rdswitchcsv2xml.py $idkeyword
-   localxml=/usr/local/rdswitchboard/tmp/$idkeyword.xml
-
-   cleanedXML=/home/ftpuser/xml/r.${idkeyword}.xml
-   ./clean.py $localxml > $cleanedXML
-
-   echo removing $localxml
-   rm -f $localxml
-
-   cp /home/ftpuser/xml/* /usr/local/rdswitchboard/xml/
-   chown ftpuser:ftpuser /home/ftpuser/xml/*
-done
