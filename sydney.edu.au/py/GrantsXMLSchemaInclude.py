@@ -1,6 +1,6 @@
 rifdef=\
-   { "publications":
-      [ "publication",
+   { "grants":
+      [ "grant",
         [ "key",
            [ "keytxt","sydney.edu.au/grant/",
              "data",'fldData["GrantCode"]'
@@ -16,6 +16,18 @@ rifdef=\
            "participant_list",
            [
              "data",'fldData["FirstTenInvestigators"]'
+           ],
+           "FOR-code1",
+           [
+             "data",'fldData["chrFORcode1"]'
+           ],
+           "FOR-code2",
+           [
+             "data",'fldData["chrFORcode2"]'
+           ],
+           "FOR-code3",
+           [
+             "data",'fldData["chrFORcode3"]'
            ]
          ]
       ]
