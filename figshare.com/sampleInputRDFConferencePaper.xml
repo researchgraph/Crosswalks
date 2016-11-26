@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="/v2/static/oai2.xsl"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2016-11-19T07:16:16Z</responseDate>
+  <request metadataPrefix="rdf" set="item_type_6" verb="ListRecords">https://api.figshare.com/v2/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/2000066</identifier>
+        <datestamp>2015-04-13T06:43:17Z</datestamp>
+        <setSpec>category_20</setSpec>
+        <setSpec>portal_8</setSpec>
+        <setSpec>item_type_6</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <vivo:ConferencePaper rdf:about="https://figshare.com/articles/testShare/2000066">
+            <bibo:doi>10.4225/49/552b658019d34</bibo:doi>
+            <rdfs:label>Research Cloud Data Communities</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2015-04-13"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2015-04-13"/>
+            <bibo:abstract>Big Data, big science, the data deluge, these are topics we are hearing about more and more in our
+research pursuits. Then, through media hype, comes cloud computing, the saviour that is going to
+resolve our Big Data issues. However, it is difficult to pinpoint exactly what researchers can actually
+do with data and with clouds, how they get to exactly solve their Big Data problems, and how they
+get help in using these relatively new tools and infrastructure.
+Since the beginning of 2012, the NeCTAR Research Cloud has been running at the University of
+Melbourne, attracting over 1,650 users from around the country. This has not only provided an
+unprecedented opportunity for researchers to employ clouds in their research, but it has also given us
+an opportunity to clearly understand how researchers can more easily solve their Big Data problems.
+The cloud is now used daily, from running web servers and blog sites, through to hosting virtual
+laboratories that can automatically create hundreds of servers depending on research demand. Of
+course, it has also helped us understand that infrastructure isn’t everything. There are many other
+skillsets needed to help researchers from the multitude of disciplines use the cloud effectively.
+How can we solve Big Data problems on cloud infrastructure? One of the key aspects are
+communities based on research platforms: Research is built on collaboration, connection and
+community, and researchers employ platforms daily, whether as bio-imaging platforms,
+computational platforms or cloud platforms (like DropBox).
+There are some important features which enabled this to work.. Firstly, the borders to collaboration
+are eased, allowing communities to access infrastructure that can be instantly built to be completely
+open, through to completely closed, all managed securely through (nationally) standardised
+interfaces. Secondly, it is free and easy to build servers and infrastructure, but it is also cheap to fail,
+allowing for experimentation not only at a code-level, but at a server or in</bibo:abstract>
+            <bibo:freetextKeyword>cloud</bibo:freetextKeyword>
+            <bibo:freetextKeyword>research</bibo:freetextKeyword>
+            <bibo:freetextKeyword>big data</bibo:freetextKeyword>
+            <bibo:freetextKeyword>theta</bibo:freetextKeyword>
+            <bibo:freetextKeyword>virtual infrastructure</bibo:freetextKeyword>
+          </vivo:ConferencePaper>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/testShare/2000066-authorship-1163885">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/ANDY_TSENG/1163885-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/ANDY_TSENG/1163885-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/testShare/2000066"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/ANDY_TSENG/1163885-name">
+            <vcard:givenName>ANDY</vcard:givenName>
+            <vcard:familyName>TSENG</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/2000550</identifier>
+        <datestamp>2015-05-12T22:21:30Z</datestamp>
+        <setSpec>category_45</setSpec>
+        <setSpec>portal_12</setSpec>
+        <setSpec>item_type_6</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <vivo:ConferencePaper rdf:about="https://figshare.com/articles/Monitoring_the_Impact_of_Social_Policy_1980_2001_Social_Expenditure_Patterns_in_Aotearoa_New_Zealan/2000550">
+            <bibo:doi>10.17608/k6.auckland.2000550.v1</bibo:doi>
+            <rdfs:label>Monitoring the Impact of Social Policy, 1980–2001: Social Expenditure Patterns in Aotearoa / New Zealan</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2015-05-12"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2015-05-12"/>
+            <bibo:abstract>The paper examines social spending in New Zealand over the period 1981 - 2001 using OECD social expensditure data</bibo:abstract>
+            <bibo:freetextKeyword>social policy</bibo:freetextKeyword>
+            <bibo:freetextKeyword>social expenditure</bibo:freetextKeyword>
+            <bibo:freetextKeyword>new zealand</bibo:freetextKeyword>
+          </vivo:ConferencePaper>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Monitoring_the_Impact_of_Social_Policy_1980_2001_Social_Expenditure_Patterns_in_Aotearoa_New_Zealan/2000550-authorship-1171773">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Gerard_Cotterell/1171773-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Gerard_Cotterell/1171773-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Monitoring_the_Impact_of_Social_Policy_1980_2001_Social_Expenditure_Patterns_in_Aotearoa_New_Zealan/2000550"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Gerard_Cotterell/1171773-name">
+            <vcard:givenName>Gerard</vcard:givenName>
+            <vcard:familyName>Cotterell</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Monitoring_the_Impact_of_Social_Policy_1980_2001_Social_Expenditure_Patterns_in_Aotearoa_New_Zealan/2000550-authorship-1175292">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors//1175292-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors//1175292-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Monitoring_the_Impact_of_Social_Policy_1980_2001_Social_Expenditure_Patterns_in_Aotearoa_New_Zealan/2000550"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors//1175292-name">
+            <vcard:givenName>Charles</vcard:givenName>
+            <vcard:familyName>Crothers</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/2001966</identifier>
+        <datestamp>2015-08-17T13:31:03Z</datestamp>
+        <setSpec>category_58</setSpec>
+        <setSpec>category_145</setSpec>
+        <setSpec>portal_15</setSpec>
+        <setSpec>item_type_6</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <vivo:ConferencePaper rdf:about="https://figshare.com/articles/Constraining_Exoplanet_Characteristics_with_Asteroseismology/2001966">
+            <bibo:doi>10.5072/fk2.figshare.2001966.v1</bibo:doi>
+            <rdfs:label>Constraining Exoplanet Characteristics with Asteroseismology</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2015-08-17"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2015-08-17"/>
+            <bibo:abstract>&lt;p&gt;In this paper, I study the precision of exoplanetary characteristics, in particular their masses and radii, by using different methods. I highlight the supposed improvements provided by asteroseismic studies.&lt;/p&gt;&lt;p&gt;To calculate the exoplanetary parameters, I use five different calculation meth- ods for the model systems Kepler-10, 21 and 22. The distinctions are set in the computation of the required stellar parameters.&lt;/p&gt;&lt;p&gt;I show that the precision increases with the use of asteroseismology, though only asteroseismic modeling improves the exoplanet parameters significantly. Other methods used in this thesis refine the accuracy only under certain conditions.&lt;/p&gt;&lt;p&gt;At last I give a short prospect on future possibilities with planned space missions.&lt;/p&gt;</bibo:abstract>
+            <bibo:freetextKeyword>exoplanets</bibo:freetextKeyword>
+            <bibo:freetextKeyword>asteroseismology</bibo:freetextKeyword>
+          </vivo:ConferencePaper>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Constraining_Exoplanet_Characteristics_with_Asteroseismology/2001966-authorship-1227654">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Barbara_Pedley/1227654-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Barbara_Pedley/1227654-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Constraining_Exoplanet_Characteristics_with_Asteroseismology/2001966"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Barbara_Pedley/1227654-name">
+            <vcard:givenName>Barbara</vcard:givenName>
+            <vcard:familyName>Pedley</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/2002128</identifier>
+        <datestamp>2015-08-18T15:50:33Z</datestamp>
+        <setSpec>category_184</setSpec>
+        <setSpec>category_185</setSpec>
+        <setSpec>portal_36</setSpec>
+        <setSpec>item_type_6</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <vivo:ConferencePaper rdf:about="https://figshare.com/articles/Using_openWordnet_PT_to_improve_VIVO/2002128">
+            <bibo:doi>10.6084/m9.figshare.2002128.v2</bibo:doi>
+            <rdfs:label>Using openWordnet-PT to improve VIVO</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2015-08-19"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2015-08-18"/>
+            <bibo:abstract>VIVO is an open source semantic web application for research &lt;br&gt;discovery. The power of VIVO relies mainly on the VIVO-ISF ontology and its expressivity to represent all information about researchers and the research domain. VIVO-ISF makes all those types of information interconnected and browsable in the VIVO application. Nevertheless, although VIVO has good support for faceted search across disciplines, it is still not anything more than a keyword-based search engine. That is; it is still not using the power of semantics for information retrieving. OpenWordnet-PT is a lexical-semantic resource describing (Brazilian) Portuguese words and their relationships. It is modelled after and fully interoperable with the original Princeton WordNet for English, relying on the same identifiers as WordNet 3.0. We present ideas to use openWordnet-PT to empower VIVO providing two usable services: concepts disambiguation and query expansion.</bibo:abstract>
+            <bibo:freetextKeyword>wordnet</bibo:freetextKeyword>
+            <bibo:freetextKeyword>query expansion</bibo:freetextKeyword>
+            <bibo:freetextKeyword>concepts disambiguation</bibo:freetextKeyword>
+            <bibo:freetextKeyword>openwordnet-pt</bibo:freetextKeyword>
+          </vivo:ConferencePaper>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Using_openWordnet_PT_to_improve_VIVO/2002128-authorship-1228608">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors//1228608-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors//1228608-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Using_openWordnet_PT_to_improve_VIVO/2002128"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors//1228608-name">
+            <vcard:givenName>Alexandre</vcard:givenName>
+            <vcard:familyName>Rademaker</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Using_openWordnet_PT_to_improve_VIVO/2002128-authorship-1228605">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors//1228605-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors//1228605-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Using_openWordnet_PT_to_improve_VIVO/2002128"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors//1228605-name">
+            <vcard:givenName>Daniela</vcard:givenName>
+            <vcard:familyName>Brauner</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Using_openWordnet_PT_to_improve_VIVO/2002128-authorship-1228602">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors//1228602-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors//1228602-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Using_openWordnet_PT_to_improve_VIVO/2002128"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors//1228602-name">
+            <vcard:givenName>Glauco</vcard:givenName>
+            <vcard:familyName>Roberto Munsberg</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Using_openWordnet_PT_to_improve_VIVO/2002128-authorship-1228599">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors//1228599-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors//1228599-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Using_openWordnet_PT_to_improve_VIVO/2002128"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors//1228599-name">
+            <vcard:givenName>André</vcard:givenName>
+            <vcard:familyName>Guimarães Peil</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/2002209</identifier>
+        <datestamp>2015-08-20T07:06:49Z</datestamp>
+        <setSpec>category_185</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_6</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <vivo:ConferencePaper rdf:about="https://figshare.com/articles/A_Comment_on_Open_Access_the_Whipping_Boy_for_Problems_in_Scholarly_Publishing/2002209">
+            <bibo:doi>10.4225/03/55d57c84ce4e0</bibo:doi>
+            <rdfs:label>A Comment on Open Access: the Whipping Boy for Problems in Scholarly Publishing</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2015-08-20"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2015-08-20"/>
+            <bibo:abstract>A response paper to "Open Access: The Whipping Boy for Problems in
+Scholarly Communication—A Response to the
+Rebuttals" &lt;i&gt;Communications of the Association for Information Systems&lt;/i&gt;, Vol 37, article 20, August 2015</bibo:abstract>
+            <bibo:freetextKeyword>open access</bibo:freetextKeyword>
+            <bibo:freetextKeyword>scholarly publishing</bibo:freetextKeyword>
+          </vivo:ConferencePaper>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Comment_on_Open_Access_the_Whipping_Boy_for_Problems_in_Scholarly_Publishing/2002209-authorship-1176435">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/David_Groenewegen/1176435-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/David_Groenewegen/1176435-name"/>
+                <obo:ARG_2000029>
+                  <foaf:Person rdf:about="https://figshare.com/authors/David_Groenewegen/1176435">
+                    <vivo:orcidId rdf:resource="http://orcid.org/0000-0003-2523-1676"/>
+                    <rdfs:label>David Groenewegen</rdfs:label>
+                  </foaf:Person>
+                </obo:ARG_2000029>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Comment_on_Open_Access_the_Whipping_Boy_for_Problems_in_Scholarly_Publishing/2002209"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/David_Groenewegen/1176435-name">
+            <vcard:givenName>David</vcard:givenName>
+            <vcard:familyName>Groenewegen</vcard:familyName>
+          </vcard:Name>
+          <vivo:Thing rdf:about="http://orcid.org/0000-0003-2523-1676"/>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/2003247</identifier>
+        <datestamp>2015-09-25T22:16:08Z</datestamp>
+        <setSpec>category_168</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_6</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <vivo:ConferencePaper rdf:about="https://figshare.com/articles/Pre_and_post_conflict_language_designations_and_language_policies_Re_configuration_of_professional_norms_amongst_translators_of_the_Bosnian_Croatian_and_Serbian_languages/2003247">
+            <bibo:doi>10.4225/03/5605c7a3f0652</bibo:doi>
+            <rdfs:label>Pre- and post-conflict language designations and language policies. Re-configuration of professional norms amongst translators of the Bosnian, Croatian and Serbian languages</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2015-09-25"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2015-09-25"/>
+            <bibo:abstract>This paper examines the reported actions and strategies of translators working in three closely related languages, Bosnian, Croatian and Serbian, which have recently undergone re-codification in countries that have greatly changed their language planning and language policy regulations. The legacy of former and unofficial designations such as ‘Serbo-Croatian’ or ‘Bosnian-Croatian-Serbian’ within the post-conflict situation is contextualised and translators’ decision-making processes and reported strategies in relation to language form and designation are examined. The paper seeks to demonstrate the explanatory power of Toury’s notion of norms as a framework to account for new regularities of practice. Texts identified to be different from their nominal code, or market requests to work from or into unofficial designations are now problematised and re-negotiated as secondary practices or a less commonly reported behaviour. The paper extends and applies the notion of norms to the social and occupational, macro-pragmatic role that translators occupy.</bibo:abstract>
+            <bibo:freetextKeyword>translation studies</bibo:freetextKeyword>
+            <bibo:freetextKeyword>linguistics</bibo:freetextKeyword>
+            <bibo:freetextKeyword>language planning and policy</bibo:freetextKeyword>
+            <bibo:freetextKeyword>croatian language</bibo:freetextKeyword>
+          </vivo:ConferencePaper>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Pre_and_post_conflict_language_designations_and_language_policies_Re_configuration_of_professional_norms_amongst_translators_of_the_Bosnian_Croatian_and_Serbian_languages/2003247-authorship-1230528">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Jim_Hlavac/1230528-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Jim_Hlavac/1230528-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Pre_and_post_conflict_language_designations_and_language_policies_Re_configuration_of_professional_norms_amongst_translators_of_the_Bosnian_Croatian_and_Serbian_languages/2003247"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Jim_Hlavac/1230528-name">
+            <vcard:givenName>Jim</vcard:givenName>
+            <vcard:familyName>Hlavac</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/2003748</identifier>
+        <datestamp>2015-10-20T13:08:30Z</datestamp>
+        <setSpec>category_7</setSpec>
+        <setSpec>category_105</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_6</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <vivo:ConferencePaper rdf:about="https://figshare.com/articles/Predicting_blood_glucose_levels_from_HbA1c_is_not_the_same_as_predicting_HbA1c_from_blood_glucose_levels_a_common_methodological_misunderstanding_/2003748">
+            <bibo:doi>10.4225/03/56239bd13c5e0</bibo:doi>
+            <rdfs:label>Predicting blood glucose levels from HbA1c is not the same as predicting HbA1c from blood glucose levels: a common methodological misunderstanding.</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2015-10-20"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2015-10-20"/>
+            <bibo:abstract>A methodological problem with the conversion of HbA1c to blood glucose level and visa versa has slipped under our noses.  The prediction equations on which the conversions are based assume that predicting HbA1c from blood glucose is the same as predicting blood glucose from HbA1c.  The problem is pervasive and can be seen on the websites of the American Diabetes Association, Diabetes UK, the US, National Glycohemoglobin Standardization Program, on commercial sites, and in research.  Using a secondary analysis of publicly available out-patient data we illustrate why predicting one from the other is not the same as the reverse.  The implications for clinical care, research, and patient self management are highlighted.&lt;br&gt;&lt;br&gt;This Research Note is supported by code on github: https://gist.github.com/dreidpath/76bc76a1cecb1d454801&lt;br&gt;</bibo:abstract>
+            <bibo:freetextKeyword>seaco</bibo:freetextKeyword>
+            <bibo:freetextKeyword>blood glucose</bibo:freetextKeyword>
+            <bibo:freetextKeyword>hba1c</bibo:freetextKeyword>
+            <bibo:freetextKeyword>regression models</bibo:freetextKeyword>
+            <bibo:freetextKeyword>prediction</bibo:freetextKeyword>
+          </vivo:ConferencePaper>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Predicting_blood_glucose_levels_from_HbA1c_is_not_the_same_as_predicting_HbA1c_from_blood_glucose_levels_a_common_methodological_misunderstanding_/2003748-authorship-1228911">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Daniel_Reidpath/1228911-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Daniel_Reidpath/1228911-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Predicting_blood_glucose_levels_from_HbA1c_is_not_the_same_as_predicting_HbA1c_from_blood_glucose_levels_a_common_methodological_misunderstanding_/2003748"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Daniel_Reidpath/1228911-name">
+            <vcard:givenName>Daniel</vcard:givenName>
+            <vcard:familyName>Reidpath</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Predicting_blood_glucose_levels_from_HbA1c_is_not_the_same_as_predicting_HbA1c_from_blood_glucose_levels_a_common_methodological_misunderstanding_/2003748-authorship-1228914">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Pascale_Allotey/1228914-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Pascale_Allotey/1228914-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Predicting_blood_glucose_levels_from_HbA1c_is_not_the_same_as_predicting_HbA1c_from_blood_glucose_levels_a_common_methodological_misunderstanding_/2003748"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Pascale_Allotey/1228914-name">
+            <vcard:givenName>Pascale</vcard:givenName>
+            <vcard:familyName>Allotey</vcard:familyName>
+          </vcard:Name>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Predicting_blood_glucose_levels_from_HbA1c_is_not_the_same_as_predicting_HbA1c_from_blood_glucose_levels_a_common_methodological_misunderstanding_/2003748-authorship-1233426">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors//1233426-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors//1233426-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Predicting_blood_glucose_levels_from_HbA1c_is_not_the_same_as_predicting_HbA1c_from_blood_glucose_levels_a_common_methodological_misunderstanding_/2003748"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors//1233426-name">
+            <vcard:givenName>Mark</vcard:givenName>
+            <vcard:familyName>R Diamond</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/1585085</identifier>
+        <datestamp>2015-10-26T13:43:09Z</datestamp>
+        <setSpec>category_108</setSpec>
+        <setSpec>item_type_6</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <vivo:ConferencePaper rdf:about="https://figshare.com/articles/Theoretical_Atom_Crystol/1585085">
+            <bibo:doi>10.6084/m9.figshare.1585085.v2</bibo:doi>
+            <rdfs:label>Theoretical Atom Crystal</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2015-10-26"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2015-10-26"/>
+            <bibo:abstract>&lt;p&gt;Computer models illustrating the precise shape and bonding points of the atom with detailed explanations.&lt;/p&gt;</bibo:abstract>
+            <bibo:freetextKeyword>helium electron pair shift</bibo:freetextKeyword>
+            <bibo:freetextKeyword>estimated radii</bibo:freetextKeyword>
+            <bibo:freetextKeyword>bonding</bibo:freetextKeyword>
+            <bibo:freetextKeyword>lanthaides</bibo:freetextKeyword>
+            <bibo:freetextKeyword>periodic atom crystal table</bibo:freetextKeyword>
+            <bibo:freetextKeyword>atom crystal tunnel</bibo:freetextKeyword>
+            <bibo:freetextKeyword>atom creation defects</bibo:freetextKeyword>
+            <bibo:freetextKeyword>electron stacks</bibo:freetextKeyword>
+            <bibo:freetextKeyword>precise atom shape</bibo:freetextKeyword>
+            <bibo:freetextKeyword>precise electron location</bibo:freetextKeyword>
+          </vivo:ConferencePaper>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Theoretical_Atom_Crystol/1585085-authorship-450149">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Richard_Morefield/450149-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Richard_Morefield/450149-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Theoretical_Atom_Crystol/1585085"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Richard_Morefield/450149-name">
+            <vcard:givenName>Richard</vcard:givenName>
+            <vcard:familyName>Morefield</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/2004393</identifier>
+        <datestamp>2015-10-27T05:25:05Z</datestamp>
+        <setSpec>category_100</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_6</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <vivo:ConferencePaper rdf:about="https://figshare.com/articles/Arguments_from_Moral_Evil/2004393">
+            <bibo:doi>10.4225/03/562f0aa17ab04</bibo:doi>
+            <rdfs:label>Arguments from Moral Evil</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2015-10-27"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2015-10-27"/>
+            <bibo:abstract>Final Version Published: International Journal for Philosophy of Religion 56, 2004, 59-87</bibo:abstract>
+            <bibo:freetextKeyword>problem of evil</bibo:freetextKeyword>
+            <bibo:freetextKeyword>evil</bibo:freetextKeyword>
+            <bibo:freetextKeyword>mackie</bibo:freetextKeyword>
+            <bibo:freetextKeyword>arguments for design</bibo:freetextKeyword>
+            <bibo:freetextKeyword>god</bibo:freetextKeyword>
+            <bibo:freetextKeyword>theism</bibo:freetextKeyword>
+            <bibo:freetextKeyword>atheism</bibo:freetextKeyword>
+            <bibo:freetextKeyword>argument from evil</bibo:freetextKeyword>
+            <bibo:freetextKeyword>logical argument from evil</bibo:freetextKeyword>
+          </vivo:ConferencePaper>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Arguments_from_Moral_Evil/2004393-authorship-1233579">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Graham_Oppy/1233579-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Graham_Oppy/1233579-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Arguments_from_Moral_Evil/2004393"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Graham_Oppy/1233579-name">
+            <vcard:givenName>Graham</vcard:givenName>
+            <vcard:familyName>Oppy</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/2004321</identifier>
+        <datestamp>2015-10-27T05:28:33Z</datestamp>
+        <setSpec>category_100</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_6</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/terms/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <vivo:ConferencePaper rdf:about="https://figshare.com/articles/Arguing_about_the_Kalam_Cosmological_Argument/2004321">
+            <bibo:doi>10.4225/03/562ef546df22c</bibo:doi>
+            <rdfs:label>Arguing about the Kalam Cosmological Argument</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2015-10-27"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2015-10-27"/>
+            <bibo:abstract>Final Published Version: Philo 5, 1, 2002, 34-61</bibo:abstract>
+            <bibo:freetextKeyword>kalam cosmological argument</bibo:freetextKeyword>
+            <bibo:freetextKeyword>william lane craig</bibo:freetextKeyword>
+            <bibo:freetextKeyword>begging the question</bibo:freetextKeyword>
+            <bibo:freetextKeyword>theism</bibo:freetextKeyword>
+            <bibo:freetextKeyword>atheism</bibo:freetextKeyword>
+            <bibo:freetextKeyword>god</bibo:freetextKeyword>
+            <bibo:freetextKeyword>kalam</bibo:freetextKeyword>
+            <bibo:freetextKeyword>meta-argument</bibo:freetextKeyword>
+          </vivo:ConferencePaper>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Arguing_about_the_Kalam_Cosmological_Argument/2004321-authorship-1233579">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Graham_Oppy/1233579-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Graham_Oppy/1233579-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Arguing_about_the_Kalam_Cosmological_Argument/2004321"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Graham_Oppy/1233579-name">
+            <vcard:givenName>Graham</vcard:givenName>
+            <vcard:familyName>Oppy</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2016-11-19T08:16:16Z">ZXhwaXJhdGlvbj0yMDE2LTExLTE5JTIwMDglM0ExNiUzQTE2JnZlcmI9TGlzdFJlY29yZHMmc2V0PWl0ZW1fdHlwZV82JnBhZ2U9MiZtZXRhZGF0YVByZWZpeD1yZGY=</resumptionToken>
+  </ListRecords>
+</OAI-PMH>
