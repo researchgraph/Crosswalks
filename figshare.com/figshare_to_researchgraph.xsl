@@ -27,13 +27,67 @@
         <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes
             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
-            <datasets>
-                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
-            </datasets>
-            <publications>
-                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
-            </publications>
+            <xsl:if test=".//oai:header[oai:setSpec='item_type_1' or
+                                        oai:setSpec='item_type_2' or
+                                        oai:setSpec='item_type_3' or
+                                        oai:setSpec='item_type_4' or
+                                        oai:setSpec='item_type_9' or
+                                        oai:setSpec='item_type_11']">
+                <datasets>
+                    <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
+                </datasets>
+            </xsl:if>
+            <xsl:if test=".//oai:header[oai:setSpec='item_type_5' or
+                                        oai:setSpec='item_type_6' or
+                                        oai:setSpec='item_type_7' or
+                                        oai:setSpec='item_type_8']">
+                <publications>
+                    <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
+                </publications>
+            </xsl:if>
+            <relations>
+                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
+            </relations>
+            <researchers>
+                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="researcher"/>
+            </researchers>
         </registryObjects>
+    </xsl:template>
+    
+    <!-- =========================================== -->
+    <!-- Dataset Template                            -->
+    <!-- =========================================== -->
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="dataset">
+        <xsl:apply-templates select=".//oai:metadata" mode="dataset"/>
+    </xsl:template>
+    <xsl:template match="oai:metadata" mode="dataset">
+        <dataset>
+            <key>
+                <xsl:value-of select="concat('Researchgraph.org/figshare/',.//vivo:Dataset/bibo:doi)"/>
+            </key>
+            <source>
+                <xsl:value-of select="$source"/>
+            </source>
+            <local_id>
+                <xsl:value-of select=".//bibo:doi"/>
+            </local_id>
+            <last_updated>
+                <xsl:value-of select="..//oai:datestamp"/>
+            </last_updated>
+            <url>
+                <xsl:value-of select=".//@rdf:about[1]"/>
+            </url>
+            <title>
+                <xsl:value-of select=".//rdfs:label"/>
+            </title>
+            <doi>
+                <xsl:value-of select=".//bibo:doi"/>
+            </doi>
+            <publication_year>
+                <!--                <xsl:value-of select="year-from-date(xs:date(substring-after(.//vivo:datePublished/@rdf:resource,'date')))"/>-->
+                <xsl:value-of select="substring-before(substring-after(.//vivo:datePublished/@rdf:resource,'date'),'-')"/>
+            </publication_year>
+        </dataset>
     </xsl:template>
     
     <!-- =========================================== -->
@@ -78,27 +132,113 @@
     </xsl:template>
     
     <!-- =========================================== -->
-    <!-- Dataset Template                            -->
+    <!-- Relation Template                           -->
     <!-- =========================================== -->
-    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="dataset">
-        <xsl:if test=".//vivo:Dataset">
-            <xsl:apply-templates select=".//oai:metadata" mode="dataset"/>
-        </xsl:if>
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relation">
+        <xsl:apply-templates select=".//oai:metadata" mode="relation"/>
     </xsl:template>
-    <xsl:template match="oai:metadata" mode="dataset">
-        <dataset>
-            <key>
-                <xsl:value-of select="concat('Researchgraph.org/figshare/',.//vivo:Dataset/bibo:doi)"/>
-            </key>
-            <source>
-                <xsl:value-of select="$source"/>
-            </source>
-            <local_id>
-                <xsl:value-of select=".//vivo:Dataset/bibo:doi"/>
-            </local_id>
-            <last_updated>
-                <xsl:value-of select="substring-before(substring-after(.//vivo:Dataset/vivo:datePublished/@rdf:resource,'date'),'-')"/>
-            </last_updated>
-        </dataset>
+    <xsl:template match="oai:metadata" mode="relation">
+        <xsl:for-each select=".//vivo:relates[*]">
+            <relation>
+                <xsl:choose>
+                    <xsl:when test=".//vivo:orcidId">
+                        <from_key>
+                            <xsl:value-of select="concat('Researchgraph.org/figshare/',substring-after(.//vivo:orcidId/@rdf:resource,'orcid.org/'))"/>
+                        </from_key>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <from_key>
+                            <xsl:value-of select="concat('Researchgraph.org/figshare/',..//bibo:doi)"/>
+                        </from_key>
+                    </xsl:otherwise>
+                </xsl:choose>
+                <xsl:choose>
+                    <xsl:when test=".//vivo:orcidId">
+                        <to_uri>
+                            <xsl:value-of select=".//vivo:orcidId/@rdf:resource"/>
+                        </to_uri>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <to_uri>
+                            <xsl:value-of select=".//vcard:Individual/@rdf:about"/>
+                        </to_uri>
+                    </xsl:otherwise>
+                </xsl:choose>
+                <xsl:choose>
+                    <xsl:when test=".//vivo:orcidId">
+                        <label>
+                            <xsl:value-of select="'Author_ORCID'"/>
+                        </label>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <label>
+                            <xsl:value-of select="'Author'"/>
+                        </label>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </relation>
+        </xsl:for-each>
+    </xsl:template>
+    
+    <!-- =========================================== -->
+    <!-- Researcher Template                         -->
+    <!-- =========================================== -->
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="researcher">
+        <xsl:apply-templates select=".//oai:metadata" mode="researcher"/>
+    </xsl:template>
+    <xsl:template match="oai:metadata" mode="researcher">
+        <xsl:for-each select=".//vcard:Name">
+            <xsl:variable name="firstName" select=".//vcard:givenName"/>
+            <xsl:variable name="lastName" select=".//vcard:familyName"/>
+            <xsl:variable name="fullName" select="concat($firstName,' ',$lastName)"/>
+            <researcher>
+                <xsl:choose>
+                    <xsl:when test="preceding-sibling::vivo:Authorship[1]//vivo:orcidId">
+                        <key>
+                            <xsl:value-of select="concat('Researchgraph.org/figshare/',substring-after(preceding-sibling::vivo:Authorship[1]//vivo:orcidId/@rdf:resource,'orcid.org/'))"/>
+                        </key>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <key>
+                            <xsl:value-of select="concat('Researchgraph.org/figshare/',substring-after(substring-before(..//vcard:Individual/@rdf:about[contains(.,$firstName)],'-vcard'),'/'))"/>
+                        </key>
+                    </xsl:otherwise>
+                </xsl:choose>
+                <source>
+                    <xsl:value-of select="$source"/>
+                </source>
+                <local_id>
+                    <xsl:choose>
+                        <xsl:when test="preceding-sibling::vivo:Authorship[1]//vivo:orcidId">
+                            <xsl:value-of select="preceding-sibling::vivo:Authorship[1]//vivo:orcidId/@rdf:resource"/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about"/>
+                        </xsl:otherwise>
+                    </xsl:choose>
+                </local_id>
+                <xsl:choose>
+                    <xsl:when test="preceding-sibling::vivo:Authorship[1]//vivo:orcidId">
+                        <url>
+                            <xsl:value-of select="preceding-sibling::vivo:Authorship[1]//vivo:orcidId/@rdf:resource"/>
+                        </url>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <url>
+                            <xsl:value-of select="preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about"/>
+                        </url>
+                    </xsl:otherwise>
+                </xsl:choose>
+                <full_name>
+                    <xsl:value-of select="$fullName"/>
+                </full_name>
+                <first_name>
+                    <xsl:value-of select="$firstName"/>
+                </first_name>
+                <last_name>
+                    <xsl:value-of select="$lastName"/>
+                </last_name>
+            </researcher>
+        </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>
