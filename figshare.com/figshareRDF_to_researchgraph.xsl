@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns="http://researchgraph.org/schema/v2.0/xml/nodes" 
     xmlns:fn="http://www.w3.org/2005/xpath-functions" 
     xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
@@ -63,7 +63,7 @@
     <xsl:template match="oai:metadata" mode="dataset">
         <dataset>
             <key>
-                <xsl:value-of select="concat('Researchgraph.org/figshare/',.//vivo:Dataset/bibo:doi)"/>
+                <xsl:value-of select="concat('Researchgraph.org/figshare/',.//bibo:doi)"/>
             </key>
             <source>
                 <xsl:value-of select="$source"/>
