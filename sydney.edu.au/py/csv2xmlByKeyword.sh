@@ -20,6 +20,9 @@ function csv2xml {
       echo convert $idkeyword
 
       ${appdir}/rdswitchcsv2xml.py ${csvDir} $xmlDir $idkeyword
+
+      # Produce test data output reducing the number of CSV lines used to make XML to about ten lines
+      ${appdir}/genTestDataRdswitchcsv2xml.py ${csvDir} $xmlDir $idkeyword
       ${appdir}/clean.py $xmlfile > ${xmlDir}/r.$idkeyword.xml
       rm -f $xmlfile
       cp ${xmlDir}/r.$idkeyword.xml /home/ftpuser/xml/
