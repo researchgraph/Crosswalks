@@ -16,8 +16,7 @@ sudo apt-get install python3.5
 ## Using pip, install dicttoxml package
     'python pip install dicttoxml'
     
-## How to run the python program
+## How to run the converter
 **Type**:'python script.py'
 
-If you want to change the input json file to convert, simply change the url value 
-in the python file.
+The converter will convert all the json files in the folder the converter belongs to.
