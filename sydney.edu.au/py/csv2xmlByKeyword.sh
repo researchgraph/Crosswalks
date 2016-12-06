@@ -7,6 +7,7 @@
 
 csvDir=/home/dspace/rd_switchboard
 xmlDir=/usr/local/rdswitchboard/xml
+testXmlDir=/usr/local/rdswitchboard/xmlTests
 appdir=/usr/local/rdswitchboard/Crosswalks/sydney.edu.au/py
 
 # Use arguments to determine which CSVs to process
@@ -17,15 +18,19 @@ function csv2xml {
       #ensure just the keyword
       idkeyword=$(basename $csvname .csv)
       xmlfile=${xmlDir}/${idkeyword}.xml
+      testXmlfile=${testXmlDir}/testData_${idkeyword}.xml
       echo convert $idkeyword
 
       ${appdir}/rdswitchcsv2xml.py ${csvDir} $xmlDir $idkeyword
 
       # Produce test data output reducing the number of CSV lines used to make XML to about ten lines
-      ${appdir}/genTestDataRdswitchcsv2xml.py ${csvDir} $xmlDir $idkeyword
-      ${appdir}/clean.py $xmlfile > ${xmlDir}/r.$idkeyword.xml
-      rm -f $xmlfile
-      cp ${xmlDir}/r.$idkeyword.xml /home/ftpuser/xml/
+      ${appdir}/genTestDataRdswitchcsv2xml.py ${csvDir} $testXmlDir $idkeyword
+
+      ${appdir}/clean.py $xmlfile  >    ${xmlDir}/${idkeyword}Cleaned.xml
+      ${appdir}/clean.py $testXmlfile > ${testXmlDir}/testData_${idkeyword}Cleaned.xml
+      rm -f $xmlfile $testXmlfile
+      cp ${xmlDir}/${idkeyword}Cleaned.xml /home/ftpuser/xml/
+      cp ${testXmlDir}/testData_${idkeyword}Cleaned.xml /home/ftpuser/xml/
 }
 
 if [ $# -eq 0 ]
