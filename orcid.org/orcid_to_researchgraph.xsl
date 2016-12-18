@@ -46,7 +46,7 @@
     <xsl:template match="orcid-bio" mode="researcher">     
         <xsl:variable name="timestamp" select="..//orcid-history/last-modified-date/value"/>
         <key>
-            <xsl:value-of select="concat('Researchgraph.org/orcid/',..//orcid-identifier/path)"/>
+            <xsl:value-of select="concat('researchgraph.org/orcid/',..//orcid-identifier/path)"/>
         </key>
         <source>
             <xsl:value-of select="$source"/>
@@ -89,7 +89,7 @@
         <xsl:variable name="groupSource" select="$andsGroupList/root/row[group = $groupName]/source"/>
         <grant>
             <key>
-                <xsl:value-of select="concat('Researchgraph.org/orcid/',.//source-orcid/path)"/>
+                <xsl:value-of select="concat('researchgraph.org/orcid/',.//source-orcid/path)"/>
             </key>
             <source>
                 <xsl:value-of select="$source"/>
@@ -143,10 +143,10 @@
             <local_id>
                 <xsl:choose>
                     <xsl:when test=".//work-external-identifier/item[work-external-identifier-type='DOI']">
-                        <xsl:value-of select="concat('Researchgraph.org/orcid/',.//work-external-identifier-id/value)"/>
+                        <xsl:value-of select="concat('researchgraph.org/orcid/',.//work-external-identifier-id/value)"/>
                     </xsl:when>
                     <xsl:otherwise>
-                        <xsl:value-of select="concat('Researchgraph.org/orcid/',.//source-orcid/path)"/>
+                        <xsl:value-of select="concat('researchgraph.org/orcid/',.//source-orcid/path)"/>
                     </xsl:otherwise>
                 </xsl:choose>
             </local_id>
@@ -177,7 +177,7 @@
             </xsl:choose>
             <xsl:if test=".//work-external-identifier/item[work-external-identifier-type='DOI']">
                 <local_id>
-                    <xsl:value-of select="concat('Researchgraph.org/orcid/',.//work-external-identifier-id/value)"/>
+                    <xsl:value-of select="concat('researchgraph.org/orcid/',.//work-external-identifier-id/value)"/>
                 </local_id>
             </xsl:if>
             <xsl:if test=".//publication-date/year/value">

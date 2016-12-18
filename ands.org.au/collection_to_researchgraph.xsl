@@ -48,7 +48,7 @@
         <xsl:variable name="groupSource" select="$andsGroupList/root/row[group = $groupName]/source"/>
         <dataset>
             <key>
-                <xsl:value-of select="concat('Researchgraph.org/ands/',.//rif:key[1])"/>
+                <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:key[1])"/>
             </key>
             <xsl:choose>
                 <xsl:when test="$andsGroupList/root/row[group = $groupName]/source">

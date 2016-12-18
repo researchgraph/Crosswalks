@@ -53,7 +53,7 @@
       <xsl:variable name="groupSource" select="$andsGroupList/root/row[group = $groupName]/source"/>
       <grant>
          <key>
-            <xsl:value-of select="concat('Researchgraph.org/ands/',.//rif:key[1])"/>
+            <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:key[1])"/>
          </key>
          <source>
             <xsl:value-of select="$groupSource"/>

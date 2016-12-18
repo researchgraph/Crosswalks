@@ -52,7 +52,7 @@
         
         <researcher>
             <key>
-                <xsl:value-of select="concat('Researchgraph.org/ands/',.//rif:key)"/>
+                <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:key)"/>
             </key>
             <source>
                 <xsl:value-of select="$groupSource"/>
