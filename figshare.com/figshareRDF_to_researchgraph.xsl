@@ -84,8 +84,8 @@
                 <xsl:value-of select=".//bibo:doi"/>
             </doi>
             <publication_year>
-                <!--                <xsl:value-of select="year-from-date(xs:date(substring-after(.//vivo:datePublished/@rdf:resource,'date')))"/>-->
-                <xsl:value-of select="substring-before(substring-after(.//vivo:datePublished/@rdf:resource,'date'),'-')"/>
+                                <xsl:value-of select="year-from-date(xs:date(substring-after(.//vivo:datePublished/@rdf:resource,'date')))"/>
+<!--                <xsl:value-of select="substring-before(substring-after(.//vivo:datePublished/@rdf:resource,'date'),'-')"/>-->
             </publication_year>
         </dataset>
     </xsl:template>
@@ -200,7 +200,7 @@
                     </xsl:when>
                     <xsl:otherwise>
                         <key>
-                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(substring-before(..//vcard:Individual/@rdf:about[contains(.,$firstName)],'-vcard'),'/figshare.com/'))"/>
+                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(substring-before(preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about,'-vcard'),'/figshare.com/'))"/>
                         </key>
                     </xsl:otherwise>
                 </xsl:choose>
