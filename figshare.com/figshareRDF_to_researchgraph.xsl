@@ -84,8 +84,7 @@
                 <xsl:value-of select=".//bibo:doi"/>
             </doi>
             <publication_year>
-                                <xsl:value-of select="year-from-date(xs:date(substring-after(.//vivo:datePublished/@rdf:resource,'date')))"/>
-<!--                <xsl:value-of select="substring-before(substring-after(.//vivo:datePublished/@rdf:resource,'date'),'-')"/>-->
+                <xsl:value-of select="year-from-date(xs:date(substring-after(.//vivo:datePublished/@rdf:resource,'date')))"/>
             </publication_year>
         </dataset>
     </xsl:template>
@@ -125,8 +124,7 @@
                 <xsl:value-of select=".//bibo:doi"/>
             </doi>
             <publication_year>
-<!--                <xsl:value-of select="year-from-date(xs:date(substring-after(.//vivo:datePublished/@rdf:resource,'date')))"/>-->
-                <xsl:value-of select="substring-before(substring-after(.//vivo:datePublished/@rdf:resource,'date'),'-')"/>
+                <xsl:value-of select="year-from-date(xs:date(substring-after(.//vivo:datePublished/@rdf:resource,'date')))"/>
             </publication_year>
         </publication>
     </xsl:template>
