@@ -146,7 +146,7 @@
                     </xsl:when>
                     <xsl:otherwise>
                         <from_key>
-                            <xsl:value-of select="concat('researchgraph.org/figshare/',..//bibo:doi)"/>
+                            <xsl:value-of select="concat('researchgraph.org/figshare/',../..//bibo:doi)"/>
                         </from_key>
                     </xsl:otherwise>
                 </xsl:choose>
