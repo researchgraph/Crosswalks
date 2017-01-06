@@ -154,17 +154,18 @@
                     </xsl:otherwise>
                 </xsl:choose>
                 <xsl:choose>
-                    <xsl:when test=".//vivo:orcidId">
-                        <to_uri>
-                            <xsl:value-of select=".//vivo:orcidId/@rdf:resource"/>
-                        </to_uri>
+                    <xsl:when test="preceding-sibling::vivo:Authorship[1]//vivo:orcidId">
+                        <key>
+                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(.//vivo:orcidId/@rdf:resource,'orcid.org/'))"/>
+                        </key>
                     </xsl:when>
                     <xsl:otherwise>
-                        <to_uri>
-                            <xsl:value-of select=".//vcard:Individual/@rdf:about"/>
-                        </to_uri>
+                        <key>
+                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(substring-before(.//vcard:Individual/@rdf:about,'-vcard'),'/figshare.com/'))"/>
+                        </key>
                     </xsl:otherwise>
                 </xsl:choose>
+                
                 <xsl:choose>
                     <xsl:when test=".//vivo:orcidId">
                         <label>
