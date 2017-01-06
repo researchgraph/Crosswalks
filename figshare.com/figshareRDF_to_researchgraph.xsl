@@ -110,7 +110,7 @@
                 <xsl:value-of select="..//oai:datestamp"/>
             </last_updated>
             <url>
-                <xsl:value-of select=".//@rdf:about[1]"/>
+                <xsl:value-of select=".//vivo:ConferencePaper/@rdf:about"/>
             </url>
             <title>
                 <xsl:value-of select=".//rdfs:label"/>
