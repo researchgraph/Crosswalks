@@ -117,7 +117,10 @@
             </title>
             <authors_list>
                 <xsl:for-each select=".//vcard:Name">
-                    <xsl:value-of select="concat(.//vcard:givenName,' ',.//vcard:familyName,',')"/>
+                    <xsl:value-of select="concat(.//vcard:givenName,' ',.//vcard:familyName)"/>
+                    <xsl:if test="position() != last()">
+                        <xsl:value-of select="','"/>
+                    </xsl:if>
                 </xsl:for-each>
             </authors_list>
             <doi>
