@@ -3,855 +3,1204 @@
                  xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes          https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
    <grants>
       <grant>
-         <key>researchgraph.org/ands/scu.edu.au/projnmsc-001</key>
-         <source>scu.edu.au</source>
-         <local_id>scu.edu.au/projnmsc-001</local_id>
-         <last_updated>2014-07-17T03:02:45Z</last_updated>
-         <title>Multigenerational impact of climate change on marine life histories</title>
-         <founder>scu.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/swinburne.edu.au/ncs/Innovation/climate_change_background.html</key>
-         <source>swinburn.edu.au</source>
-         <local_id>swinburne.edu.au/ncs/Innovation/climate_change_background.html</local_id>
-         <last_updated>2014-07-17T03:11:27Z</last_updated>
-         <title>Climate change response research project, National Centre for Sustainability, Swinburne University of Technology</title>
-         <founder>swinburn.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/sisr.net/Flagships/sustainable/projects/Housingvic.htm</key>
-         <source>swinburn.edu.au</source>
-         <local_id>sisr.net/Flagships/sustainable/projects/Housingvic.htm</local_id>
-         <last_updated>2014-07-17T03:11:29Z</last_updated>
-         <url>http://www.sisr.net/Flagships/sustainable/projects/Housingvic.htm</url>
-         <title>Housing in Victoria website project</title>
-         <founder>swinburn.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/swinburne.edu.au/lib/</key>
-         <source>swinburn.edu.au</source>
-         <local_id>swinburne.edu.au/lib/</local_id>
-         <last_updated>2014-07-17T03:11:30Z</last_updated>
-         <url>http://www.swinburne.edu.au/lib/</url>
-         <title>Swinburne Library user research</title>
-         <founder>swinburn.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/swinburne.edu.au/lss/ebc/ebc-groups.html</key>
-         <source>swinburn.edu.au</source>
-         <local_id>swinburne.edu.au/lss/ebc/ebc-groups.html</local_id>
-         <last_updated>2014-07-17T03:11:32Z</last_updated>
-         <url>http://www.swinburne.edu.au/lss/ebc/ebc-groups.html</url>
-         <title>Public and Environmental Health research program, Swinburne University of Technology</title>
-         <founder>swinburn.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/MONc76731ee-abe2-11df-ae20-123035f469d3</key>
-         <source>monash.edu</source>
-         <local_id>MONc76731ee-abe2-11df-ae20-123035f469d3</local_id>
-         <last_updated>2014-07-17T03:11:38Z</last_updated>
-         <title>Structual characterisation function analyses of type I interferon-receptor interactions</title>
-         <founder>monash.edu</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/MONx33221ee-abe2-11df-ae20-123035f469d3</key>
-         <source>monash.edu</source>
-         <local_id>MONx33221ee-abe2-11df-ae20-123035f469d3</local_id>
-         <last_updated>2014-07-17T03:11:38Z</last_updated>
-         <title/>
-         <founder>monash.edu</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/MONc76724b0-abe2-11df-ae20-58b035f469d3</key>
-         <source>monash.edu</source>
-         <local_id>MONc76724b0-abe2-11df-ae20-58b035f469d3</local_id>
-         <last_updated>2014-07-17T03:11:40Z</last_updated>
-         <title>Patterns and processes of carbon and water budgets across northern Australian landscapes: From point to region</title>
-         <founder>monash.edu</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/MONc7672dac-abe2-11df-ae20-58b035f469d3</key>
-         <source>monash.edu</source>
-         <local_id>MONc7672dac-abe2-11df-ae20-58b035f469d3</local_id>
-         <last_updated>2014-07-17T03:11:43Z</last_updated>
-         <title>Rainfall over the Maritime Continent and Northern Australia</title>
-         <founder>monash.edu</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/nhmrc.gov.au/grant/490900</key>
-         <source>nhrmc.gov.au</source>
-         <local_id>nhmrc.gov.au/grant/490900</local_id>
-         <last_updated>2014-07-17T03:11:43Z</last_updated>
-         <title>Protease systems biology</title>
-         <founder>nhrmc.gov.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6822</key>
-         <source>latrobe.edu.au</source>
-         <local_id>oai:ahad.edu.au:Resource:6822</local_id>
-         <last_updated>2014-07-17T03:11:45Z</last_updated>
-         <url>http://ahad.edu.au/project/6822</url>
-         <title>Exploring the Archaeology of the Modern City project</title>
-         <founder>latrobe.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6975</key>
-         <source>latrobe.edu.au</source>
-         <local_id>oai:ahad.edu.au:Resource:6975</local_id>
-         <last_updated>2013-10-29T22:37:17Z</last_updated>
-         <url>http://ahad.edu.au/project/6975</url>
-         <title>Viewbank Homestead Archaeological Investigation</title>
-         <founder>latrobe.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6918</key>
-         <source>latrobe.edu.au</source>
-         <local_id>oai:ahad.edu.au:Resource:6918</local_id>
-         <last_updated>2014-07-17T00:10:34Z</last_updated>
-         <url>http://ahad.edu.au/project/6918</url>
-         <title>710-722 George Street, Haymarket, Sydney - Archaeological Investigation</title>
-         <founder>latrobe.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6906</key>
-         <source>latrobe.edu.au</source>
-         <local_id>oai:ahad.edu.au:Resource:6906</local_id>
-         <last_updated>2013-10-29T22:37:31Z</last_updated>
-         <url>http://ahad.edu.au/project/6906</url>
-         <title>Carlton United Brewery site, Sydney - Archaeological Excavation</title>
-         <founder>latrobe.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6879</key>
-         <source>latrobe.edu.au</source>
-         <local_id>oai:ahad.edu.au:Resource:6879</local_id>
-         <last_updated>2014-07-17T00:10:34Z</last_updated>
-         <url>http://ahad.edu.au/project/6879</url>
-         <title>An Archaeology of Institutional Confinement: the Hyde Park Barracks 1848-1886</title>
-         <founder>latrobe.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6889</key>
-         <source>latrobe.edu.au</source>
-         <local_id>oai:ahad.edu.au:Resource:6889</local_id>
-         <last_updated>2013-10-29T22:37:32Z</last_updated>
-         <url>http://ahad.edu.au/project/6889</url>
-         <title>Hadley Park, Castlereagh - Archaeological Monitoring</title>
-         <founder>latrobe.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6912</key>
-         <source>latrobe.edu.au</source>
-         <local_id>oai:ahad.edu.au:Resource:6912</local_id>
-         <last_updated>2014-07-17T00:10:34Z</last_updated>
-         <url>http://ahad.edu.au/project/6912</url>
-         <title>23–38 Pyrmont Bridge Road, Camperdown - Archaeological Excavation</title>
-         <founder>latrobe.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6819</key>
-         <source>latrobe.edu.au</source>
-         <local_id>oai:ahad.edu.au:Resource:6819</local_id>
-         <last_updated>2014-07-17T00:10:34Z</last_updated>
-         <url>http://ahad.edu.au/project/6819</url>
-         <title>Cost, quality and value in historical archaeology (PhD research)</title>
-         <founder>latrobe.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6914</key>
-         <source>latrobe.edu.au</source>
-         <local_id>oai:ahad.edu.au:Resource:6914</local_id>
-         <last_updated>2013-10-29T22:37:35Z</last_updated>
-         <url>http://ahad.edu.au/project/6914</url>
-         <title>8–28 The Corso, Manly</title>
-         <founder>latrobe.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6904</key>
-         <source>latrobe.edu.au</source>
-         <local_id>oai:ahad.edu.au:Resource:6904</local_id>
-         <last_updated>2013-10-29T22:37:36Z</last_updated>
-         <url>http://ahad.edu.au/project/6904</url>
-         <title>Hadley's Hotel, Hobart - Archaeological Excavation</title>
-         <founder>latrobe.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6888</key>
-         <source>latrobe.edu.au</source>
-         <local_id>oai:ahad.edu.au:Resource:6888</local_id>
-         <last_updated>2013-10-29T22:37:36Z</last_updated>
-         <url>http://ahad.edu.au/project/6888</url>
-         <title>Argyle Street Properties, Parramatta</title>
-         <founder>latrobe.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6933</key>
-         <source>latrobe.edu.au</source>
-         <local_id>oai:ahad.edu.au:Resource:6933</local_id>
-         <last_updated>2013-10-29T22:37:37Z</last_updated>
-         <url>http://ahad.edu.au/project/6933</url>
-         <title>King George V Recreation Centre - Archaeological Investigation</title>
-         <founder>latrobe.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6881</key>
-         <source>latrobe.edu.au</source>
-         <local_id>oai:ahad.edu.au:Resource:6881</local_id>
-         <last_updated>2014-07-17T00:10:34Z</last_updated>
-         <url>http://ahad.edu.au/project/6881</url>
-         <title>Suburban archaeology: approaching an archaeology of the middle class in 19th century Melbourne</title>
-         <founder>latrobe.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/dl.tpac.org.au/activity/sw</key>
-         <source>tpac.org.au</source>
-         <local_id>dl.tpac.org.au/activity/sw</local_id>
-         <last_updated>2013-11-22T00:38:51Z</last_updated>
-         <url>http://www.csiro.au/sensorweb/au.csiro.OgcThinClient/OgcThinClient.html</url>
-         <title>Hydro-Meteorological Sensor Web – Tasmania</title>
-         <founder>tpac.org.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/www.une.edu.au:hfrc:ands:dsa01</key>
-         <source>une.edu.au</source>
-         <local_id>www.une.edu.au:hfrc:ands:dsa01</local_id>
-         <last_updated>2015-06-11T22:17:48Z</last_updated>
-         <url>http://hfrc.une.edu.au/heritagefutures/neimmigrants/index.html</url>
-         <title>Different Sights: New England Immigrants</title>
-         <founder>une.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/www.une.edu.au:herbarium:ands:Veg-NENP-01</key>
-         <source>une.edu.au</source>
-         <local_id>www.une.edu.au:herbarium:ands:Veg-NENP-01</local_id>
-         <last_updated>2014-07-17T00:10:39Z</last_updated>
-         <title>The vegetation and plant species of New England National Park</title>
-         <founder>une.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/www.une.edu.au:herbarium:ands:Bulbine-01</key>
-         <source>une.edu.au</source>
-         <local_id>www.une.edu.au:herbarium:ands:Bulbine-01</local_id>
-         <last_updated>2014-07-17T00:10:39Z</last_updated>
-         <url>http://www.une.edu.au/herbarium/</url>
-         <title>Species limits and phylogenetic relationships within Australian Bulbine Wiolf. (Xanthorrhoeaceae subfamily Asphodeloideae)</title>
-         <founder>une.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/www.une.edu.au:herbarium:ands:Synostemon-01</key>
-         <source>une.edu.au</source>
-         <local_id>www.une.edu.au:herbarium:ands:Synostemon-01</local_id>
-         <last_updated>2014-07-17T00:10:39Z</last_updated>
-         <url>http://www.une.edu.au/herbarium/</url>
-         <title>Taxonomy, phylogeny and biogeography of Synostemon (Phyllanthaceae)</title>
-         <founder>une.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/www.une.edu.au:herbarium:ands:NE-Flora-01</key>
-         <source>une.edu.au</source>
-         <local_id>www.une.edu.au:herbarium:ands:NE-Flora-01</local_id>
-         <last_updated>2014-05-21T00:38:46Z</last_updated>
-         <title>Taxonomy of the New England Flora of NSW, Australia</title>
-         <founder>une.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_82</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_82</local_id>
-         <last_updated>2014-07-25T01:46:14Z</last_updated>
-         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#gcps</url>
-         <title>Gay Community Periodic Survey Project: Sydney</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_42</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_42</local_id>
-         <last_updated>2014-07-25T01:48:06Z</last_updated>
-         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#gcps</url>
-         <title>Gay Community Periodic Survey Project: Adelaide</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_43</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_43</local_id>
-         <last_updated>2014-07-25T01:49:16Z</last_updated>
-         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#gcps</url>
-         <title>Gay Community Periodic Survey Project: Melbourne</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_111</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_111</local_id>
-         <last_updated>2014-07-25T01:44:53Z</last_updated>
-         <url>http://www.storylines.org.au/about/</url>
-         <title>Storylines Project</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_32</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_32</local_id>
-         <last_updated>2014-07-25T01:41:20Z</last_updated>
-         <url>http://www.nchecr.unsw.edu.au/nchecrweb.nsf/page/HIM_study</url>
-         <title>Health In Men Study</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_35</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_35</local_id>
-         <last_updated>2014-07-25T01:39:18Z</last_updated>
-         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#cald</url>
-         <title>Priority CALD Community Periodic Survey</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_40</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_40</local_id>
-         <last_updated>2014-07-25T01:40:19Z</last_updated>
-         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/</url>
-         <title>Sydney Men and Sexual Health Project</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_80</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_80</local_id>
-         <last_updated>2014-07-25T01:31:20Z</last_updated>
-         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#gcps</url>
-         <title>Gay Community Periodic Survey Project: Perth</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_41</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_41</local_id>
-         <last_updated>2014-07-25T01:33:19Z</last_updated>
-         <url>http://www.med.unsw.edu.au/nchecrweb.nsf/page/VHEPP-research</url>
-         <title>Sydney Women and Sexual Health Survey</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_37</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_37</local_id>
-         <last_updated>2014-07-23T02:01:38Z</last_updated>
-         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hepatitis-c-and-drug-use/#3D</url>
-         <title>The 3D Project: Diagnosis, disclosure, discrimination and living with Hepatitis C</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_109</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_109</local_id>
-         <last_updated>2014-07-25T01:28:51Z</last_updated>
-         <url>http://www.daao.org.au/about/ http://blogs.unsw.edu.au/daao/</url>
-         <title>Design and Art Australia Online Project</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_39</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_39</local_id>
-         <last_updated>2014-07-25T01:25:23Z</last_updated>
-         <url>http://nchsr.arts.unsw.edu.au/</url>
-         <title>Positive health study</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_38</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_38</local_id>
-         <last_updated>2014-07-25T01:27:24Z</last_updated>
-         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#gcps</url>
-         <title>Gay Community Periodic Survey: Canberra</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_36</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_36</local_id>
-         <last_updated>2014-07-23T02:13:03Z</last_updated>
-         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#caldtesting</url>
-         <title>Barriers to HIV testing among people from culturally and linguistically diverse backgrounds</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_33</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_33</local_id>
-         <last_updated>2014-07-25T01:20:42Z</last_updated>
-         <title>The Male Call Project</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/rac.chi.unsw.edu.au.0</key>
-         <source>unsw.edu.au</source>
-         <local_id>rac.chi.unsw.edu.au.0</local_id>
-         <last_updated>2014-07-25T01:52:37Z</last_updated>
-         <url>http://www2.chi.unsw.edu.au:8080/rac/</url>
-         <title>Repository of Antibiotic resistance Cassettes</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_81</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_81</local_id>
-         <last_updated>2014-07-25T01:18:42Z</last_updated>
-         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#gcps</url>
-         <title>Gay Community Periodic Survey Project: Queensland</title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/hdl:1959.4/004_34</key>
-         <source>unsw.edu.au</source>
-         <local_id>hdl:1959.4/004_34</local_id>
-         <last_updated>2014-07-25T01:17:24Z</last_updated>
-         <title>Social Aspects of the Prevention of AIDS </title>
-         <founder>unsw.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/24</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/24</local_id>
-         <last_updated>2015-01-14T04:24:13Z</last_updated>
-         <title>Magnetic resonance imaging of cannabis users with and without schizophrenia.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/26</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/26</local_id>
-         <last_updated>2015-01-14T04:24:13Z</last_updated>
-         <title>Characterisation of silicon detectors for positron emission tomography.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/62</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/62</local_id>
-         <last_updated>2015-01-14T04:24:15Z</last_updated>
-         <title>Potential avian influenza-induced pandemic : minimising public panic.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/60</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/60</local_id>
-         <last_updated>2015-01-14T04:24:15Z</last_updated>
-         <title>Communicating the importance of breast cancer re-screening via counterfactual thinking messages.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/17</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/17</local_id>
-         <last_updated>2015-01-14T04:24:13Z</last_updated>
-         <title>Impact of boneseed invasion on biodiversity.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/67</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/67</local_id>
-         <last_updated>2015-01-14T04:24:15Z</last_updated>
-         <title>Smashed : drugs and driving don't work.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/20</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/20</local_id>
-         <last_updated>2015-01-14T04:24:13Z</last_updated>
-         <title>Quantifying the neurocognitive impact of cannabis across the life span : the evolution of memory deficits.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/36</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/36</local_id>
-         <last_updated>2015-01-14T04:24:14Z</last_updated>
-         <title>Superconducting MgB2 thin films and structures for electronic devices and telecommunication applications.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/40</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/40</local_id>
-         <last_updated>2015-01-14T04:24:14Z</last_updated>
-         <title>Is a higher intake of omega-3 fatty acids advantageous for weight loss?</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/66</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/66</local_id>
-         <last_updated>2015-01-14T04:24:15Z</last_updated>
-         <title>Investigation into asthma awareness and education in the 65+ age group.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/19</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/19</local_id>
-         <last_updated>2015-01-14T04:24:13Z</last_updated>
-         <title>Manipulation of spin by electric field.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/28</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/28</local_id>
-         <last_updated>2015-01-14T04:24:14Z</last_updated>
-         <title>IBIC studies of detectors for synchrotron x-ray dosimetry.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/76</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/76</local_id>
-         <last_updated>2015-01-14T04:24:15Z</last_updated>
-         <title>Global/local intersections: history, identity and community in a Tokyo subculture.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/22</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/22</local_id>
-         <last_updated>2015-01-14T04:24:13Z</last_updated>
-         <title>Determining the cognitive sequelae of adolescent cannabis use : a longitudinal cohort study.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/32</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/32</local_id>
-         <last_updated>2015-01-14T04:24:14Z</last_updated>
-         <title>Measuring and managing the impact of lost organisational knowledge.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/38</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/38</local_id>
-         <last_updated>2015-01-14T04:24:14Z</last_updated>
-         <title>Importance of high vegetable consumption in controlling weight studies.
-				</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/64</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/64</local_id>
-         <last_updated>2015-01-14T04:24:15Z</last_updated>
-         <title>Investigation of understanding of standard drink labelling and health messages and effects on drinking intentions.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/34</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/34</local_id>
-         <last_updated>2015-01-14T04:24:14Z</last_updated>
-         <url>www.slowmation.com</url>
-         <title>Generating science content knowledge through digital animation in a knowledge-building community of preservice teachers.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/43</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/43</local_id>
-         <last_updated>2015-01-14T04:24:14Z</last_updated>
-         <title>Healthy eating campaigns: perceptions of the message and messenger.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/72</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/72</local_id>
-         <last_updated>2015-01-14T04:24:15Z</last_updated>
-         <title>Rehabilitation of estuarine ecosystems on the Shoalhaven River (Broughton Creek).</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/uow.edu.au/ACT/30</key>
-         <source>uow.edu.au</source>
-         <local_id>uow.edu.au/ACT/30</local_id>
-         <last_updated>2015-01-14T04:24:14Z</last_updated>
-         <title>NMDA receptor/neuregulin 1 signalling in response to phencyclidine administration.</title>
-         <founder>uow.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/USQ-Activity-0002</key>
-         <source>usq.edu.au</source>
-         <local_id>USQ-Activity-0002</local_id>
-         <last_updated>2015-10-12T21:50:22Z</last_updated>
-         <url>http://www.business.qld.gov.au/industry/science/international-science-partnerships/the-2008-10-queensland-china-climate-change-fellowships</url>
-         <title>The 2008-10 Queensland-China Climate Change Fellowships</title>
-         <founder>usq.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/USQ-Activity-0001</key>
-         <source>usq.edu.au</source>
-         <local_id>USQ-Activity-0001</local_id>
-         <last_updated>2015-10-12T21:49:14Z</last_updated>
-         <url>http://nwc.gov.au/rnws/knowledge/national-water-commission-fellowship-program/technological-change-in-the-australian-irrigation-industry-implications-for-future-resource-management-and-policy-development</url>
-         <title>Technological change in the Australian irrigation industry: National Water Commission Fellowship</title>
-         <founder>usq.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/MIFACTIVITY00001</key>
-         <source>uts.edu.au</source>
-         <local_id>MIFACTIVITY00001</local_id>
-         <last_updated>2014-07-17T00:10:41Z</last_updated>
-         <title>Monitoring cell death signals during drug chemotherapy for cancer</title>
-         <founder>uts.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/remotelabs.eng.uts.edu.au/project/1223</key>
-         <source>uts.edu.au</source>
-         <local_id>remotelabs.eng.uts.edu.au/project/1223</local_id>
-         <last_updated>2014-07-17T00:10:41Z</last_updated>
-         <title>Development of improved difference mode mapping and localisation algorithms for multi sensor robotics platforms used in hazardous areas.</title>
-         <founder>uts.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/MARSACTIVITY00001</key>
-         <source>uts.edu.au</source>
-         <local_id>MARSACTIVITY00001</local_id>
-         <last_updated>2014-07-17T00:10:42Z</last_updated>
-         <title>Analysis and interpretation of Mars data sets publicly available from mission archives</title>
-         <founder>uts.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/7f2391e0-9027-11e1-bb8e-f04da20254be</key>
-         <source>climatescience.org.au</source>
-         <local_id>7f2391e0-9027-11e1-bb8e-f04da20254be</local_id>
-         <last_updated>2015-10-07T23:02:38Z</last_updated>
-         <title>NSW and ACT Regional Climate Model (NARCliM) project</title>
-         <founder>climatescience.org.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/acu.edu.au/activity/193</key>
-         <source>acu.edu.au</source>
-         <local_id>acu.edu.au/activity/193</local_id>
-         <last_updated>2014-07-17T02:32:41Z</last_updated>
-         <title>Prayer and carbolic: Reactions to the plague in Sydney in 1900</title>
-         <founder>acu.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/acu.edu.au/activity/6</key>
-         <source>acu.edu.au</source>
-         <local_id>acu.edu.au/activity/6</local_id>
-         <last_updated>2014-07-17T02:32:42Z</last_updated>
-         <url>http://www.ncls.org.au/</url>
-         <title>NCLS 2011 Survey</title>
-         <founder>acu.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/acu.edu.au/activity/127</key>
-         <source>acu.edu.au</source>
-         <local_id>acu.edu.au/activity/127</local_id>
-         <last_updated>2014-07-17T02:32:44Z</last_updated>
-         <title>Identifying the elements that shape spiritual development and a sense of the sacred: Tertiary students’ perceptions of their spiritual journeys</title>
-         <founder>acu.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/acu.edu.au/activity/128</key>
-         <source>acu.edu.au</source>
-         <local_id>acu.edu.au/activity/128</local_id>
-         <last_updated>2014-07-17T02:32:46Z</last_updated>
-         <title>An investigation into the elements that have contributed to the spiritual wellbeing of 16-20 year-olds in regional Victoria, based on their own perceptions: A pilot study</title>
-         <founder>acu.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/acu.edu.au/activity/191</key>
-         <source>acu.edu.au</source>
-         <local_id>acu.edu.au/activity/191</local_id>
-         <last_updated>2014-07-17T02:32:58Z</last_updated>
-         <title>Reverend Samuel Marsden, the Maori and the Maori Seminary 1810-27</title>
-         <founder>acu.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/acu.edu.au/activity/130</key>
-         <source>acu.edu.au</source>
-         <local_id>acu.edu.au/activity/130</local_id>
-         <last_updated>2014-07-17T02:32:58Z</last_updated>
-         <title>Supporting leaders and aspiring leaders for leadership in religious education</title>
-         <founder>acu.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/acu.edu.au/activity/192</key>
-         <source>acu.edu.au</source>
-         <local_id>acu.edu.au/activity/192</local_id>
-         <last_updated>2014-07-17T02:33:02Z</last_updated>
-         <title>Statues of Robert Burns in Australia and New Zealand as sites of memory, 1880s-1930s</title>
-         <founder>acu.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/acu.edu.au/activity/11</key>
-         <source>acu.edu.au</source>
-         <local_id>acu.edu.au/activity/11</local_id>
-         <last_updated>2014-07-17T02:33:03Z</last_updated>
-         <title>Engaging young learners</title>
-         <founder>acu.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/acu.adu.au/activity/126</key>
-         <source>acu.edu.au</source>
-         <local_id>acu.adu.au/activity/126</local_id>
-         <last_updated>2014-07-17T02:33:05Z</last_updated>
-         <title>Addressing the spiritual dimension in religious education: An investigation of  the perceiving, thinking, feeling and intuiting elements in the learning process  to promote meaning and connectedness</title>
-         <founder>acu.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/acu.edu.au/activity/5</key>
-         <source>acu.edu.au</source>
-         <local_id>acu.edu.au/activity/5</local_id>
-         <last_updated>2014-07-17T02:33:07Z</last_updated>
-         <url>http://www.ncls.org.au/</url>
-         <title>NCLS 2006 Survey</title>
-         <founder>acu.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/acu.edu.au/activity/108</key>
-         <source>acu.edu.au</source>
-         <local_id>acu.edu.au/activity/108</local_id>
-         <last_updated>2014-07-17T02:33:08Z</last_updated>
-         <title>Utilising the information and communication technologies to build a professional learning community and to develop mentoring relationships between teachers in local, regional and rural schools</title>
-         <founder>acu.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/acu.edu.au/activity/129</key>
-         <source>acu.edu.au</source>
-         <local_id>acu.edu.au/activity/129</local_id>
-         <last_updated>2014-07-17T02:33:10Z</last_updated>
-         <title>An investigation into the perceptions of Coptic students of the influences on their religious and spiritual development</title>
-         <founder>acu.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/7dd8c6c5-9324-4eb0-8c65-ef6937a22c70</key>
-         <source>adelaide.edu.au</source>
-         <local_id>7dd8c6c5-9324-4eb0-8c65-ef6937a22c70</local_id>
-         <last_updated>2014-07-21T00:24:14Z</last_updated>
-         <title>CML study 2011</title>
-         <founder>adelaide.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/a3c81b37-2137-43f5-9d1f-2e0e3a60bae6</key>
-         <source>adelaide.edu.au</source>
-         <local_id>a3c81b37-2137-43f5-9d1f-2e0e3a60bae6</local_id>
-         <last_updated>2014-07-21T00:24:14Z</last_updated>
-         <title>BovB: Jumping the fine LINE between species</title>
-         <founder>adelaide.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/4ceccc77-b569-455b-9c70-097617e3e2e8</key>
-         <source>adelaide.edu.au</source>
-         <local_id>4ceccc77-b569-455b-9c70-097617e3e2e8</local_id>
-         <last_updated>2014-07-21T00:24:16Z</last_updated>
-         <title>Deep sequencing analysis of the developing mouse brain reveals a novel microRNA</title>
-         <founder>adelaide.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/d3464f48-39d3-46c1-9b61-6ffbd9fb7876</key>
-         <source>adelaide.edu.au</source>
-         <local_id>d3464f48-39d3-46c1-9b61-6ffbd9fb7876</local_id>
-         <last_updated>2014-07-21T00:24:19Z</last_updated>
-         <title>Dnmt3L haploinsufficent  retrotransposition leads to  genetic hypermutation</title>
-         <founder>adelaide.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/3368011b-16ed-4510-918a-9f2c13908263</key>
-         <source>adelaide.edu.au</source>
-         <local_id>3368011b-16ed-4510-918a-9f2c13908263</local_id>
-         <last_updated>2014-07-21T00:24:22Z</last_updated>
-         <title>Genome-wide consequences of compromised nonsense-mediated mRNA decay and their relevance for variable clinical phenotype of patients with UPF3B mutations</title>
-         <founder>adelaide.edu.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/388</key>
-         <source>ansto.gov.au</source>
-         <local_id>research-data.ansto.gov.au/collection/388</local_id>
-         <last_updated>2014-07-17T02:34:55Z</last_updated>
-         <url>http://research-data.ansto.gov.au/collection/388</url>
-         <title>Safety, Environmental, Radiological Assurance (SERA)</title>
-         <founder>ansto.gov.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/426</key>
-         <source>ansto.gov.au</source>
-         <local_id>research-data.ansto.gov.au/collection/426</local_id>
-         <last_updated>2014-07-17T02:34:58Z</last_updated>
-         <url>http://research-data.ansto.gov.au/collection/426</url>
-         <title>Nuclear Materials Science</title>
-         <founder>ansto.gov.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/430</key>
-         <source>ansto.gov.au</source>
-         <local_id>research-data.ansto.gov.au/collection/430</local_id>
-         <last_updated>2014-07-17T02:35:00Z</last_updated>
-         <url>http://research-data.ansto.gov.au/collection/430</url>
-         <title>Structural Integrity</title>
-         <founder>ansto.gov.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/395</key>
-         <source>ansto.gov.au</source>
-         <local_id>research-data.ansto.gov.au/collection/395</local_id>
-         <last_updated>2014-07-17T02:35:02Z</last_updated>
-         <url>http://research-data.ansto.gov.au/collection/395</url>
-         <title>ANSTO Accelerator Science - Ion Beam Analysis</title>
-         <founder>ansto.gov.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/369</key>
-         <source>ansto.gov.au</source>
-         <local_id>research-data.ansto.gov.au/collection/369</local_id>
-         <last_updated>2014-07-17T02:35:06Z</last_updated>
-         <url>http://research-data.ansto.gov.au/collection/369</url>
-         <title>Isotopes in Climate Change and Atmospheric Systems</title>
-         <founder>ansto.gov.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/722</key>
-         <source>ansto.gov.au</source>
-         <local_id>research-data.ansto.gov.au/collection/722</local_id>
-         <last_updated>2014-07-17T02:35:15Z</last_updated>
-         <url>http://research-data.ansto.gov.au/collection/722</url>
-         <title>Isotopes for Water</title>
-         <founder>ansto.gov.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/409</key>
-         <source>ansto.gov.au</source>
-         <local_id>research-data.ansto.gov.au/collection/409</local_id>
-         <last_updated>2014-07-17T02:35:15Z</last_updated>
-         <url>http://research-data.ansto.gov.au/collection/409</url>
-         <title>Nuclear Methods in Earth Systems</title>
-         <founder>ansto.gov.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/449</key>
-         <source>ansto.gov.au</source>
-         <local_id>research-data.ansto.gov.au/collection/449</local_id>
-         <last_updated>2014-07-17T02:35:26Z</last_updated>
-         <url>http://research-data.ansto.gov.au/collection/449</url>
-         <title>Nuclear Materials Modelling and Characterisation</title>
-         <founder>ansto.gov.au</founder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/ands/http://anu.edu.au/anudc:4873</key>
-         <source>anu.edu.au</source>
-         <local_id>http://anu.edu.au/anudc:4873</local_id>
-         <last_updated>2014-10-06T23:42:06Z</last_updated>
-         <url>http://mcp.anu.edu.au https://datacommons.anu.edu.au:8443/DataCommons/item/anudc:4873</url>
-         <title>Malay Concordance Project</title>
-         <founder>anu.edu.au</founder>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0667253</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0667253</local_id>
+         <last_updated>2015-08-13T17:12:23Z</last_updated>
+         <title>British Empire and the Natural World: the Environmental History of the British Empire and Commonwealth 1600-2000</title>
+         <start_year>2006</start_year>
+         <end_year>2010</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0667253</purl>
+         <participant_list>Dr RH Grove</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0985120</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0985120</local_id>
+         <last_updated>2015-08-13T17:13:33Z</last_updated>
+         <title>A Novel Reconfigurable Unlimited Spherical Motion Generator</title>
+         <start_year>2009</start_year>
+         <end_year>2011</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0985120</purl>
+         <participant_list>Dr C Chen; Dr DN Oetomo</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0209948</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0209948</local_id>
+         <last_updated>2015-08-13T17:09:39Z</last_updated>
+         <title>The Fine Tuned Physiology of Microaerophilic Gastric Spirilla</title>
+         <start_year>2002</start_year>
+         <end_year>2004</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0209948</purl>
+         <participant_list>A/Prof GL Mendz Dr V Korolik</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450145</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0450145</local_id>
+         <last_updated>2015-08-13T17:10:38Z</last_updated>
+         <title>Self-assembled nanolayers of functionalised latexes as selective and adaptable nano-stationary phases in separation science</title>
+         <start_year>2004</start_year>
+         <end_year>2008</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0450145</purl>
+         <participant_list>Prof PR Haddad</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0454426</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0454426</local_id>
+         <last_updated>2015-08-13T17:19:18Z</last_updated>
+         <title>Development of Optical Clocks and Their Applications to Precision Frequency Measurements and Time Keeping</title>
+         <start_year>2004</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LX0454426</purl>
+         <participant_list>Dr EN IvanovA/Prof AN LuitenDr LW HollbergDr J Ye</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882478</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0882478</local_id>
+         <last_updated>2015-08-13T17:18:19Z</last_updated>
+         <title>Digestive Physiology of Crocodilians: Towards an Improved Diet and Feeding Regime for Use by the Farming Industry</title>
+         <start_year>2008</start_year>
+         <end_year>2010</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0882478</purl>
+         <participant_list>Prof KA Christian; Prof RS Seymour; Dr GJ Webb</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094033</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1094033</local_id>
+         <last_updated>2015-08-13T17:14:10Z</last_updated>
+         <title>Dreams: A Cultural History, 1840-1940</title>
+         <start_year>2010</start_year>
+         <end_year>2012</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP1094033</purl>
+         <participant_list>Dr N Lusty; Dr HG Groth</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0346529</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0346529</local_id>
+         <last_updated>2015-08-13T17:10:28Z</last_updated>
+         <title>Interferometry beyond the Standard Quantum Limit</title>
+         <start_year>2003</start_year>
+         <end_year>2005</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0346529</purl>
+         <participant_list>Dr DA Shaddock</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449516</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0449516</local_id>
+         <last_updated>2015-08-13T17:10:32Z</last_updated>
+         <title>Neoliberalism, Inequality and Politics: Public Policy and the Transformation of Australian Society</title>
+         <start_year>2004</start_year>
+         <end_year>2007</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0449516</purl>
+         <participant_list>A/Prof MC WesternA/Prof JH BaxterProf J PakulskiDr BK TranterEm/Prof JS Western</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451923</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0451923</local_id>
+         <last_updated>2015-08-13T17:10:55Z</last_updated>
+         <title>Disruption of Sex Pheromone Biosynthesis: A Novel Control Method for Pestiferous Fruit Flies by</title>
+         <start_year>2004</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0451923</purl>
+         <participant_list>Dr JJ De Voss</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0558543</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0558543</local_id>
+         <last_updated>2015-08-13T17:11:33Z</last_updated>
+         <title>Surface Polymorphism of Hard Brittle Materials</title>
+         <start_year>2005</start_year>
+         <end_year>2007</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0558543</purl>
+         <participant_list>Dr I Zarudi</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0882221</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LE0882221</local_id>
+         <last_updated>2015-08-13T17:15:50Z</last_updated>
+         <title>A National Facility for Light Metal Powder Processing</title>
+         <start_year>2008</start_year>
+         <end_year>2008</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LE0882221</purl>
+         <participant_list>Prof GB Schaffer; A/Prof M Ferry; Dr MR Barnett; A/Prof K Xia</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0663600</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0663600</local_id>
+         <last_updated>2015-08-13T17:11:56Z</last_updated>
+         <title>Ambivalent Adolescents in Indonesia</title>
+         <start_year>2006</start_year>
+         <end_year>2009</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0663600</purl>
+         <participant_list>Dr LM Parker; Dr LR Bennett; Dr P Nilan; Dr KM Robinson</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0668534</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LE0668534</local_id>
+         <last_updated>2015-08-13T17:15:39Z</last_updated>
+         <title>High resolution bioanalytical Fourier transform mass spectrometer combined with liquid chromatograph</title>
+         <start_year>2006</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LE0668534</purl>
+         <participant_list>A/Prof M Guilhaus; Dr MJ Raftery; Prof CL Geczy; A/Prof R Cavicchioli; Prof R Stocker; Prof MR Wilkins; Prof DE James; Prof MS Baker; Prof RI Christopherson; Prof CG Dos Remedios; Adj/Prof R Davey; Dr EJ Harry</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0668009</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0668009</local_id>
+         <last_updated>2015-08-13T17:17:48Z</last_updated>
+         <title>CONTROL OF AGGREGATE STRUCTURE, SETTLING AND DEWATERING IN MINERAL TAILINGS PROCESSING</title>
+         <start_year>2006</start_year>
+         <end_year>2008</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0668009</purl>
+         <participant_list>Dr GE Morris; Dr MS Zbik; Prof RS Smart; Dr M Coghill; Mr WA Wright</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0880250</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0880250</local_id>
+         <last_updated>2015-08-13T17:13:16Z</last_updated>
+         <title>SeqSeeker: a search engine for large numbers of very long sequences</title>
+         <start_year>2008</start_year>
+         <end_year>2010</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0880250</purl>
+         <participant_list>Dr R Zhang; Dr J Bailey; Prof R Kotagiri</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0884010</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0884010</local_id>
+         <last_updated>2015-08-13T17:18:29Z</last_updated>
+         <title>Managing the world's most precious resource:  The role of water accounting</title>
+         <start_year>2008</start_year>
+         <end_year>2011</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0884010</purl>
+         <participant_list>Prof JM Godfrey; Prof KT Trotman; A/Prof KG Chalmers; Dr R Moroney; Dr B Potter</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0342945</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0342945</local_id>
+         <last_updated>2015-08-13T17:09:59Z</last_updated>
+         <title>Testing the ghost with the machine: Empirical investigations of cognition using high-field functional magnetic resonance imaging</title>
+         <start_year>2003</start_year>
+         <end_year>2005</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0342945</purl>
+         <participant_list>Dr GI de Zubicaray</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347418</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0347418</local_id>
+         <last_updated>2015-08-13T17:16:48Z</last_updated>
+         <title>A longitudinal study of language learning to assess early intervention outcomes in pre-school children with impaired hearing</title>
+         <start_year>2003</start_year>
+         <end_year>2005</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0347418</purl>
+         <participant_list>A/Prof PJ Blamey; Prof R Dowell; Prof FW Rickards</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449434</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0449434</local_id>
+         <last_updated>2015-08-13T17:10:31Z</last_updated>
+         <title>A framework for optimisation and concurrent design in photonics</title>
+         <start_year>2004</start_year>
+         <end_year>2008</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0449434</purl>
+         <participant_list>Dr L Poladian</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347690</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0347690</local_id>
+         <last_updated>2015-08-13T17:16:51Z</last_updated>
+         <title>Manipulation of the growth potential  and carcass composition of domestic animal species</title>
+         <start_year>2003</start_year>
+         <end_year>2005</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0347690</purl>
+         <participant_list>A/Prof PC Wynn; Dr G Russell-Jones</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0342788</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0342788</local_id>
+         <last_updated>2015-08-13T17:09:57Z</last_updated>
+         <title>Stable isotopes in marsupials: reconstruction of environmental change in Australia</title>
+         <start_year>2003</start_year>
+         <end_year>2005</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0342788</purl>
+         <participant_list>Prof Dr R Gr�n Dr DM Bowman Dr MK Gagan A/Prof RT Wells</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0454851</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0454851</local_id>
+         <last_updated>2015-08-13T17:17:14Z</last_updated>
+         <title>Competition and Collaboration in the Market for Digital Publishing</title>
+         <start_year>2004</start_year>
+         <end_year>2007</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0454851</purl>
+         <participant_list>Prof WJ Martin;Dr H Deng;Dr J Boymal;Mr P Mercieca;</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0235210</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0235210</local_id>
+         <last_updated>2015-08-13T17:16:42Z</last_updated>
+         <title>Analysis of non-invasive central aortic pressure using a Web-based international database</title>
+         <start_year>2002</start_year>
+         <end_year>2004</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0235210</purl>
+         <participant_list>A/Prof AP Avolio Dr NH Lovell</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0345279</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0345279</local_id>
+         <last_updated>2015-08-13T17:10:19Z</last_updated>
+         <title>Adaptive Agents Simulation of Freshwater Ecosystems: Artificial Intelligence Framework to Discover and Forecast Emergent Ecosystem Structures and Behaviours in Response to Environmental Changes</title>
+         <start_year>2003</start_year>
+         <end_year>2005</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0345279</purl>
+         <participant_list>Dr F Recknagel Prof X Yao Dr PA Whigham</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1095620</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1095620</local_id>
+         <last_updated>2015-08-13T17:14:21Z</last_updated>
+         <title>Structure, Dynamics and Control of Wall-Bounded Turbulence</title>
+         <start_year>2010</start_year>
+         <end_year>2012</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP1095620</purl>
+         <participant_list>Prof J Soria; Prof J Jimenez</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0560258</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0560258</local_id>
+         <last_updated>2015-08-13T17:19:21Z</last_updated>
+         <title>Male germ line transgenesis and siRNA technology for manipulating genes in domestic species</title>
+         <start_year>2004</start_year>
+         <end_year>2005</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LX0560258</purl>
+         <participant_list>Prof R Ivell; Dr MB Nottle; Prof M Shemesh</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0771208</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0771208</local_id>
+         <last_updated>2015-08-13T17:12:32Z</last_updated>
+         <title>A study of vocal tract resonances in the singing voice to develop tools for teaching singing</title>
+         <start_year>2007</start_year>
+         <end_year>2009</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0771208</purl>
+         <participant_list>Dr JR Smith; Prof JA Wolfe</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0880295</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0880295</local_id>
+         <last_updated>2015-08-13T17:13:16Z</last_updated>
+         <title>Failure-Based Testing: An In-Depth Theoretical and Experimental Study</title>
+         <start_year>2008</start_year>
+         <end_year>2010</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0880295</purl>
+         <participant_list>Prof TY Chen; Dr F Kuo</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0772763</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0772763</local_id>
+         <last_updated>2015-08-13T17:12:41Z</last_updated>
+         <title>The Dissemination and Control of Clandestine Writing in England 1695--1774</title>
+         <start_year>2007</start_year>
+         <end_year>2009</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0772763</purl>
+         <participant_list>Dr P Spedding</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879002</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0879002</local_id>
+         <last_updated>2015-08-13T17:13:08Z</last_updated>
+         <title>Examining organisational complexity and clinical risk to improve hospital patients' safety.</title>
+         <start_year>2008</start_year>
+         <end_year>2010</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0879002</purl>
+         <participant_list>Prof RA Iedema; A/Prof E Manias; Dr BB Lee; A/Prof MD Buist; A/Prof GA Caplan; Dr M Kornberger; Ms JF Carthey; Dr R Sorensen; Dr CM Jorm; Prof FD Becker</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0345664</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0345664</local_id>
+         <last_updated>2015-08-13T17:10:22Z</last_updated>
+         <title>Implementing Feferman-Landin Logic</title>
+         <start_year>2003</start_year>
+         <end_year>2003</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0345664</purl>
+         <participant_list>Dr IA Mason</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0770913</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0770913</local_id>
+         <last_updated>2015-08-13T17:12:30Z</last_updated>
+         <title>Passive mechanical properties of human muscles</title>
+         <start_year>2007</start_year>
+         <end_year>2009</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0770913</purl>
+         <participant_list>A/Prof RD Herbert; Prof S Gandevia; A/Prof LE Bilston</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0347955</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LE0347955</local_id>
+         <last_updated>2015-08-13T17:15:23Z</last_updated>
+         <title>A Cell Sorter Facility for Neuroscience and Related Biotechnology</title>
+         <start_year>2003</start_year>
+         <end_year>2003</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LE0347955</purl>
+         <participant_list>Dr PF Bartlett; A/Prof A Mackay-Sim; Prof AC Herington; Prof DJ Adams; Prof JD Pettigrew; A/Prof B Key; Dr PG Noakes; Dr MC Bellingham; A/Prof V Nurcombe</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094328</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1094328</local_id>
+         <last_updated>2015-08-13T17:14:12Z</last_updated>
+         <title>Moduli spaces</title>
+         <start_year>2010</start_year>
+         <end_year>2012</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP1094328</purl>
+         <participant_list>Dr PT Norbury; Mr NN Do</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0990196</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0990196</local_id>
+         <last_updated>2015-08-13T17:18:39Z</last_updated>
+         <title>Investigation of Australian crop species for the rhizoremediation of residual sulfonyl urea herbicide contaminations in agricultural soils.</title>
+         <start_year>2009</start_year>
+         <end_year>2012</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0990196</purl>
+         <participant_list>A/Prof RH Bentham; A/Prof KL Soole</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0986003</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0986003</local_id>
+         <last_updated>2015-08-13T17:13:39Z</last_updated>
+         <title>Digital Interferometry: A platform technology for robust optical measurements</title>
+         <start_year>2009</start_year>
+         <end_year>2011</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0986003</purl>
+         <participant_list>Dr DA Shaddock; Prof DE McClelland; Dr CR Jenkins; Mr JH Chow; Prof Dr K Danzmann; Dr SE Whitcomb; Dr G Mueller; Dr OP Lay</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0664077</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0664077</local_id>
+         <last_updated>2015-08-13T17:12:00Z</last_updated>
+         <title>Reaching the superheavy elements: a new approach with a novel ultra-sensitive detector array</title>
+         <start_year>2006</start_year>
+         <end_year>2008</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0664077</purl>
+         <participant_list>Dr M Dasgupta; Prof DJ Hinde; Dr JF Liang; Dr K Schmidt</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0662989</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0662989</local_id>
+         <last_updated>2015-08-13T17:11:51Z</last_updated>
+         <title>Synthesis of Novel Dual Acting, Selenium Containing Antioxidants</title>
+         <start_year>2006</start_year>
+         <end_year>2008</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0662989</purl>
+         <participant_list>Prof PJ Scammells; Prof CH Schiesser</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP100100776</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP100100776</local_id>
+         <last_updated>2015-08-13T17:18:53Z</last_updated>
+         <title>Functional proteomics of Giardia</title>
+         <start_year>2010</start_year>
+         <end_year>2012</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP100100776</purl>
+         <participant_list>Thompson Prof Richard C; Mr Robert F Steuart; Dr Tim A Paget; Dr Richard J Lipscombe; Prof Andre G Buret</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208535</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0208535</local_id>
+         <last_updated>2015-08-13T17:09:26Z</last_updated>
+         <title>Molecular basis for the synergistic potentiation of anthracycline anticancer agents by formaldehyde-releasing prodrugs.</title>
+         <start_year>2002</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0208535</purl>
+         <participant_list>A/Prof DR Phillips Dr SM Cutts</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0987900</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0987900</local_id>
+         <last_updated>2015-08-13T17:13:52Z</last_updated>
+         <title>Escaping the concurrency trade-off: a new approach to enterprise software</title>
+         <start_year>2009</start_year>
+         <end_year>2011</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0987900</purl>
+         <participant_list>Dr AD Fekete; Dr U Roehm</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0556525</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0556525</local_id>
+         <last_updated>2015-08-13T17:11:13Z</last_updated>
+         <title>The role of sulphate reducing bacteria in the pitting corrosion of mild steel as used for engineering infrastructure applications</title>
+         <start_year>2005</start_year>
+         <end_year>2007</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0556525</purl>
+         <participant_list>Mr R Jeffrey</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0669864</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0669864</local_id>
+         <last_updated>2015-08-13T17:17:59Z</last_updated>
+         <title>Implementation and Evaluation of an Intensive Music Education Program for Schoolchildren</title>
+         <start_year>2006</start_year>
+         <end_year>2009</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0669864</purl>
+         <participant_list>Dr NS Rickard; Mr FP Murphy; Prof DW Moore</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0665247</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0665247</local_id>
+         <last_updated>2015-08-13T17:12:09Z</last_updated>
+         <title>Photonic Crystal Enhanced Wavelength Selective, Multi-Colour Quantum Dot Infrared Photodetectors</title>
+         <start_year>2006</start_year>
+         <end_year>2008</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0665247</purl>
+         <participant_list>Dr HH Tan</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP100100477</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP100100477</local_id>
+         <last_updated>2015-08-13T17:18:51Z</last_updated>
+         <title>Novel Self Assembled Particle Systems as a Key to Next Generation Biosensor Technology</title>
+         <start_year>2010</start_year>
+         <end_year>2012</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP100100477</purl>
+         <participant_list>Boyd Dr Benjamin J; Dr Dennis B Rylatt; Dr Ronald C Chatelier</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451545</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0451545</local_id>
+         <last_updated>2015-08-13T17:10:51Z</last_updated>
+         <title>Function of the unique mitotic form of MEK</title>
+         <start_year>2004</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0451545</purl>
+         <participant_list>Dr BG GabrielliProf JF Hancock</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208246</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0208246</local_id>
+         <last_updated>2015-08-13T17:09:23Z</last_updated>
+         <title>Evolutionary ecology of snakes and lizards</title>
+         <start_year>2002</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0208246</purl>
+         <participant_list>Prof R Shine</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1095875</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1095875</local_id>
+         <last_updated>2015-08-13T17:14:22Z</last_updated>
+         <title>Understanding an exotic disease: Initiation of sex and infection by the sugarcane smut Ustilago scitaminea</title>
+         <start_year>2010</start_year>
+         <end_year>2012</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP1095875</purl>
+         <participant_list>Dr JA Fraser</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0662810</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0662810</local_id>
+         <last_updated>2015-08-13T17:11:49Z</last_updated>
+         <title>Very high energy gamma-ray astronomy in Australia and the development of future gamma-ray detectors</title>
+         <start_year>2006</start_year>
+         <end_year>2010</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0662810</purl>
+         <participant_list>Dr GP Rowell</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/SR0354804</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/SR0354804</local_id>
+         <last_updated>2015-08-13T17:19:38Z</last_updated>
+         <title>ARC Research Network on Degraded Environment Assessment and Remediation</title>
+         <start_year>2003</start_year>
+         <end_year>2003</end_year>
+         <purl>http://purl.org/au-research/grants/arc/SR0354804</purl>
+         <participant_list>Prof R Naidu Dr PA Gell Prof PJ Marriott Dr G Allinson A/Prof CS Cobbett Dr JE Reid Prof DB Hibbert Prof GM Taylor Prof IR Kennedy Dr AI Schaefer A/Prof R Lim A/Prof LA Sullivan Prof LC Bell Dr N Ashwath A/Prof L Morawska Prof Z Rengel Mr RL Correll</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0455349</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0455349</local_id>
+         <last_updated>2015-08-13T17:17:19Z</last_updated>
+         <title>The cause of basal stem rot  in second rotation Eucalyptus globulus plantations</title>
+         <start_year>2004</start_year>
+         <end_year>2007</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0455349</purl>
+         <participant_list>Dr TI Burgess;Dr GE Hardy;Dr RM Robinson;Mr G Ellis;Dr J Bulinski;</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0555903</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0555903</local_id>
+         <last_updated>2015-08-13T17:11:07Z</last_updated>
+         <title>Parallel-Link Mechanism Control using new Concept and Techniques</title>
+         <start_year>2005</start_year>
+         <end_year>2007</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0555903</purl>
+         <participant_list>Prof S Nahavandi; Dr HM Trinh</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0562504</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0562504</local_id>
+         <last_updated>2015-08-13T17:17:42Z</last_updated>
+         <title>Combating subsoil acidity for sustainable production through managing plant cation-anion uptake</title>
+         <start_year>2005</start_year>
+         <end_year>2008</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0562504</purl>
+         <participant_list>Dr C Tang; Dr D Liu; Dr MK Conyers</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0343598</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0343598</local_id>
+         <last_updated>2015-08-13T17:10:05Z</last_updated>
+         <title>Computational Modeling of RNA Control Networks</title>
+         <start_year>2003</start_year>
+         <end_year>2005</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0343598</purl>
+         <participant_list>A/Prof J Wiles Dr JS Hallinan Prof JS Mattick</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449560</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0449560</local_id>
+         <last_updated>2015-08-13T17:10:32Z</last_updated>
+         <title>Stepping-Stones or Barrier: The Movement and Impact of People throughout the Far Eastern Pacific Islands.</title>
+         <start_year>2004</start_year>
+         <end_year>2007</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0449560</purl>
+         <participant_list>Dr SG HaberleProf AJ AndersonProf H Heijnis</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208516</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0208516</local_id>
+         <last_updated>2015-08-13T17:09:26Z</last_updated>
+         <title>Minimum sizes and habitat areas for viable populations</title>
+         <start_year>2002</start_year>
+         <end_year>2003</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0208516</purl>
+         <participant_list>Dr BW Brook</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1092717</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1092717</local_id>
+         <last_updated>2015-08-13T17:14:01Z</last_updated>
+         <title>Complementary metal_oxide_semiconductor (CMOS) -compatible ultra-high response piezoelectric thin films for efficient energy harvesting</title>
+         <start_year>2010</start_year>
+         <end_year>2012</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP1092717</purl>
+         <participant_list>Ms M Bhaskaran</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0882079</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0882079</local_id>
+         <last_updated>2015-08-13T17:19:29Z</last_updated>
+         <title>Mapping the past using advanced technologies: Satellite applications for uncovering archaeological remains at Angkor</title>
+         <start_year>2008</start_year>
+         <end_year>2008</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LX0882079</purl>
+         <participant_list>A/Prof RJ Fletcher; Dr A Traviglia; Dr IR Johnson; Mr DH Evans</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0557608</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0557608</local_id>
+         <last_updated>2015-08-13T17:11:24Z</last_updated>
+         <title>Co-operative intellectual property management and technology transfer for the Australian biotechnology industry</title>
+         <start_year>2005</start_year>
+         <end_year>2007</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0557608</purl>
+         <participant_list>Ms JE Hope; Dr D Nicol; Prof J Braithwaite</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347032</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0347032</local_id>
+         <last_updated>2015-08-13T17:16:44Z</last_updated>
+         <title>Laser based combustion diagnostics of an automotive development engine</title>
+         <start_year>2003</start_year>
+         <end_year>2005</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0347032</purl>
+         <participant_list>Prof HC Watson; Dr MJ Brear</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451508</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0451508</local_id>
+         <last_updated>2015-08-13T17:10:51Z</last_updated>
+         <title>Functional Analyses of Bacteria Involved in Enhanced Biological Phosphorus Removal from Wastewater</title>
+         <start_year>2004</start_year>
+         <end_year>2007</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0451508</purl>
+         <participant_list>A/Prof LL BlackallDr C Yeates</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0776987</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0776987</local_id>
+         <last_updated>2015-08-13T17:18:15Z</last_updated>
+         <title>Metapopulation and habitat quality: towards an integrated approach to the conservation of an endangered grassland lizard</title>
+         <start_year>2007</start_year>
+         <end_year>2010</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0776987</purl>
+         <participant_list>Dr S Sarre; Dr WS Osborne</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0209047</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0209047</local_id>
+         <last_updated>2015-08-13T17:09:31Z</last_updated>
+         <title>Metapopulation dynamics of coral communities on the Great Barrier Reef</title>
+         <start_year>2002</start_year>
+         <end_year>2002</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0209047</purl>
+         <participant_list>Dr SR Connolly</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0559769</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0559769</local_id>
+         <last_updated>2015-08-13T17:11:45Z</last_updated>
+         <title>A Spatially-Aware RFID-enhanced Sensor Network</title>
+         <start_year>2005</start_year>
+         <end_year>2007</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0559769</purl>
+         <participant_list>Dr K Chin; Mr DD Lowe; Mr R Raad</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0562507</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0562507</local_id>
+         <last_updated>2015-08-13T17:17:42Z</last_updated>
+         <title>The effect of dissolved organic matter on the toxicity and bioavailability of metals in tropical freshwater ecosystems</title>
+         <start_year>2005</start_year>
+         <end_year>2008</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0562507</purl>
+         <participant_list>A/Prof BN Noller; A/Prof JC Ng; Prof T Suzuki; Dr SJ Markich; Prof K Kuma</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0990393</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0990393</local_id>
+         <last_updated>2015-08-13T17:18:41Z</last_updated>
+         <title>Novel cloud computing based workflow technology for managing large numbers of process instances</title>
+         <start_year>2009</start_year>
+         <end_year>2012</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0990393</purl>
+         <participant_list>Prof Y Yang; Prof R Kotagiri; A/Prof C Liu; Dr J Chen; Dr H Wang</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451536</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0451536</local_id>
+         <last_updated>2015-08-13T17:10:51Z</last_updated>
+         <title>Compact Low-Cost Tunable UV Lasers for Biosensing Applications</title>
+         <start_year>2004</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0451536</purl>
+         <participant_list>Dr DW Coutts</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0560472</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0560472</local_id>
+         <last_updated>2015-08-13T17:17:28Z</last_updated>
+         <title>On Line Real Time Inspection of Vehicle Structures</title>
+         <start_year>2005</start_year>
+         <end_year>2007</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0560472</purl>
+         <participant_list>Prof CR Nagarajah; Dr A Bab-Hadiashar</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0663392</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0663392</local_id>
+         <last_updated>2015-08-13T17:11:55Z</last_updated>
+         <title>The Semantics of Canonical Parallelism: Oral composition among Rotinese poets, eastern Indonesia</title>
+         <start_year>2006</start_year>
+         <end_year>2008</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0663392</purl>
+         <participant_list>Prof JJ Fox</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879344</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0879344</local_id>
+         <last_updated>2015-08-13T17:13:10Z</last_updated>
+         <title>Voice over Internet Protocol: Privacy and Electronic Evidence Implications</title>
+         <start_year>2008</start_year>
+         <end_year>2010</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0879344</purl>
+         <participant_list>Dr J Slay</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0667392</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0667392</local_id>
+         <last_updated>2015-08-13T17:19:24Z</last_updated>
+         <title>Ionization and excitation of excited helium atoms</title>
+         <start_year>2006</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LX0667392</purl>
+         <participant_list>Prof SJ Buckman; Dr JC Lower; Dr K Zrost</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0664539</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0664539</local_id>
+         <last_updated>2015-08-13T17:19:22Z</last_updated>
+         <title>CNTs-modified polymer composites for tribological applications</title>
+         <start_year>2006</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LX0664539</purl>
+         <participant_list>Prof Y Mai; Prof Dr K Friedrich</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450012</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0450012</local_id>
+         <last_updated>2015-08-13T17:10:37Z</last_updated>
+         <title>Bacterial cell behaviour in micro/nano-confined environments</title>
+         <start_year>2004</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0450012</purl>
+         <participant_list>Prof DV NicolauA/Prof E IvanovaDr DK Pham</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0988064</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0988064</local_id>
+         <last_updated>2015-08-13T17:13:53Z</last_updated>
+         <title>Investigation of three dimensional terahertz computed tomography for biomedical applications</title>
+         <start_year>2009</start_year>
+         <end_year>2011</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0988064</purl>
+         <participant_list>Mrs X Yin</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1092694</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1092694</local_id>
+         <last_updated>2015-08-13T17:14:01Z</last_updated>
+         <title>Triggering the release of polymer bound platinum drugs</title>
+         <start_year>2010</start_year>
+         <end_year>2012</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP1092694</purl>
+         <participant_list>A/Prof M Stenzel</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0991378</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0991378</local_id>
+         <last_updated>2015-08-13T17:18:45Z</last_updated>
+         <title>The costs of youth homelessness in Australia</title>
+         <start_year>2009</start_year>
+         <end_year>2012</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0991378</purl>
+         <participant_list>A/Prof DJ MacKenzie; Dr PR Flatau; Prof AB Steen</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450037</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0450037</local_id>
+         <last_updated>2015-08-13T17:10:37Z</last_updated>
+         <title>Healthier Water: Innovative Processes for Arsenic Removal and  Sludge Management</title>
+         <start_year>2004</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0450037</purl>
+         <participant_list>Prof S VigneswaranDr HH NgoEm/Prof T Viraraghavan</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0770083</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0770083</local_id>
+         <last_updated>2015-08-13T17:12:24Z</last_updated>
+         <title>Epitaxial Nanowires for Optoelectronic Device Applications</title>
+         <start_year>2007</start_year>
+         <end_year>2011</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0770083</purl>
+         <participant_list>Prof C Jagadish</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0561265</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0561265</local_id>
+         <last_updated>2015-08-13T17:19:22Z</last_updated>
+         <title>Echoes of the earliest Homo sapiens movement out of Africa</title>
+         <start_year>2005</start_year>
+         <end_year>2005</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LX0561265</purl>
+         <participant_list>Dr FD Bulbeck; Prof Dr SJ Oppenheimer; Prof A Cooper</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0883549</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0883549</local_id>
+         <last_updated>2015-08-13T17:18:25Z</last_updated>
+         <title>Development and evaluation of an Occupational Health and Safety framework for work related driving</title>
+         <start_year>2008</start_year>
+         <end_year>2011</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0883549</purl>
+         <participant_list>A/Prof JD Davey; Mr D Wishart; Dr HC Biggs</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0211395</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0211395</local_id>
+         <last_updated>2015-08-13T17:09:49Z</last_updated>
+         <title>The changing geographies of power, knowledge and access in Australia's financial services sector: a regional development perspective.</title>
+         <start_year>2002</start_year>
+         <end_year>2002</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0211395</purl>
+         <participant_list>Dr N Argent</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/SR0354827</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/SR0354827</local_id>
+         <last_updated>2015-08-13T17:19:38Z</last_updated>
+         <title>HEALTHY AGEING - PREVENTION AND INTERVENTION  (HA-PI) NETWORK:     A RESEARCH NETWORK PROPOSAL ON THE BIOLOGICAL, SOCIAL AND PRIMARY CARE DYNAMICS OF AGEING</title>
+         <start_year>2003</start_year>
+         <end_year>2003</end_year>
+         <purl>http://purl.org/au-research/grants/arc/SR0354827</purl>
+         <participant_list>Prof J McCallum Prof A McLean Prof K O'Dea Prof RJ Head Prof GG Giles Prof MP Wooden A/Prof J Byles Prof PZ Zimmet Dr Y Zurynski Prof AJ Dobson Prof CD Pond A/Prof H Britt Prof MF Harris Prof J Macdonald Mr T Usherwood Ms R Maddern</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879330</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0879330</local_id>
+         <last_updated>2015-08-13T17:13:10Z</last_updated>
+         <title>Crustal-Scale Fluid Flow in Deep Intracontinental Settings: Conditions, Sources and Deformational Responses</title>
+         <start_year>2008</start_year>
+         <end_year>2010</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0879330</purl>
+         <participant_list>Dr CF Clark</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0346641</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0346641</local_id>
+         <last_updated>2015-08-13T17:10:29Z</last_updated>
+         <title>Advanced Studies of Turbulent Combustion: Premixed to Nonpremixed</title>
+         <start_year>2003</start_year>
+         <end_year>2005</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0346641</purl>
+         <participant_list>Prof AR Masri Prof RW Bilger</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0455443</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0455443</local_id>
+         <last_updated>2015-08-13T17:17:20Z</last_updated>
+         <title>A Public Health Framework of Effectiveness: Evaluating the Framework for Telephone Counselling.</title>
+         <start_year>2004</start_year>
+         <end_year>2007</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0455443</purl>
+         <participant_list>Dr B Hood;Ms J Sharples;Dr D Charman;</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0666004</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0666004</local_id>
+         <last_updated>2015-08-13T17:12:14Z</last_updated>
+         <title>Development of constitutive models for concentrated suspensions via particle-level simulations</title>
+         <start_year>2006</start_year>
+         <end_year>2008</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0666004</purl>
+         <participant_list>Dr HT See; Dr N Mai-Duy; Dr P Bacchin</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0344142</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0344142</local_id>
+         <last_updated>2015-08-13T17:10:11Z</last_updated>
+         <title>Using the fractionation of hydrogen and carbon isotopes to analyse the mechanisms of the primary processes of photosynthesis.</title>
+         <start_year>2003</start_year>
+         <end_year>2005</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0344142</purl>
+         <participant_list>Prof GD Farquhar Prof TJ Andrews Dr H Stuart-Williams Dr HJ Kane</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0772168</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0772168</local_id>
+         <last_updated>2015-08-13T17:12:38Z</last_updated>
+         <title>Effective Marketing Communication: Pre-existing Knowledge Structures and Contextual Effects</title>
+         <start_year>2007</start_year>
+         <end_year>2009</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0772168</purl>
+         <participant_list>Prof TB Cornwell; Prof MS Humphreys</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882799</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0882799</local_id>
+         <last_updated>2015-08-13T17:18:21Z</last_updated>
+         <title>Enhancing the Production of Functional Food Powders by Studying Reaction Processes in Spray Dryers</title>
+         <start_year>2008</start_year>
+         <end_year>2010</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0882799</purl>
+         <participant_list>A/Prof TA Langrish</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0773270</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0773270</local_id>
+         <last_updated>2015-08-13T17:12:45Z</last_updated>
+         <title>MicroRNA control of gene expression and development in plants.</title>
+         <start_year>2007</start_year>
+         <end_year>2009</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0773270</purl>
+         <participant_list>Dr AA Millar; Dr PM Waterhouse; Dr F Gubler</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208429</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0208429</local_id>
+         <last_updated>2015-08-13T17:09:25Z</last_updated>
+         <title>Mechanisms in Catalytic Chain Transfer Polymerization</title>
+         <start_year>2002</start_year>
+         <end_year>2004</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0208429</purl>
+         <participant_list>Dr JP Heuts</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0882710</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LX0882710</local_id>
+         <last_updated>2015-08-13T17:19:30Z</last_updated>
+         <title>Collaboration with The NANTEN2 International Star Formation Consortium</title>
+         <start_year>2008</start_year>
+         <end_year>2010</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LX0882710</purl>
+         <participant_list>Dr MR Cunningham; A/Prof MG Burton; Prof Y Fukui</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0453652</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0453652</local_id>
+         <last_updated>2015-08-13T17:17:07Z</last_updated>
+         <title>Creative digital industries in Australia: innovation in quantitative and qualitative mapping</title>
+         <start_year>2004</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0453652</purl>
+         <participant_list>Prof SD CunninghamProf J HartleyDr GN HearnMs C GriffMr RS Cassidy</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0773012</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0773012</local_id>
+         <last_updated>2015-08-13T17:12:43Z</last_updated>
+         <title>Rapidly Locating Items in Distribution Networks with Process-Driven Nodes</title>
+         <start_year>2007</start_year>
+         <end_year>2009</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0773012</purl>
+         <participant_list>Prof CJ Fidge; A/Prof AH ter Hofstede; Dr M Dumas-Menjivar</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0774125</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0774125</local_id>
+         <last_updated>2015-08-13T17:12:50Z</last_updated>
+         <title>The role of extracurricular activity participation in promoting healthy development of Australian youth</title>
+         <start_year>2007</start_year>
+         <end_year>2009</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0774125</purl>
+         <participant_list>Prof B Barber; Prof J Eccles</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882090</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/LP0882090</local_id>
+         <last_updated>2015-08-13T17:18:16Z</last_updated>
+         <title>The conservation of widely distributed species: implications of differences between western and eastern koala populations</title>
+         <start_year>2008</start_year>
+         <end_year>2010</end_year>
+         <purl>http://purl.org/au-research/grants/arc/LP0882090</purl>
+         <participant_list>Dr CA McAlpine; Dr JR Rhodes; Dr GS Baxter; Dr B Price; Dr AJ Bradley; Dr DH Lunney; Dr LM Seabrook</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094059</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP1094059</local_id>
+         <last_updated>2015-08-13T17:14:10Z</last_updated>
+         <title>Intracellular calcium in intact muscle during fatigue and stretch-induced damage</title>
+         <start_year>2010</start_year>
+         <end_year>2012</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP1094059</purl>
+         <participant_list>Prof DG Allen</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450393</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0450393</local_id>
+         <last_updated>2015-08-13T17:10:40Z</last_updated>
+         <title>The status and conceptualisation of cultural knowledge in language-in-education policy for second/foreign language education</title>
+         <start_year>2004</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0450393</purl>
+         <participant_list>A/Prof AJ Liddicoat</participant_list>
+         <founder>arc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0452646</key>
+         <source>arc.gov.au</source>
+         <local_id>http://purl.org/au-research/grants/arc/DP0452646</local_id>
+         <last_updated>2015-08-13T17:11:01Z</last_updated>
+         <title>Assessing Bone Quality and Health: Experimental imaging, structural characterisation, and mechanical modelling of bone in 3D</title>
+         <start_year>2004</start_year>
+         <end_year>2006</end_year>
+         <purl>http://purl.org/au-research/grants/arc/DP0452646</purl>
+         <participant_list>Dr MA KnackstedtA/Prof E SeemanDr AP RobertsDr CH Arns</participant_list>
+         <founder>arc.gov.au</founder>
       </grant>
    </grants>
 </registryObjects>

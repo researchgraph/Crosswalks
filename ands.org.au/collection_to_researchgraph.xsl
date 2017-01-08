@@ -5,7 +5,7 @@
     xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
     xmlns:rif="http://ands.org.au/standards/rif-cs/registryObjects"
     exclude-result-prefixes="xs fn xsl oai rif" 
-    version="2.0">
+    version="1.0">
     
     <!-- =========================================== -->
     <!-- Configuration                               -->
@@ -48,7 +48,7 @@
         <xsl:variable name="groupSource" select="$andsGroupList/root/row[group = $groupName]/source"/>
         <dataset>
             <key>
-                <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:key[1])"/>
+                <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:registryObject/rif:key[1])"/>
             </key>
             <xsl:choose>
                 <xsl:when test="$andsGroupList/root/row[group = $groupName]/source">
@@ -63,7 +63,7 @@
                 </xsl:otherwise>
             </xsl:choose>
             <local_id>
-                <xsl:value-of select=".//rif:key[1]"/>
+                <xsl:value-of select=".//rif:registryObject/rif:key[1]"/>
             </local_id>
             <last_updated>
                 <xsl:value-of select="$date-stamp"/>

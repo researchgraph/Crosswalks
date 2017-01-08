@@ -5,7 +5,7 @@
     xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
     xmlns:rif="http://ands.org.au/standards/rif-cs/registryObjects"
     exclude-result-prefixes="xs xsl fn oai rif"
-    version="2.0">
+    version="1.0">
     
     <!-- =========================================== -->
     <!-- Configuration                               -->
@@ -52,7 +52,7 @@
         
         <researcher>
             <key>
-                <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:key)"/>
+                <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:registryObject/rif:key)"/>
             </key>
             <source>
                 <xsl:value-of select="$groupSource"/>
@@ -63,12 +63,21 @@
             <last_updated>
                 <xsl:value-of select="$date-stamp"/>
             </last_updated>
-            <url>
-                <xsl:value-of select=".//rif:electronic[@type='url']/rif:value"/>
-            </url>
+            <xsl:if test=".//rif:electronic[@type='url']/rif:value">
+                <url>
+                    <xsl:value-of select=".//rif:electronic[@type='url']/rif:value"/>
+                </url>
+            </xsl:if>
             <full_name>
-                <xsl:value-of select="concat(.//rif:namePart[@type='title'],' ',
-                    .//rif:namePart[@type='given'],' ',.//rif:namePart[@type='family'])"/>
+                <xsl:choose>
+                    <xsl:when test=".//rif:namePart[@type='title']">
+                        <xsl:variable name="nameTitle" select=".//rif:namePart[@type='title']"/>
+                        <xsl:value-of select="concat($nameTitle,' ',.//rif:namePart[@type='given'],' ',.//rif:namePart[@type='family'])"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="concat(.//rif:namePart[@type='given'],' ',.//rif:namePart[@type='family'])"/>
+                    </xsl:otherwise>
+                </xsl:choose>
             </full_name>
             <first_name>
                 <xsl:value-of select=".//rif:namePart[@type='given']"/>
