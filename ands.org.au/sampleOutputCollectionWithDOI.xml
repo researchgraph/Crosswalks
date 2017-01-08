@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <datasets>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n8a077cb4fec02eb8e7cdbfcc19eea670</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n8a077cb4fec02eb8e7cdbfcc19eea670</local_id>
+         <last_updated>2016-09-12T01:03:26Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n8a077cb4fec02eb8e7cdbfcc19eea670</url>
+         <title>Constraint-based local search for Golomb rulers</title>
+         <doi>https://dx.doi.org/10.1007/978-3-319-18008-3_22</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nde046682c4c92e2196f8caa845d0a497</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nde046682c4c92e2196f8caa845d0a497</local_id>
+         <last_updated>2016-09-12T01:03:27Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nde046682c4c92e2196f8caa845d0a497</url>
+         <title>The motility of olfactory ensheathing cells: a hitchhiker's guide to olfactory axon migration</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n22f5596348f2a52afaf3b6bb2dfe0fe2</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n22f5596348f2a52afaf3b6bb2dfe0fe2</local_id>
+         <last_updated>2016-09-12T01:03:27Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n22f5596348f2a52afaf3b6bb2dfe0fe2</url>
+         <title>The Impact of Reduced Conductivity on the Performance of Wire Antennas</title>
+         <doi>https://dx.doi.org/10.1109/TAP.2015.2479241</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nd72d54369cea81ce1dfdf97fa91fccb6</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nd72d54369cea81ce1dfdf97fa91fccb6</local_id>
+         <last_updated>2016-09-12T01:03:27Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nd72d54369cea81ce1dfdf97fa91fccb6</url>
+         <title>Overseas Research Visitors</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n58e30553fda44d759607b8abd6c9c1b1</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n58e30553fda44d759607b8abd6c9c1b1</local_id>
+         <last_updated>2016-09-12T01:03:28Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n58e30553fda44d759607b8abd6c9c1b1</url>
+         <title>Strategic Decision Making: The influence of intuition on strategic decision success.</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n639d15dc62f5ebe35102a5c32509c8b5</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n639d15dc62f5ebe35102a5c32509c8b5</local_id>
+         <last_updated>2016-09-12T01:03:28Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n639d15dc62f5ebe35102a5c32509c8b5</url>
+         <title>The ownership change and IPO firm performance: Evidence from the six emerging markets</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n46ef77f8bc05f944f003d147c266155c</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n46ef77f8bc05f944f003d147c266155c</local_id>
+         <last_updated>2016-09-12T01:03:28Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n46ef77f8bc05f944f003d147c266155c</url>
+         <title>Fluvial transport as a natural luminescence sensitiser of quartz</title>
+         <doi>https://dx.doi.org/10.1016/j.quageo.2007.12.005</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nb748ab2e11c495a860049aab24fb3cb0</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nb748ab2e11c495a860049aab24fb3cb0</local_id>
+         <last_updated>2016-09-12T01:03:28Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nb748ab2e11c495a860049aab24fb3cb0</url>
+         <title>Transport Capacity of Overland Flow with&amp;#13;
+				High Sediment Concentration</title>
+         <doi>https://dx.doi.org/10.1061/(ASCE)HE.1943-5584.0000998</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n3ef9733e5aed718edf2b45ee9d21bad8</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n3ef9733e5aed718edf2b45ee9d21bad8</local_id>
+         <last_updated>2016-09-12T01:03:29Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n3ef9733e5aed718edf2b45ee9d21bad8</url>
+         <title>Antibiotic Resistance Determinants of Australian Campylobacter Jejuni &amp; Campylobacter Coli Isolates</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n555ea77b06f614037bece53a5abaae3f</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n555ea77b06f614037bece53a5abaae3f</local_id>
+         <last_updated>2016-09-12T01:03:29Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n555ea77b06f614037bece53a5abaae3f</url>
+         <title>A Motion Estimation System for Autonomous Navigation</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n22cca64ae8312eb6ebadd970c462eeff</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n22cca64ae8312eb6ebadd970c462eeff</local_id>
+         <last_updated>2016-09-12T01:03:29Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n22cca64ae8312eb6ebadd970c462eeff</url>
+         <title>The impact of moral equity, relativism and attitude on&amp;#13;
+				individuals’ digital piracy behaviour in a developing country</title>
+         <doi>https://dx.doi.org/10.1108/MIP-09-2013-0149</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n106d15db5b69dc4b98cfa57c2f13af31</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n106d15db5b69dc4b98cfa57c2f13af31</local_id>
+         <last_updated>2016-09-12T01:03:30Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n106d15db5b69dc4b98cfa57c2f13af31</url>
+         <title>Non-crisp Clustering by Fast, Convergent, and Robust Algorithms</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n2990092662ba96cc22e88d329fc325bd</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n2990092662ba96cc22e88d329fc325bd</local_id>
+         <last_updated>2016-09-12T01:03:30Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n2990092662ba96cc22e88d329fc325bd</url>
+         <title>Polychlorinated Dibenzodioxins and Polychlorinated Dibenzofurans in the Atmospheric Environment of Brisbane, Australia</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n02fcb943e5659c3fb2ed83749b20c7ec</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n02fcb943e5659c3fb2ed83749b20c7ec</local_id>
+         <last_updated>2016-09-12T01:03:30Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n02fcb943e5659c3fb2ed83749b20c7ec</url>
+         <title>Adherence of Burkholderia pseudomallei cells to cultured human epithelial cell lines is regulated by growth temperature.</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nf3d5a38f9e42f7a19a3cca067d91136d</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nf3d5a38f9e42f7a19a3cca067d91136d</local_id>
+         <last_updated>2016-09-12T01:03:30Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nf3d5a38f9e42f7a19a3cca067d91136d</url>
+         <title>Benefits that matter to managers: an exploratory study of three national park management agencies</title>
+         <doi>https://dx.doi.org/10.1080/13606719.2014.910003</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n83870cec97476d4c0b207f31477f84b5</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n83870cec97476d4c0b207f31477f84b5</local_id>
+         <last_updated>2016-09-12T01:03:31Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n83870cec97476d4c0b207f31477f84b5</url>
+         <title>An exploratory perspective of service brand associations</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n3d02bccde3d00e7b24b73b91fceb342b</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n3d02bccde3d00e7b24b73b91fceb342b</local_id>
+         <last_updated>2016-09-12T01:03:31Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n3d02bccde3d00e7b24b73b91fceb342b</url>
+         <title>Vertical integration in energy-only electricity markets</title>
+         <doi>https://dx.doi.org/10.1016/j.eap.2015.09.001</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n8268b5985e4524d017b3917b99cd58c8</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n8268b5985e4524d017b3917b99cd58c8</local_id>
+         <last_updated>2016-09-12T01:03:31Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n8268b5985e4524d017b3917b99cd58c8</url>
+         <title>Auckland International Piano Masterclasses</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n769ccb76f9df9414b8570f6736acb487</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n769ccb76f9df9414b8570f6736acb487</local_id>
+         <last_updated>2016-09-12T01:03:32Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n769ccb76f9df9414b8570f6736acb487</url>
+         <title>Suicide and self-harm prevention for people in
+				immigration detention</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n1adb6782204ec41371c97f171b9fd911</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n1adb6782204ec41371c97f171b9fd911</local_id>
+         <last_updated>2016-09-12T01:03:32Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n1adb6782204ec41371c97f171b9fd911</url>
+         <title>Grazing by mesozooplankton and microzooplankton on toxic and non-toxic strains of Microcystis in the Transquaking River, a tributary of Chesapeake Bay</title>
+         <doi>https://dx.doi.org/10.1093/plankt/fbq109</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n0fd5b9fe923ef4eb8dd3a19f65f639b8</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n0fd5b9fe923ef4eb8dd3a19f65f639b8</local_id>
+         <last_updated>2016-09-12T01:03:32Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n0fd5b9fe923ef4eb8dd3a19f65f639b8</url>
+         <title>Internationalisation of Photographic Education</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:ndf768f88c6c50150601858981b9731fb</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:ndf768f88c6c50150601858981b9731fb</local_id>
+         <last_updated>2016-09-12T01:03:33Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/ndf768f88c6c50150601858981b9731fb</url>
+         <title>Visualising associational overlap from survey data: Understanding community-level systems of association</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n48cdb280a08dde6557c8141b0b16d0dc</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n48cdb280a08dde6557c8141b0b16d0dc</local_id>
+         <last_updated>2016-09-12T01:03:33Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n48cdb280a08dde6557c8141b0b16d0dc</url>
+         <title>The Functionality of IQ testing in the real world</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nbfe3ad5eed93425cf2be33ccf7ab22f4</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nbfe3ad5eed93425cf2be33ccf7ab22f4</local_id>
+         <last_updated>2016-09-12T01:03:33Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nbfe3ad5eed93425cf2be33ccf7ab22f4</url>
+         <title>The Impact of Nursing Rounds on the Practice Environment and Nurse Satisfaction in Intensive Care: pre-test post-test comparative study</title>
+         <doi>https://dx.doi.org/10.1016/j.ijnurstu.2010.10.004</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n4f35170acefcee017a82e9f87d6cf965</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n4f35170acefcee017a82e9f87d6cf965</local_id>
+         <last_updated>2016-09-12T01:03:33Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n4f35170acefcee017a82e9f87d6cf965</url>
+         <title>Prediction of surface flow hydrology and sediment retention upslope of a vetiver buffer strip</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n20ba0228e41971fac02ac70be5644da8</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n20ba0228e41971fac02ac70be5644da8</local_id>
+         <last_updated>2016-09-12T01:03:34Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n20ba0228e41971fac02ac70be5644da8</url>
+         <title>Education Frameworks for Web-based Learning</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n6b75ed2577a794c3ee566b6614aca553</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n6b75ed2577a794c3ee566b6614aca553</local_id>
+         <last_updated>2016-09-12T01:03:34Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n6b75ed2577a794c3ee566b6614aca553</url>
+         <title>Entailment Semantics for Rules with Priorities</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n263c607732fc43248467e7ecdaa1268a</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n263c607732fc43248467e7ecdaa1268a</local_id>
+         <last_updated>2016-09-12T01:03:34Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n263c607732fc43248467e7ecdaa1268a</url>
+         <title>High performance sport organisations and resource provision: The relationship between elite athletes' needs and the provision of support services</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nef86bfb845e681c9a42bb624baba00f3</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nef86bfb845e681c9a42bb624baba00f3</local_id>
+         <last_updated>2016-09-12T01:03:34Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nef86bfb845e681c9a42bb624baba00f3</url>
+         <title>Electrophysical agents (EPAs) for symptom&amp;#13;
+				control in cancer care – what is the evidence?</title>
+         <doi>https://dx.doi.org/10.1179/174328810X12786297204954</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n8d6b26737a4a5933516d214fe2a378a8</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n8d6b26737a4a5933516d214fe2a378a8</local_id>
+         <last_updated>2016-09-12T01:03:35Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n8d6b26737a4a5933516d214fe2a378a8</url>
+         <title>Researching Industrial Relations History:  The Development of a Database on Australian Trade Unions 1825 - 1900</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n18b141f761f3d50a55d88484feb02cbb</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n18b141f761f3d50a55d88484feb02cbb</local_id>
+         <last_updated>2016-09-12T01:03:35Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n18b141f761f3d50a55d88484feb02cbb</url>
+         <title>A Homology Model of the Three Dimensional Structure of Human O6 Alkylguanine DNA Alkyltransferases Based on the Crystal Structure of the C-terminal Domain of the ADA Protein from Escherichia Coli</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nf3113bf952670c12fdcc9be3cbdd4f8a</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nf3113bf952670c12fdcc9be3cbdd4f8a</local_id>
+         <last_updated>2016-09-12T01:03:35Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nf3113bf952670c12fdcc9be3cbdd4f8a</url>
+         <title>Integrating Suppliers into Green Product Innovation Development: an Empirical Case Study in the Semiconductor Industry</title>
+         <doi>https://dx.doi.org/10.1002/bse.714</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:ne9d4f3d387f67981e3005477a500bf95</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:ne9d4f3d387f67981e3005477a500bf95</local_id>
+         <last_updated>2016-09-12T01:03:36Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/ne9d4f3d387f67981e3005477a500bf95</url>
+         <title>Television Formats: An Alternative to Imports</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n220ab702e7549de16d3fb5e98de1ac65</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n220ab702e7549de16d3fb5e98de1ac65</local_id>
+         <last_updated>2016-09-12T01:03:36Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n220ab702e7549de16d3fb5e98de1ac65</url>
+         <title>Physical activity and daily energy expenditure among mothers of young children: A progress report prepared for the Commonwealth Department of Health and Aged Care</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nb8b0ad901d3912d1be0eb273b49059e9</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nb8b0ad901d3912d1be0eb273b49059e9</local_id>
+         <last_updated>2016-09-12T01:03:36Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nb8b0ad901d3912d1be0eb273b49059e9</url>
+         <title>Need for Inclusive Education</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:naa2268c6f4ef627e7362776e02303bce</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:naa2268c6f4ef627e7362776e02303bce</local_id>
+         <last_updated>2016-09-12T01:03:36Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/naa2268c6f4ef627e7362776e02303bce</url>
+         <title>The assessment of literacy: working the zone between 'system' and 'site' validity</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n04eeb6615bfa38c73defeaaa842d5ee9</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n04eeb6615bfa38c73defeaaa842d5ee9</local_id>
+         <last_updated>2016-09-12T01:03:37Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n04eeb6615bfa38c73defeaaa842d5ee9</url>
+         <title>Cultural Diversity, Cultural Networks and Trade: International Cultural Policy Debate</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n30f66fa301933be9941c64466bdfb12a</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n30f66fa301933be9941c64466bdfb12a</local_id>
+         <last_updated>2016-09-12T01:03:37Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n30f66fa301933be9941c64466bdfb12a</url>
+         <title>Barcoding Sponges: An Overview Based on Comprehensive Sampling</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nfd9b4963f14fb6aed02bd030d53bbe42</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nfd9b4963f14fb6aed02bd030d53bbe42</local_id>
+         <last_updated>2016-09-12T01:03:37Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nfd9b4963f14fb6aed02bd030d53bbe42</url>
+         <title>Bearing Witness: The Art of Telling Difficult Stories</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n7f6960d0930564c84b9cd202d05f5736</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n7f6960d0930564c84b9cd202d05f5736</local_id>
+         <last_updated>2016-09-12T01:03:38Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n7f6960d0930564c84b9cd202d05f5736</url>
+         <title>Investigating the effectiveness of teacher education&amp;#13;
+				for early career teachers in diverse settings:&amp;#13;
+				the longitudinal research we have to have</title>
+         <doi>https://dx.doi.org/10.1007/s13384-014-0163-y</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n2f783c207e1b35a3e144cb50ad03b6c1</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n2f783c207e1b35a3e144cb50ad03b6c1</local_id>
+         <last_updated>2016-09-12T01:03:38Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n2f783c207e1b35a3e144cb50ad03b6c1</url>
+         <title>Collaboration between chemists and physicists to study Van der Waals interactions for analysis of novel nano-materials.</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n90225b4519d06a8d06a58113854df9d3</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n90225b4519d06a8d06a58113854df9d3</local_id>
+         <last_updated>2016-09-12T01:03:38Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n90225b4519d06a8d06a58113854df9d3</url>
+         <title>Effectiveness at what? The processes and impact of community involvement in area-based initiatives</title>
+         <doi>https://dx.doi.org/10.1068/c45m</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n4344b990956c911e2ffd662cb66b5535</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n4344b990956c911e2ffd662cb66b5535</local_id>
+         <last_updated>2016-09-12T01:03:39Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n4344b990956c911e2ffd662cb66b5535</url>
+         <title>Homeless Abroad, Homeless at Home: The Conundrum of Globalization</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n351e85210170282f236dd1919d659298</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n351e85210170282f236dd1919d659298</local_id>
+         <last_updated>2016-09-12T01:03:39Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n351e85210170282f236dd1919d659298</url>
+         <title>Enhancing Sri Lankan consumer protection through consumer guarantees and strict liability for defective goods — Lessons from the Australian model of Consumer Law</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:ncc324c54e908bf1ccc8a6b125e4d7765</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:ncc324c54e908bf1ccc8a6b125e4d7765</local_id>
+         <last_updated>2016-09-12T01:03:39Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/ncc324c54e908bf1ccc8a6b125e4d7765</url>
+         <title>Differential community effects on perception and use of urban greenspaces</title>
+         <doi>https://dx.doi.org/10.1016/j.cities.2010.07.001</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n531f9b83ad89c4c61c677dd3e734f8bf</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n531f9b83ad89c4c61c677dd3e734f8bf</local_id>
+         <last_updated>2016-09-12T01:03:40Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n531f9b83ad89c4c61c677dd3e734f8bf</url>
+         <title>Aviation safety management systems</title>
+         <doi>https://dx.doi.org/10.1504/WRITR.2014.067234</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nf58b173df510c2c1301bdb42c1b582db</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nf58b173df510c2c1301bdb42c1b582db</local_id>
+         <last_updated>2016-09-12T01:03:40Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nf58b173df510c2c1301bdb42c1b582db</url>
+         <title>Research, transformational leadership and knowledge&amp;#13;
+				translation: a successful formula</title>
+         <doi>https://dx.doi.org/10.1111/scs.12027</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n1878c7bdbf38833f7877f4ffee2bf6d7</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n1878c7bdbf38833f7877f4ffee2bf6d7</local_id>
+         <last_updated>2016-09-12T01:03:40Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n1878c7bdbf38833f7877f4ffee2bf6d7</url>
+         <title>Mahathir and the markets:Globalisation and the pursuit of economic autonomy in Malaysia"</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nc5f7cab5d9bc9d9f341dd34d49d7c4cc</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nc5f7cab5d9bc9d9f341dd34d49d7c4cc</local_id>
+         <last_updated>2016-09-12T01:03:40Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nc5f7cab5d9bc9d9f341dd34d49d7c4cc</url>
+         <title>The successful influence of teaching ethics on Malaysian accountancy students</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n7a4e89c2868f298f9e6519d7e77ae93a</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n7a4e89c2868f298f9e6519d7e77ae93a</local_id>
+         <last_updated>2016-09-12T01:03:41Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n7a4e89c2868f298f9e6519d7e77ae93a</url>
+         <title>Automating Vendor Fraud Detection in Enterprise Systems</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n8d8d262ff4fc94100af0121d36177031</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n8d8d262ff4fc94100af0121d36177031</local_id>
+         <last_updated>2016-09-12T01:03:41Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n8d8d262ff4fc94100af0121d36177031</url>
+         <title/>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n8de1467c487402e9d8bac3bc935d5a59</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n8de1467c487402e9d8bac3bc935d5a59</local_id>
+         <last_updated>2016-09-12T01:03:41Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n8de1467c487402e9d8bac3bc935d5a59</url>
+         <title>Leadership Aspirations the role of Personality, Transformational Leadership and Psychological Empowerment</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n2a4122b6ab5da32ba95b42ac77f86517</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n2a4122b6ab5da32ba95b42ac77f86517</local_id>
+         <last_updated>2016-09-12T01:03:41Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n2a4122b6ab5da32ba95b42ac77f86517</url>
+         <title>Physical Characterization of Jute Technical Fibers: Fiber Dimensions</title>
+         <doi>https://dx.doi.org/10.1080/15440478.2010.504389</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:ndc7e12f2cef44992b089afd6206692b2</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:ndc7e12f2cef44992b089afd6206692b2</local_id>
+         <last_updated>2016-09-12T01:03:42Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/ndc7e12f2cef44992b089afd6206692b2</url>
+         <title>Asymptomatic bacteriuria Escherichia coli strain&amp;#13;
+				83972 carries mutations in the foc locus and is&amp;#13;
+				unable to express F1C fimbriae</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n14acf0288d4edab2627444e684ece2b4</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n14acf0288d4edab2627444e684ece2b4</local_id>
+         <last_updated>2016-09-12T01:03:42Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n14acf0288d4edab2627444e684ece2b4</url>
+         <title>Strategic Issues in Risk Management</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nbbf8a89162a055c96d6e022115213e9d</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nbbf8a89162a055c96d6e022115213e9d</local_id>
+         <last_updated>2016-09-12T01:03:42Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nbbf8a89162a055c96d6e022115213e9d</url>
+         <title>University Programs for ICT Educators</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n309daa4971bb447e92f27fd2ab6ce8fd</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n309daa4971bb447e92f27fd2ab6ce8fd</local_id>
+         <last_updated>2016-09-12T01:03:42Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n309daa4971bb447e92f27fd2ab6ce8fd</url>
+         <title>Models of co-occurring substance misuse and psychosis: are personality traits the missing link?</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nb02a87466ebb1dbd71aa697736f8457c</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nb02a87466ebb1dbd71aa697736f8457c</local_id>
+         <last_updated>2016-09-12T01:03:43Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nb02a87466ebb1dbd71aa697736f8457c</url>
+         <title>Disciplining Multimedia</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nbe53d73dcf73533650bbb9b8e2272510</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nbe53d73dcf73533650bbb9b8e2272510</local_id>
+         <last_updated>2016-09-12T01:03:43Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nbe53d73dcf73533650bbb9b8e2272510</url>
+         <title>Strang Loops and Confessions: In Search of a Creative Writing Research Methodology and AI PI: A Novel</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nafa9ddaeab8d6f95b562bac701ee32af</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nafa9ddaeab8d6f95b562bac701ee32af</local_id>
+         <last_updated>2016-09-12T01:03:43Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nafa9ddaeab8d6f95b562bac701ee32af</url>
+         <title>Dual-modality two-stage direct volume rendering</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n533211dd421d348fef229b7535939cbf</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n533211dd421d348fef229b7535939cbf</local_id>
+         <last_updated>2016-09-12T01:03:44Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n533211dd421d348fef229b7535939cbf</url>
+         <title>A Method to Perform a Fast Fourier Transform with Primitive Image Transformations</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n4dac67f6f67c428f7be9061e0602d29a</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n4dac67f6f67c428f7be9061e0602d29a</local_id>
+         <last_updated>2016-09-12T01:03:44Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n4dac67f6f67c428f7be9061e0602d29a</url>
+         <title>Defining Documentary: logic on Lush House linguistic lather</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nec9c90edcc2a7a9f1f6a5a8f488c7176</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nec9c90edcc2a7a9f1f6a5a8f488c7176</local_id>
+         <last_updated>2016-09-12T01:03:44Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nec9c90edcc2a7a9f1f6a5a8f488c7176</url>
+         <title>Method for determining the shear stress in cylindrical systems</title>
+         <doi>https://dx.doi.org/10.1103/PhysRevE.67.041206</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n0bd51fb4c6ba47649c42df077df63e56</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n0bd51fb4c6ba47649c42df077df63e56</local_id>
+         <last_updated>2016-09-12T01:03:45Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n0bd51fb4c6ba47649c42df077df63e56</url>
+         <title>Work-life interference and gender in the mining and energy industry</title>
+         <doi>https://dx.doi.org/10.1080/10301763.2014.978968</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n036016d5274e9ba808cea0e6411a6165</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n036016d5274e9ba808cea0e6411a6165</local_id>
+         <last_updated>2016-09-12T01:03:45Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n036016d5274e9ba808cea0e6411a6165</url>
+         <title>'Queensland Politics Today: The Campbell Newman Challenge.’</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n7e876d3978cef47ac5ba947ed2f4f2a4</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n7e876d3978cef47ac5ba947ed2f4f2a4</local_id>
+         <last_updated>2016-09-12T01:03:45Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n7e876d3978cef47ac5ba947ed2f4f2a4</url>
+         <title>Ethical values and the integrity of the climate change regime</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:na7d4254544aafb3c77df5998fde4df99</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:na7d4254544aafb3c77df5998fde4df99</local_id>
+         <last_updated>2016-09-12T01:03:45Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/na7d4254544aafb3c77df5998fde4df99</url>
+         <title>Perceptual and theoretical constraints on safe driving: theoretical issues and experimental approach.</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:naa8a8d953f9c3c479aee0ec6a4782273</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:naa8a8d953f9c3c479aee0ec6a4782273</local_id>
+         <last_updated>2016-09-12T01:03:46Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/naa8a8d953f9c3c479aee0ec6a4782273</url>
+         <title>Business development needs for sustaining Australian Wine Tourism</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n0ef57487755e348a07777e0661d8e218</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n0ef57487755e348a07777e0661d8e218</local_id>
+         <last_updated>2016-09-12T01:03:46Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n0ef57487755e348a07777e0661d8e218</url>
+         <title>Algorithms for creating Relational Power Context Families from Conceptual Graphs</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n3d8678ac8181917eba5ad7563d62481e</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n3d8678ac8181917eba5ad7563d62481e</local_id>
+         <last_updated>2016-09-12T01:03:46Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n3d8678ac8181917eba5ad7563d62481e</url>
+         <title>Mapping the discipline of the Olympic Games: an author co-citation analysis</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nfd3b264f0fa21219a04cec30270918a4</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nfd3b264f0fa21219a04cec30270918a4</local_id>
+         <last_updated>2016-09-12T01:03:47Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nfd3b264f0fa21219a04cec30270918a4</url>
+         <title>Review of Caring for Maria, an Experience of Successfully Coping with Alzheimer's Disease by B.Heywood</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n38ef8a6227063e7394acdfc2828c0ae7</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n38ef8a6227063e7394acdfc2828c0ae7</local_id>
+         <last_updated>2016-09-12T01:03:47Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n38ef8a6227063e7394acdfc2828c0ae7</url>
+         <title>Perceived career congruence between adolescents and their parents as a moderator between goal orientation and career aspirations</title>
+         <doi>https://dx.doi.org/10.1016/j.paid.2014.12.061</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n2a696bb2dad140447af260dce29aa1f4</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n2a696bb2dad140447af260dce29aa1f4</local_id>
+         <last_updated>2016-09-12T01:03:47Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n2a696bb2dad140447af260dce29aa1f4</url>
+         <title>Mechanisms of adaptation from multiple to single steps following forward loss of balance in older adults</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:na0b62ed1b8c946a1309d3689f1260142</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:na0b62ed1b8c946a1309d3689f1260142</local_id>
+         <last_updated>2016-09-12T01:03:48Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/na0b62ed1b8c946a1309d3689f1260142</url>
+         <title>Laterality judgments are not impaired in patients with chronic Whiplash Associated Disorders</title>
+         <doi>https://dx.doi.org/10.1016/j.math.2012.07.006</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n41f076212afd58ccbd9470b822f61d4d</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n41f076212afd58ccbd9470b822f61d4d</local_id>
+         <last_updated>2016-09-12T01:03:48Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n41f076212afd58ccbd9470b822f61d4d</url>
+         <title>Parametric amplification of scattered atom pairs</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n64f8852a31f1457ca35cab92ee609690</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n64f8852a31f1457ca35cab92ee609690</local_id>
+         <last_updated>2016-09-12T01:03:48Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n64f8852a31f1457ca35cab92ee609690</url>
+         <title>Strategies for Improving a Java-based, First Year Programming Course</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n45743626e89f07df11041a096a6383f8</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n45743626e89f07df11041a096a6383f8</local_id>
+         <last_updated>2016-09-12T01:03:48Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n45743626e89f07df11041a096a6383f8</url>
+         <title>Student aggression in tertiary education institutions</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n2106c99a5d934ef1da5729ad51ce1f0d</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n2106c99a5d934ef1da5729ad51ce1f0d</local_id>
+         <last_updated>2016-09-12T01:03:49Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n2106c99a5d934ef1da5729ad51ce1f0d</url>
+         <title>Using videotelephony to support paediatric oncology-related palliative care in the home: from abandoned RCT to acceptability study</title>
+         <doi>https://dx.doi.org/10.1177/0269216308100251</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n0a9f266e11d362fb7c0703e24d27e61c</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n0a9f266e11d362fb7c0703e24d27e61c</local_id>
+         <last_updated>2016-09-12T01:03:49Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n0a9f266e11d362fb7c0703e24d27e61c</url>
+         <title>Using biological information to support proactive strategies for managing freshwater fish during drought</title>
+         <doi>https://dx.doi.org/10.1071/MF09209</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nb54ff6625e5d8ea951eaba55f9fe44ee</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nb54ff6625e5d8ea951eaba55f9fe44ee</local_id>
+         <last_updated>2016-09-12T01:03:49Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nb54ff6625e5d8ea951eaba55f9fe44ee</url>
+         <title>Modelling price and volatility inter-relationships in the Australian wholesale spot electricity markets</title>
+         <doi>https://dx.doi.org/10.1016/j.eneco.2009.05.003</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n08e60c18c8584de0e6db62732b1d162b</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n08e60c18c8584de0e6db62732b1d162b</local_id>
+         <last_updated>2016-09-12T01:03:50Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n08e60c18c8584de0e6db62732b1d162b</url>
+         <title>What Impact has Hansonism had on Australian Society and Politics?</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:na30ee3cde459aff49063b9d34818fcf5</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:na30ee3cde459aff49063b9d34818fcf5</local_id>
+         <last_updated>2016-09-12T01:03:50Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/na30ee3cde459aff49063b9d34818fcf5</url>
+         <title>Effects of dietary selenium on glutathione peroxidase and thioredoxin reductase activity and recovery from cardiac ischemia-reperfusion</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n2e7c7bdee61764da5b22c32e26512f75</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n2e7c7bdee61764da5b22c32e26512f75</local_id>
+         <last_updated>2016-09-12T01:03:50Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n2e7c7bdee61764da5b22c32e26512f75</url>
+         <title>PROTEÇÃO DE BIODIVERSIDADE VIA ECOTURISMO: O USO DE INCENTIVOS ECONÔMICOS COMO FERRAMENTA DE CONSERVAÇÃO</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nebe043a30073986b3f8141fbc4f56f74</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nebe043a30073986b3f8141fbc4f56f74</local_id>
+         <last_updated>2016-09-12T01:03:50Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nebe043a30073986b3f8141fbc4f56f74</url>
+         <title>Engaging children at-risk through World Vision Australia’s Kids Hope Aus. Program</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n27f06936845ff219cdc3256661d75cea</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n27f06936845ff219cdc3256661d75cea</local_id>
+         <last_updated>2016-09-12T01:03:51Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n27f06936845ff219cdc3256661d75cea</url>
+         <title>China and the Beginning of Australian History</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nb463d5a9b8ae803cc80e70bd5a44cca4</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nb463d5a9b8ae803cc80e70bd5a44cca4</local_id>
+         <last_updated>2016-09-12T01:03:51Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nb463d5a9b8ae803cc80e70bd5a44cca4</url>
+         <title>Effects of Acid washing on Stable Isotope Ratios of C and N in Penaeid Shrimp and Seagrass: Implications for Food-web Studies Using Multiple Stable Isotopes</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n5bfe5a91989ae522e9505f535173c07f</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n5bfe5a91989ae522e9505f535173c07f</local_id>
+         <last_updated>2016-09-12T01:03:51Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n5bfe5a91989ae522e9505f535173c07f</url>
+         <title>Lactate dehydrogenase from the Antarctic eelpout, Lycodichthys dearborni</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n4c1b97b27aa9d08b35422a1b3eb798e9</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n4c1b97b27aa9d08b35422a1b3eb798e9</local_id>
+         <last_updated>2016-09-12T01:03:51Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n4c1b97b27aa9d08b35422a1b3eb798e9</url>
+         <title>Geodisability Knowledges - Watching for Global North Impositions</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:nb313b793c6b2dc80ad5d1e44ad58ca88</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:nb313b793c6b2dc80ad5d1e44ad58ca88</local_id>
+         <last_updated>2016-09-12T01:03:52Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/nb313b793c6b2dc80ad5d1e44ad58ca88</url>
+         <title>Child Maltreatment across the Life-course: Links to Youth Offending</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n1b715999af933d3f02c0d3601e40e92e</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n1b715999af933d3f02c0d3601e40e92e</local_id>
+         <last_updated>2016-09-12T01:03:52Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n1b715999af933d3f02c0d3601e40e92e</url>
+         <title>Reform in medical and health sciences educational
+				system: a Delphi study of faculty members’ views at
+				Shiraz University of Medical Sciences</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n4657f5e38c5ed7f7228515d46a88473e</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n4657f5e38c5ed7f7228515d46a88473e</local_id>
+         <last_updated>2016-09-12T01:03:52Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n4657f5e38c5ed7f7228515d46a88473e</url>
+         <title>Dimensional changes in the supporting tissues following immediate placement and restoration of dental implants in the aesthetic zone: a retrospective study</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n0ab781b21d3aba15dd8daeacef3af501</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n0ab781b21d3aba15dd8daeacef3af501</local_id>
+         <last_updated>2016-09-12T01:03:53Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n0ab781b21d3aba15dd8daeacef3af501</url>
+         <title>Integrated Resource Planning: A Multicriteria-based Decision Model</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n1655397a883e28fb759e739124e1ac44</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n1655397a883e28fb759e739124e1ac44</local_id>
+         <last_updated>2016-09-12T01:03:53Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n1655397a883e28fb759e739124e1ac44</url>
+         <title>Semiconductor lasers stabilized to&amp;#13;
+				spectral holes in rare earth crystals</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n6ec078f3d1d719018a93a5c0fb75ca20</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n6ec078f3d1d719018a93a5c0fb75ca20</local_id>
+         <last_updated>2016-09-12T01:03:53Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n6ec078f3d1d719018a93a5c0fb75ca20</url>
+         <title>Does Purchasing Power Parity hold? New evidence from wild-bootstrapped nonlinear unit root tests in the presence of heteroskedasticity</title>
+         <doi>https://dx.doi.org/10.1016/j.econmod.2013.09.029</doi>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n1fe00df9aebe099975db2b2606a45306</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n1fe00df9aebe099975db2b2606a45306</local_id>
+         <last_updated>2016-09-12T01:03:53Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n1fe00df9aebe099975db2b2606a45306</url>
+         <title>Review of Ishii, Shudo, Nanshu Zen no tongo shiso no tenkai</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n1aeef208b04bbba5f636deddda34df31</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n1aeef208b04bbba5f636deddda34df31</local_id>
+         <last_updated>2016-09-12T01:03:54Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n1aeef208b04bbba5f636deddda34df31</url>
+         <title>Dual band MSA designs for GPS and GSM applications</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n4b4cead7f475439507e751a7d5a89a4c</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n4b4cead7f475439507e751a7d5a89a4c</local_id>
+         <last_updated>2016-09-12T01:03:54Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n4b4cead7f475439507e751a7d5a89a4c</url>
+         <title>Groundwater dynamics and salinity in beaches</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n630690a200a8597de566708ceba62207</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n630690a200a8597de566708ceba62207</local_id>
+         <last_updated>2016-09-12T01:03:54Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n630690a200a8597de566708ceba62207</url>
+         <title>Mental health: A cause or consequence of injury?  A population-based matched cohort study</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n30eaae71c7304151e9ce626c0ca90863</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n30eaae71c7304151e9ce626c0ca90863</local_id>
+         <last_updated>2016-09-12T01:03:55Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n30eaae71c7304151e9ce626c0ca90863</url>
+         <title>Indigenous Sentencing Outcomes: A Comparative Analysis of the Nunga and Magistrates Courts in South Australia</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/experts.griffith.edu.au:individual:n23ede2e085cdef814785c0ecb7640387</key>
+         <source>griffith.edu.au</source>
+         <local_id>experts.griffith.edu.au:individual:n23ede2e085cdef814785c0ecb7640387</local_id>
+         <last_updated>2016-09-12T01:03:55Z</last_updated>
+         <url>http://experts.griffith.edu.au/publication/n23ede2e085cdef814785c0ecb7640387</url>
+         <title>Exploring the consistency, transparency and portability of dental technology education: Benchmarking across Norway, Ireland and Australia</title>
+         <doi>https://dx.doi.org/10.1111/eje.12160</doi>
+      </dataset>
+   </datasets>
+</registryObjects>

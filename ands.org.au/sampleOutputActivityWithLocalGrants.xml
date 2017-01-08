@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes          https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <grants>
+      <grant>
+         <key>researchgraph.org/ands/scu.edu.au/projnmsc-001</key>
+         <source>scu.edu.au</source>
+         <local_id>scu.edu.au/projnmsc-001</local_id>
+         <last_updated>2014-07-17T03:02:45Z</last_updated>
+         <title>Multigenerational impact of climate change on marine life histories</title>
+         <start_year>2010-11-01T00:00:00Z</start_year>
+         <end_year>2013-10-31T00:00:00Z</end_year>
+         <founder>scu.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/swinburne.edu.au/ncs/Innovation/climate_change_background.html</key>
+         <source>swinburn.edu.au</source>
+         <local_id>swinburne.edu.au/ncs/Innovation/climate_change_background.html</local_id>
+         <last_updated>2014-07-17T03:11:27Z</last_updated>
+         <title>Climate change response research project, National Centre for Sustainability, Swinburne University of Technology</title>
+         <founder>swinburn.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/sisr.net/Flagships/sustainable/projects/Housingvic.htm</key>
+         <source>swinburn.edu.au</source>
+         <local_id>sisr.net/Flagships/sustainable/projects/Housingvic.htm</local_id>
+         <last_updated>2014-07-17T03:11:29Z</last_updated>
+         <url>http://www.sisr.net/Flagships/sustainable/projects/Housingvic.htm</url>
+         <title>Housing in Victoria website project</title>
+         <start_year>2007-01-01T00:00:00Z</start_year>
+         <founder>swinburn.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/swinburne.edu.au/lib/</key>
+         <source>swinburn.edu.au</source>
+         <local_id>swinburne.edu.au/lib/</local_id>
+         <last_updated>2014-07-17T03:11:30Z</last_updated>
+         <url>http://www.swinburne.edu.au/lib/</url>
+         <title>Swinburne Library user research</title>
+         <founder>swinburn.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/swinburne.edu.au/lss/ebc/ebc-groups.html</key>
+         <source>swinburn.edu.au</source>
+         <local_id>swinburne.edu.au/lss/ebc/ebc-groups.html</local_id>
+         <last_updated>2014-07-17T03:11:32Z</last_updated>
+         <url>http://www.swinburne.edu.au/lss/ebc/ebc-groups.html</url>
+         <title>Public and Environmental Health research program, Swinburne University of Technology</title>
+         <founder>swinburn.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/MONc76731ee-abe2-11df-ae20-123035f469d3</key>
+         <source>monash.edu</source>
+         <local_id>MONc76731ee-abe2-11df-ae20-123035f469d3</local_id>
+         <last_updated>2014-07-17T03:11:38Z</last_updated>
+         <title>Structual characterisation function analyses of type I interferon-receptor interactions</title>
+         <founder>monash.edu</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/MONx33221ee-abe2-11df-ae20-123035f469d3</key>
+         <source>monash.edu</source>
+         <local_id>MONx33221ee-abe2-11df-ae20-123035f469d3</local_id>
+         <last_updated>2014-07-17T03:11:38Z</last_updated>
+         <title/>
+         <founder>monash.edu</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/MONc76724b0-abe2-11df-ae20-58b035f469d3</key>
+         <source>monash.edu</source>
+         <local_id>MONc76724b0-abe2-11df-ae20-58b035f469d3</local_id>
+         <last_updated>2014-07-17T03:11:40Z</last_updated>
+         <title>Patterns and processes of carbon and water budgets across northern Australian landscapes: From point to region</title>
+         <founder>monash.edu</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/MONc7672dac-abe2-11df-ae20-58b035f469d3</key>
+         <source>monash.edu</source>
+         <local_id>MONc7672dac-abe2-11df-ae20-58b035f469d3</local_id>
+         <last_updated>2014-07-17T03:11:43Z</last_updated>
+         <title>Rainfall over the Maritime Continent and Northern Australia</title>
+         <founder>monash.edu</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/nhmrc.gov.au/grant/490900</key>
+         <source>nhrmc.gov.au</source>
+         <local_id>nhmrc.gov.au/grant/490900</local_id>
+         <last_updated>2014-07-17T03:11:43Z</last_updated>
+         <title>Protease systems biology</title>
+         <founder>nhrmc.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6822</key>
+         <source>latrobe.edu.au</source>
+         <local_id>oai:ahad.edu.au:Resource:6822</local_id>
+         <last_updated>2014-07-17T03:11:45Z</last_updated>
+         <url>http://ahad.edu.au/project/6822</url>
+         <title>Exploring the Archaeology of the Modern City project</title>
+         <founder>latrobe.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6975</key>
+         <source>latrobe.edu.au</source>
+         <local_id>oai:ahad.edu.au:Resource:6975</local_id>
+         <last_updated>2013-10-29T22:37:17Z</last_updated>
+         <url>http://ahad.edu.au/project/6975</url>
+         <title>Viewbank Homestead Archaeological Investigation</title>
+         <founder>latrobe.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6918</key>
+         <source>latrobe.edu.au</source>
+         <local_id>oai:ahad.edu.au:Resource:6918</local_id>
+         <last_updated>2014-07-17T00:10:34Z</last_updated>
+         <url>http://ahad.edu.au/project/6918</url>
+         <title>710-722 George Street, Haymarket, Sydney - Archaeological Investigation</title>
+         <founder>latrobe.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6906</key>
+         <source>latrobe.edu.au</source>
+         <local_id>oai:ahad.edu.au:Resource:6906</local_id>
+         <last_updated>2013-10-29T22:37:31Z</last_updated>
+         <url>http://ahad.edu.au/project/6906</url>
+         <title>Carlton United Brewery site, Sydney - Archaeological Excavation</title>
+         <founder>latrobe.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6879</key>
+         <source>latrobe.edu.au</source>
+         <local_id>oai:ahad.edu.au:Resource:6879</local_id>
+         <last_updated>2014-07-17T00:10:34Z</last_updated>
+         <url>http://ahad.edu.au/project/6879</url>
+         <title>An Archaeology of Institutional Confinement: the Hyde Park Barracks 1848-1886</title>
+         <founder>latrobe.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6889</key>
+         <source>latrobe.edu.au</source>
+         <local_id>oai:ahad.edu.au:Resource:6889</local_id>
+         <last_updated>2013-10-29T22:37:32Z</last_updated>
+         <url>http://ahad.edu.au/project/6889</url>
+         <title>Hadley Park, Castlereagh - Archaeological Monitoring</title>
+         <founder>latrobe.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6912</key>
+         <source>latrobe.edu.au</source>
+         <local_id>oai:ahad.edu.au:Resource:6912</local_id>
+         <last_updated>2014-07-17T00:10:34Z</last_updated>
+         <url>http://ahad.edu.au/project/6912</url>
+         <title>23–38 Pyrmont Bridge Road, Camperdown - Archaeological Excavation</title>
+         <founder>latrobe.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6819</key>
+         <source>latrobe.edu.au</source>
+         <local_id>oai:ahad.edu.au:Resource:6819</local_id>
+         <last_updated>2014-07-17T00:10:34Z</last_updated>
+         <url>http://ahad.edu.au/project/6819</url>
+         <title>Cost, quality and value in historical archaeology (PhD research)</title>
+         <founder>latrobe.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6914</key>
+         <source>latrobe.edu.au</source>
+         <local_id>oai:ahad.edu.au:Resource:6914</local_id>
+         <last_updated>2013-10-29T22:37:35Z</last_updated>
+         <url>http://ahad.edu.au/project/6914</url>
+         <title>8–28 The Corso, Manly</title>
+         <founder>latrobe.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6904</key>
+         <source>latrobe.edu.au</source>
+         <local_id>oai:ahad.edu.au:Resource:6904</local_id>
+         <last_updated>2013-10-29T22:37:36Z</last_updated>
+         <url>http://ahad.edu.au/project/6904</url>
+         <title>Hadley's Hotel, Hobart - Archaeological Excavation</title>
+         <founder>latrobe.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6888</key>
+         <source>latrobe.edu.au</source>
+         <local_id>oai:ahad.edu.au:Resource:6888</local_id>
+         <last_updated>2013-10-29T22:37:36Z</last_updated>
+         <url>http://ahad.edu.au/project/6888</url>
+         <title>Argyle Street Properties, Parramatta</title>
+         <founder>latrobe.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6933</key>
+         <source>latrobe.edu.au</source>
+         <local_id>oai:ahad.edu.au:Resource:6933</local_id>
+         <last_updated>2013-10-29T22:37:37Z</last_updated>
+         <url>http://ahad.edu.au/project/6933</url>
+         <title>King George V Recreation Centre - Archaeological Investigation</title>
+         <founder>latrobe.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/oai:ahad.edu.au:Resource:6881</key>
+         <source>latrobe.edu.au</source>
+         <local_id>oai:ahad.edu.au:Resource:6881</local_id>
+         <last_updated>2014-07-17T00:10:34Z</last_updated>
+         <url>http://ahad.edu.au/project/6881</url>
+         <title>Suburban archaeology: approaching an archaeology of the middle class in 19th century Melbourne</title>
+         <founder>latrobe.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/dl.tpac.org.au/activity/sw</key>
+         <source>tpac.org.au</source>
+         <local_id>dl.tpac.org.au/activity/sw</local_id>
+         <last_updated>2013-11-22T00:38:51Z</last_updated>
+         <url>http://www.csiro.au/sensorweb/au.csiro.OgcThinClient/OgcThinClient.html</url>
+         <title>Hydro-Meteorological Sensor Web – Tasmania</title>
+         <founder>tpac.org.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/www.une.edu.au:hfrc:ands:dsa01</key>
+         <source>une.edu.au</source>
+         <local_id>www.une.edu.au:hfrc:ands:dsa01</local_id>
+         <last_updated>2015-06-11T22:17:48Z</last_updated>
+         <url>http://hfrc.une.edu.au/heritagefutures/neimmigrants/index.html</url>
+         <title>Different Sights: New England Immigrants</title>
+         <start_year>2007-01-01</start_year>
+         <end_year>2009-12-31</end_year>
+         <founder>une.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/www.une.edu.au:herbarium:ands:Veg-NENP-01</key>
+         <source>une.edu.au</source>
+         <local_id>www.une.edu.au:herbarium:ands:Veg-NENP-01</local_id>
+         <last_updated>2014-07-17T00:10:39Z</last_updated>
+         <title>The vegetation and plant species of New England National Park</title>
+         <start_year>1998-01-01T00:00:00Z</start_year>
+         <end_year>2000-12-01T00:00:00Z</end_year>
+         <founder>une.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/www.une.edu.au:herbarium:ands:Bulbine-01</key>
+         <source>une.edu.au</source>
+         <local_id>www.une.edu.au:herbarium:ands:Bulbine-01</local_id>
+         <last_updated>2014-07-17T00:10:39Z</last_updated>
+         <url>http://www.une.edu.au/herbarium/</url>
+         <title>Species limits and phylogenetic relationships within Australian Bulbine Wiolf. (Xanthorrhoeaceae subfamily Asphodeloideae)</title>
+         <start_year>2008-10-01T00:00:00Z</start_year>
+         <end_year>2012-09-30T00:00:00Z</end_year>
+         <founder>une.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/www.une.edu.au:herbarium:ands:Synostemon-01</key>
+         <source>une.edu.au</source>
+         <local_id>www.une.edu.au:herbarium:ands:Synostemon-01</local_id>
+         <last_updated>2014-07-17T00:10:39Z</last_updated>
+         <url>http://www.une.edu.au/herbarium/</url>
+         <title>Taxonomy, phylogeny and biogeography of Synostemon (Phyllanthaceae)</title>
+         <founder>une.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/www.une.edu.au:herbarium:ands:NE-Flora-01</key>
+         <source>une.edu.au</source>
+         <local_id>www.une.edu.au:herbarium:ands:NE-Flora-01</local_id>
+         <last_updated>2014-05-21T00:38:46Z</last_updated>
+         <title>Taxonomy of the New England Flora of NSW, Australia</title>
+         <start_year>1992-08-26T00:00:00Z</start_year>
+         <founder>une.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_82</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_82</local_id>
+         <last_updated>2014-07-25T01:46:14Z</last_updated>
+         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#gcps</url>
+         <title>Gay Community Periodic Survey Project: Sydney</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_42</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_42</local_id>
+         <last_updated>2014-07-25T01:48:06Z</last_updated>
+         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#gcps</url>
+         <title>Gay Community Periodic Survey Project: Adelaide</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_43</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_43</local_id>
+         <last_updated>2014-07-25T01:49:16Z</last_updated>
+         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#gcps</url>
+         <title>Gay Community Periodic Survey Project: Melbourne</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_111</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_111</local_id>
+         <last_updated>2014-07-25T01:44:53Z</last_updated>
+         <url>http://www.storylines.org.au/about/</url>
+         <title>Storylines Project</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_32</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_32</local_id>
+         <last_updated>2014-07-25T01:41:20Z</last_updated>
+         <url>http://www.nchecr.unsw.edu.au/nchecrweb.nsf/page/HIM_study</url>
+         <title>Health In Men Study</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_35</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_35</local_id>
+         <last_updated>2014-07-25T01:39:18Z</last_updated>
+         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#cald</url>
+         <title>Priority CALD Community Periodic Survey</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_40</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_40</local_id>
+         <last_updated>2014-07-25T01:40:19Z</last_updated>
+         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/</url>
+         <title>Sydney Men and Sexual Health Project</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_80</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_80</local_id>
+         <last_updated>2014-07-25T01:31:20Z</last_updated>
+         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#gcps</url>
+         <title>Gay Community Periodic Survey Project: Perth</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_41</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_41</local_id>
+         <last_updated>2014-07-25T01:33:19Z</last_updated>
+         <url>http://www.med.unsw.edu.au/nchecrweb.nsf/page/VHEPP-research</url>
+         <title>Sydney Women and Sexual Health Survey</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_37</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_37</local_id>
+         <last_updated>2014-07-23T02:01:38Z</last_updated>
+         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hepatitis-c-and-drug-use/#3D</url>
+         <title>The 3D Project: Diagnosis, disclosure, discrimination and living with Hepatitis C</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_109</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_109</local_id>
+         <last_updated>2014-07-25T01:28:51Z</last_updated>
+         <url>http://www.daao.org.au/about/</url>
+         <title>Design and Art Australia Online Project</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_39</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_39</local_id>
+         <last_updated>2014-07-25T01:25:23Z</last_updated>
+         <url>http://nchsr.arts.unsw.edu.au/</url>
+         <title>Positive health study</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_38</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_38</local_id>
+         <last_updated>2014-07-25T01:27:24Z</last_updated>
+         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#gcps</url>
+         <title>Gay Community Periodic Survey: Canberra</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_36</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_36</local_id>
+         <last_updated>2014-07-23T02:13:03Z</last_updated>
+         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#caldtesting</url>
+         <title>Barriers to HIV testing among people from culturally and linguistically diverse backgrounds</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_33</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_33</local_id>
+         <last_updated>2014-07-25T01:20:42Z</last_updated>
+         <title>The Male Call Project</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/rac.chi.unsw.edu.au.0</key>
+         <source>unsw.edu.au</source>
+         <local_id>rac.chi.unsw.edu.au.0</local_id>
+         <last_updated>2014-07-25T01:52:37Z</last_updated>
+         <url>http://www2.chi.unsw.edu.au:8080/rac/</url>
+         <title>Repository of Antibiotic resistance Cassettes</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_81</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_81</local_id>
+         <last_updated>2014-07-25T01:18:42Z</last_updated>
+         <url>http://nchsr.arts.unsw.edu.au/centre-research/research-areas/hiv-and-sexual-health/#gcps</url>
+         <title>Gay Community Periodic Survey Project: Queensland</title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/hdl:1959.4/004_34</key>
+         <source>unsw.edu.au</source>
+         <local_id>hdl:1959.4/004_34</local_id>
+         <last_updated>2014-07-25T01:17:24Z</last_updated>
+         <title>Social Aspects of the Prevention of AIDS </title>
+         <founder>unsw.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/24</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/24</local_id>
+         <last_updated>2015-01-14T04:24:13Z</last_updated>
+         <title>Magnetic resonance imaging of cannabis users with and without schizophrenia.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/26</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/26</local_id>
+         <last_updated>2015-01-14T04:24:13Z</last_updated>
+         <title>Characterisation of silicon detectors for positron emission tomography.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/62</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/62</local_id>
+         <last_updated>2015-01-14T04:24:15Z</last_updated>
+         <title>Potential avian influenza-induced pandemic : minimising public panic.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/60</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/60</local_id>
+         <last_updated>2015-01-14T04:24:15Z</last_updated>
+         <title>Communicating the importance of breast cancer re-screening via counterfactual thinking messages.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/17</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/17</local_id>
+         <last_updated>2015-01-14T04:24:13Z</last_updated>
+         <title>Impact of boneseed invasion on biodiversity.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/67</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/67</local_id>
+         <last_updated>2015-01-14T04:24:15Z</last_updated>
+         <title>Smashed : drugs and driving don't work.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/20</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/20</local_id>
+         <last_updated>2015-01-14T04:24:13Z</last_updated>
+         <title>Quantifying the neurocognitive impact of cannabis across the life span : the evolution of memory deficits.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/36</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/36</local_id>
+         <last_updated>2015-01-14T04:24:14Z</last_updated>
+         <title>Superconducting MgB2 thin films and structures for electronic devices and telecommunication applications.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/40</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/40</local_id>
+         <last_updated>2015-01-14T04:24:14Z</last_updated>
+         <title>Is a higher intake of omega-3 fatty acids advantageous for weight loss?</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/66</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/66</local_id>
+         <last_updated>2015-01-14T04:24:15Z</last_updated>
+         <title>Investigation into asthma awareness and education in the 65+ age group.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/19</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/19</local_id>
+         <last_updated>2015-01-14T04:24:13Z</last_updated>
+         <title>Manipulation of spin by electric field.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/28</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/28</local_id>
+         <last_updated>2015-01-14T04:24:14Z</last_updated>
+         <title>IBIC studies of detectors for synchrotron x-ray dosimetry.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/76</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/76</local_id>
+         <last_updated>2015-01-14T04:24:15Z</last_updated>
+         <title>Global/local intersections: history, identity and community in a Tokyo subculture.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/22</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/22</local_id>
+         <last_updated>2015-01-14T04:24:13Z</last_updated>
+         <title>Determining the cognitive sequelae of adolescent cannabis use : a longitudinal cohort study.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/32</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/32</local_id>
+         <last_updated>2015-01-14T04:24:14Z</last_updated>
+         <title>Measuring and managing the impact of lost organisational knowledge.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/38</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/38</local_id>
+         <last_updated>2015-01-14T04:24:14Z</last_updated>
+         <title>Importance of high vegetable consumption in controlling weight studies.
+				</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/64</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/64</local_id>
+         <last_updated>2015-01-14T04:24:15Z</last_updated>
+         <title>Investigation of understanding of standard drink labelling and health messages and effects on drinking intentions.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/34</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/34</local_id>
+         <last_updated>2015-01-14T04:24:14Z</last_updated>
+         <url>www.slowmation.com</url>
+         <title>Generating science content knowledge through digital animation in a knowledge-building community of preservice teachers.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/43</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/43</local_id>
+         <last_updated>2015-01-14T04:24:14Z</last_updated>
+         <title>Healthy eating campaigns: perceptions of the message and messenger.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/72</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/72</local_id>
+         <last_updated>2015-01-14T04:24:15Z</last_updated>
+         <title>Rehabilitation of estuarine ecosystems on the Shoalhaven River (Broughton Creek).</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/uow.edu.au/ACT/30</key>
+         <source>uow.edu.au</source>
+         <local_id>uow.edu.au/ACT/30</local_id>
+         <last_updated>2015-01-14T04:24:14Z</last_updated>
+         <title>NMDA receptor/neuregulin 1 signalling in response to phencyclidine administration.</title>
+         <founder>uow.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/USQ-Activity-0002</key>
+         <source>usq.edu.au</source>
+         <local_id>USQ-Activity-0002</local_id>
+         <last_updated>2015-10-12T21:50:22Z</last_updated>
+         <url>http://www.business.qld.gov.au/industry/science/international-science-partnerships/the-2008-10-queensland-china-climate-change-fellowships</url>
+         <title>The 2008-10 Queensland-China Climate Change Fellowships</title>
+         <start_year>2008-01-27T00:00:00Z</start_year>
+         <end_year>2010-12-31T00:00:00Z</end_year>
+         <founder>usq.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/USQ-Activity-0001</key>
+         <source>usq.edu.au</source>
+         <local_id>USQ-Activity-0001</local_id>
+         <last_updated>2015-10-12T21:49:14Z</last_updated>
+         <url>http://nwc.gov.au/rnws/knowledge/national-water-commission-fellowship-program/technological-change-in-the-australian-irrigation-industry-implications-for-future-resource-management-and-policy-development</url>
+         <title>Technological change in the Australian irrigation industry: National Water Commission Fellowship</title>
+         <start_year>2010-03-01T00:00:00Z</start_year>
+         <end_year>2010-09-04T00:00:00Z</end_year>
+         <founder>usq.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/MIFACTIVITY00001</key>
+         <source>uts.edu.au</source>
+         <local_id>MIFACTIVITY00001</local_id>
+         <last_updated>2014-07-17T00:10:41Z</last_updated>
+         <title>Monitoring cell death signals during drug chemotherapy for cancer</title>
+         <founder>uts.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/remotelabs.eng.uts.edu.au/project/1223</key>
+         <source>uts.edu.au</source>
+         <local_id>remotelabs.eng.uts.edu.au/project/1223</local_id>
+         <last_updated>2014-07-17T00:10:41Z</last_updated>
+         <title>Development of improved difference mode mapping and localisation algorithms for multi sensor robotics platforms used in hazardous areas.</title>
+         <start_year>2011-11-07</start_year>
+         <end_year>2013-05-03</end_year>
+         <founder>uts.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/MARSACTIVITY00001</key>
+         <source>uts.edu.au</source>
+         <local_id>MARSACTIVITY00001</local_id>
+         <last_updated>2014-07-17T00:10:42Z</last_updated>
+         <title>Analysis and interpretation of Mars data sets publicly available from mission archives</title>
+         <founder>uts.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/7f2391e0-9027-11e1-bb8e-f04da20254be</key>
+         <source>climatescience.org.au</source>
+         <local_id>7f2391e0-9027-11e1-bb8e-f04da20254be</local_id>
+         <last_updated>2015-10-07T23:02:38Z</last_updated>
+         <title>NSW and ACT Regional Climate Model (NARCliM) project</title>
+         <start_year>2011-05-01T00:00:00Z</start_year>
+         <end_year>2014-06-30T00:00:00Z</end_year>
+         <founder>climatescience.org.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/acu.edu.au/activity/193</key>
+         <source>acu.edu.au</source>
+         <local_id>acu.edu.au/activity/193</local_id>
+         <last_updated>2014-07-17T02:32:41Z</last_updated>
+         <title>Prayer and carbolic: Reactions to the plague in Sydney in 1900</title>
+         <start_year>2010</start_year>
+         <end_year>2012</end_year>
+         <founder>acu.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/acu.edu.au/activity/6</key>
+         <source>acu.edu.au</source>
+         <local_id>acu.edu.au/activity/6</local_id>
+         <last_updated>2014-07-17T02:32:42Z</last_updated>
+         <url>http://www.ncls.org.au/</url>
+         <title>NCLS 2011 Survey</title>
+         <start_year>2011-01-01T00:00:00Z</start_year>
+         <end_year>2011-12-31T00:00:00Z</end_year>
+         <founder>acu.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/acu.edu.au/activity/127</key>
+         <source>acu.edu.au</source>
+         <local_id>acu.edu.au/activity/127</local_id>
+         <last_updated>2014-07-17T02:32:44Z</last_updated>
+         <title>Identifying the elements that shape spiritual development and a sense of the sacred: Tertiary students’ perceptions of their spiritual journeys</title>
+         <start_year>2001</start_year>
+         <end_year>2002</end_year>
+         <founder>acu.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/acu.edu.au/activity/128</key>
+         <source>acu.edu.au</source>
+         <local_id>acu.edu.au/activity/128</local_id>
+         <last_updated>2014-07-17T02:32:46Z</last_updated>
+         <title>An investigation into the elements that have contributed to the spiritual wellbeing of 16-20 year-olds in regional Victoria, based on their own perceptions: A pilot study</title>
+         <start_year>2001</start_year>
+         <end_year>2002</end_year>
+         <founder>acu.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/acu.edu.au/activity/191</key>
+         <source>acu.edu.au</source>
+         <local_id>acu.edu.au/activity/191</local_id>
+         <last_updated>2014-07-17T02:32:58Z</last_updated>
+         <title>Reverend Samuel Marsden, the Maori and the Maori Seminary 1810-27</title>
+         <start_year>2012</start_year>
+         <end_year>2013</end_year>
+         <founder>acu.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/acu.edu.au/activity/130</key>
+         <source>acu.edu.au</source>
+         <local_id>acu.edu.au/activity/130</local_id>
+         <last_updated>2014-07-17T02:32:58Z</last_updated>
+         <title>Supporting leaders and aspiring leaders for leadership in religious education</title>
+         <start_year>2013</start_year>
+         <founder>acu.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/acu.edu.au/activity/192</key>
+         <source>acu.edu.au</source>
+         <local_id>acu.edu.au/activity/192</local_id>
+         <last_updated>2014-07-17T02:33:02Z</last_updated>
+         <title>Statues of Robert Burns in Australia and New Zealand as sites of memory, 1880s-1930s</title>
+         <start_year>2012-07</start_year>
+         <end_year>2013-11</end_year>
+         <founder>acu.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/acu.edu.au/activity/11</key>
+         <source>acu.edu.au</source>
+         <local_id>acu.edu.au/activity/11</local_id>
+         <last_updated>2014-07-17T02:33:03Z</last_updated>
+         <title>Engaging young learners</title>
+         <start_year>2010</start_year>
+         <end_year>2011</end_year>
+         <founder>acu.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/acu.adu.au/activity/126</key>
+         <source>acu.edu.au</source>
+         <local_id>acu.adu.au/activity/126</local_id>
+         <last_updated>2014-07-17T02:33:05Z</last_updated>
+         <title>Addressing the spiritual dimension in religious education: An investigation of  the perceiving, thinking, feeling and intuiting elements in the learning process  to promote meaning and connectedness</title>
+         <start_year>2007</start_year>
+         <founder>acu.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/acu.edu.au/activity/5</key>
+         <source>acu.edu.au</source>
+         <local_id>acu.edu.au/activity/5</local_id>
+         <last_updated>2014-07-17T02:33:07Z</last_updated>
+         <url>http://www.ncls.org.au/</url>
+         <title>NCLS 2006 Survey</title>
+         <start_year>2006-01-01T00:00:00Z</start_year>
+         <end_year>2006-12-31T00:00:00Z</end_year>
+         <founder>acu.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/acu.edu.au/activity/108</key>
+         <source>acu.edu.au</source>
+         <local_id>acu.edu.au/activity/108</local_id>
+         <last_updated>2014-07-17T02:33:08Z</last_updated>
+         <title>Utilising the information and communication technologies to build a professional learning community and to develop mentoring relationships between teachers in local, regional and rural schools</title>
+         <start_year>2006</start_year>
+         <end_year>2008</end_year>
+         <founder>acu.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/acu.edu.au/activity/129</key>
+         <source>acu.edu.au</source>
+         <local_id>acu.edu.au/activity/129</local_id>
+         <last_updated>2014-07-17T02:33:10Z</last_updated>
+         <title>An investigation into the perceptions of Coptic students of the influences on their religious and spiritual development</title>
+         <start_year>2001</start_year>
+         <end_year>2003</end_year>
+         <founder>acu.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/7dd8c6c5-9324-4eb0-8c65-ef6937a22c70</key>
+         <source>adelaide.edu.au</source>
+         <local_id>7dd8c6c5-9324-4eb0-8c65-ef6937a22c70</local_id>
+         <last_updated>2014-07-21T00:24:14Z</last_updated>
+         <title>CML study 2011</title>
+         <founder>adelaide.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/a3c81b37-2137-43f5-9d1f-2e0e3a60bae6</key>
+         <source>adelaide.edu.au</source>
+         <local_id>a3c81b37-2137-43f5-9d1f-2e0e3a60bae6</local_id>
+         <last_updated>2014-07-21T00:24:14Z</last_updated>
+         <title>BovB: Jumping the fine LINE between species</title>
+         <founder>adelaide.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/4ceccc77-b569-455b-9c70-097617e3e2e8</key>
+         <source>adelaide.edu.au</source>
+         <local_id>4ceccc77-b569-455b-9c70-097617e3e2e8</local_id>
+         <last_updated>2014-07-21T00:24:16Z</last_updated>
+         <title>Deep sequencing analysis of the developing mouse brain reveals a novel microRNA</title>
+         <founder>adelaide.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/d3464f48-39d3-46c1-9b61-6ffbd9fb7876</key>
+         <source>adelaide.edu.au</source>
+         <local_id>d3464f48-39d3-46c1-9b61-6ffbd9fb7876</local_id>
+         <last_updated>2014-07-21T00:24:19Z</last_updated>
+         <title>Dnmt3L haploinsufficent  retrotransposition leads to  genetic hypermutation</title>
+         <founder>adelaide.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/3368011b-16ed-4510-918a-9f2c13908263</key>
+         <source>adelaide.edu.au</source>
+         <local_id>3368011b-16ed-4510-918a-9f2c13908263</local_id>
+         <last_updated>2014-07-21T00:24:22Z</last_updated>
+         <title>Genome-wide consequences of compromised nonsense-mediated mRNA decay and their relevance for variable clinical phenotype of patients with UPF3B mutations</title>
+         <founder>adelaide.edu.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/388</key>
+         <source>ansto.gov.au</source>
+         <local_id>research-data.ansto.gov.au/collection/388</local_id>
+         <last_updated>2014-07-17T02:34:55Z</last_updated>
+         <url>http://research-data.ansto.gov.au/collection/388</url>
+         <title>Safety, Environmental, Radiological Assurance (SERA)</title>
+         <founder>ansto.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/426</key>
+         <source>ansto.gov.au</source>
+         <local_id>research-data.ansto.gov.au/collection/426</local_id>
+         <last_updated>2014-07-17T02:34:58Z</last_updated>
+         <url>http://research-data.ansto.gov.au/collection/426</url>
+         <title>Nuclear Materials Science</title>
+         <founder>ansto.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/430</key>
+         <source>ansto.gov.au</source>
+         <local_id>research-data.ansto.gov.au/collection/430</local_id>
+         <last_updated>2014-07-17T02:35:00Z</last_updated>
+         <url>http://research-data.ansto.gov.au/collection/430</url>
+         <title>Structural Integrity</title>
+         <founder>ansto.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/395</key>
+         <source>ansto.gov.au</source>
+         <local_id>research-data.ansto.gov.au/collection/395</local_id>
+         <last_updated>2014-07-17T02:35:02Z</last_updated>
+         <url>http://research-data.ansto.gov.au/collection/395</url>
+         <title>ANSTO Accelerator Science - Ion Beam Analysis</title>
+         <founder>ansto.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/369</key>
+         <source>ansto.gov.au</source>
+         <local_id>research-data.ansto.gov.au/collection/369</local_id>
+         <last_updated>2014-07-17T02:35:06Z</last_updated>
+         <url>http://research-data.ansto.gov.au/collection/369</url>
+         <title>Isotopes in Climate Change and Atmospheric Systems</title>
+         <founder>ansto.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/722</key>
+         <source>ansto.gov.au</source>
+         <local_id>research-data.ansto.gov.au/collection/722</local_id>
+         <last_updated>2014-07-17T02:35:15Z</last_updated>
+         <url>http://research-data.ansto.gov.au/collection/722</url>
+         <title>Isotopes for Water</title>
+         <founder>ansto.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/409</key>
+         <source>ansto.gov.au</source>
+         <local_id>research-data.ansto.gov.au/collection/409</local_id>
+         <last_updated>2014-07-17T02:35:15Z</last_updated>
+         <url>http://research-data.ansto.gov.au/collection/409</url>
+         <title>Nuclear Methods in Earth Systems</title>
+         <founder>ansto.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/research-data.ansto.gov.au/collection/449</key>
+         <source>ansto.gov.au</source>
+         <local_id>research-data.ansto.gov.au/collection/449</local_id>
+         <last_updated>2014-07-17T02:35:26Z</last_updated>
+         <url>http://research-data.ansto.gov.au/collection/449</url>
+         <title>Nuclear Materials Modelling and Characterisation</title>
+         <founder>ansto.gov.au</founder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/ands/http://anu.edu.au/anudc:4873</key>
+         <source>anu.edu.au</source>
+         <local_id>http://anu.edu.au/anudc:4873</local_id>
+         <last_updated>2014-10-06T23:42:06Z</last_updated>
+         <url>http://mcp.anu.edu.au</url>
+         <title>Malay Concordance Project</title>
+         <founder>anu.edu.au</founder>
+      </grant>
+   </grants>
+</registryObjects>

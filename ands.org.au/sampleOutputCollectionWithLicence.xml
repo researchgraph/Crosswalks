@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <datasets>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Fluttering Shearwater (Puffinus (Puffinus) gavia)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Fluttering Shearwater (Puffinus (Puffinus) gavia)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:15Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/48195ff65f3d7a5c8aad597178ccac6f</url>
+         <title>Fluttering Shearwater (Puffinus (Puffinus) gavia) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Forest Raven (Corvus tasmanicus)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Forest Raven (Corvus tasmanicus)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:16Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/46bf45de7830345502ab77750c727bfe</url>
+         <title>Forest Raven (Corvus tasmanicus) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Fork-tailed Swift (Apus (Apus) pacificus)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Fork-tailed Swift (Apus (Apus) pacificus)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:16Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/067eff198702f42e989029e781301d8f</url>
+         <title>Fork-tailed Swift (Apus (Apus) pacificus) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Fork-tailed Swift (Apus (Apus) pacificus)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Fork-tailed Swift (Apus (Apus) pacificus)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:16Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/de3f9c0578a8e2ec9ad679e3f7f1dff0</url>
+         <title>Fork-tailed Swift (Apus (Apus) pacificus) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Common Sandpiper (Actitis hypoleucos)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Common Sandpiper (Actitis hypoleucos)/suitability</local_id>
+         <last_updated>2016-07-14T01:12:32Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/5d64c709b21ee5ca659ed2adf1f02941</url>
+         <title>Common Sandpiper (Actitis hypoleucos) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Franklin's Gull (Leucophaeus pipixcan)/occurrences</key>
+         <source>jcu.edu.au</source>
+         <local_id>jcu.edu.au/tdh/collection/Franklin's Gull (Leucophaeus pipixcan)/occurrences</local_id>
+         <last_updated>2014-07-17T00:09:31Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/441616fc2ce727eeacb3eeda47e03208</url>
+         <title>Franklin's Gull (Leucophaeus pipixcan) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Frilled Monarch (Arses telescopthalmus)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Frilled Monarch (Arses telescopthalmus)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:18Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/ca2136dc9128a4cc1295ee66153a0de8</url>
+         <title>Frilled Monarch (Arses telescopthalmus) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Fuscous Honeyeater (Lichenostomus (Ptilotula) fuscus)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Fuscous Honeyeater (Lichenostomus (Ptilotula) fuscus)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:19Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/19279d317d808ece22147e583925bcea</url>
+         <title>Fuscous Honeyeater (Lichenostomus (Ptilotula) fuscus) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Gang-gang Cockatoo (Callocephalon fimbriatum)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Gang-gang Cockatoo (Callocephalon fimbriatum)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:19Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/29899bc7943ac2ed6eab15ca669bd855</url>
+         <title>Gang-gang Cockatoo (Callocephalon fimbriatum) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Glossy Ibis (Plegadis falcinellus)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Glossy Ibis (Plegadis falcinellus)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:22Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/b2310a68219a947fe35629dc3d37eef3</url>
+         <title>Glossy Ibis (Plegadis falcinellus) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Gibberbird (Ashbyia lovensis)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Gibberbird (Ashbyia lovensis)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:20Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/a597a42df3041a334c71f9dd924d60ed</url>
+         <title>Gibberbird (Ashbyia lovensis) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Glossy Black-cockatoo (Calyptorhynchus (Calyptorhynchus) lathami)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Glossy Black-cockatoo (Calyptorhynchus (Calyptorhynchus) lathami)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:21Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/ec8f838ce2b5c26d1cfd835224434152</url>
+         <title>Glossy Black-cockatoo (Calyptorhynchus (Calyptorhynchus) lathami) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Glossy Black-cockatoo (Calyptorhynchus (Calyptorhynchus) lathami)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Glossy Black-cockatoo (Calyptorhynchus (Calyptorhynchus) lathami)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:21Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/6de2fccf4ddd157c6d8fb3ab2f35109d</url>
+         <title>Glossy Black-cockatoo (Calyptorhynchus (Calyptorhynchus) lathami) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Golden Bowerbird (Amblyornis newtonianus)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Golden Bowerbird (Amblyornis newtonianus)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:22Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/e3a4841c31e1acdc5fbb04666e3163f2</url>
+         <title>Golden Bowerbird (Amblyornis newtonianus) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Gould's Petrel (Pterodroma (Cookilaria) leucoptera)/suitability</key>
+         <source>jcu.edu.au</source>
+         <local_id>jcu.edu.au/tdh/collection/Gould's Petrel (Pterodroma (Cookilaria) leucoptera)/suitability</local_id>
+         <last_updated>2014-07-17T00:09:31Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/8eab18adae86cc22325c8ed3bb6e7e91</url>
+         <title>Gould's Petrel (Pterodroma (Cookilaria) leucoptera) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Golden Whistler (Pachycephala (Pachycephala) pectoralis)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Golden Whistler (Pachycephala (Pachycephala) pectoralis)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:23Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/33301001d5c5ec98e63ae6bbccde9b90</url>
+         <title>Golden Whistler (Pachycephala (Pachycephala) pectoralis) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Golden-headed Cisticola (Cisticola (Cisticola) exilis)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Golden-headed Cisticola (Cisticola (Cisticola) exilis)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:23Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/2cdefc137392962a037f86746068e246</url>
+         <title>Golden-headed Cisticola (Cisticola (Cisticola) exilis) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Gouldian Finch (Erythrura (Chloebia) gouldiae)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Gouldian Finch (Erythrura (Chloebia) gouldiae)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:24Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/8c5f8edcf3efb2c05fb16e8ba3932178</url>
+         <title>Gouldian Finch (Erythrura (Chloebia) gouldiae) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Golden-headed Cisticola (Cisticola (Cisticola) exilis)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Golden-headed Cisticola (Cisticola (Cisticola) exilis)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:23Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/c3ebd3c9760851404354eb478de6cb52</url>
+         <title>Golden-headed Cisticola (Cisticola (Cisticola) exilis) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Gould's Petrel (Pterodroma (Cookilaria) leucoptera)/occurrences</key>
+         <source>jcu.edu.au</source>
+         <local_id>jcu.edu.au/tdh/collection/Gould's Petrel (Pterodroma (Cookilaria) leucoptera)/occurrences</local_id>
+         <last_updated>2014-07-17T00:09:31Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/02b610ccc49aa6ff6e7c6bf6d66b63c2</url>
+         <title>Gould's Petrel (Pterodroma (Cookilaria) leucoptera) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Great Bowerbird (Chlamydera nuchalis)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Great Bowerbird (Chlamydera nuchalis)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:25Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/fa37f1910135fcbe88fb8670f39cfe30</url>
+         <title>Great Bowerbird (Chlamydera nuchalis) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Gouldian Finch (Erythrura (Chloebia) gouldiae)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Gouldian Finch (Erythrura (Chloebia) gouldiae)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:24Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/ea69645feb6ef982d4c4e9a02141447a</url>
+         <title>Gouldian Finch (Erythrura (Chloebia) gouldiae) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Graceful Honeyeater (Meliphaga (Microptilotis) gracilis)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Graceful Honeyeater (Meliphaga (Microptilotis) gracilis)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:24Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/9d7322c26aedf5dd535437608584174e</url>
+         <title>Graceful Honeyeater (Meliphaga (Microptilotis) gracilis) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Gray-tailed Tattler (Heteroscelus brevipes)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Gray-tailed Tattler (Heteroscelus brevipes)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:25Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/d74f6a9127b2adc7fed70416cdc5b007</url>
+         <title>Gray-tailed Tattler (Heteroscelus brevipes) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Great Bowerbird (Ptilonorhynchus nuchalis)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Great Bowerbird (Ptilonorhynchus nuchalis)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:26Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/5c83fb03ca9ea5d9650f6e8cc32ccedf</url>
+         <title>Great Bowerbird (Ptilonorhynchus nuchalis) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Great Bowerbird (Ptilonorhynchus nuchalis)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Great Bowerbird (Ptilonorhynchus nuchalis)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:26Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/53d4caaa5f806fcdd6ef5fa015c379ba</url>
+         <title>Great Bowerbird (Ptilonorhynchus nuchalis) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Great Cormorant (Phalacrocorax (Phalacrocorax) carbo)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Great Cormorant (Phalacrocorax (Phalacrocorax) carbo)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:26Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/8ffe58b3274640791873e2b5b6f7277d</url>
+         <title>Great Cormorant (Phalacrocorax (Phalacrocorax) carbo) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Great Cormorant (Phalacrocorax (Phalacrocorax) carbo)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Great Cormorant (Phalacrocorax (Phalacrocorax) carbo)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:26Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/0472a7dc8ea60cc2b67dce62704ce1d7</url>
+         <title>Great Cormorant (Phalacrocorax (Phalacrocorax) carbo) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Great Crested Grebe (Podiceps cristatus)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Great Crested Grebe (Podiceps cristatus)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:26Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/68e424660c12d6a1baaf3d595bf70258</url>
+         <title>Great Crested Grebe (Podiceps cristatus) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Great Crested Grebe (Podiceps cristatus)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Great Crested Grebe (Podiceps cristatus)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:27Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/4a15738bfa08f7307c55d71e07a623e6</url>
+         <title>Great Crested Grebe (Podiceps cristatus) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Great Frigatebird (Fregata minor)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Great Frigatebird (Fregata minor)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:27Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/85f6425b6368ee436218b7eae188e3af</url>
+         <title>Great Frigatebird (Fregata minor) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Great Knot (Calidris (Calidris) tenuirostris)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Great Knot (Calidris (Calidris) tenuirostris)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:27Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/3e05c23013a7f56d7381cefe061e4011</url>
+         <title>Great Knot (Calidris (Calidris) tenuirostris) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey Grasswren (Amytornis (Maluropsis) barbatus)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey Grasswren (Amytornis (Maluropsis) barbatus)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:34Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/6f921c3e66be00ccba1a1f2e9b967677</url>
+         <title>Grey Grasswren (Amytornis (Maluropsis) barbatus) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Great-billed Heron (Ardea (Typhon) sumatrana)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Great-billed Heron (Ardea (Typhon) sumatrana)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:28Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/ae9efa0a25e42bf55467f3c10249c165</url>
+         <title>Great-billed Heron (Ardea (Typhon) sumatrana) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Great-winged Petrel (Pterodroma (Pterodroma) macroptera)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Great-winged Petrel (Pterodroma (Pterodroma) macroptera)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:29Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/ff713339cc40f049bad4942d84cbd726</url>
+         <title>Great-winged Petrel (Pterodroma (Pterodroma) macroptera) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Great-winged Petrel (Pterodroma (Pterodroma) macroptera)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Great-winged Petrel (Pterodroma (Pterodroma) macroptera)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:29Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/101cec2e3d408face1e153a21222a9e2</url>
+         <title>Great-winged Petrel (Pterodroma (Pterodroma) macroptera) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Greater Sand Plover (Charadrius (Charadrius) leschenaultii)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Greater Sand Plover (Charadrius (Charadrius) leschenaultii)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:29Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/8b2336a4636e1508f66e030172176131</url>
+         <title>Greater Sand Plover (Charadrius (Charadrius) leschenaultii) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Hooded Parrot (Psephotus (Psephotellus) dissimilis)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Hooded Parrot (Psephotus (Psephotellus) dissimilis)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:49Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/1c93aa044f3a8ffd6c6dade532c774ef</url>
+         <title>Hooded Parrot (Psephotus (Psephotellus) dissimilis) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Green Catbird (Ailuroedus crassirostris)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Green Catbird (Ailuroedus crassirostris)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:29Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/fef93386b201161908a63dc00a4693a9</url>
+         <title>Green Catbird (Ailuroedus crassirostris) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Green Pygmy-goose (Nettapus (Cheniscus) pulchellus)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Green Pygmy-goose (Nettapus (Cheniscus) pulchellus)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:30Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/9af3c8fe543c8a38634903a87a94df0b</url>
+         <title>Green Pygmy-goose (Nettapus (Cheniscus) pulchellus) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Green-backed Gerygone (Gerygone chloronota)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Green-backed Gerygone (Gerygone chloronota)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:31Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/647a38e3e8c7ae00dde71f00691f5ecb</url>
+         <title>Green-backed Gerygone (Gerygone chloronota) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Common Sandpiper (Actitis hypoleucos)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Common Sandpiper (Actitis hypoleucos)/occurrences</local_id>
+         <last_updated>2016-07-14T01:12:33Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/db7f2fa4bd1f15a92d7ac4b4d28bf209</url>
+         <title>Common Sandpiper (Actitis hypoleucos) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey Currawong (Strepera (Neostrepera) versicolor)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey Currawong (Strepera (Neostrepera) versicolor)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:32Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/8bfde37a0b71ecfa58b5011f4f30d27d</url>
+         <title>Grey Currawong (Strepera (Neostrepera) versicolor) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey Falcon (Falco (Hierofalco) hypoleucos)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey Falcon (Falco (Hierofalco) hypoleucos)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:32Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/d4b09134dfa4846b95d6f2eaa5a697ea</url>
+         <title>Grey Falcon (Falco (Hierofalco) hypoleucos) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey Fantail (Rhipidura (Rhipidura) albiscapa)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey Fantail (Rhipidura (Rhipidura) albiscapa)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:33Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/e7f304c02f0f3a6fa63eed6f027b7cb0</url>
+         <title>Grey Fantail (Rhipidura (Rhipidura) albiscapa) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey Honeyeater (Conopophila (Lacustroica) whitei)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey Honeyeater (Conopophila (Lacustroica) whitei)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:34Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/8fa67df281b6ec3d29ffbc4b27438fb1</url>
+         <title>Grey Honeyeater (Conopophila (Lacustroica) whitei) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey Goshawk (Accipiter (Leucospiza) novaehollandiae)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey Goshawk (Accipiter (Leucospiza) novaehollandiae)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:33Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/c19bb6db0240ad746e1ea9a2defaf36f</url>
+         <title>Grey Goshawk (Accipiter (Leucospiza) novaehollandiae) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey Petrel (Procellaria (Adamastor) cinerea)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey Petrel (Procellaria (Adamastor) cinerea)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:34Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/9909177de08c9f54c4ff5b2d97e2a9d7</url>
+         <title>Grey Petrel (Procellaria (Adamastor) cinerea) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey Shrike-thrush (Colluricincla (Colluricincla) harmonica)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey Shrike-thrush (Colluricincla (Colluricincla) harmonica)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:35Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/07e868b01b18a2bc50f5f1ad000eaf46</url>
+         <title>Grey Shrike-thrush (Colluricincla (Colluricincla) harmonica) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/2fbe9a82-205b-490e-983b-cb11234d1102</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/2fbe9a82-205b-490e-983b-cb11234d1102</local_id>
+         <last_updated>2016-07-14T01:13:20Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/e04ede0d096a07b030fc3d4075e68743</url>
+         <title>Geological, geochronological, geomorphological, and faunal context of the Malapa site and the fossils of Australopithecus sediba</title>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Gilbert's Whistler (Pachycephala (Timixos) inornata)/suitability</key>
+         <source>jcu.edu.au</source>
+         <local_id>jcu.edu.au/tdh/collection/Gilbert's Whistler (Pachycephala (Timixos) inornata)/suitability</local_id>
+         <last_updated>2014-07-17T00:09:32Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/ff619c3f1be9a3f06d8ad86387ff4e46</url>
+         <title>Gilbert's Whistler (Pachycephala (Timixos) inornata) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey Wagtail (Motacilla (Calobates) cinerea)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey Wagtail (Motacilla (Calobates) cinerea)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:36Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/e5ed3ec7cf38e7926d9a97297d78e579</url>
+         <title>Grey Wagtail (Motacilla (Calobates) cinerea) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey Whistler (Pachycephala (Mattingleya) simplex)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey Whistler (Pachycephala (Mattingleya) simplex)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:37Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/3ef06002e5b5218942b8334898176e2c</url>
+         <title>Grey Whistler (Pachycephala (Mattingleya) simplex) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey-backed Storm-petrel (Garrodia nereis)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey-backed Storm-petrel (Garrodia nereis)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:37Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/a72d574bd1adc1e08601c1c5b77286df</url>
+         <title>Grey-backed Storm-petrel (Garrodia nereis) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey-backed Storm-petrel (Garrodia nereis)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey-backed Storm-petrel (Garrodia nereis)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:37Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/73b634471bb9b97c5fdae4718778fe31</url>
+         <title>Grey-backed Storm-petrel (Garrodia nereis) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey-crowned Babbler (Pomatostomus (Pomatostomus) temporalis)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey-crowned Babbler (Pomatostomus (Pomatostomus) temporalis)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:37Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/009741b04f7a7864a991b2beae744500</url>
+         <title>Grey-crowned Babbler (Pomatostomus (Pomatostomus) temporalis) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey-crowned Babbler (Pomatostomus (Pomatostomus) temporalis)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey-crowned Babbler (Pomatostomus (Pomatostomus) temporalis)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:38Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/add74fdc5b164961fd4c440c7ab799fc</url>
+         <title>Grey-crowned Babbler (Pomatostomus (Pomatostomus) temporalis) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey-fronted Honeyeater (Lichenostomus (Ptilotula) plumulus)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey-fronted Honeyeater (Lichenostomus (Ptilotula) plumulus)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:38Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/72bc39bd79d548ccf10619b81411653f</url>
+         <title>Grey-fronted Honeyeater (Lichenostomus (Ptilotula) plumulus) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey-headed Albatross (Thalassarche chrysostoma)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey-headed Albatross (Thalassarche chrysostoma)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:38Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/da837ca471cf9d7d0f1685137504e686</url>
+         <title>Grey-headed Albatross (Thalassarche chrysostoma) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey-headed Honeyeater (Lichenostomus (Ptilotula) keartlandi)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey-headed Honeyeater (Lichenostomus (Ptilotula) keartlandi)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:39Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/032b8eaf24c11672534e5cd16b4240e7</url>
+         <title>Grey-headed Honeyeater (Lichenostomus (Ptilotula) keartlandi) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey-headed Robin (Heteromyias albispecularis)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey-headed Robin (Heteromyias albispecularis)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:39Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/f9dfb47135722d66816cc9c078d1c6c0</url>
+         <title>Grey-headed Robin (Heteromyias albispecularis) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey-headed Robin (Heteromyias cinereifrons)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey-headed Robin (Heteromyias cinereifrons)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:39Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/72fffd7717adbfa8e79a91d8ec71720d</url>
+         <title>Grey-headed Robin (Heteromyias cinereifrons) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Grey-tailed Tattler (Tringa (Heteroscelus) brevipes)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Grey-tailed Tattler (Tringa (Heteroscelus) brevipes)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:40Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/eb81a59f2b4fe3ec762b08486fefe094</url>
+         <title>Grey-tailed Tattler (Tringa (Heteroscelus) brevipes) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Ground Cuckoo-shrike (Coracina (Pteropodocys) maxima)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Ground Cuckoo-shrike (Coracina (Pteropodocys) maxima)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:40Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/e44480c34ffc6cd61a52ef543fdf2480</url>
+         <title>Ground Cuckoo-shrike (Coracina (Pteropodocys) maxima) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Ground Parrot (Pezoporus wallicus)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Ground Parrot (Pezoporus wallicus)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:45Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/73ddb39ad9467eff0b44b31082863443</url>
+         <title>Ground Parrot (Pezoporus wallicus) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Hall's Babbler (Pomatostomus (Pomatostomus) halli)/suitability</key>
+         <source>jcu.edu.au</source>
+         <local_id>jcu.edu.au/tdh/collection/Hall's Babbler (Pomatostomus (Pomatostomus) halli)/suitability</local_id>
+         <last_updated>2014-07-17T00:09:32Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/60fdf9ff2fb7abfb35ef83237a12c2ee</url>
+         <title>Hall's Babbler (Pomatostomus (Pomatostomus) halli) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Dusky Gerygone (Gerygone tenebrosa)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Dusky Gerygone (Gerygone tenebrosa)/occurrences</local_id>
+         <last_updated>2016-07-14T01:12:57Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/3d111c208b45cc8d3c94c336e6714fac</url>
+         <title>Dusky Gerygone (Gerygone tenebrosa) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Dusky Grasswren (Amytornis (Amytornis) purnelli)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Dusky Grasswren (Amytornis (Amytornis) purnelli)/suitability</local_id>
+         <last_updated>2016-07-14T01:12:57Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/471321c4a51599bcf077b8f97fd6a247</url>
+         <title>Dusky Grasswren (Amytornis (Amytornis) purnelli) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Helmeted Guineafowl (Numida meleagris)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Helmeted Guineafowl (Numida meleagris)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:47Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/3be5ef91527fb560d245358b09ff64d2</url>
+         <title>Helmeted Guineafowl (Numida meleagris) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Helmeted Guineafowl (Numida meleagris)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Helmeted Guineafowl (Numida meleagris)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:48Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/69db0aec5d1109ad1464a5f33cfd2df0</url>
+         <title>Helmeted Guineafowl (Numida meleagris) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Hoary-headed Grebe (Poliocephalus poliocephalus)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Hoary-headed Grebe (Poliocephalus poliocephalus)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:48Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/3b82f7d16127ee7cca2409a49770773b</url>
+         <title>Hoary-headed Grebe (Poliocephalus poliocephalus) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Hooded Plover (Thinornis rubricollis)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Hooded Plover (Thinornis rubricollis)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:49Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/acbfb7bc7c7655084f0e57deae520ed6</url>
+         <title>Hooded Plover (Thinornis rubricollis) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Horsfield's Bronze Cuckoo (Chrysococcyx basalis)/suitability</key>
+         <source>jcu.edu.au</source>
+         <local_id>jcu.edu.au/tdh/collection/Horsfield's Bronze Cuckoo (Chrysococcyx basalis)/suitability</local_id>
+         <last_updated>2014-07-17T00:09:32Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/ef0b9e1e0d20322a4a41b721f4378356</url>
+         <title>Horsfield's Bronze Cuckoo (Chrysococcyx basalis) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Kelp Gull (Larus (Larus) dominicanus)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Kelp Gull (Larus (Larus) dominicanus)/occurrences</local_id>
+         <last_updated>2016-07-14T01:14:14Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/1e5f79b349524fd3ab7e65a1272711d7</url>
+         <title>Kelp Gull (Larus (Larus) dominicanus) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Horsfield's Bushlark (Mirafra (Mirafra) javanica)/suitability</key>
+         <source>jcu.edu.au</source>
+         <local_id>jcu.edu.au/tdh/collection/Horsfield's Bushlark (Mirafra (Mirafra) javanica)/suitability</local_id>
+         <last_updated>2014-07-17T00:09:32Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/eb8e165399a50f6da2563415ed0ebdc3</url>
+         <title>Horsfield's Bushlark (Mirafra (Mirafra) javanica) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Latham's Snipe (Gallinago (Gallinago) hardwickii)/suitability</key>
+         <source>jcu.edu.au</source>
+         <local_id>jcu.edu.au/tdh/collection/Latham's Snipe (Gallinago (Gallinago) hardwickii)/suitability</local_id>
+         <last_updated>2014-07-17T00:09:32Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/7e8f8e79cf8aa846c43247d41c0a1309</url>
+         <title>Latham's Snipe (Gallinago (Gallinago) hardwickii) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/House Crow (Corvus splendens)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/House Crow (Corvus splendens)/occurrences</local_id>
+         <last_updated>2016-07-14T01:13:51Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/11e1915f22f7f0a57fba43ee2448d949</url>
+         <title>House Crow (Corvus splendens) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Leaden Flycatcher (Myiagra (Myiagra) rubecula)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Leaden Flycatcher (Myiagra (Myiagra) rubecula)/occurrences</local_id>
+         <last_updated>2016-07-14T01:14:20Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/5ca1eaf5d7499066701f2e5e316a05b4</url>
+         <title>Leaden Flycatcher (Myiagra (Myiagra) rubecula) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Hutton's Shearwater (Puffinus (Puffinus) huttoni)/suitability</key>
+         <source>jcu.edu.au</source>
+         <local_id>jcu.edu.au/tdh/collection/Hutton's Shearwater (Puffinus (Puffinus) huttoni)/suitability</local_id>
+         <last_updated>2014-07-17T00:09:33Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/8d9598bdb3abc76dfd70e31944a2dd91</url>
+         <title>Hutton's Shearwater (Puffinus (Puffinus) huttoni) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Inland Thornbill (Acanthiza (Acanthiza) apicalis)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Inland Thornbill (Acanthiza (Acanthiza) apicalis)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:54Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/0ebba4386189b6f9c991f7f88c05a80d</url>
+         <title>Inland Thornbill (Acanthiza (Acanthiza) apicalis) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Little Corella (Cacatua (Licmetis) sanguinea)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Little Corella (Cacatua (Licmetis) sanguinea)/suitability</local_id>
+         <last_updated>2016-07-14T01:14:25Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/5d792e4bb41f72436e578393d5a935bf</url>
+         <title>Little Corella (Cacatua (Licmetis) sanguinea) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Intermediate Egret (Ardea (Mesophoyx) intermedia)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Intermediate Egret (Ardea (Mesophoyx) intermedia)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:56Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/4c056422d72558519aabbdf5e3ffe980</url>
+         <title>Intermediate Egret (Ardea (Mesophoyx) intermedia) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Little Curlew (Numenius (Mesoscolopax) minutus)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Little Curlew (Numenius (Mesoscolopax) minutus)/suitability</local_id>
+         <last_updated>2016-07-14T01:14:26Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/56f9ac9de505d6cdacc026f57f0350f3</url>
+         <title>Little Curlew (Numenius (Mesoscolopax) minutus) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Kerguelen Petrel (Lugensa brevirostris)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Kerguelen Petrel (Lugensa brevirostris)/suitability</local_id>
+         <last_updated>2016-07-14T01:14:14Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/bd21a6486c921719f00db72035d9b163</url>
+         <title>Kerguelen Petrel (Lugensa brevirostris) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Little Lorikeet (Glossopsitta pusilla)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Little Lorikeet (Glossopsitta pusilla)/occurrences</local_id>
+         <last_updated>2016-07-14T01:14:33Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/24caf866d16bb9cd0d67fce55def855f</url>
+         <title>Little Lorikeet (Glossopsitta pusilla) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Kimberley Honeyeater (Meliphaga (Microptilotis) fordiana)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Kimberley Honeyeater (Meliphaga (Microptilotis) fordiana)/occurrences</local_id>
+         <last_updated>2016-07-14T01:14:16Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/9e650bdebb6886e764e390bfbf5db923</url>
+         <title>Kimberley Honeyeater (Meliphaga (Microptilotis) fordiana) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Little Shearwater (Puffinus (Puffinus) assimilis)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Little Shearwater (Puffinus (Puffinus) assimilis)/suitability</local_id>
+         <last_updated>2016-07-14T01:14:35Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/ab61da848fb128e6b2a07d2aa5e31bf1</url>
+         <title>Little Shearwater (Puffinus (Puffinus) assimilis) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/King Penguin (Aptenodytes patagonicus)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/King Penguin (Aptenodytes patagonicus)/occurrences</local_id>
+         <last_updated>2016-07-14T01:14:16Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/2786c2055fe42377df90b08e98ee7da5</url>
+         <title>King Penguin (Aptenodytes patagonicus) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Little Wattlebird (Anthochaera (Anellobia) chrysoptera)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Little Wattlebird (Anthochaera (Anellobia) chrysoptera)/occurrences</local_id>
+         <last_updated>2016-07-14T01:14:37Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/b55f712c88e2f6d61f2d3fd623975861</url>
+         <title>Little Wattlebird (Anthochaera (Anellobia) chrysoptera) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Dusky Grasswren (Amytornis (Amytornis) purnelli)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Dusky Grasswren (Amytornis (Amytornis) purnelli)/occurrences</local_id>
+         <last_updated>2016-07-14T01:12:57Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/d1f45dd2edcbfeb9fe703945962e7c47</url>
+         <title>Dusky Grasswren (Amytornis (Amytornis) purnelli) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Large-billed Gerygone (Gerygone magnirostris)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Large-billed Gerygone (Gerygone magnirostris)/occurrences</local_id>
+         <last_updated>2016-07-14T01:14:17Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/ff2a6ce2285a05b796b6271ffa62d9ae</url>
+         <title>Large-billed Gerygone (Gerygone magnirostris) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Large-billed Scrubwren (Sericornis (Arfakornis) magnirostra)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Large-billed Scrubwren (Sericornis (Arfakornis) magnirostra)/occurrences</local_id>
+         <last_updated>2016-07-14T01:14:18Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/824e0e9f4c69522b0975dae2af943bb9</url>
+         <title>Large-billed Scrubwren (Sericornis (Arfakornis) magnirostra) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Laughing Dove (Streptopelia (Spilopelia) senegalensis)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Laughing Dove (Streptopelia (Spilopelia) senegalensis)/suitability</local_id>
+         <last_updated>2016-07-14T01:14:19Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/5ad791211335fa02ceb9f17403aca2d1</url>
+         <title>Laughing Dove (Streptopelia (Spilopelia) senegalensis) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Laughing Dove (Streptopelia (Spilopelia) senegalensis)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Laughing Dove (Streptopelia (Spilopelia) senegalensis)/occurrences</local_id>
+         <last_updated>2016-07-14T01:14:19Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/6d4b0f79ed6707b5c7e8dc6c1dbee771</url>
+         <title>Laughing Dove (Streptopelia (Spilopelia) senegalensis) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Great Bowerbird (Chlamydera nuchalis)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Great Bowerbird (Chlamydera nuchalis)/suitability</local_id>
+         <last_updated>2016-07-14T01:13:25Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/ab43b9f1bbdac79ed4c2eb47f950953e</url>
+         <title>Great Bowerbird (Chlamydera nuchalis) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Laughing Kookaburra (Dacelo (Dacelo) novaeguineae)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Laughing Kookaburra (Dacelo (Dacelo) novaeguineae)/occurrences</local_id>
+         <last_updated>2016-07-14T01:14:19Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/5702618f0b02a853b3838d1e6f3300b9</url>
+         <title>Laughing Kookaburra (Dacelo (Dacelo) novaeguineae) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Lesser Crested Tern (Thalasseus bengalensis)/suitability</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Lesser Crested Tern (Thalasseus bengalensis)/suitability</local_id>
+         <last_updated>2016-07-14T01:14:20Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/631e1f16a455b2c03c2ad99daa728194</url>
+         <title>Lesser Crested Tern (Thalasseus bengalensis) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Lesser Crested Tern (Thalasseus bengalensis)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Lesser Crested Tern (Thalasseus bengalensis)/occurrences</local_id>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/6a06aadbe376531aac98acbd7fc9dde4</url>
+         <title>Lesser Crested Tern (Thalasseus bengalensis) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Lesser Sand Plover (Charadrius (Charadrius) mongolus)/occurrences</key>
+         <source>unknown</source>
+         <local_id>jcu.edu.au/tdh/collection/Lesser Sand Plover (Charadrius (Charadrius) mongolus)/occurrences</local_id>
+         <last_updated>2016-07-14T01:14:22Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/0158babe7e24a7bd25e4cfe5932ff266</url>
+         <title>Lesser Sand Plover (Charadrius (Charadrius) mongolus) - occurrence records filtered for species distribution modelling </title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+      <dataset>
+         <key>researchgraph.org/ands/jcu.edu.au/tdh/collection/Lewin's Honeyeater (Meliphaga (Meliphaga) lewinii)/suitability</key>
+         <source>jcu.edu.au</source>
+         <local_id>jcu.edu.au/tdh/collection/Lewin's Honeyeater (Meliphaga (Meliphaga) lewinii)/suitability</local_id>
+         <last_updated>2014-07-17T00:09:33Z</last_updated>
+         <url>https://research.jcu.edu.au/researchdata/default/detail/8278d831f2edcd61d7adc9f52a8f5ca8</url>
+         <title>Lewin's Honeyeater (Meliphaga (Meliphaga) lewinii) - current and future species distribution models</title>
+         <licence>http://creativecommons.org/licenses/by/3.0/au</licence>
+      </dataset>
+   </datasets>
+</registryObjects>
