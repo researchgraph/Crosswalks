@@ -26,6 +26,9 @@
             <researchers>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="researcher"/>
             </researchers>
+            <relatedObjecs>
+                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relatedObject"/>
+            </relatedObjecs>
         </registryObjects>
     </xsl:template>
     
@@ -89,5 +92,22 @@
                 <xsl:value-of select=".//rif:key"/>
             </orcid>
         </researcher>
+    </xsl:template>
+    
+    <!-- =========================================== -->
+    <!-- Related Object Template    `                                                 -->
+    <!-- =========================================== -->
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relatedObject">
+        <relatedObject>
+            <from_key>
+                <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:registryObject/rif:key[1])"/>
+            </from_key>
+            <to_url>
+                <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:relatedObject/rif:key)"/>
+            </to_url>
+            <label>
+                <xsl:value-of select=".//rif:relatedObject/rif:relation/@type"/>
+            </label>
+        </relatedObject>
     </xsl:template>
 </xsl:stylesheet>
