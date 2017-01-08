@@ -84,6 +84,11 @@
                     <xsl:value-of select=".//rif:licence/@rightsUri"/>
                 </licence>
             </xsl:if>
+            <xsl:if test=".//rif:date[@type='publicationDate']">
+                <publication_year>
+                    <xsl:value-of select=".//rif:date[@type='publicationDate']"/>
+                </publication_year>
+            </xsl:if>
         </dataset>
     </xsl:template>
 </xsl:stylesheet>
