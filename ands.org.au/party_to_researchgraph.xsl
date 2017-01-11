@@ -26,12 +26,17 @@
             <researchers>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="researcher"/>
             </researchers>
-            <relatedObjecs>
-                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relatedObject"/>
-            </relatedObjecs>
-            <relatedInfos>
-                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relatedInfo"/>
-            </relatedInfos>
+            <relations>
+                <xsl:if test=".//rif:relatedObject">
+                    <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relatedObject"/>
+                </xsl:if>
+                <xsl:if test=".//rif:relatedInfo">
+                    <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relatedInfo"/>
+                </xsl:if>
+                <xsl:if test=".//rif:subject[@type='anzsrc-for']">
+                    <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
+                </xsl:if>
+            </relations>
         </registryObjects>
         
     </xsl:template>
@@ -104,43 +109,55 @@
     <!-- Related Object Template    `                                                 -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relatedObject">
-        <xsl:if test=".//rif:relatedObject">
-            <xsl:for-each select=".//rif:relatedObject">
-                <relatedObject>
-                    <from_key>
-                        <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
-                    </from_key>
-                    <to_uri>
-                        <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:key)"/>
-                    </to_uri>
-                    <label>
-                        <xsl:value-of select=".//rif:relation/@type"/>
-                    </label>
-                </relatedObject>
-            </xsl:for-each>
-        </xsl:if>
+        <xsl:for-each select=".//rif:relatedObject">
+            <relation>
+                <from_key>
+                    <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
+                </from_key>
+                <to_uri>
+                    <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:key)"/>
+                </to_uri>
+                <label>
+                    <xsl:value-of select=".//rif:relation/@type"/>
+                </label>
+            </relation>
+        </xsl:for-each>
     </xsl:template>
     
     <!-- =========================================== -->
     <!-- Related Info                                                                    -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relatedInfo"> 
-        <xsl:if test=".//rif:relatedInfo">
-            <xsl:for-each select=".//rif:relatedInfo">
-                <xsl:if test=".//rif:identifier/@type='uri'
-                    or .//rif:identifier/@type='doi'
-                    or .//rif:identifier/@type='handle'
-                    or .//rif:identifier/@type='purl'">
-                    <relatedInfo>
-                        <from_key>
-                            <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
-                        </from_key>
-                        <to_url>
-                            <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:identifier)"/>
-                        </to_url>
-                    </relatedInfo>
-                </xsl:if>
-            </xsl:for-each>
-        </xsl:if>
+        <xsl:for-each select=".//rif:relatedInfo">
+            <xsl:if test=".//rif:identifier/@type='uri'
+                or .//rif:identifier/@type='doi'
+                or .//rif:identifier/@type='handle'
+                or .//rif:identifier/@type='purl'">
+                <relation>
+                    <from_key>
+                        <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
+                    </from_key>
+                    <to_url>
+                        <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:identifier)"/>
+                    </to_url>
+                </relation>
+            </xsl:if>
+        </xsl:for-each>
+    </xsl:template>
+    
+    <!-- =========================================== -->
+    <!--  ANZSRC Relation                                                                    -->
+    <!-- =========================================== -->
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relation"> 
+        <xsl:for-each select=".//rif:subject[@type='anzsrc-for']">
+            <relation>
+                <from_key>
+                    <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
+                </from_key>
+                <to_url>
+                    <xsl:value-of select="concat('researchgraph.org/ands/',.)"/>
+                </to_url>
+            </relation>
+        </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>
