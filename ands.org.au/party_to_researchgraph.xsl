@@ -92,9 +92,11 @@
             <last_name>
                 <xsl:value-of select=".//rif:namePart[@type='family']"/>
             </last_name>
-            <orcid>
-                <xsl:value-of select=".//rif:key"/>
-            </orcid>
+            <xsl:if test=".//rif:identifier[@type='orcid']">
+                <orcid>
+                    <xsl:value-of select=".//rif:identifier[@type='orcid']"/>
+                </orcid>
+            </xsl:if>
         </researcher>
     </xsl:template>
     
