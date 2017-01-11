@@ -1057,583 +1057,583 @@
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-vjssource</from_key>
-         <to_url>researchgraph.org/ands/http://founders-and-survivors.org/pub/vjs/progress.htm</to_url>
+         <to_uri>researchgraph.org/ands/http://founders-and-survivors.org/pub/vjs/progress.htm</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://portal.auscope.org/NCGRTData</from_key>
-         <to_url>researchgraph.org/ands/http://www.groundwater.com.au</to_url>
+         <to_uri>researchgraph.org/ands/http://www.groundwater.com.au</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://portal.auscope.org/VVG</from_key>
-         <to_url>researchgraph.org/ands/http://www.vvg.org.au/cb_pages/about_the_data.php</to_url>
+         <to_uri>researchgraph.org/ands/http://www.vvg.org.au/cb_pages/about_the_data.php</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:art</from_key>
-         <to_url>researchgraph.org/ands/10.1111/j.1467-971X.2011.01721.x</to_url>
+         <to_uri>researchgraph.org/ands/10.1111/j.1467-971X.2011.01721.x</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:braidedchannels</from_key>
-         <to_url>researchgraph.org/ands/10072/30720</to_url>
+         <to_uri>researchgraph.org/ands/10072/30720</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:braidedchannels</from_key>
-         <to_url>researchgraph.org/ands/http://librarycatalogue.griffith.edu.au/record=b1640929~S1</to_url>
+         <to_uri>researchgraph.org/ands/http://librarycatalogue.griffith.edu.au/record=b1640929~S1</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:austlit</from_key>
-         <to_url>researchgraph.org/ands/http://works.bepress.com/mjacklin/12</to_url>
+         <to_uri>researchgraph.org/ands/http://works.bepress.com/mjacklin/12</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:ace</from_key>
-         <to_url>researchgraph.org/ands/http://nla.gov.au/anbd.bib-an44030151</to_url>
+         <to_uri>researchgraph.org/ands/http://nla.gov.au/anbd.bib-an44030151</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:ace</from_key>
-         <to_url>researchgraph.org/ands/http://khnt.hit.uib.no/icame/manuals/ace/INDEX.HTM</to_url>
+         <to_uri>researchgraph.org/ands/http://khnt.hit.uib.no/icame/manuals/ace/INDEX.HTM</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:cooee</from_key>
-         <to_url>researchgraph.org/ands/http://www.clemens-fritz.de/publications/Favoring_Americanisms.pdf</to_url>
+         <to_uri>researchgraph.org/ands/http://www.clemens-fritz.de/publications/Favoring_Americanisms.pdf</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:cooee</from_key>
-         <to_url>researchgraph.org/ands/http://www.clemens-fritz.de/australian_english.htm</to_url>
+         <to_uri>researchgraph.org/ands/http://www.clemens-fritz.de/australian_english.htm</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:gcsause</from_key>
-         <to_url>researchgraph.org/ands/http://www.lingref.com/cpp/ausnc/2008/abstract2284.html</to_url>
+         <to_uri>researchgraph.org/ands/http://www.lingref.com/cpp/ausnc/2008/abstract2284.html</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:gcsause</from_key>
-         <to_url>researchgraph.org/ands/http://www.lingref.com/cpp/ausnc/2008/abstract2281.html</to_url>
+         <to_uri>researchgraph.org/ands/http://www.lingref.com/cpp/ausnc/2008/abstract2281.html</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:monash</from_key>
-         <to_url>researchgraph.org/ands/2123/7099</to_url>
+         <to_uri>researchgraph.org/ands/2123/7099</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:ausnc</from_key>
-         <to_url>researchgraph.org/ands/http://www.lingref.com/cpp/ausnc/2008/abstract2287.html</to_url>
+         <to_uri>researchgraph.org/ands/http://www.lingref.com/cpp/ausnc/2008/abstract2287.html</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:ausnc</from_key>
-         <to_url>researchgraph.org/ands/http://www.lingref.com/cpp/ausnc/2008/index.html</to_url>
+         <to_uri>researchgraph.org/ands/http://www.lingref.com/cpp/ausnc/2008/index.html</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:ausnc</from_key>
-         <to_url>researchgraph.org/ands/10072/31877</to_url>
+         <to_uri>researchgraph.org/ands/10072/31877</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrd-rpt-lifedata</from_key>
-         <to_url>researchgraph.org/ands/210301</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/210301</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrd-rpt-lifedata</from_key>
-         <to_url>researchgraph.org/ands/111701</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/111701</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrd-rpt-lifedata</from_key>
-         <to_url>researchgraph.org/ands/111706</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/111706</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrd-rpt-lifedata</from_key>
-         <to_url>researchgraph.org/ands/160301</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160301</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrd-rpt-lifedata</from_key>
-         <to_url>researchgraph.org/ands/160302</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160302</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrd-rpt-lifedata</from_key>
-         <to_url>researchgraph.org/ands/160304</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160304</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrd-rpt-lifedata</from_key>
-         <to_url>researchgraph.org/ands/160305</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160305</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrdsourceV3</from_key>
-         <to_url>researchgraph.org/ands/210301</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/210301</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrdsourceV3</from_key>
-         <to_url>researchgraph.org/ands/111701</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/111701</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrdsourceV3</from_key>
-         <to_url>researchgraph.org/ands/111706</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/111706</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrdsourceV3</from_key>
-         <to_url>researchgraph.org/ands/160301</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160301</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrdsourceV3</from_key>
-         <to_url>researchgraph.org/ands/160302</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160302</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrdsourceV3</from_key>
-         <to_url>researchgraph.org/ands/160304</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160304</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-khrdsourceV3</from_key>
-         <to_url>researchgraph.org/ands/160305</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160305</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-vjssource</from_key>
-         <to_url>researchgraph.org/ands/160301</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160301</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-vjssource</from_key>
-         <to_url>researchgraph.org/ands/160302</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160302</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-vjssource</from_key>
-         <to_url>researchgraph.org/ands/160304</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160304</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-vjssource</from_key>
-         <to_url>researchgraph.org/ands/160305</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160305</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-ertsource</from_key>
-         <to_url>researchgraph.org/ands/160301</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160301</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-ertsource</from_key>
-         <to_url>researchgraph.org/ands/160302</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160302</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-ertsource</from_key>
-         <to_url>researchgraph.org/ands/160304</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160304</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/UNIMELB:AP20:c-ertsource</from_key>
-         <to_url>researchgraph.org/ands/160305</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/160305</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://portal.auscope.org/NCGRTData</from_key>
-         <to_url>researchgraph.org/ands/040603</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/040603</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://portal.auscope.org/VVG</from_key>
-         <to_url>researchgraph.org/ands/040603</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/040603</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:art</from_key>
-         <to_url>researchgraph.org/ands/200302</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200302</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:ice</from_key>
-         <to_url>researchgraph.org/ands/200302</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200302</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:braidedchannels</from_key>
-         <to_url>researchgraph.org/ands/1902</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1902</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:austlit</from_key>
-         <to_url>researchgraph.org/ands/200500</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200500</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:ace</from_key>
-         <to_url>researchgraph.org/ands/20</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/20</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:cooee</from_key>
-         <to_url>researchgraph.org/ands/200405</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200405</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:mitcheldelbridge</from_key>
-         <to_url>researchgraph.org/ands/2003</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2003</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:mitcheldelbridge</from_key>
-         <to_url>researchgraph.org/ands/2004</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2004</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:gcsause</from_key>
-         <to_url>researchgraph.org/ands/200403</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200403</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:gcsause</from_key>
-         <to_url>researchgraph.org/ands/200302</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200302</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:gcsause</from_key>
-         <to_url>researchgraph.org/ands/200405</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200405</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:gcsause</from_key>
-         <to_url>researchgraph.org/ands/200401</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200401</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:monash</from_key>
-         <to_url>researchgraph.org/ands/2004</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2004</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:ausnc</from_key>
-         <to_url>researchgraph.org/ands/200302</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200302</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:ausnc</from_key>
-         <to_url>researchgraph.org/ands/200403</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200403</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:ausnc</from_key>
-         <to_url>researchgraph.org/ands/200401</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200401</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/ausnc.org.au/corpora:ausnc</from_key>
-         <to_url>researchgraph.org/ands/200405</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200405</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/102.100.100/4580</from_key>
-         <to_url>researchgraph.org/ands/190504</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/190504</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/102.100.100/4580</from_key>
-         <to_url>researchgraph.org/ands/190403</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/190403</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/102.100.100/4580</from_key>
-         <to_url>researchgraph.org/ands/190401</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/190401</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/102.100.100/4580</from_key>
-         <to_url>researchgraph.org/ands/190404</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/190404</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/AUMPLawAYbk/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/rulings/ato/ATODFTR/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/cth/num_reg_es/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/rulings/ato/ATODSMSFD/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/wa/WAGAB/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/DeakinLawRw/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/qld/QLRT/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/IntJlLawEdu/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/UMelbLRS/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/qlrc/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/act/repealed_act/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/cth/HREOCA/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/cth/ATP/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/rulings/ato/ATOPR/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/UNSWLawJl/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/nf/NFSC/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/AUIndigLawRpr/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/qld/QRVT/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/act/num_reg/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/nt/num_reg/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/wa/WATPAT/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/qld/bill_en/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.nzlii.org/nz/cases/NZRSAA/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/media/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/act/ACTCA/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.nzlii.org/nz/cases/NZEmpC/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/AUOmbIRp/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/AJHR/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/rulings/ato/ATOLCTD/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/BondCGeJ/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.nzlii.org/nz/cases/NZLCRO/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/rulings/ato/ATOGSTR/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/rulings/ato/ATOSCR/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/cth/FCAFC/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/CyberLRes/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/cth/AATA/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/sa/SAHPT/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/vic/num_act/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.nzlii.org/nz/cases/NZWHT/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/QldOmbIRp/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/cth/consol_act/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/liac/hot_topic/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/lawreform/VicLRComm/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/sa/SAIRC/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/SportsLeJ/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/JCULawRw/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/nsw/NSWSC/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/dfat/seldoc/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.nzlii.org/nz/cases/NZREADT/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.nzlii.org/nz/cases/NZPrivCmr/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.nzlii.org/nz/journals/NZYbkIntLaw/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/rulings/ato/ATOSMSFD/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/qld/QCCTA/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/qld/QCCTPAMD/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/sa/num_act/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/qld/QIRComm/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/lawreform/VLRC/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/wa/WAIRComm/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/vic/aat/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/wa/bill/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/nsw/NSWCCA/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/QUTLJJ/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/cth/PrivCmrACD/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/nsw/num_reg/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/qld/QIC/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/IndigLRes/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.nzlii.org/nz/legis/hist_act/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/wa/consol_reg/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/sa/consol_act/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/nt/repealed_act/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/wa/repealed_reg/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/lawreform/NSWLRCDP/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.nzlii.org/nz/cases/NZIPOTM/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/cth/NNTTA/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/GriffLawRw/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/FedLRev/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/vic/repealed_reg/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/journals/ElderLawRw/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/other/rulings/ato/ATOSMSFPR/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.nzlii.org/nz/cases/NZHSE/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.nzlii.org/nz/cases/NZMLC/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/legis/cth/table/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.austlii.edu.au/au/cases/cth/HCA/</from_key>
-         <to_url>researchgraph.org/ands/180199</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180199</to_uri>
       </relation>
    </relations>
 </registryObjects>
