@@ -43,7 +43,7 @@
         <xsl:param name="date-stamp">
             <xsl:value-of select=".//oai:datestamp"/>
         </xsl:param>
-        <xsl:if test=".//rif:name[@type='primary']/rif:namePart[@type='given']">
+        <xsl:if test=".//rif:party/@type = 'person'">
             <xsl:apply-templates select=".//oai:metadata" mode="researcher">
                 <xsl:with-param name="date-stamp" select="$date-stamp"/>
             </xsl:apply-templates>

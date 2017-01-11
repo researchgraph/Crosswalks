@@ -23,9 +23,17 @@
         <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes
             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
-            <datasets>
-                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
-            </datasets>
+            <xsl:if test=".//rif:collection/@type != 'publication' or
+                                .//rif:collection/@type != 'software' ">
+                <datasets>
+                    <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
+                </datasets>
+            </xsl:if>
+            <xsl:if test=".//rif:collection/@type = 'publication' ">
+                <publications>
+                    <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
+                </publications>
+            </xsl:if>
             <xsl:if test=".//rif:relatedObject">
                 <relatedObjects>
                     <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relatedObject"/>
@@ -46,9 +54,12 @@
         <xsl:param name="date-stamp">
             <xsl:value-of select=".//oai:datestamp"/>
         </xsl:param>
-        <xsl:apply-templates select=".//oai:metadata" mode="dataset">
-            <xsl:with-param name="date-stamp" select="$date-stamp"/>
-        </xsl:apply-templates>
+        <xsl:if test=".//rif:collection/@type != 'publication' or
+                            .//rif:collection/@type != 'software' ">
+            <xsl:apply-templates select=".//oai:metadata" mode="dataset">
+                <xsl:with-param name="date-stamp" select="$date-stamp"/>
+            </xsl:apply-templates>
+        </xsl:if>
     </xsl:template>
     
     <xsl:template match="oai:metadata" mode="dataset">
@@ -144,5 +155,78 @@
                 </xsl:if>
             </xsl:for-each>
         </xsl:if>
+    </xsl:template>
+    
+    <!-- =========================================== -->
+    <!-- Publication Template                                                               -->
+    <!-- =========================================== -->
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="publication">
+        <xsl:param name="date-stamp">
+            <xsl:value-of select=".//oai:datestamp"/>
+        </xsl:param>
+        <xsl:if test=".//rif:collection/@type = 'publication' ">
+            <xsl:apply-templates select=".//oai:metadata" mode="publication">
+                <xsl:with-param name="date-stamp" select="$date-stamp"/>
+            </xsl:apply-templates>
+        </xsl:if>
+    </xsl:template>
+    
+    <xsl:template match="oai:metadata" mode="publication">
+        <xsl:param name="date-stamp"/>
+        <xsl:variable name="forCode" select="substring-after(., ':')"/>
+        <xsl:variable name="groupName" select=".//rif:registryObject/@group"/>
+        <xsl:variable name="groupSource" select="$andsGroupList/root/row[group = $groupName]/source"/>
+        <publication>
+            <key>
+                <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:registryObject/rif:key[1])"/>
+            </key>
+            <xsl:choose>
+                <xsl:when test="$andsGroupList/root/row[group = $groupName]/source">
+                    <source>
+                        <xsl:value-of select="$groupSource"/>
+                    </source>
+                </xsl:when>
+                <xsl:otherwise>
+                    <source>
+                        <xsl:value-of select="'unknown'"/>
+                    </source>
+                </xsl:otherwise>
+            </xsl:choose>
+            <local_id>
+                <xsl:value-of select=".//rif:registryObject/rif:key[1]"/>
+            </local_id>
+            <last_updated>
+                <xsl:value-of select="$date-stamp"/>
+            </last_updated>
+            <url>
+                <xsl:value-of select=".//rif:electronic[@type='url']/rif:value"/>
+            </url>
+            <title>
+                <xsl:value-of select=".//rif:name[@type='primary']/rif:namePart"/>
+            </title>
+            <authors_list>
+                <xsl:for-each select=".//rif:citationMetadata/rif:contributor">
+                    <xsl:value-of select="translate(.//rif:namePart,',',' ')"/>
+                    <xsl:if test="position() != last()">
+                        <xsl:value-of select=" ' , ' "/>
+                    </xsl:if>
+                </xsl:for-each>
+            </authors_list>
+            <xsl:if test=".//rif:identifier[@type='doi']">
+                <doi>
+                    <xsl:value-of select=".//rif:identifier[@type='doi']"/>
+                </doi>
+            </xsl:if>
+            <xsl:if test=".//rif:licence">
+                <licence>
+                    <xsl:value-of select=".//rif:licence/@rightsUri"/>
+                </licence>
+            </xsl:if>
+            <xsl:if test=".//rif:date[@type='publicationDate']">
+                <publication_year>
+                    <xsl:value-of select=".//rif:date[@type='publicationDate']"/>
+                </publication_year>
+            </xsl:if>
+        </publication>
     </xsl:template>
 </xsl:stylesheet>
