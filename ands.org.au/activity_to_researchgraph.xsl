@@ -132,9 +132,9 @@
                <from_key>
                   <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
                </from_key>
-               <to_url>
+               <to_uri>
                   <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:identifier)"/>
-               </to_url>
+               </to_uri>
             </relation>
          </xsl:if>
       </xsl:for-each>
@@ -149,9 +149,9 @@
             <from_key>
                <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
             </from_key>
-            <to_url>
-               <xsl:value-of select="concat('researchgraph.org/ands/',.)"/>
-            </to_url>
+            <to_uri>
+               <xsl:value-of select="concat('http://purl.org/au-research/vocabulary/anzsrc-for/2008/',.)"/>
+            </to_uri>
          </relation>
       </xsl:for-each>
    </xsl:template>

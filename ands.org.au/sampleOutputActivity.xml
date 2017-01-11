@@ -2206,403 +2206,403 @@
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0667253</from_key>
-         <to_url>researchgraph.org/ands/2202</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2202</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0985120</from_key>
-         <to_url>researchgraph.org/ands/2903</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2903</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0209948</from_key>
-         <to_url>researchgraph.org/ands/0601</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0601</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450145</from_key>
-         <to_url>researchgraph.org/ands/0301</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0301</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0454426</from_key>
-         <to_url>researchgraph.org/ands/2404</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2404</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882478</from_key>
-         <to_url>researchgraph.org/ands/0702</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0702</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094033</from_key>
-         <to_url>researchgraph.org/ands/4202</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/4202</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0346529</from_key>
-         <to_url>researchgraph.org/ands/0206</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0206</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449516</from_key>
-         <to_url>researchgraph.org/ands/1608</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1608</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451923</from_key>
-         <to_url>researchgraph.org/ands/0304</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0304</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0558543</from_key>
-         <to_url>researchgraph.org/ands/0912</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0912</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0882221</from_key>
-         <to_url>researchgraph.org/ands/0912</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0912</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0663600</from_key>
-         <to_url>researchgraph.org/ands/2002</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2002</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0668534</from_key>
-         <to_url>researchgraph.org/ands/1101</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1101</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0668009</from_key>
-         <to_url>researchgraph.org/ands/0306</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0306</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0880250</from_key>
-         <to_url>researchgraph.org/ands/0806</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0806</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0884010</from_key>
-         <to_url>researchgraph.org/ands/1501</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1501</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0342945</from_key>
-         <to_url>researchgraph.org/ands/1701</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1701</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347418</from_key>
-         <to_url>researchgraph.org/ands/1701</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1701</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449434</from_key>
-         <to_url>researchgraph.org/ands/0103</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0103</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347690</from_key>
-         <to_url>researchgraph.org/ands/0702</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0702</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0342788</from_key>
-         <to_url>researchgraph.org/ands/0603</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0603</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0454851</from_key>
-         <to_url>researchgraph.org/ands/1503</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1503</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0235210</from_key>
-         <to_url>researchgraph.org/ands/1102</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1102</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0345279</from_key>
-         <to_url>researchgraph.org/ands/0801</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0801</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1095620</from_key>
-         <to_url>researchgraph.org/ands/2918</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2918</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0560258</from_key>
-         <to_url>researchgraph.org/ands/2708</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2708</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0771208</from_key>
-         <to_url>researchgraph.org/ands/1904</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1904</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0880295</from_key>
-         <to_url>researchgraph.org/ands/0803</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0803</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0772763</from_key>
-         <to_url>researchgraph.org/ands/2005</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2005</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879002</from_key>
-         <to_url>researchgraph.org/ands/1117</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1117</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0345664</from_key>
-         <to_url>researchgraph.org/ands/0802</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0802</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0770913</from_key>
-         <to_url>researchgraph.org/ands/1106</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1106</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0347955</from_key>
-         <to_url>researchgraph.org/ands/0601</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0601</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094328</from_key>
-         <to_url>researchgraph.org/ands/2301</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2301</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0990196</from_key>
-         <to_url>researchgraph.org/ands/2911</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2911</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0986003</from_key>
-         <to_url>researchgraph.org/ands/2404</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2404</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0664077</from_key>
-         <to_url>researchgraph.org/ands/0202</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0202</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0662989</from_key>
-         <to_url>researchgraph.org/ands/0305</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0305</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP100100776</from_key>
-         <to_url>researchgraph.org/ands/0601</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0601</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208535</from_key>
-         <to_url>researchgraph.org/ands/1101</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1101</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0987900</from_key>
-         <to_url>researchgraph.org/ands/2801</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2801</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0556525</from_key>
-         <to_url>researchgraph.org/ands/0905</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0905</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0669864</from_key>
-         <to_url>researchgraph.org/ands/1303</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1303</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0665247</from_key>
-         <to_url>researchgraph.org/ands/1204</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1204</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP100100477</from_key>
-         <to_url>researchgraph.org/ands/0306</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0306</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451545</from_key>
-         <to_url>researchgraph.org/ands/0601</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0601</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208246</from_key>
-         <to_url>researchgraph.org/ands/0602</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0602</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1095875</from_key>
-         <to_url>researchgraph.org/ands/2703</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2703</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0662810</from_key>
-         <to_url>researchgraph.org/ands/0201</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0201</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/SR0354804</from_key>
-         <to_url>researchgraph.org/ands/3008</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/3008</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0455349</from_key>
-         <to_url>researchgraph.org/ands/0705</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0705</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0555903</from_key>
-         <to_url>researchgraph.org/ands/0913</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0913</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0562504</from_key>
-         <to_url>researchgraph.org/ands/0503</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0503</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0343598</from_key>
-         <to_url>researchgraph.org/ands/0801</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0801</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449560</from_key>
-         <to_url>researchgraph.org/ands/2101</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2101</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208516</from_key>
-         <to_url>researchgraph.org/ands/0502</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0502</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1092717</from_key>
-         <to_url>researchgraph.org/ands/2909</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2909</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0882079</from_key>
-         <to_url>researchgraph.org/ands/4302</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/4302</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0557608</from_key>
-         <to_url>researchgraph.org/ands/1801</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1801</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347032</from_key>
-         <to_url>researchgraph.org/ands/0902</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0902</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451508</from_key>
-         <to_url>researchgraph.org/ands/0605</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0605</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0776987</from_key>
-         <to_url>researchgraph.org/ands/0604</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0604</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0209047</from_key>
-         <to_url>researchgraph.org/ands/0602</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0602</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0559769</from_key>
-         <to_url>researchgraph.org/ands/1005</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1005</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0562507</from_key>
-         <to_url>researchgraph.org/ands/0602</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0602</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0990393</from_key>
-         <to_url>researchgraph.org/ands/2801</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2801</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451536</from_key>
-         <to_url>researchgraph.org/ands/0205</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0205</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0560472</from_key>
-         <to_url>researchgraph.org/ands/0801</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0801</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0663392</from_key>
-         <to_url>researchgraph.org/ands/2004</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2004</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879344</from_key>
-         <to_url>researchgraph.org/ands/1602</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1602</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0667392</from_key>
-         <to_url>researchgraph.org/ands/2403</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2403</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0664539</from_key>
-         <to_url>researchgraph.org/ands/2914</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2914</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450012</from_key>
-         <to_url>researchgraph.org/ands/0903</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0903</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0988064</from_key>
-         <to_url>researchgraph.org/ands/2909</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2909</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1092694</from_key>
-         <to_url>researchgraph.org/ands/2505</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2505</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0991378</from_key>
-         <to_url>researchgraph.org/ands/3701</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/3701</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450037</from_key>
-         <to_url>researchgraph.org/ands/0905</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0905</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0770083</from_key>
-         <to_url>researchgraph.org/ands/0912</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0912</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0561265</from_key>
-         <to_url>researchgraph.org/ands/2702</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2702</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0883549</from_key>
-         <to_url>researchgraph.org/ands/1117</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1117</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0211395</from_key>
-         <to_url>researchgraph.org/ands/1604</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1604</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/SR0354827</from_key>
-         <to_url>researchgraph.org/ands/3212</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/3212</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879330</from_key>
-         <to_url>researchgraph.org/ands/0402</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0402</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0346641</from_key>
-         <to_url>researchgraph.org/ands/0915</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0915</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0455443</from_key>
-         <to_url>researchgraph.org/ands/1701</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1701</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0666004</from_key>
-         <to_url>researchgraph.org/ands/0904</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0904</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0344142</from_key>
-         <to_url>researchgraph.org/ands/0601</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0601</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0772168</from_key>
-         <to_url>researchgraph.org/ands/1505</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1505</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882799</from_key>
-         <to_url>researchgraph.org/ands/0908</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0908</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0773270</from_key>
-         <to_url>researchgraph.org/ands/0604</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0604</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208429</from_key>
-         <to_url>researchgraph.org/ands/0303</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0303</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0882710</from_key>
-         <to_url>researchgraph.org/ands/2401</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2401</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0453652</from_key>
-         <to_url>researchgraph.org/ands/2001</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2001</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0773012</from_key>
-         <to_url>researchgraph.org/ands/1503</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1503</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0774125</from_key>
-         <to_url>researchgraph.org/ands/1701</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1701</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882090</from_key>
-         <to_url>researchgraph.org/ands/0501</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0501</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094059</from_key>
-         <to_url>researchgraph.org/ands/2706</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2706</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450393</from_key>
-         <to_url>researchgraph.org/ands/2004</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/2004</to_uri>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0452646</from_key>
-         <to_url>researchgraph.org/ands/0903</to_url>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0903</to_uri>
       </relation>
    </relations>
 </registryObjects>
