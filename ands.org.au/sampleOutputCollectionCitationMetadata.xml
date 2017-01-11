@@ -996,1589 +996,2175 @@
    </publications>
    <relatedObjects>
       <relatedObject>
-         <from_key>researchgraph.org/ands/data.vic.gov.au/departmentofenvironment,land,water&amp;planning</from_key>
+         <from_key>researchgraph.org/ands/data.vic.gov.au/2b73428a-8e6e-4412-a2e7-d628fcacfb64</from_key>
          <to_uri>researchgraph.org/ands/data.vic.gov.au/departmentofenvironment,land,water&amp;planning</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/data.vic.gov.au/departmentofenvironment,land,water&amp;planning</from_key>
+         <from_key>researchgraph.org/ands/data.vic.gov.au/b76a2c45-9e77-4d37-b0ed-e03d8b623958</from_key>
          <to_uri>researchgraph.org/ands/data.vic.gov.au/departmentofenvironment,land,water&amp;planning</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/data.vic.gov.au/departmentofeconomicdevelopment,jobs,transportandresources</from_key>
+         <from_key>researchgraph.org/ands/data.vic.gov.au/29591b7c-7a7d-4900-a5de-55dcaebf38f3</from_key>
          <to_uri>researchgraph.org/ands/data.vic.gov.au/departmentofeconomicdevelopment,jobs,transportandresources</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Przeslawski,R.</from_key>
+         <from_key>researchgraph.org/ands/28b83561-222f-acae-e053-10a3070aa1fe</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Przeslawski,R.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Przeslawski,R.</from_key>
+         <from_key>researchgraph.org/ands/28b83561-222f-acae-e053-10a3070aa1fe</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/AlvarezdeGlasby,B.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Przeslawski,R.</from_key>
+         <from_key>researchgraph.org/ands/28b83561-222f-acae-e053-10a3070aa1fe</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/GeoscienceAustralia</to_uri>
          <label>pointOfContact</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Przeslawski,R.</from_key>
+         <from_key>researchgraph.org/ands/28b83561-222f-acae-e053-10a3070aa1fe</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/CommonwealthofAustralia(GeoscienceAustralia)</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Howard,F.J.F.</from_key>
+         <from_key>researchgraph.org/ands/fefed6a4-2284-333c-e044-00144fdd4fa6</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Howard,F.J.F.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Howard,F.J.F.</from_key>
+         <from_key>researchgraph.org/ands/fefed6a4-2284-333c-e044-00144fdd4fa6</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/GeoscienceAustralia</to_uri>
          <label>pointOfContact</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Howard,F.J.F.</from_key>
+         <from_key>researchgraph.org/ands/fefed6a4-2284-333c-e044-00144fdd4fa6</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/CommonwealthofAustralia(GeoscienceAustralia)</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Carson,C.</from_key>
+         <from_key>researchgraph.org/ands/19dbdeb7-40ff-373e-e053-12a3070ad031</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Carson,C.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Carson,C.</from_key>
+         <from_key>researchgraph.org/ands/19dbdeb7-40ff-373e-e053-12a3070ad031</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/GeoscienceAustralia</to_uri>
          <label>pointOfContact</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Carson,C.</from_key>
+         <from_key>researchgraph.org/ands/19dbdeb7-40ff-373e-e053-12a3070ad031</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/CommonwealthofAustralia(GeoscienceAustralia)</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Howard,F.J.F.</from_key>
+         <from_key>researchgraph.org/ands/fefe36ac-f4fc-5eae-e044-00144fdd4fa6</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Howard,F.J.F.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Howard,F.J.F.</from_key>
+         <from_key>researchgraph.org/ands/fefe36ac-f4fc-5eae-e044-00144fdd4fa6</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/GeoscienceAustralia</to_uri>
          <label>pointOfContact</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Howard,F.J.F.</from_key>
+         <from_key>researchgraph.org/ands/fefe36ac-f4fc-5eae-e044-00144fdd4fa6</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/CommonwealthofAustralia(GeoscienceAustralia)</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Navin,J.</from_key>
+         <from_key>researchgraph.org/ands/19b219fe-66aa-cbb1-e053-10a3070ac3ec</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Navin,J.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Navin,J.</from_key>
+         <from_key>researchgraph.org/ands/19b219fe-66aa-cbb1-e053-10a3070ac3ec</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/deHoog,M.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Navin,J.</from_key>
+         <from_key>researchgraph.org/ands/19b219fe-66aa-cbb1-e053-10a3070ac3ec</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Nicoll,M.G.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Navin,J.</from_key>
+         <from_key>researchgraph.org/ands/19b219fe-66aa-cbb1-e053-10a3070ac3ec</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Blewett,R.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Navin,J.</from_key>
+         <from_key>researchgraph.org/ands/19b219fe-66aa-cbb1-e053-10a3070ac3ec</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/GeoscienceAustralia</to_uri>
          <label>pointOfContact</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Navin,J.</from_key>
+         <from_key>researchgraph.org/ands/19b219fe-66aa-cbb1-e053-10a3070ac3ec</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/CommonwealthofAustralia(GeoscienceAustralia)</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Howard,F.J.F.</from_key>
+         <from_key>researchgraph.org/ands/23c589ee-e3d9-c448-e053-10a3070abc3f</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Howard,F.J.F.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Howard,F.J.F.</from_key>
+         <from_key>researchgraph.org/ands/23c589ee-e3d9-c448-e053-10a3070abc3f</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Nichol,S.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Howard,F.J.F.</from_key>
+         <from_key>researchgraph.org/ands/23c589ee-e3d9-c448-e053-10a3070abc3f</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/GeoscienceAustralia</to_uri>
          <label>pointOfContact</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Howard,F.J.F.</from_key>
+         <from_key>researchgraph.org/ands/23c589ee-e3d9-c448-e053-10a3070abc3f</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/CommonwealthofAustralia(GeoscienceAustralia)</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Dulfer,H.</from_key>
+         <from_key>researchgraph.org/ands/1a4249ad-857c-800f-e053-12a3070a8908</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Dulfer,H.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Dulfer,H.</from_key>
+         <from_key>researchgraph.org/ands/1a4249ad-857c-800f-e053-12a3070a8908</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Skirrow,R.G.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Dulfer,H.</from_key>
+         <from_key>researchgraph.org/ands/1a4249ad-857c-800f-e053-12a3070a8908</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Champion,D.C.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Dulfer,H.</from_key>
+         <from_key>researchgraph.org/ands/1a4249ad-857c-800f-e053-12a3070a8908</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Highet,L.M.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Dulfer,H.</from_key>
+         <from_key>researchgraph.org/ands/1a4249ad-857c-800f-e053-12a3070a8908</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Czarnota,K</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Dulfer,H.</from_key>
+         <from_key>researchgraph.org/ands/1a4249ad-857c-800f-e053-12a3070a8908</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Coghlan,R.A.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Dulfer,H.</from_key>
+         <from_key>researchgraph.org/ands/1a4249ad-857c-800f-e053-12a3070a8908</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Milligan,P.R.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Dulfer,H.</from_key>
+         <from_key>researchgraph.org/ands/1a4249ad-857c-800f-e053-12a3070a8908</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/GeoscienceAustralia</to_uri>
          <label>pointOfContact</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Dulfer,H.</from_key>
+         <from_key>researchgraph.org/ands/1a4249ad-857c-800f-e053-12a3070a8908</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/CommonwealthofAustralia(GeoscienceAustralia)</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Senior,A.B.</from_key>
+         <from_key>researchgraph.org/ands/1ecefb78-656c-20dc-e053-12a3070a3a70</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Senior,A.B.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Senior,A.B.</from_key>
+         <from_key>researchgraph.org/ands/1ecefb78-656c-20dc-e053-12a3070a3a70</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/GeoscienceAustralia</to_uri>
          <label>pointOfContact</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Senior,A.B.</from_key>
+         <from_key>researchgraph.org/ands/1ecefb78-656c-20dc-e053-12a3070a3a70</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/CommonwealthofAustralia(GeoscienceAustralia)</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Drummond,B.J.</from_key>
+         <from_key>researchgraph.org/ands/1a2e0d50-845a-9899-e053-10a3070adfb4</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Drummond,B.J.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Drummond,B.J.</from_key>
+         <from_key>researchgraph.org/ands/1a2e0d50-845a-9899-e053-10a3070adfb4</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/GeoscienceAustralia</to_uri>
          <label>pointOfContact</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Drummond,B.J.</from_key>
+         <from_key>researchgraph.org/ands/1a2e0d50-845a-9899-e053-10a3070adfb4</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/CommonwealthofAustralia(GeoscienceAustralia)</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/DEFENCE</from_key>
+         <from_key>researchgraph.org/ands/a05f7892-b8a4-7506-e044-00144fdd4fa6</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/DEFENCE</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/DEFENCE</from_key>
+         <from_key>researchgraph.org/ands/a05f7892-b8a4-7506-e044-00144fdd4fa6</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/GeoscienceAustralia</to_uri>
          <label>pointOfContact</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/DEFENCE</from_key>
+         <from_key>researchgraph.org/ands/a05f7892-b8a4-7506-e044-00144fdd4fa6</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/CommonwealthofAustralia(GeoscienceAustralia)</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Liu,S.F.</from_key>
+         <from_key>researchgraph.org/ands/f33526fb-861d-5cc9-e044-00144fdd4fa6</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/Liu,S.F.</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Liu,S.F.</from_key>
+         <from_key>researchgraph.org/ands/f33526fb-861d-5cc9-e044-00144fdd4fa6</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/GeoscienceAustralia</to_uri>
          <label>pointOfContact</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://www.ga.gov.au/Liu,S.F.</from_key>
+         <from_key>researchgraph.org/ands/f33526fb-861d-5cc9-e044-00144fdd4fa6</from_key>
          <to_uri>researchgraph.org/ands/http://www.ga.gov.au/CommonwealthofAustralia(GeoscienceAustralia)</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/curtin.edu.au/parties/people/22</from_key>
+         <from_key>researchgraph.org/ands/10.4225/06/565BCE14467D0</from_key>
          <to_uri>researchgraph.org/ands/curtin.edu.au/parties/people/22</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/curtin.edu.au/parties/people/22</from_key>
+         <from_key>researchgraph.org/ands/10.4225/06/565BCE14467D0</from_key>
          <to_uri>researchgraph.org/ands/curtin.edu.au/parties/people/29</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/curtin.edu.au/parties/people/22</from_key>
+         <from_key>researchgraph.org/ands/10.4225/06/565BCE14467D0</from_key>
          <to_uri>researchgraph.org/ands/curtin.edu.au/parties/people/26</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/curtin.edu.au/parties/people/22</from_key>
+         <from_key>researchgraph.org/ands/10.4225/06/565BCE14467D0</from_key>
          <to_uri>researchgraph.org/ands/curtin.edu.au/parties/people/37</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/curtin.edu.au/parties/people/22</from_key>
+         <from_key>researchgraph.org/ands/10.4225/06/565BCE14467D0</from_key>
          <to_uri>researchgraph.org/ands/curtin.edu.au/parties/people/27</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/curtin.edu.au/parties/people/22</from_key>
+         <from_key>researchgraph.org/ands/10.4225/06/565BCE14467D0</from_key>
          <to_uri>researchgraph.org/ands/curtin.edu.au/parties/people/28</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/curtin.edu.au/parties/people/22</from_key>
+         <from_key>researchgraph.org/ands/10.4225/06/565BCE14467D0</from_key>
          <to_uri>researchgraph.org/ands/curtin.edu.au/parties/people/25</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/curtin.edu.au/parties/people/22</from_key>
+         <from_key>researchgraph.org/ands/10.4225/06/565BCE14467D0</from_key>
          <to_uri>researchgraph.org/ands/curtin.edu.au/parties/people/38</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/curtin.edu.au/parties/people/22</from_key>
+         <from_key>researchgraph.org/ands/10.4225/06/565BCE14467D0</from_key>
          <to_uri>researchgraph.org/ands/curtin.edu.au/parties/people/39</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1598961</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/2328.1/1167</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1598961</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1598961</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/2328.1/1167</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1518064</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1598961</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/2328.1/1167</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1678771</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1598961</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/2328.1/1167</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1598958</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1598961</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/2328.1/1167</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1598957</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1598961</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/2328.1/1167</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1678771</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/LeliaGreen</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/12082</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/LeliaGreen</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/LeliaGreen</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/12082</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/DanielleBrady</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/LeliaGreen</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/12082</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/DonellHolloway</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/AndreaHinwood</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6963</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/AndreaHinwood</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/PamHenry</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6966</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/PamHenry</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/MelanieZiman</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6843</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/MelanieZiman</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/DanielGalvao</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6969</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/DanielGalvao</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/AnthonyGunnell</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/10440</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/AnthonyGunnell</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/RonOliver</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6823</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/RonOliver</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/JulianDooley</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6942</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/JulianDooley</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/JulianDooley</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6942</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/VickiAnderson</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/LynneCohen</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6911</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/LynneCohen</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/LynneCohen</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6911</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/JuliePooley</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/CraigSpeelman</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6829</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/CraigSpeelman</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/KristinaLemson</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6952</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/KristinaLemson</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/DonnaCross</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6934</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/DonnaCross</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/CatHope</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6865</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/CatHope</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/PierreHorwitz</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6860</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/PierreHorwitz</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/KamalAlameh</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6912</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/KamalAlameh</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/PrueCormie</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/7015</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/PrueCormie</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/DavidCoall</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1018</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/DavidCoall</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/DavidCoall</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1018</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/SonjaHilbrand</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/DavidCoall</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1018</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/RalphHertwig</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/MargaretGiles</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1019</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/MargaretGiles</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/MargaretGiles</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1019</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/YCheung</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/DavidHolley</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1020</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/DavidHolley</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/DavidHolley</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1024</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/DavidHolley</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/DavidHolley</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1024</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/R.Prince</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/MeghanThomas</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6854</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/MeghanThomas</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/LauraThomas</from_key>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6955</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/LauraThomas</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/CatHope</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1021</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/CatHope</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1026</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1026</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/AuroraRicart</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1026</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/PaulLavery</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1026</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/Miguel-AngelMateo</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1026</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/ArianeArias-Ortiz</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1026</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/PereMasque</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1026</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/AndySteven</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1026</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/CarlosDuarte</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1027</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1027</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/PaulLavery</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1027</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/CarlosDuarte</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1027</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/GaryKendrick</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1027</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/AntoniCalafat</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1027</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/PaulYork</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1027</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/AndySteven</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1027</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/PeterMacreadie</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1029</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1029</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/PaulLavery</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1029</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/PereMasque</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1029</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/KarinaInostroza</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1029</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/JamesBongiovanni</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1029</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/CarlosDuarte</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/PaulLavery</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1030</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/PaulLavery</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/PaulLavery</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1030</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/Miguel-AngelMateo</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/PaulLavery</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1030</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/PaulLavery</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1030</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/MohammadRozaimi</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1028</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1028</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/RadhiyahRuhon</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1028</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/PaulLavery</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1028</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/GaryKendrick</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1028</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/SharynHickey</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1028</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/PereMasque</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1028</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/ArianeArias-Ortiz</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1028</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/AndySteven</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/ro.ecu.edu.au/OscarSerrano</from_key>
+         <from_key>researchgraph.org/ands/ecu/articleid/1028</from_key>
          <to_uri>researchgraph.org/ands/ro.ecu.edu.au/CarlosDuarte</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/CDU-Party-0028</from_key>
+         <from_key>researchgraph.org/ands/CDU-Collection-0017</from_key>
          <to_uri>researchgraph.org/ands/CDU-Party-0028</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/CDU-Party-0028</from_key>
+         <from_key>researchgraph.org/ands/CDU-Collection-0017</from_key>
          <to_uri>researchgraph.org/ands/CDU-Activity-0008</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/CDU-Party-0028</from_key>
+         <from_key>researchgraph.org/ands/CDU-Collection-0017</from_key>
          <to_uri>researchgraph.org/ands/CDU-Party-0029</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/data.vic.gov.au/departmentofeducationandtraining</from_key>
+         <from_key>researchgraph.org/ands/data.vic.gov.au/d6f26f4b-497c-4c31-ae1a-a0e7f1e62b8c</from_key>
          <to_uri>researchgraph.org/ands/data.vic.gov.au/departmentofeducationandtraining</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/data.vic.gov.au/departmentofenvironment,land,water&amp;planning</from_key>
+         <from_key>researchgraph.org/ands/data.vic.gov.au/152ca980-fb52-43eb-84b9-b33c2b7960e0</from_key>
          <to_uri>researchgraph.org/ands/data.vic.gov.au/departmentofenvironment,land,water&amp;planning</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/data.vic.gov.au/departmentofenvironment,land,water&amp;planning</from_key>
+         <from_key>researchgraph.org/ands/data.vic.gov.au/74ad3a33-f6cc-4064-b4f4-1f81ddd27bca</from_key>
          <to_uri>researchgraph.org/ands/data.vic.gov.au/departmentofenvironment,land,water&amp;planning</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/data.vic.gov.au/departmentofeconomicdevelopment,jobs,transportandresources</from_key>
+         <from_key>researchgraph.org/ands/data.vic.gov.au/943126d5-e56b-456f-829c-964ab97beae0</from_key>
          <to_uri>researchgraph.org/ands/data.vic.gov.au/departmentofeconomicdevelopment,jobs,transportandresources</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/data.vic.gov.au/departmentofenvironment,land,water&amp;planning</from_key>
+         <from_key>researchgraph.org/ands/data.vic.gov.au/c679b0d7-c2c3-4988-9744-921f5ccd36f0</from_key>
          <to_uri>researchgraph.org/ands/data.vic.gov.au/departmentofenvironment,land,water&amp;planning</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/data.vic.gov.au/departmentofeducationandtraining</from_key>
+         <from_key>researchgraph.org/ands/data.vic.gov.au/604c9396-0a39-4c41-841f-fda021ef6dc9</from_key>
          <to_uri>researchgraph.org/ands/data.vic.gov.au/departmentofeducationandtraining</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/data.vic.gov.au/departmentofeducationandtraining</from_key>
+         <from_key>researchgraph.org/ands/data.vic.gov.au/5b444a83-350c-45ec-aa2a-ddb991e94119</from_key>
          <to_uri>researchgraph.org/ands/data.vic.gov.au/departmentofeducationandtraining</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/data.vic.gov.au/departmentofeducationandtraining</from_key>
+         <from_key>researchgraph.org/ands/data.vic.gov.au/01929a8e-8365-4cab-b161-d423a04cec05</from_key>
          <to_uri>researchgraph.org/ands/data.vic.gov.au/departmentofeducationandtraining</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/data.vic.gov.au/victorianelectoralcommission</from_key>
+         <from_key>researchgraph.org/ands/data.vic.gov.au/7f880e53-9053-4aa4-b0ce-71fa4935c676</from_key>
          <to_uri>researchgraph.org/ands/data.vic.gov.au/victorianelectoralcommission</to_uri>
          <label>owner</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/d20b04e8aa0d84451f6a7e22816b123e</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/d20b04e8aa0d84451f6a7e22816b123e</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1561721</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/d20b04e8aa0d84451f6a7e22816b123e</from_key>
          <to_uri>researchgraph.org/ands/https://research.jcu.edu.au/nameauthority/published/detail/1301fa0dbafacf207430d26f39340c7f</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/d20b04e8aa0d84451f6a7e22816b123e</from_key>
          <to_uri>researchgraph.org/ands/https://research.jcu.edu.au/nameauthority/published/detail/b6e85f25183ba64795f4e53ee34d99bc</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/6cdb20200290c006137f5eb32fd68c65</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/6cdb20200290c006137f5eb32fd68c65</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1561721</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/6cdb20200290c006137f5eb32fd68c65</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/6cdb20200290c006137f5eb32fd68c65</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1561721</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/1afc493ecb5a6798fd557ffc29c832de</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/1afc493ecb5a6798fd557ffc29c832de</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1561721</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/1afc493ecb5a6798fd557ffc29c832de</from_key>
          <to_uri>researchgraph.org/ands/https://research.jcu.edu.au/nameauthority/published/detail/1301fa0dbafacf207430d26f39340c7f</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/1afc493ecb5a6798fd557ffc29c832de</from_key>
          <to_uri>researchgraph.org/ands/https://research.jcu.edu.au/nameauthority/published/detail/b6e85f25183ba64795f4e53ee34d99bc</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/f57c58476c2c5832eb5b87d184e43253</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/f57c58476c2c5832eb5b87d184e43253</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1561721</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/f57c58476c2c5832eb5b87d184e43253</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/f57c58476c2c5832eb5b87d184e43253</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1561721</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/f57c58476c2c5832eb5b87d184e43253</from_key>
          <to_uri>researchgraph.org/ands/https://research.jcu.edu.au/nameauthority/published/detail/1301fa0dbafacf207430d26f39340c7f</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1513179</from_key>
+         <from_key>researchgraph.org/ands/f57c58476c2c5832eb5b87d184e43253</from_key>
          <to_uri>researchgraph.org/ands/https://research.jcu.edu.au/nameauthority/published/detail/b6e85f25183ba64795f4e53ee34d99bc</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1598274</from_key>
+         <from_key>researchgraph.org/ands/104d955a3e12a9cd7d05ba33b6727e4e</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1598274</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1598274</from_key>
+         <from_key>researchgraph.org/ands/104d955a3e12a9cd7d05ba33b6727e4e</from_key>
          <to_uri>researchgraph.org/ands/https://research.jcu.edu.au/nameauthority/published/detail/0f601c3cffde72df52f2a5d9ea4350dd</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</from_key>
+         <from_key>researchgraph.org/ands/a7c386415871bf2147ccc6641615af20</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</from_key>
+         <from_key>researchgraph.org/ands/a7c386415871bf2147ccc6641615af20</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</from_key>
+         <from_key>researchgraph.org/ands/a7c386415871bf2147ccc6641615af20</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1541827</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</from_key>
+         <from_key>researchgraph.org/ands/62496aa9ed93e3a0d62fda91a0da242a</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</from_key>
+         <from_key>researchgraph.org/ands/62496aa9ed93e3a0d62fda91a0da242a</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</from_key>
+         <from_key>researchgraph.org/ands/62496aa9ed93e3a0d62fda91a0da242a</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1541827</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1678334</from_key>
+         <from_key>researchgraph.org/ands/c1ea2c843f577f56c1683a5c22135127</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1678334</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</from_key>
+         <from_key>researchgraph.org/ands/c04ea42576d759310bd05cf87f8dd3eb</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</from_key>
+         <from_key>researchgraph.org/ands/c04ea42576d759310bd05cf87f8dd3eb</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1543078</from_key>
+         <from_key>researchgraph.org/ands/c04ea42576d759310bd05cf87f8dd3eb</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1541827</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1678335</from_key>
+         <from_key>researchgraph.org/ands/7daa61729f645cbbbd5c89d7be171b4f</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1678335</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1678335</from_key>
+         <from_key>researchgraph.org/ands/7daa61729f645cbbbd5c89d7be171b4f</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1513129</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1678335</from_key>
+         <from_key>researchgraph.org/ands/7daa61729f645cbbbd5c89d7be171b4f</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1624668</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1678335</from_key>
+         <from_key>researchgraph.org/ands/7daa61729f645cbbbd5c89d7be171b4f</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1678335</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1678335</from_key>
+         <from_key>researchgraph.org/ands/7daa61729f645cbbbd5c89d7be171b4f</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1513129</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1678335</from_key>
+         <from_key>researchgraph.org/ands/7daa61729f645cbbbd5c89d7be171b4f</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1624668</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/http://nla.gov.au/nla.party-1678661</from_key>
+         <from_key>researchgraph.org/ands/a8b46acc3e0d2677b7d493edf29f731e</from_key>
          <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1678661</to_uri>
          <label>hasCollector</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/urn:person:www.ltern.org.au:GlendaWardle</from_key>
+         <from_key>researchgraph.org/ands/ltern2.1062</from_key>
          <to_uri>researchgraph.org/ands/urn:person:www.ltern.org.au:GlendaWardle</to_uri>
          <label>isOwnedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/urn:person:www.ltern.org.au:GlendaWardle</from_key>
+         <from_key>researchgraph.org/ands/ltern2.1062</from_key>
          <to_uri>researchgraph.org/ands/urn:person:www.ltern.org.au:ChrisDickman</to_uri>
          <label>isOwnedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/urn:person:www.ltern.org.au:GlendaWardle</from_key>
+         <from_key>researchgraph.org/ands/ltern2.1061</from_key>
          <to_uri>researchgraph.org/ands/urn:person:www.ltern.org.au:GlendaWardle</to_uri>
          <label>isOwnedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/urn:person:www.ltern.org.au:GlendaWardle</from_key>
+         <from_key>researchgraph.org/ands/ltern2.1061</from_key>
          <to_uri>researchgraph.org/ands/urn:person:www.ltern.org.au:ChrisDickman</to_uri>
          <label>isOwnedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/urn:person:www.ltern.org.au:GlendaWardle</from_key>
+         <from_key>researchgraph.org/ands/ltern2.1061</from_key>
          <to_uri>researchgraph.org/ands/urn:person:www.ltern.org.au:AaronGreenville</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/urn:person:www.ltern.org.au:GlendaWardle</from_key>
+         <from_key>researchgraph.org/ands/ltern2.1061</from_key>
          <to_uri>researchgraph.org/ands/urn:person:www.ltern.org.au:BobbyTamayo</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/urn:person:www.ltern.org.au:GlendaWardle</from_key>
+         <from_key>researchgraph.org/ands/ltern2.1060</from_key>
          <to_uri>researchgraph.org/ands/urn:person:www.ltern.org.au:GlendaWardle</to_uri>
          <label>isOwnedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/urn:person:www.ltern.org.au:GlendaWardle</from_key>
+         <from_key>researchgraph.org/ands/ltern2.1060</from_key>
          <to_uri>researchgraph.org/ands/urn:person:www.ltern.org.au:ChrisDickman</to_uri>
          <label>isOwnedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/urn:person:www.ltern.org.au:GlendaWardle</from_key>
+         <from_key>researchgraph.org/ands/ltern2.1060</from_key>
          <to_uri>researchgraph.org/ands/urn:person:www.ltern.org.au:AaronGreenville</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/urn:person:www.ltern.org.au:GlendaWardle</from_key>
+         <from_key>researchgraph.org/ands/ltern2.1060</from_key>
          <to_uri>researchgraph.org/ands/urn:person:www.ltern.org.au:BobbyTamayo</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/hdl:1959.4/resource/activity/resdataa_300715/1</from_key>
+         <from_key>researchgraph.org/ands/hdl:1959.4/resource/collection/resdatac_423/1</from_key>
          <to_uri>researchgraph.org/ands/hdl:1959.4/resource/activity/resdataa_300715/1</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/hdl:1959.4/resource/activity/resdataa_300715/1</from_key>
+         <from_key>researchgraph.org/ands/hdl:1959.4/resource/collection/resdatac_423/1</from_key>
          <to_uri>researchgraph.org/ands/hdl:1959.4/resource/party/resdatap_443/1</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/hdl:1959.4/resource/activity/resdataa_300715/1</from_key>
+         <from_key>researchgraph.org/ands/hdl:1959.4/resource/collection/resdatac_423/1</from_key>
          <to_uri>researchgraph.org/ands/hdl:1959.4/resource/party/resdatap_7337/1</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:363718</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:363718</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1330</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:363718</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/154</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:363718</from_key>
          <to_uri>researchgraph.org/ands/</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:364807</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:364807</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1330</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:364807</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/154</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:364807</from_key>
          <to_uri>researchgraph.org/ands/</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:366704</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:366704</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1330</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:366704</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/154</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92059</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:366704</from_key>
          <to_uri>researchgraph.org/ands/</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/82526</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370251</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/82526</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/82526</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370251</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/73982</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370286</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370286</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/76622</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370286</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/31</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370286</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/81685</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370286</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/86034</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370286</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1422</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370286</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/8624</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370286</from_key>
          <to_uri>researchgraph.org/ands/</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370294</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370294</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/76622</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370294</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/31</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370294</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/81685</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370294</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/86034</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370294</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1422</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370294</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/8624</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370294</from_key>
          <to_uri>researchgraph.org/ands/</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370296</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370296</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/76622</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370296</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/31</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370296</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/81685</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370296</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/86034</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370296</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1422</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370296</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/8624</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370296</from_key>
          <to_uri>researchgraph.org/ands/</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/76622</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2350</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/31</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93924</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93922</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/81685</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1044</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/86034</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1422</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
          <to_uri>researchgraph.org/ands/</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/76622</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2350</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/31</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93922</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/81685</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1044</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/86034</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1422</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/8624</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/93923</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
          <to_uri>researchgraph.org/ands/</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/88639</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370599</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/88639</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/9983</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:371316</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/9983</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/9983</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:371316</from_key>
          <to_uri>researchgraph.org/ands/</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/86735</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:372160</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/86735</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/86735</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:372160</from_key>
          <to_uri>researchgraph.org/ands/</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/15347</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:373904</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/15347</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/15347</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:373904</from_key>
          <to_uri>researchgraph.org/ands/</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/74595</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:374611</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/74595</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/191523</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:375163</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/191523</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/191523</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:375163</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/86412</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1028862</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376045</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1028862</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/76281</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/80230</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/94469</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92539</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/79594</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/73379</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/4041</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1944</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/94300</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/74215</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/62045</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/76281</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/80230</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/94469</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/92539</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/79594</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/73379</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/4041</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/1944</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/94300</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/74215</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/2579</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/62045</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/900440</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:379829</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/900440</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/900440</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:379829</from_key>
          <to_uri>researchgraph.org/ands/</to_uri>
          <label>isOutputOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/77244</from_key>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:380437</from_key>
          <to_uri>researchgraph.org/ands/espace.library.uq.edu.au/list/author_id/77244</to_uri>
          <label>author</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/UTAS/39060c33-9246-49fe-8f97-758b67ced4ce</from_key>
+         <from_key>researchgraph.org/ands/UTAS/6cbf0c73-1ade-4c1d-a83f-555118cf15ea</from_key>
          <to_uri>researchgraph.org/ands/UTAS/39060c33-9246-49fe-8f97-758b67ced4ce</to_uri>
          <label>isPartOf</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/UTAS/39060c33-9246-49fe-8f97-758b67ced4ce</from_key>
+         <from_key>researchgraph.org/ands/UTAS/6cbf0c73-1ade-4c1d-a83f-555118cf15ea</from_key>
          <to_uri>researchgraph.org/ands/UTAS/Flukes,Emma</to_uri>
          <label>principalInvestigator</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/UTAS/39060c33-9246-49fe-8f97-758b67ced4ce</from_key>
+         <from_key>researchgraph.org/ands/UTAS/6cbf0c73-1ade-4c1d-a83f-555118cf15ea</from_key>
          <to_uri>researchgraph.org/ands/UTAS/Johnson,Craig</to_uri>
          <label>coInvestigator</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/UTAS/39060c33-9246-49fe-8f97-758b67ced4ce</from_key>
+         <from_key>researchgraph.org/ands/UTAS/6cbf0c73-1ade-4c1d-a83f-555118cf15ea</from_key>
          <to_uri>researchgraph.org/ands/UTAS/Wright,Jeffrey</to_uri>
          <label>coInvestigator</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/UTAS/39060c33-9246-49fe-8f97-758b67ced4ce</from_key>
+         <from_key>researchgraph.org/ands/UTAS/6cbf0c73-1ade-4c1d-a83f-555118cf15ea</from_key>
          <to_uri>researchgraph.org/ands/UTAS/Flukes,Emma</to_uri>
          <label>principalInvestigator</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/UTAS/39060c33-9246-49fe-8f97-758b67ced4ce</from_key>
+         <from_key>researchgraph.org/ands/UTAS/6cbf0c73-1ade-4c1d-a83f-555118cf15ea</from_key>
          <to_uri>researchgraph.org/ands/UTAS/InstituteforMarineandAntarcticStudies(IMAS),UniversityofTasmania(UTAS)</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:cd77410b-f5fa-4273-aac0-4e618ae0c026</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26209</from_key>
          <to_uri>researchgraph.org/ands/csiro:cd77410b-f5fa-4273-aac0-4e618ae0c026</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:cd77410b-f5fa-4273-aac0-4e618ae0c026</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26209</from_key>
          <to_uri>researchgraph.org/ands/csiro:PartyGroup</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:f866f8b2-a366-4746-b3d2-57bfc08dce85</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26213</from_key>
          <to_uri>researchgraph.org/ands/csiro:f866f8b2-a366-4746-b3d2-57bfc08dce85</to_uri>
          <label>hasPrincipalInvestigator</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:f866f8b2-a366-4746-b3d2-57bfc08dce85</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26213</from_key>
          <to_uri>researchgraph.org/ands/csiro:P878</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:f866f8b2-a366-4746-b3d2-57bfc08dce85</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26213</from_key>
          <to_uri>researchgraph.org/ands/csiro:PartyGroup</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:e0117917-da9a-4751-8d7d-4aec972fdd15</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26222</from_key>
          <to_uri>researchgraph.org/ands/csiro:e0117917-da9a-4751-8d7d-4aec972fdd15</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:e0117917-da9a-4751-8d7d-4aec972fdd15</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26222</from_key>
          <to_uri>researchgraph.org/ands/csiro:R-04223_IRP</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:e0117917-da9a-4751-8d7d-4aec972fdd15</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26222</from_key>
          <to_uri>researchgraph.org/ands/csiro:PartyGroup</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:94b715bc-379a-4be2-a2de-d6632ec5a982</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/25695</from_key>
          <to_uri>researchgraph.org/ands/csiro:94b715bc-379a-4be2-a2de-d6632ec5a982</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:94b715bc-379a-4be2-a2de-d6632ec5a982</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/25695</from_key>
          <to_uri>researchgraph.org/ands/csiro:PartyGroup</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:2c658d2c-27f8-46fe-88bf-78bd8fb9c1f2</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/25696</from_key>
          <to_uri>researchgraph.org/ands/csiro:2c658d2c-27f8-46fe-88bf-78bd8fb9c1f2</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:2c658d2c-27f8-46fe-88bf-78bd8fb9c1f2</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/25696</from_key>
          <to_uri>researchgraph.org/ands/csiro:PartyGroup</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:45fda526-a7ce-4315-b815-2e9ab9dca62c</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26210</from_key>
          <to_uri>researchgraph.org/ands/csiro:45fda526-a7ce-4315-b815-2e9ab9dca62c</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:45fda526-a7ce-4315-b815-2e9ab9dca62c</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26210</from_key>
          <to_uri>researchgraph.org/ands/csiro:PartyGroup</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:0a0debd2-be75-4a09-adcf-33c6d4daaa92</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26211</from_key>
          <to_uri>researchgraph.org/ands/csiro:0a0debd2-be75-4a09-adcf-33c6d4daaa92</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:0a0debd2-be75-4a09-adcf-33c6d4daaa92</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26211</from_key>
          <to_uri>researchgraph.org/ands/csiro:PartyGroup</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:0a0debd2-be75-4a09-adcf-33c6d4daaa92</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26212</from_key>
          <to_uri>researchgraph.org/ands/csiro:0a0debd2-be75-4a09-adcf-33c6d4daaa92</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:0a0debd2-be75-4a09-adcf-33c6d4daaa92</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26212</from_key>
          <to_uri>researchgraph.org/ands/csiro:PartyGroup</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:62220675-a721-4f6d-baf6-2a05fe334400</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26214</from_key>
          <to_uri>researchgraph.org/ands/csiro:62220675-a721-4f6d-baf6-2a05fe334400</to_uri>
          <label>hasPrincipalInvestigator</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:62220675-a721-4f6d-baf6-2a05fe334400</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26214</from_key>
          <to_uri>researchgraph.org/ands/csiro:P880</to_uri>
          <label>hasAssociationWith</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:62220675-a721-4f6d-baf6-2a05fe334400</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26214</from_key>
          <to_uri>researchgraph.org/ands/csiro:PartyGroup</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:a59d9b66-2ef2-45f3-be55-60902dc56375</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26221</from_key>
          <to_uri>researchgraph.org/ands/csiro:a59d9b66-2ef2-45f3-be55-60902dc56375</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
       <relatedObject>
-         <from_key>researchgraph.org/ands/csiro:a59d9b66-2ef2-45f3-be55-60902dc56375</from_key>
+         <from_key>researchgraph.org/ands/102.100.100/26221</from_key>
          <to_uri>researchgraph.org/ands/csiro:PartyGroup</to_uri>
          <label>isManagedBy</label>
       </relatedObject>
    </relatedObjects>
+   <relations>
+      <relation>
+         <from_key>researchgraph.org/ands/28b83561-222f-acae-e053-10a3070aa1fe</from_key>
+         <to_url>researchgraph.org/ands/04</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/fefed6a4-2284-333c-e044-00144fdd4fa6</from_key>
+         <to_url>researchgraph.org/ands/040305</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/19dbdeb7-40ff-373e-e053-12a3070ad031</from_key>
+         <to_url>researchgraph.org/ands/040305</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/fefe36ac-f4fc-5eae-e044-00144fdd4fa6</from_key>
+         <to_url>researchgraph.org/ands/040305</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/19b219fe-66aa-cbb1-e053-10a3070ac3ec</from_key>
+         <to_url>researchgraph.org/ands/04</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/23c589ee-e3d9-c448-e053-10a3070abc3f</from_key>
+         <to_url>researchgraph.org/ands/040305</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/1a4249ad-857c-800f-e053-12a3070a8908</from_key>
+         <to_url>researchgraph.org/ands/0403</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/1ecefb78-656c-20dc-e053-12a3070a3a70</from_key>
+         <to_url>researchgraph.org/ands/0403</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/1a2e0d50-845a-9899-e053-10a3070adfb4</from_key>
+         <to_url>researchgraph.org/ands/04</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/f33526fb-861d-5cc9-e044-00144fdd4fa6</from_key>
+         <to_url>researchgraph.org/ands/04</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/10.4225/06/565BCE14467D0</from_key>
+         <to_url>researchgraph.org/ands/020399</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/2328.1/1167</from_key>
+         <to_url>researchgraph.org/ands/050304</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/2328.1/1167</from_key>
+         <to_url>researchgraph.org/ands/040603</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/2328.1/1167</from_key>
+         <to_url>researchgraph.org/ands/040608</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/2328.1/1167</from_key>
+         <to_url>researchgraph.org/ands/050206</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/12082</from_key>
+         <to_url>researchgraph.org/ands/2002, 20</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6963</from_key>
+         <to_url>researchgraph.org/ands/059999, 111705</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6966</from_key>
+         <to_url>researchgraph.org/ands/180113</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6843</from_key>
+         <to_url>researchgraph.org/ands/111201, 111202, 111203</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6969</from_key>
+         <to_url>researchgraph.org/ands/1112, 1106</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/10440</from_key>
+         <to_url>researchgraph.org/ands/1117</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6823</from_key>
+         <to_url>researchgraph.org/ands/130306, 130202</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6942</from_key>
+         <to_url>researchgraph.org/ands/170205, 170101</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6911</from_key>
+         <to_url>researchgraph.org/ands/1701</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6829</from_key>
+         <to_url>researchgraph.org/ands/1701, 1702</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6952</from_key>
+         <to_url>researchgraph.org/ands/0607, 0603</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6934</from_key>
+         <to_url>researchgraph.org/ands/111712, 1117</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6865</from_key>
+         <to_url>researchgraph.org/ands/190407, 190406, 210201</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6860</from_key>
+         <to_url>researchgraph.org/ands/0502</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6912</from_key>
+         <to_url>researchgraph.org/ands/020504, 070105</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/7015</from_key>
+         <to_url>researchgraph.org/ands/110300</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ecu/articleid/1018</from_key>
+         <to_url>researchgraph.org/ands/0603</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ecu/articleid/1019</from_key>
+         <to_url>researchgraph.org/ands/1402 Applied Economics</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ecu/articleid/1020</from_key>
+         <to_url>researchgraph.org/ands/0602</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ecu/articleid/1024</from_key>
+         <to_url>researchgraph.org/ands/0602</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6854</from_key>
+         <to_url>researchgraph.org/ands/110904</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://hdl.handle.net/102.100.100/6955</from_key>
+         <to_url>researchgraph.org/ands/1117, 111712</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ecu/articleid/1021</from_key>
+         <to_url>researchgraph.org/ands/1904</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ecu/articleid/1026</from_key>
+         <to_url>researchgraph.org/ands/0405</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ecu/articleid/1027</from_key>
+         <to_url>researchgraph.org/ands/0405</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ecu/articleid/1029</from_key>
+         <to_url>researchgraph.org/ands/0405</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ecu/articleid/1030</from_key>
+         <to_url>researchgraph.org/ands/0405</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ecu/articleid/1028</from_key>
+         <to_url>researchgraph.org/ands/0405</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/CDU-Collection-0017</from_key>
+         <to_url>researchgraph.org/ands/110309</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/d20b04e8aa0d84451f6a7e22816b123e</from_key>
+         <to_url>researchgraph.org/ands/060207</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/d20b04e8aa0d84451f6a7e22816b123e</from_key>
+         <to_url>researchgraph.org/ands/111799</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/6cdb20200290c006137f5eb32fd68c65</from_key>
+         <to_url>researchgraph.org/ands/060207</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/6cdb20200290c006137f5eb32fd68c65</from_key>
+         <to_url>researchgraph.org/ands/111799</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/1afc493ecb5a6798fd557ffc29c832de</from_key>
+         <to_url>researchgraph.org/ands/060207</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/1afc493ecb5a6798fd557ffc29c832de</from_key>
+         <to_url>researchgraph.org/ands/111799</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/f57c58476c2c5832eb5b87d184e43253</from_key>
+         <to_url>researchgraph.org/ands/060201</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/f57c58476c2c5832eb5b87d184e43253</from_key>
+         <to_url>researchgraph.org/ands/111799</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/104d955a3e12a9cd7d05ba33b6727e4e</from_key>
+         <to_url>researchgraph.org/ands/070403</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/a7c386415871bf2147ccc6641615af20</from_key>
+         <to_url>researchgraph.org/ands/050202</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/62496aa9ed93e3a0d62fda91a0da242a</from_key>
+         <to_url>researchgraph.org/ands/050202</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/c1ea2c843f577f56c1683a5c22135127</from_key>
+         <to_url>researchgraph.org/ands/050209</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/c04ea42576d759310bd05cf87f8dd3eb</from_key>
+         <to_url>researchgraph.org/ands/050202</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/7daa61729f645cbbbd5c89d7be171b4f</from_key>
+         <to_url>researchgraph.org/ands/060701</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/a8b46acc3e0d2677b7d493edf29f731e</from_key>
+         <to_url>researchgraph.org/ands/060205</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ltern2.1062</from_key>
+         <to_url>researchgraph.org/ands/0501</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ltern2.1062</from_key>
+         <to_url>researchgraph.org/ands/0602</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ltern2.1061</from_key>
+         <to_url>researchgraph.org/ands/9602</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ltern2.1060</from_key>
+         <to_url>researchgraph.org/ands/0501</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ltern2.1060</from_key>
+         <to_url>researchgraph.org/ands/0602</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ltern2.1060</from_key>
+         <to_url>researchgraph.org/ands/0608</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:363718</from_key>
+         <to_url>researchgraph.org/ands/0604</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:363718</from_key>
+         <to_url>researchgraph.org/ands/0608</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:363718</from_key>
+         <to_url>researchgraph.org/ands/050199</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:363718</from_key>
+         <to_url>researchgraph.org/ands/060408</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:364807</from_key>
+         <to_url>researchgraph.org/ands/0608</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:364807</from_key>
+         <to_url>researchgraph.org/ands/050199</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:364807</from_key>
+         <to_url>researchgraph.org/ands/060408</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:364807</from_key>
+         <to_url>researchgraph.org/ands/0604</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:366704</from_key>
+         <to_url>researchgraph.org/ands/050199</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:366704</from_key>
+         <to_url>researchgraph.org/ands/060408</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:366704</from_key>
+         <to_url>researchgraph.org/ands/0604</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:366704</from_key>
+         <to_url>researchgraph.org/ands/0608</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370251</from_key>
+         <to_url>researchgraph.org/ands/1109</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370251</from_key>
+         <to_url>researchgraph.org/ands/17</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370251</from_key>
+         <to_url>researchgraph.org/ands/170205</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370251</from_key>
+         <to_url>researchgraph.org/ands/170201</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370286</from_key>
+         <to_url>researchgraph.org/ands/060805</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370286</from_key>
+         <to_url>researchgraph.org/ands/1109</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370286</from_key>
+         <to_url>researchgraph.org/ands/110903</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370294</from_key>
+         <to_url>researchgraph.org/ands/060805</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370294</from_key>
+         <to_url>researchgraph.org/ands/1109</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370294</from_key>
+         <to_url>researchgraph.org/ands/110903</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370296</from_key>
+         <to_url>researchgraph.org/ands/060805</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370296</from_key>
+         <to_url>researchgraph.org/ands/1109</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370296</from_key>
+         <to_url>researchgraph.org/ands/110903</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
+         <to_url>researchgraph.org/ands/060805</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
+         <to_url>researchgraph.org/ands/1109</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370299</from_key>
+         <to_url>researchgraph.org/ands/110903</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
+         <to_url>researchgraph.org/ands/060805</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
+         <to_url>researchgraph.org/ands/1109</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370301</from_key>
+         <to_url>researchgraph.org/ands/110903</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370599</from_key>
+         <to_url>researchgraph.org/ands/050207</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370599</from_key>
+         <to_url>researchgraph.org/ands/050203</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:370599</from_key>
+         <to_url>researchgraph.org/ands/060208</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:371316</from_key>
+         <to_url>researchgraph.org/ands/020504</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:372160</from_key>
+         <to_url>researchgraph.org/ands/060503</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:372160</from_key>
+         <to_url>researchgraph.org/ands/0605</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:372160</from_key>
+         <to_url>researchgraph.org/ands/0604</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:373904</from_key>
+         <to_url>researchgraph.org/ands/090302</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:373904</from_key>
+         <to_url>researchgraph.org/ands/090303</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:373904</from_key>
+         <to_url>researchgraph.org/ands/111603</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:374611</from_key>
+         <to_url>researchgraph.org/ands/20</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:374611</from_key>
+         <to_url>researchgraph.org/ands/110308</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:374611</from_key>
+         <to_url>researchgraph.org/ands/111001</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:374611</from_key>
+         <to_url>researchgraph.org/ands/110904</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:374611</from_key>
+         <to_url>researchgraph.org/ands/1701</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:374611</from_key>
+         <to_url>researchgraph.org/ands/0803</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:374611</from_key>
+         <to_url>researchgraph.org/ands/1117</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:374611</from_key>
+         <to_url>researchgraph.org/ands/170102</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:374611</from_key>
+         <to_url>researchgraph.org/ands/200403</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:375163</from_key>
+         <to_url>researchgraph.org/ands/11</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376045</from_key>
+         <to_url>researchgraph.org/ands/0904</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376045</from_key>
+         <to_url>researchgraph.org/ands/0910</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
+         <to_url>researchgraph.org/ands/049999</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
+         <to_url>researchgraph.org/ands/080399</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
+         <to_url>researchgraph.org/ands/010302</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376835</from_key>
+         <to_url>researchgraph.org/ands/010303</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
+         <to_url>researchgraph.org/ands/080399</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
+         <to_url>researchgraph.org/ands/010302</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
+         <to_url>researchgraph.org/ands/010303</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:376840</from_key>
+         <to_url>researchgraph.org/ands/049999</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:379829</from_key>
+         <to_url>researchgraph.org/ands/0601</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:380437</from_key>
+         <to_url>researchgraph.org/ands/0402</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/UTAS/6cbf0c73-1ade-4c1d-a83f-555118cf15ea</from_key>
+         <to_url>researchgraph.org/ands/050101</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/UTAS/6cbf0c73-1ade-4c1d-a83f-555118cf15ea</from_key>
+         <to_url>researchgraph.org/ands/060205</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/UTAS/6cbf0c73-1ade-4c1d-a83f-555118cf15ea</from_key>
+         <to_url>researchgraph.org/ands/060203</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/26209</from_key>
+         <to_url>researchgraph.org/ands/020199</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/26213</from_key>
+         <to_url>researchgraph.org/ands/020199</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/26222</from_key>
+         <to_url>researchgraph.org/ands/050101</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/26222</from_key>
+         <to_url>researchgraph.org/ands/050202</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/26222</from_key>
+         <to_url>researchgraph.org/ands/060102</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/26222</from_key>
+         <to_url>researchgraph.org/ands/050209</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/26222</from_key>
+         <to_url>researchgraph.org/ands/060302</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/25695</from_key>
+         <to_url>researchgraph.org/ands/020199</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/25696</from_key>
+         <to_url>researchgraph.org/ands/020199</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/26210</from_key>
+         <to_url>researchgraph.org/ands/020199</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/26211</from_key>
+         <to_url>researchgraph.org/ands/020199</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/26212</from_key>
+         <to_url>researchgraph.org/ands/020199</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/26214</from_key>
+         <to_url>researchgraph.org/ands/020199</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/26214</from_key>
+         <to_url>researchgraph.org/ands/020199</to_url>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/26221</from_key>
+         <to_url>researchgraph.org/ands/020199</to_url>
+      </relation>
+   </relations>
 </registryObjects>
