@@ -108,7 +108,7 @@
             <xsl:for-each select=".//rif:relatedObject">
                 <relatedObject>
                     <from_key>
-                        <xsl:value-of select="concat('researchgraph.org/ands/',..//rif:key[1])"/>
+                        <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
                     </from_key>
                     <to_uri>
                         <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:key)"/>
@@ -133,7 +133,7 @@
                     or .//rif:identifier/@type='purl'">
                     <relatedInfo>
                         <from_key>
-                            <xsl:value-of select="concat('researchgraph.org/ands/',..//rif:key)"/>
+                            <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
                         </from_key>
                         <to_url>
                             <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:identifier)"/>
