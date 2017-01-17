@@ -37,12 +37,12 @@
             <xsl:choose>
                 <xsl:when test=".//marc:datafield[@tag='024'][@ind1='7']/marc:subfield[@code='a']">
                     <key>
-                        <xsl:value-of select="concat('researchgraph.org/figshare/',.//marc:datafield[@tag='024'][@ind1='7']/marc:subfield[@code='a'])"/>
+                        <xsl:value-of select="concat('researchgraph.org/',.//marc:datafield[@tag='024'][@ind1='7']/marc:subfield[@code='a'])"/>
                     </key>
                 </xsl:when>
                 <xsl:when test=".//marc:datafield[@tag='024'][@ind1='8']/marc:subfield[@code='a']">
                     <key>
-                        <xsl:value-of select="concat('researchgraph.org/figshare/',.//marc:datafield[@tag='024'][@ind1='8']/marc:subfield[@code='a'])"/>
+                        <xsl:value-of select="concat('researchgraph.org/',.//marc:datafield[@tag='024'][@ind1='8']/marc:subfield[@code='a'])"/>
                     </key>
                 </xsl:when>
             </xsl:choose>
