@@ -113,7 +113,7 @@
                 <last_name>
                     <xsl:value-of select="substring-after(.//marc:subfield[@code='a'],', ')"/>
                 </last_name>
-                <xsl:if test=".//marc:subfield[@code=j]">
+                <xsl:if test=".//marc:subfield[@code='j']">
                     <orcid>
                         <xsl:value-of select="marc:subfield[@code='j']"/>
                     </orcid>
