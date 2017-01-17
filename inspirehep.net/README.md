@@ -4,5 +4,10 @@ https://github.com/rd-switchboard/Inference/blob/master/Libraries/Marc21/crosswa
 InspireHEP HowTo help about MarcXSML:
 https://inspirehep.net/help/admin/howto-marc
 
-Other notes:
-- 
+Basic graph elements:
+
+* local_id is the value of tag="035" and code="a" when code="9" value is "Inspire"
+
+* key is researchgraph.org/inspirehep/{local_id} for articles
+
+* url is https://inspirehep.net/record/{local_id}
