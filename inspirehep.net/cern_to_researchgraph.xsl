@@ -30,50 +30,28 @@
     <!-- Publication Template                        -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="publication">
-        <xsl:apply-templates select=".//oai:metadata" mode="publication"/>
+        <xsl:if test=".//marc:datafield[@tag='035'][marc:subfield='Inspire']">
+            <xsl:apply-templates select=".//oai:metadata" mode="publication"/>
+        </xsl:if>
     </xsl:template>
     <xsl:template match="oai:metadata" mode="publication">
+        <xsl:variable name="local_id" select=".//marc:datafield[@tag='035'][marc:subfield='Inspire']/marc:subfield[@code='a']"/>/>
         <publication>
-            <xsl:choose>
-                <xsl:when test=".//marc:datafield[@tag='024'][@ind1='7']/marc:subfield[@code='a']">
-                    <key>
-                        <xsl:value-of select="concat('researchgraph.org/',.//marc:datafield[@tag='024'][@ind1='7']/marc:subfield[@code='a'])"/>
-                    </key>
-                </xsl:when>
-                <xsl:when test=".//marc:datafield[@tag='024'][@ind1='8']/marc:subfield[@code='a']">
-                    <key>
-                        <xsl:value-of select="concat('researchgraph.org/',.//marc:datafield[@tag='024'][@ind1='8']/marc:subfield[@code='a'])"/>
-                    </key>
-                </xsl:when>
-            </xsl:choose>
+            <key>
+                <xsl:value-of select="concat('researchgraph.org/inspirehep',$local_id)"/>
+            </key>
             <source>
                 <xsl:value-of select="$source"/>
             </source>
-            <xsl:choose>
-                <xsl:when test=".//marc:datafield[@tag='037']">
-                    <local_id>
-                        <xsl:value-of select=".//marc:datafield[@tag='037']/marc:subfield"/>
-                    </local_id>
-                </xsl:when>
-                <xsl:when test=".//marc:datafield[@tag='024'][@ind1='7']/marc:subfield[@code='a']">
-                    <local_id>
-                        <xsl:value-of select=".//marc:datafield[@tag='024'][@ind1='7']/marc:subfield[@code='a']"/>
-                    </local_id>
-                </xsl:when>
-                <xsl:when test=".//marc:datafield[@tag='024'][@ind1='8']/marc:subfield[@code='a']">
-                    <local_id>
-                        <xsl:value-of select=".//marc:datafield[@tag='024'][@ind1='8']/marc:subfield[@code='a']"/>
-                    </local_id>
-                </xsl:when>
-            </xsl:choose>
+            <local_id>
+                <xsl:value-of select="$local_id"/>
+            </local_id>
             <last_updated>
                 <xsl:value-of select="ancestor::oai:record/oai:header/oai:datestamp"/>
             </last_updated>
-            <xsl:if test=".//marc:datafield[@tag='035']">
-                <url>
-                    <xsl:value-of select=".//marc:datafield[@tag='035']/marc:subfield[@code='9'][1]"/>
-                </url>
-            </xsl:if>
+            <url>
+                <xsl:value-of select="concat('https://inspirehep.net/record/',$local_id)"/>
+            </url>
             <title>
                 <xsl:value-of select=".//marc:datafield[@tag='245']/marc:subfield[@code='a']"/>
             </title>
