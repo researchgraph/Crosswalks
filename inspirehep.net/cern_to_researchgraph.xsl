@@ -83,7 +83,7 @@
     </xsl:template>
     
     <!-- =========================================== -->
-    <!-- Researcher Template                                                              -->
+    <!-- Researcher Template -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="researcher">
         <xsl:apply-templates select=".//oai:metadata" mode="researcher"/>
@@ -93,7 +93,7 @@
                                                | .//marc:datafield[@tag='100']">
             <researcher>
                 <key>
-                    <xsl:value-of select="concat('researchgraph.org/inspirehep/author/', .//marc:subfield[@code='i'])"/>
+                    <xsl:value-of select="concat('researchgraph.org/inspirehep/researcher/', .//marc:subfield[@code='i'])"/>
                 </key>
                 <source>
                     <xsl:value-of select="$source"/>
@@ -113,9 +113,9 @@
                 <last_name>
                     <xsl:value-of select="substring-after(.//marc:subfield[@code='a'],', ')"/>
                 </last_name>
-                <xsl:if test=".//marc:subfield[@code=0]">
+                <xsl:if test=".//marc:subfield[@code=j]">
                     <orcid>
-                        <xsl:value-of select="marc:subfield[@code='0']"/>
+                        <xsl:value-of select="marc:subfield[@code='j']"/>
                     </orcid>
                 </xsl:if>
             </researcher>
