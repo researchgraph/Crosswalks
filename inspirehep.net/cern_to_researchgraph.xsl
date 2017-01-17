@@ -23,6 +23,9 @@
             <publications>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
             </publications>
+            <researchers>
+                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="researcher"/>
+            </researchers>
         </registryObjects>
     </xsl:template>
     
@@ -77,5 +80,45 @@
                 </publication_year>
             </xsl:if>
         </publication>
+    </xsl:template>
+    
+    <!-- =========================================== -->
+    <!-- Researcher Template                                                              -->
+    <!-- =========================================== -->
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="researcher">
+        <xsl:apply-templates select=".//oai:metadata" mode="researcher"/>
+    </xsl:template>
+    <xsl:template match="oai:metadata" mode="researcher">
+        <xsl:for-each select=".//marc:datafield[@tag='700']
+                                               | .//marc:datafield[@tag='100']">
+            <researcher>
+                <key>
+                    <xsl:value-of select="concat('researchgraph.org/inspirehep/author/', .//marc:subfield[@code='i'])"/>
+                </key>
+                <source>
+                    <xsl:value-of select="$source"/>
+                </source>
+                <local_id>
+                    <xsl:value-of select=".//marc:subfield[@code='i']"/>
+                </local_id>
+                <last_updated>
+                    <xsl:value-of select="ancestor::oai:record/oai:header/oai:datestamp"/>
+                </last_updated>
+                <full_name>
+                    <xsl:value-of select=".//marc:subfield[@code='a']"/>
+                </full_name>
+                <first_name>
+                    <xsl:value-of select="substring-before(.//marc:subfield[@code='a'],',')"/>
+                </first_name>
+                <last_name>
+                    <xsl:value-of select="substring-after(.//marc:subfield[@code='a'],', ')"/>
+                </last_name>
+                <xsl:if test=".//marc:subfield[@code=0]">
+                    <orcid>
+                        <xsl:value-of select="marc:subfield[@code='0']"/>
+                    </orcid>
+                </xsl:if>
+            </researcher>
+        </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>
