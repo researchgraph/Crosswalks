@@ -1206,1002 +1206,1002 @@
    <relations>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0667253</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0667253</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0985120</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0985120</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-507067</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-507067</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0209948</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0209948</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593921</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593921</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450145</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450145</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460913</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460913</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0454426</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0454426</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-464686</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-464686</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882478</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882478</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-641982</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-641982</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094033</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094033</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593941</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593941</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0346529</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0346529</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449516</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449516</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460867</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460867</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451923</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451923</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460867</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460867</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0558543</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0558543</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593941</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593941</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0882221</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0882221</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460867</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460867</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0663600</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0663600</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-464686</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-464686</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0668534</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0668534</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593921</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593921</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0668009</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0668009</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-574210</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-574210</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0880250</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0880250</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593909</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593909</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0884010</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0884010</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-507067</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-507067</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0342945</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0342945</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460867</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460867</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347418</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347418</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593909</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593909</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449434</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449434</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593941</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593941</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347690</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347690</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593941</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593941</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0342788</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0342788</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0454851</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0454851</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1307378</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-1307378</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0235210</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0235210</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593921</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593921</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0345279</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0345279</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460832</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460832</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1095620</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1095620</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-507067</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-507067</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0560258</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0560258</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460832</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460832</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0771208</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0771208</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593921</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593921</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0880295</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0880295</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-482768</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-482768</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0772763</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0772763</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-507067</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-507067</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879002</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879002</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-502828</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-502828</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0345664</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0345664</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-484876</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-484876</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0770913</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0770913</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593941</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593941</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0347955</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LE0347955</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460867</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460867</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094328</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094328</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593909</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593909</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0990196</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0990196</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593299</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593299</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0986003</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0986003</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0664077</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0664077</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0662989</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0662989</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-507067</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-507067</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP100100776</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP100100776</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-589763</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-589763</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208535</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208535</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-496332</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-496332</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0987900</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0987900</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593941</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593941</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0556525</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0556525</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-565275</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-565275</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0669864</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0669864</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-507067</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-507067</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0665247</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0665247</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP100100477</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP100100477</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-507067</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-507067</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451545</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451545</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460867</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460867</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208246</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208246</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593941</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593941</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1095875</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1095875</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460867</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460867</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0662810</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0662810</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460832</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460832</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/SR0354804</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/SR0354804</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-574210</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-574210</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0455349</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0455349</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-589763</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-589763</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0555903</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0555903</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-469109</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-469109</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0562504</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0562504</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-496332</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-496332</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0343598</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0343598</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460867</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460867</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449560</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0449560</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208516</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208516</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-641982</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-641982</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1092717</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1092717</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1307378</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-1307378</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0882079</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0882079</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593941</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593941</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0557608</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0557608</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347032</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0347032</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593909</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593909</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451508</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451508</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460867</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460867</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0776987</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0776987</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-560101</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-560101</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0209047</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0209047</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-642603</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-642603</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0559769</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0559769</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-464691</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-464691</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0562507</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0562507</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460867</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460867</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0990393</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0990393</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-482768</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-482768</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451536</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0451536</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-501485</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-501485</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0560472</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0560472</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-482768</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-482768</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0663392</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0663392</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879344</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879344</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-574210</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-574210</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0667392</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0667392</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0664539</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0664539</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593941</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593941</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450012</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450012</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-482768</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-482768</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0988064</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0988064</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460832</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460832</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1092694</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1092694</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593921</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593921</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0991378</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0991378</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-482768</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-482768</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450037</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450037</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-502828</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-502828</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0770083</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0770083</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0561265</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0561265</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0883549</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0883549</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-536697</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-536697</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0211395</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0211395</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-484876</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-484876</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/SR0354827</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/SR0354827</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-485355</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-485355</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879330</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0879330</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-611898</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-611898</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0346641</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0346641</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593941</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593941</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0455443</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0455443</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-1111099</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-1111099</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0666004</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0666004</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593941</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593941</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0344142</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0344142</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0772168</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0772168</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460867</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460867</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882799</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882799</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593941</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593941</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0773270</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0773270</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208429</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0208429</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593921</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593921</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0882710</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LX0882710</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593921</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593921</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0453652</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0453652</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-536697</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-536697</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0773012</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0773012</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-536697</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-536697</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0774125</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0774125</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-589763</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-589763</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882090</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/LP0882090</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-460867</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-460867</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094059</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP1094059</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-593941</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-593941</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450393</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0450393</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-465942</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-465942</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0452646</from_key>
-         <to_uri>researchgraph.org/ands/http://dx.doi.org/10.13039/501100000923</to_uri>
+         <to_uri>http://dx.doi.org/10.13039/501100000923</to_uri>
          <label>isFundedBy</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://purl.org/au-research/grants/arc/DP0452646</from_key>
-         <to_uri>researchgraph.org/ands/http://nla.gov.au/nla.party-595489</to_uri>
+         <to_uri>http://nla.gov.au/nla.party-595489</to_uri>
          <label>isManagedBy</label>
       </relation>
       <relation>

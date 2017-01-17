@@ -11,7 +11,7 @@
 				<setSpec>datasource:Southern-Cross-University</setSpec>
 				<setSpec>class:activity</setSpec>
 				<setSpec>group:Southern0x20Cross0x20University</setSpec>
-			</header>
+			</header>re
 			<metadata>
 				<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
 				<registryObject group="Southern Cross University">
