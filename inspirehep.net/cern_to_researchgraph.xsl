@@ -38,7 +38,7 @@
         <xsl:variable name="local_id" select=".//marc:datafield[@tag='035'][marc:subfield='Inspire']/marc:subfield[@code='a']"/>
         <publication>
             <key>
-                <xsl:value-of select="concat('researchgraph.org/inspirehep',$local_id)"/>
+                <xsl:value-of select="concat('researchgraph.org/inspirehep/',$local_id)"/>
             </key>
             <source>
                 <xsl:value-of select="$source"/>

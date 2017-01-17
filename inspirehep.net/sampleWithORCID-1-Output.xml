@@ -3,7 +3,7 @@
                  xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
    <publications>
       <publication>
-         <key>researchgraph.org/inspirehep1418045</key>
+         <key>researchgraph.org/inspirehep/1418045</key>
          <source>inspirehep.net</source>
          <local_id>1418045</local_id>
          <last_updated>2016-08-26T13:15:39Z</last_updated>
@@ -14,7 +14,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418046</key>
+         <key>researchgraph.org/inspirehep/1418046</key>
          <source>inspirehep.net</source>
          <local_id>1418046</local_id>
          <last_updated>2016-08-26T13:13:34Z</last_updated>
@@ -25,7 +25,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418047</key>
+         <key>researchgraph.org/inspirehep/1418047</key>
          <source>inspirehep.net</source>
          <local_id>1418047</local_id>
          <last_updated>2016-08-26T13:13:18Z</last_updated>
@@ -36,7 +36,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418048</key>
+         <key>researchgraph.org/inspirehep/1418048</key>
          <source>inspirehep.net</source>
          <local_id>1418048</local_id>
          <last_updated>2016-08-26T13:10:51Z</last_updated>
@@ -47,7 +47,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418049</key>
+         <key>researchgraph.org/inspirehep/1418049</key>
          <source>inspirehep.net</source>
          <local_id>1418049</local_id>
          <last_updated>2016-08-26T13:10:44Z</last_updated>
@@ -58,7 +58,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418050</key>
+         <key>researchgraph.org/inspirehep/1418050</key>
          <source>inspirehep.net</source>
          <local_id>1418050</local_id>
          <last_updated>2016-08-26T13:10:37Z</last_updated>
@@ -68,7 +68,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418051</key>
+         <key>researchgraph.org/inspirehep/1418051</key>
          <source>inspirehep.net</source>
          <local_id>1418051</local_id>
          <last_updated>2016-08-26T13:03:13Z</last_updated>
@@ -79,7 +79,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418052</key>
+         <key>researchgraph.org/inspirehep/1418052</key>
          <source>inspirehep.net</source>
          <local_id>1418052</local_id>
          <last_updated>2016-08-26T13:02:13Z</last_updated>
@@ -90,7 +90,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418053</key>
+         <key>researchgraph.org/inspirehep/1418053</key>
          <source>inspirehep.net</source>
          <local_id>1418053</local_id>
          <last_updated>2016-08-26T13:01:44Z</last_updated>
@@ -101,7 +101,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418054</key>
+         <key>researchgraph.org/inspirehep/1418054</key>
          <source>inspirehep.net</source>
          <local_id>1418054</local_id>
          <last_updated>2016-08-26T13:01:36Z</last_updated>
@@ -111,7 +111,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418078</key>
+         <key>researchgraph.org/inspirehep/1418078</key>
          <source>inspirehep.net</source>
          <local_id>1418078</local_id>
          <last_updated>2016-08-26T13:01:30Z</last_updated>
@@ -122,7 +122,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418104</key>
+         <key>researchgraph.org/inspirehep/1418104</key>
          <source>inspirehep.net</source>
          <local_id>1418104</local_id>
          <last_updated>2016-08-26T13:00:17Z</last_updated>
@@ -133,7 +133,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418622</key>
+         <key>researchgraph.org/inspirehep/1418622</key>
          <source>inspirehep.net</source>
          <local_id>1418622</local_id>
          <last_updated>2016-08-26T12:59:31Z</last_updated>
@@ -144,7 +144,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418684</key>
+         <key>researchgraph.org/inspirehep/1418684</key>
          <source>inspirehep.net</source>
          <local_id>1418684</local_id>
          <last_updated>2016-08-26T12:58:17Z</last_updated>
@@ -155,7 +155,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418686</key>
+         <key>researchgraph.org/inspirehep/1418686</key>
          <source>inspirehep.net</source>
          <local_id>1418686</local_id>
          <last_updated>2016-08-26T12:57:59Z</last_updated>
@@ -166,7 +166,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418687</key>
+         <key>researchgraph.org/inspirehep/1418687</key>
          <source>inspirehep.net</source>
          <local_id>1418687</local_id>
          <last_updated>2016-08-26T12:57:34Z</last_updated>
@@ -177,7 +177,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418688</key>
+         <key>researchgraph.org/inspirehep/1418688</key>
          <source>inspirehep.net</source>
          <local_id>1418688</local_id>
          <last_updated>2016-08-26T12:57:27Z</last_updated>
@@ -188,7 +188,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418689</key>
+         <key>researchgraph.org/inspirehep/1418689</key>
          <source>inspirehep.net</source>
          <local_id>1418689</local_id>
          <last_updated>2016-08-26T12:55:50Z</last_updated>
@@ -198,7 +198,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418690</key>
+         <key>researchgraph.org/inspirehep/1418690</key>
          <source>inspirehep.net</source>
          <local_id>1418690</local_id>
          <last_updated>2016-08-26T12:54:42Z</last_updated>
@@ -209,7 +209,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418691</key>
+         <key>researchgraph.org/inspirehep/1418691</key>
          <source>inspirehep.net</source>
          <local_id>1418691</local_id>
          <last_updated>2016-08-26T12:53:23Z</last_updated>
@@ -220,7 +220,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418692</key>
+         <key>researchgraph.org/inspirehep/1418692</key>
          <source>inspirehep.net</source>
          <local_id>1418692</local_id>
          <last_updated>2016-08-26T12:53:16Z</last_updated>
@@ -230,7 +230,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418693</key>
+         <key>researchgraph.org/inspirehep/1418693</key>
          <source>inspirehep.net</source>
          <local_id>1418693</local_id>
          <last_updated>2016-08-26T12:53:03Z</last_updated>
@@ -241,7 +241,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418694</key>
+         <key>researchgraph.org/inspirehep/1418694</key>
          <source>inspirehep.net</source>
          <local_id>1418694</local_id>
          <last_updated>2016-08-26T12:52:56Z</last_updated>
@@ -252,7 +252,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418695</key>
+         <key>researchgraph.org/inspirehep/1418695</key>
          <source>inspirehep.net</source>
          <local_id>1418695</local_id>
          <last_updated>2016-08-26T12:52:41Z</last_updated>
@@ -263,7 +263,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418697</key>
+         <key>researchgraph.org/inspirehep/1418697</key>
          <source>inspirehep.net</source>
          <local_id>1418697</local_id>
          <last_updated>2016-08-26T12:52:27Z</last_updated>
@@ -273,7 +273,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418698</key>
+         <key>researchgraph.org/inspirehep/1418698</key>
          <source>inspirehep.net</source>
          <local_id>1418698</local_id>
          <last_updated>2016-08-26T12:45:43Z</last_updated>
@@ -284,7 +284,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418699</key>
+         <key>researchgraph.org/inspirehep/1418699</key>
          <source>inspirehep.net</source>
          <local_id>1418699</local_id>
          <last_updated>2016-08-26T12:43:59Z</last_updated>
@@ -295,7 +295,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418700</key>
+         <key>researchgraph.org/inspirehep/1418700</key>
          <source>inspirehep.net</source>
          <local_id>1418700</local_id>
          <last_updated>2016-08-26T12:43:32Z</last_updated>
@@ -306,7 +306,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418701</key>
+         <key>researchgraph.org/inspirehep/1418701</key>
          <source>inspirehep.net</source>
          <local_id>1418701</local_id>
          <last_updated>2016-08-26T12:38:45Z</last_updated>
@@ -316,7 +316,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418702</key>
+         <key>researchgraph.org/inspirehep/1418702</key>
          <source>inspirehep.net</source>
          <local_id>1418702</local_id>
          <last_updated>2016-08-26T12:17:12Z</last_updated>
@@ -327,7 +327,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418703</key>
+         <key>researchgraph.org/inspirehep/1418703</key>
          <source>inspirehep.net</source>
          <local_id>1418703</local_id>
          <last_updated>2016-08-26T09:52:15Z</last_updated>
@@ -337,7 +337,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418704</key>
+         <key>researchgraph.org/inspirehep/1418704</key>
          <source>inspirehep.net</source>
          <local_id>1418704</local_id>
          <last_updated>2016-08-26T09:20:50Z</last_updated>
@@ -348,7 +348,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1434980</key>
+         <key>researchgraph.org/inspirehep/1434980</key>
          <source>inspirehep.net</source>
          <local_id>1434980</local_id>
          <last_updated>2016-08-05T06:00:46Z</last_updated>
@@ -360,7 +360,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1434981</key>
+         <key>researchgraph.org/inspirehep/1434981</key>
          <source>inspirehep.net</source>
          <local_id>1434981</local_id>
          <last_updated>2016-08-05T06:00:46Z</last_updated>
@@ -372,7 +372,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1434984</key>
+         <key>researchgraph.org/inspirehep/1434984</key>
          <source>inspirehep.net</source>
          <local_id>1434984</local_id>
          <last_updated>2016-06-29T19:05:44Z</last_updated>
@@ -383,7 +383,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1435055</key>
+         <key>researchgraph.org/inspirehep/1435055</key>
          <source>inspirehep.net</source>
          <local_id>1435055</local_id>
          <last_updated>2016-06-30T03:26:35Z</last_updated>
@@ -393,7 +393,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1435087</key>
+         <key>researchgraph.org/inspirehep/1435087</key>
          <source>inspirehep.net</source>
          <local_id>1435087</local_id>
          <last_updated>2016-05-18T14:05:16Z</last_updated>
@@ -404,7 +404,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436497</key>
+         <key>researchgraph.org/inspirehep/1436497</key>
          <source>inspirehep.net</source>
          <local_id>1436497</local_id>
          <last_updated>2016-08-08T07:35:56Z</last_updated>
@@ -416,7 +416,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436496</key>
+         <key>researchgraph.org/inspirehep/1436496</key>
          <source>inspirehep.net</source>
          <local_id>1436496</local_id>
          <last_updated>2016-06-30T02:22:03Z</last_updated>
@@ -428,7 +428,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1417871</key>
+         <key>researchgraph.org/inspirehep/1417871</key>
          <source>inspirehep.net</source>
          <local_id>1417871</local_id>
          <last_updated>2016-03-31T20:51:54Z</last_updated>
@@ -439,7 +439,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1417947</key>
+         <key>researchgraph.org/inspirehep/1417947</key>
          <source>inspirehep.net</source>
          <local_id>1417947</local_id>
          <last_updated>2016-03-31T20:51:55Z</last_updated>
@@ -450,7 +450,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418648</key>
+         <key>researchgraph.org/inspirehep/1418648</key>
          <source>inspirehep.net</source>
          <local_id>1418648</local_id>
          <last_updated>2016-03-31T20:51:55Z</last_updated>
@@ -461,7 +461,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1418710</key>
+         <key>researchgraph.org/inspirehep/1418710</key>
          <source>inspirehep.net</source>
          <local_id>1418710</local_id>
          <last_updated>2016-07-04T08:54:49Z</last_updated>
@@ -472,7 +472,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436309</key>
+         <key>researchgraph.org/inspirehep/1436309</key>
          <source>inspirehep.net</source>
          <local_id>1436309</local_id>
          <last_updated>2016-03-31T20:51:55Z</last_updated>
@@ -483,7 +483,7 @@
          <publication_year>2003</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436353</key>
+         <key>researchgraph.org/inspirehep/1436353</key>
          <source>inspirehep.net</source>
          <local_id>1436353</local_id>
          <last_updated>2016-06-28T04:37:36Z</last_updated>
@@ -494,7 +494,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436356</key>
+         <key>researchgraph.org/inspirehep/1436356</key>
          <source>inspirehep.net</source>
          <local_id>1436356</local_id>
          <last_updated>2016-04-07T21:33:50Z</last_updated>
@@ -505,7 +505,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436359</key>
+         <key>researchgraph.org/inspirehep/1436359</key>
          <source>inspirehep.net</source>
          <local_id>1436359</local_id>
          <last_updated>2016-06-30T06:47:22Z</last_updated>
@@ -516,7 +516,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436360</key>
+         <key>researchgraph.org/inspirehep/1436360</key>
          <source>inspirehep.net</source>
          <local_id>1436360</local_id>
          <last_updated>2016-06-30T06:47:22Z</last_updated>
@@ -527,7 +527,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436362</key>
+         <key>researchgraph.org/inspirehep/1436362</key>
          <source>inspirehep.net</source>
          <local_id>1436362</local_id>
          <last_updated>2016-06-30T06:48:08Z</last_updated>
@@ -540,7 +540,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436364</key>
+         <key>researchgraph.org/inspirehep/1436364</key>
          <source>inspirehep.net</source>
          <local_id>1436364</local_id>
          <last_updated>2016-06-30T06:48:08Z</last_updated>
@@ -551,7 +551,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436366</key>
+         <key>researchgraph.org/inspirehep/1436366</key>
          <source>inspirehep.net</source>
          <local_id>1436366</local_id>
          <last_updated>2016-08-25T06:23:57Z</last_updated>
@@ -563,7 +563,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436367</key>
+         <key>researchgraph.org/inspirehep/1436367</key>
          <source>inspirehep.net</source>
          <local_id>1436367</local_id>
          <last_updated>2016-07-04T09:01:27Z</last_updated>
@@ -574,7 +574,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436380</key>
+         <key>researchgraph.org/inspirehep/1436380</key>
          <source>inspirehep.net</source>
          <local_id>1436380</local_id>
          <last_updated>2016-05-18T14:05:45Z</last_updated>
@@ -585,7 +585,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1415495</key>
+         <key>researchgraph.org/inspirehep/1415495</key>
          <source>inspirehep.net</source>
          <local_id>1415495</local_id>
          <last_updated>2016-03-31T20:51:58Z</last_updated>
@@ -597,7 +597,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1118992</key>
+         <key>researchgraph.org/inspirehep/1118992</key>
          <source>inspirehep.net</source>
          <local_id>1118992</local_id>
          <last_updated>2016-03-31T20:52:01Z</last_updated>
@@ -608,7 +608,7 @@
          <publication_year>2012</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436546</key>
+         <key>researchgraph.org/inspirehep/1436546</key>
          <source>inspirehep.net</source>
          <local_id>1436546</local_id>
          <last_updated>2016-04-02T21:41:40Z</last_updated>
@@ -619,7 +619,7 @@
          <authors_list>Palmer. Jody David , Hawkes. Chris</authors_list>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436474</key>
+         <key>researchgraph.org/inspirehep/1436474</key>
          <source>inspirehep.net</source>
          <local_id>1436474</local_id>
          <last_updated>2016-07-01T06:16:43Z</last_updated>
@@ -631,7 +631,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1436488</key>
+         <key>researchgraph.org/inspirehep/1436488</key>
          <source>inspirehep.net</source>
          <local_id>1436488</local_id>
          <last_updated>2016-09-14T09:40:19Z</last_updated>
@@ -643,7 +643,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1437942</key>
+         <key>researchgraph.org/inspirehep/1437942</key>
          <source>inspirehep.net</source>
          <local_id>1437942</local_id>
          <last_updated>2016-04-07T21:33:51Z</last_updated>
@@ -655,7 +655,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1437943</key>
+         <key>researchgraph.org/inspirehep/1437943</key>
          <source>inspirehep.net</source>
          <local_id>1437943</local_id>
          <last_updated>2016-07-01T10:20:47Z</last_updated>
@@ -667,7 +667,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1437945</key>
+         <key>researchgraph.org/inspirehep/1437945</key>
          <source>inspirehep.net</source>
          <local_id>1437945</local_id>
          <last_updated>2016-06-23T06:49:44Z</last_updated>
@@ -679,7 +679,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1437946</key>
+         <key>researchgraph.org/inspirehep/1437946</key>
          <source>inspirehep.net</source>
          <local_id>1437946</local_id>
          <last_updated>2016-07-01T10:20:50Z</last_updated>
@@ -690,7 +690,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1437947</key>
+         <key>researchgraph.org/inspirehep/1437947</key>
          <source>inspirehep.net</source>
          <local_id>1437947</local_id>
          <last_updated>2016-06-30T05:52:35Z</last_updated>
@@ -702,7 +702,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1437959</key>
+         <key>researchgraph.org/inspirehep/1437959</key>
          <source>inspirehep.net</source>
          <local_id>1437959</local_id>
          <last_updated>2016-06-23T06:51:58Z</last_updated>
@@ -713,7 +713,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1439770</key>
+         <key>researchgraph.org/inspirehep/1439770</key>
          <source>inspirehep.net</source>
          <local_id>1439770</local_id>
          <last_updated>2016-06-29T04:25:50Z</last_updated>
@@ -725,7 +725,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1439771</key>
+         <key>researchgraph.org/inspirehep/1439771</key>
          <source>inspirehep.net</source>
          <local_id>1439771</local_id>
          <last_updated>2016-06-29T15:42:40Z</last_updated>
@@ -736,7 +736,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1439772</key>
+         <key>researchgraph.org/inspirehep/1439772</key>
          <source>inspirehep.net</source>
          <local_id>1439772</local_id>
          <last_updated>2016-04-07T21:33:51Z</last_updated>
@@ -747,7 +747,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1439773</key>
+         <key>researchgraph.org/inspirehep/1439773</key>
          <source>inspirehep.net</source>
          <local_id>1439773</local_id>
          <last_updated>2016-04-07T21:33:51Z</last_updated>
@@ -758,7 +758,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1439792</key>
+         <key>researchgraph.org/inspirehep/1439792</key>
          <source>inspirehep.net</source>
          <local_id>1439792</local_id>
          <last_updated>2016-06-29T22:40:35Z</last_updated>
@@ -768,7 +768,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1442359</key>
+         <key>researchgraph.org/inspirehep/1442359</key>
          <source>inspirehep.net</source>
          <local_id>1442359</local_id>
          <last_updated>2016-07-04T09:06:55Z</last_updated>
@@ -781,7 +781,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1282509</key>
+         <key>researchgraph.org/inspirehep/1282509</key>
          <source>inspirehep.net</source>
          <local_id>1282509</local_id>
          <last_updated>2016-06-30T05:00:15Z</last_updated>
@@ -792,7 +792,7 @@
          <publication_year>2014</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1282962</key>
+         <key>researchgraph.org/inspirehep/1282962</key>
          <source>inspirehep.net</source>
          <local_id>1282962</local_id>
          <last_updated>2016-06-30T05:00:15Z</last_updated>
@@ -803,7 +803,7 @@
          <publication_year>2014</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1397049</key>
+         <key>researchgraph.org/inspirehep/1397049</key>
          <source>inspirehep.net</source>
          <local_id>1397049</local_id>
          <last_updated>2016-04-07T21:33:52Z</last_updated>
@@ -814,7 +814,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1415403</key>
+         <key>researchgraph.org/inspirehep/1415403</key>
          <source>inspirehep.net</source>
          <local_id>1415403</local_id>
          <last_updated>2016-07-04T09:10:14Z</last_updated>
@@ -824,7 +824,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1415411</key>
+         <key>researchgraph.org/inspirehep/1415411</key>
          <source>inspirehep.net</source>
          <local_id>1415411</local_id>
          <last_updated>2016-07-04T09:10:14Z</last_updated>
@@ -835,7 +835,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1415419</key>
+         <key>researchgraph.org/inspirehep/1415419</key>
          <source>inspirehep.net</source>
          <local_id>1415419</local_id>
          <last_updated>2016-07-04T09:10:14Z</last_updated>
@@ -845,7 +845,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1415421</key>
+         <key>researchgraph.org/inspirehep/1415421</key>
          <source>inspirehep.net</source>
          <local_id>1415421</local_id>
          <last_updated>2016-07-04T09:10:14Z</last_updated>
@@ -855,7 +855,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1415425</key>
+         <key>researchgraph.org/inspirehep/1415425</key>
          <source>inspirehep.net</source>
          <local_id>1415425</local_id>
          <last_updated>2016-07-04T09:10:14Z</last_updated>
@@ -866,7 +866,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1426282</key>
+         <key>researchgraph.org/inspirehep/1426282</key>
          <source>inspirehep.net</source>
          <local_id>1426282</local_id>
          <last_updated>2016-07-05T09:22:17Z</last_updated>
@@ -877,7 +877,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1440858</key>
+         <key>researchgraph.org/inspirehep/1440858</key>
          <source>inspirehep.net</source>
          <local_id>1440858</local_id>
          <last_updated>2016-04-28T08:11:39Z</last_updated>
@@ -889,7 +889,7 @@
          <publication_year>1972</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1480133</key>
+         <key>researchgraph.org/inspirehep/1480133</key>
          <source>inspirehep.net</source>
          <local_id>1480133</local_id>
          <last_updated>2016-08-19T06:18:44Z</last_updated>
@@ -901,7 +901,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1441198</key>
+         <key>researchgraph.org/inspirehep/1441198</key>
          <source>inspirehep.net</source>
          <local_id>1441198</local_id>
          <last_updated>2016-05-18T14:05:52Z</last_updated>
@@ -911,7 +911,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1442382</key>
+         <key>researchgraph.org/inspirehep/1442382</key>
          <source>inspirehep.net</source>
          <local_id>1442382</local_id>
          <last_updated>2016-08-13T06:24:56Z</last_updated>
@@ -923,7 +923,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1442386</key>
+         <key>researchgraph.org/inspirehep/1442386</key>
          <source>inspirehep.net</source>
          <local_id>1442386</local_id>
          <last_updated>2016-07-21T06:39:11Z</last_updated>
@@ -935,7 +935,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1444343</key>
+         <key>researchgraph.org/inspirehep/1444343</key>
          <source>inspirehep.net</source>
          <local_id>1444343</local_id>
          <last_updated>2016-07-12T05:35:00Z</last_updated>
@@ -948,7 +948,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1444339</key>
+         <key>researchgraph.org/inspirehep/1444339</key>
          <source>inspirehep.net</source>
          <local_id>1444339</local_id>
          <last_updated>2016-06-30T03:26:32Z</last_updated>
@@ -960,7 +960,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1444340</key>
+         <key>researchgraph.org/inspirehep/1444340</key>
          <source>inspirehep.net</source>
          <local_id>1444340</local_id>
          <last_updated>2016-06-30T03:26:35Z</last_updated>
@@ -971,7 +971,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1426617</key>
+         <key>researchgraph.org/inspirehep/1426617</key>
          <source>inspirehep.net</source>
          <local_id>1426617</local_id>
          <last_updated>2016-06-30T08:07:52Z</last_updated>
@@ -982,7 +982,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1426618</key>
+         <key>researchgraph.org/inspirehep/1426618</key>
          <source>inspirehep.net</source>
          <local_id>1426618</local_id>
          <last_updated>2016-06-30T08:11:18Z</last_updated>
@@ -992,7 +992,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1426619</key>
+         <key>researchgraph.org/inspirehep/1426619</key>
          <source>inspirehep.net</source>
          <local_id>1426619</local_id>
          <last_updated>2016-06-30T08:07:54Z</last_updated>
@@ -1003,7 +1003,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1426621</key>
+         <key>researchgraph.org/inspirehep/1426621</key>
          <source>inspirehep.net</source>
          <local_id>1426621</local_id>
          <last_updated>2016-06-30T08:11:18Z</last_updated>
@@ -1014,7 +1014,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1426623</key>
+         <key>researchgraph.org/inspirehep/1426623</key>
          <source>inspirehep.net</source>
          <local_id>1426623</local_id>
          <last_updated>2016-06-30T08:11:18Z</last_updated>
@@ -1025,7 +1025,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1426625</key>
+         <key>researchgraph.org/inspirehep/1426625</key>
          <source>inspirehep.net</source>
          <local_id>1426625</local_id>
          <last_updated>2016-06-30T08:07:55Z</last_updated>
@@ -1036,7 +1036,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1427127</key>
+         <key>researchgraph.org/inspirehep/1427127</key>
          <source>inspirehep.net</source>
          <local_id>1427127</local_id>
          <last_updated>2016-06-30T01:50:50Z</last_updated>
@@ -1048,7 +1048,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1444516</key>
+         <key>researchgraph.org/inspirehep/1444516</key>
          <source>inspirehep.net</source>
          <local_id>1444516</local_id>
          <last_updated>2016-07-21T21:47:59Z</last_updated>
@@ -1060,7 +1060,7 @@
          <publication_year>2001</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1444888</key>
+         <key>researchgraph.org/inspirehep/1444888</key>
          <source>inspirehep.net</source>
          <local_id>1444888</local_id>
          <last_updated>2016-08-13T06:24:56Z</last_updated>
@@ -1072,7 +1072,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1479850</key>
+         <key>researchgraph.org/inspirehep/1479850</key>
          <source>inspirehep.net</source>
          <local_id>1479850</local_id>
          <last_updated>2016-04-14T08:45:01Z</last_updated>
@@ -1084,7 +1084,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1444991</key>
+         <key>researchgraph.org/inspirehep/1444991</key>
          <source>inspirehep.net</source>
          <local_id>1444991</local_id>
          <last_updated>2016-09-14T09:47:28Z</last_updated>
@@ -1098,7 +1098,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1444985</key>
+         <key>researchgraph.org/inspirehep/1444985</key>
          <source>inspirehep.net</source>
          <local_id>1444985</local_id>
          <last_updated>2016-09-07T15:29:55Z</last_updated>
@@ -1109,7 +1109,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1445117</key>
+         <key>researchgraph.org/inspirehep/1445117</key>
          <source>inspirehep.net</source>
          <local_id>1445117</local_id>
          <last_updated>2016-07-08T22:35:10Z</last_updated>
@@ -1119,7 +1119,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1445118</key>
+         <key>researchgraph.org/inspirehep/1445118</key>
          <source>inspirehep.net</source>
          <local_id>1445118</local_id>
          <last_updated>2016-09-14T09:44:17Z</last_updated>
@@ -1131,7 +1131,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1445130</key>
+         <key>researchgraph.org/inspirehep/1445130</key>
          <source>inspirehep.net</source>
          <local_id>1445130</local_id>
          <last_updated>2016-07-01T10:21:48Z</last_updated>
@@ -1142,7 +1142,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1445135</key>
+         <key>researchgraph.org/inspirehep/1445135</key>
          <source>inspirehep.net</source>
          <local_id>1445135</local_id>
          <last_updated>2016-05-18T14:05:59Z</last_updated>
@@ -1153,7 +1153,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1445146</key>
+         <key>researchgraph.org/inspirehep/1445146</key>
          <source>inspirehep.net</source>
          <local_id>1445146</local_id>
          <last_updated>2016-09-13T13:00:48Z</last_updated>
@@ -1165,7 +1165,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1445032</key>
+         <key>researchgraph.org/inspirehep/1445032</key>
          <source>inspirehep.net</source>
          <local_id>1445032</local_id>
          <last_updated>2016-06-29T20:18:06Z</last_updated>
@@ -1175,7 +1175,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1384366</key>
+         <key>researchgraph.org/inspirehep/1384366</key>
          <source>inspirehep.net</source>
          <local_id>1384366</local_id>
          <last_updated>2016-04-15T21:26:42Z</last_updated>
@@ -1187,7 +1187,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1384371</key>
+         <key>researchgraph.org/inspirehep/1384371</key>
          <source>inspirehep.net</source>
          <local_id>1384371</local_id>
          <last_updated>2016-04-15T21:26:42Z</last_updated>
@@ -1199,7 +1199,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1384374</key>
+         <key>researchgraph.org/inspirehep/1384374</key>
          <source>inspirehep.net</source>
          <local_id>1384374</local_id>
          <last_updated>2016-06-30T06:03:08Z</last_updated>
@@ -1212,7 +1212,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1384381</key>
+         <key>researchgraph.org/inspirehep/1384381</key>
          <source>inspirehep.net</source>
          <local_id>1384381</local_id>
          <last_updated>2016-04-15T21:26:42Z</last_updated>
@@ -1224,7 +1224,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1407063</key>
+         <key>researchgraph.org/inspirehep/1407063</key>
          <source>inspirehep.net</source>
          <local_id>1407063</local_id>
          <last_updated>2016-07-05T08:58:48Z</last_updated>
@@ -1236,7 +1236,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1446750</key>
+         <key>researchgraph.org/inspirehep/1446750</key>
          <source>inspirehep.net</source>
          <local_id>1446750</local_id>
          <last_updated>2016-07-01T07:30:09Z</last_updated>
@@ -1249,7 +1249,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1372523</key>
+         <key>researchgraph.org/inspirehep/1372523</key>
          <source>inspirehep.net</source>
          <local_id>1372523</local_id>
          <last_updated>2016-07-05T09:11:12Z</last_updated>
@@ -1260,7 +1260,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1407060</key>
+         <key>researchgraph.org/inspirehep/1407060</key>
          <source>inspirehep.net</source>
          <local_id>1407060</local_id>
          <last_updated>2016-07-05T08:58:07Z</last_updated>
@@ -1272,7 +1272,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1446752</key>
+         <key>researchgraph.org/inspirehep/1446752</key>
          <source>inspirehep.net</source>
          <local_id>1446752</local_id>
          <last_updated>2016-06-29T23:30:49Z</last_updated>
@@ -1284,7 +1284,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1446983</key>
+         <key>researchgraph.org/inspirehep/1446983</key>
          <source>inspirehep.net</source>
          <local_id>1446983</local_id>
          <last_updated>2016-06-29T15:43:45Z</last_updated>
@@ -1295,7 +1295,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1448101</key>
+         <key>researchgraph.org/inspirehep/1448101</key>
          <source>inspirehep.net</source>
          <local_id>1448101</local_id>
          <last_updated>2016-08-01T15:08:33Z</last_updated>
@@ -1308,7 +1308,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1346197</key>
+         <key>researchgraph.org/inspirehep/1346197</key>
          <source>inspirehep.net</source>
          <local_id>1346197</local_id>
          <last_updated>2016-06-29T15:45:38Z</last_updated>
@@ -1319,7 +1319,7 @@
          <publication_year>2014</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1446927</key>
+         <key>researchgraph.org/inspirehep/1446927</key>
          <source>inspirehep.net</source>
          <local_id>1446927</local_id>
          <last_updated>2016-08-01T15:08:27Z</last_updated>
@@ -1331,7 +1331,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1446735</key>
+         <key>researchgraph.org/inspirehep/1446735</key>
          <source>inspirehep.net</source>
          <local_id>1446735</local_id>
          <last_updated>2016-05-18T14:05:52Z</last_updated>
@@ -1342,7 +1342,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1446748</key>
+         <key>researchgraph.org/inspirehep/1446748</key>
          <source>inspirehep.net</source>
          <local_id>1446748</local_id>
          <last_updated>2016-04-20T22:00:44Z</last_updated>
@@ -1353,7 +1353,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1446751</key>
+         <key>researchgraph.org/inspirehep/1446751</key>
          <source>inspirehep.net</source>
          <local_id>1446751</local_id>
          <last_updated>2016-09-13T13:00:46Z</last_updated>
@@ -1365,7 +1365,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1446979</key>
+         <key>researchgraph.org/inspirehep/1446979</key>
          <source>inspirehep.net</source>
          <local_id>1446979</local_id>
          <last_updated>2016-07-08T22:35:10Z</last_updated>
@@ -1376,7 +1376,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1448100</key>
+         <key>researchgraph.org/inspirehep/1448100</key>
          <source>inspirehep.net</source>
          <local_id>1448100</local_id>
          <last_updated>2016-09-14T09:47:20Z</last_updated>
@@ -1389,7 +1389,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1448302</key>
+         <key>researchgraph.org/inspirehep/1448302</key>
          <source>inspirehep.net</source>
          <local_id>1448302</local_id>
          <last_updated>2016-07-12T08:53:13Z</last_updated>
@@ -1402,7 +1402,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehepXX</key>
+         <key>researchgraph.org/inspirehep/XX</key>
          <source>inspirehep.net</source>
          <local_id>XX</local_id>
          <last_updated>2016-07-13T05:40:34Z</last_updated>
@@ -1412,7 +1412,7 @@
          <authors_list>Delannoy Sotomayor. Andres Guillermo , Johns. Will E , Berlind. Andreas , Kephart. Thomas , Sheldon. Paul , Velkovska. Julia , Johns. Willard Ellison</authors_list>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1448099</key>
+         <key>researchgraph.org/inspirehep/1448099</key>
          <source>inspirehep.net</source>
          <local_id>1448099</local_id>
          <last_updated>2016-06-08T21:46:05Z</last_updated>
@@ -1423,7 +1423,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1448102</key>
+         <key>researchgraph.org/inspirehep/1448102</key>
          <source>inspirehep.net</source>
          <local_id>1448102</local_id>
          <last_updated>2016-07-14T06:57:14Z</last_updated>
@@ -1435,7 +1435,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1448301</key>
+         <key>researchgraph.org/inspirehep/1448301</key>
          <source>inspirehep.net</source>
          <local_id>1448301</local_id>
          <last_updated>2016-08-01T14:58:38Z</last_updated>
@@ -1447,7 +1447,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1448299</key>
+         <key>researchgraph.org/inspirehep/1448299</key>
          <source>inspirehep.net</source>
          <local_id>1448299</local_id>
          <last_updated>2016-06-30T01:28:59Z</last_updated>
@@ -1457,7 +1457,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1448308</key>
+         <key>researchgraph.org/inspirehep/1448308</key>
          <source>inspirehep.net</source>
          <local_id>1448308</local_id>
          <last_updated>2016-06-08T21:46:05Z</last_updated>
@@ -1467,7 +1467,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1449080</key>
+         <key>researchgraph.org/inspirehep/1449080</key>
          <source>inspirehep.net</source>
          <local_id>1449080</local_id>
          <last_updated>2016-06-29T23:35:26Z</last_updated>
@@ -1478,7 +1478,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1449082</key>
+         <key>researchgraph.org/inspirehep/1449082</key>
          <source>inspirehep.net</source>
          <local_id>1449082</local_id>
          <last_updated>2016-09-14T11:29:32Z</last_updated>
@@ -1491,7 +1491,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1452590</key>
+         <key>researchgraph.org/inspirehep/1452590</key>
          <source>inspirehep.net</source>
          <local_id>1452590</local_id>
          <last_updated>2016-07-01T11:59:54Z</last_updated>
@@ -1502,7 +1502,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1452506</key>
+         <key>researchgraph.org/inspirehep/1452506</key>
          <source>inspirehep.net</source>
          <local_id>1452506</local_id>
          <last_updated>2016-05-19T13:16:20Z</last_updated>
@@ -1512,7 +1512,7 @@
          <authors_list>Alonso. Francisco , Dova. Maria Teresa</authors_list>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep492643</key>
+         <key>researchgraph.org/inspirehep/492643</key>
          <source>inspirehep.net</source>
          <local_id>492643</local_id>
          <last_updated>2016-04-21T22:20:38Z</last_updated>
@@ -1523,7 +1523,7 @@
          <publication_year>1998</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1257257</key>
+         <key>researchgraph.org/inspirehep/1257257</key>
          <source>inspirehep.net</source>
          <local_id>1257257</local_id>
          <last_updated>2016-06-29T23:11:43Z</last_updated>
@@ -1533,7 +1533,7 @@
          <publication_year>2013</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1447809</key>
+         <key>researchgraph.org/inspirehep/1447809</key>
          <source>inspirehep.net</source>
          <local_id>1447809</local_id>
          <last_updated>2016-06-08T21:46:06Z</last_updated>
@@ -1545,7 +1545,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1449888</key>
+         <key>researchgraph.org/inspirehep/1449888</key>
          <source>inspirehep.net</source>
          <local_id>1449888</local_id>
          <last_updated>2016-05-18T14:05:52Z</last_updated>
@@ -1556,7 +1556,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1449084</key>
+         <key>researchgraph.org/inspirehep/1449084</key>
          <source>inspirehep.net</source>
          <local_id>1449084</local_id>
          <last_updated>2016-06-29T17:27:27Z</last_updated>
@@ -1567,7 +1567,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1449086</key>
+         <key>researchgraph.org/inspirehep/1449086</key>
          <source>inspirehep.net</source>
          <local_id>1449086</local_id>
          <last_updated>2016-09-14T11:29:24Z</last_updated>
@@ -1579,7 +1579,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1449900</key>
+         <key>researchgraph.org/inspirehep/1449900</key>
          <source>inspirehep.net</source>
          <local_id>1449900</local_id>
          <last_updated>2016-06-29T17:27:38Z</last_updated>
@@ -1590,7 +1590,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1449095</key>
+         <key>researchgraph.org/inspirehep/1449095</key>
          <source>inspirehep.net</source>
          <local_id>1449095</local_id>
          <last_updated>2016-05-18T14:05:54Z</last_updated>
@@ -1601,7 +1601,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1449920</key>
+         <key>researchgraph.org/inspirehep/1449920</key>
          <source>inspirehep.net</source>
          <local_id>1449920</local_id>
          <last_updated>2016-06-29T17:58:04Z</last_updated>
@@ -1613,7 +1613,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1449991</key>
+         <key>researchgraph.org/inspirehep/1449991</key>
          <source>inspirehep.net</source>
          <local_id>1449991</local_id>
          <last_updated>2016-08-25T06:24:03Z</last_updated>
@@ -1624,7 +1624,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1449993</key>
+         <key>researchgraph.org/inspirehep/1449993</key>
          <source>inspirehep.net</source>
          <local_id>1449993</local_id>
          <last_updated>2016-05-18T14:05:48Z</last_updated>
@@ -1635,7 +1635,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1450010</key>
+         <key>researchgraph.org/inspirehep/1450010</key>
          <source>inspirehep.net</source>
          <local_id>1450010</local_id>
          <last_updated>2016-08-25T06:26:51Z</last_updated>
@@ -1647,7 +1647,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1451639</key>
+         <key>researchgraph.org/inspirehep/1451639</key>
          <source>inspirehep.net</source>
          <local_id>1451639</local_id>
          <last_updated>2016-09-14T09:47:24Z</last_updated>
@@ -1659,7 +1659,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1451641</key>
+         <key>researchgraph.org/inspirehep/1451641</key>
          <source>inspirehep.net</source>
          <local_id>1451641</local_id>
          <last_updated>2016-06-30T06:23:56Z</last_updated>
@@ -1670,7 +1670,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1450040</key>
+         <key>researchgraph.org/inspirehep/1450040</key>
          <source>inspirehep.net</source>
          <local_id>1450040</local_id>
          <last_updated>2016-06-30T06:10:17Z</last_updated>
@@ -1681,7 +1681,7 @@
          <publication_year>2003</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1452557</key>
+         <key>researchgraph.org/inspirehep/1452557</key>
          <source>inspirehep.net</source>
          <local_id>1452557</local_id>
          <last_updated>2016-09-07T15:29:22Z</last_updated>
@@ -1692,7 +1692,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1452559</key>
+         <key>researchgraph.org/inspirehep/1452559</key>
          <source>inspirehep.net</source>
          <local_id>1452559</local_id>
          <last_updated>2016-09-14T11:29:23Z</last_updated>
@@ -1705,7 +1705,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1397009</key>
+         <key>researchgraph.org/inspirehep/1397009</key>
          <source>inspirehep.net</source>
          <local_id>1397009</local_id>
          <last_updated>2016-05-18T14:08:51Z</last_updated>
@@ -1716,7 +1716,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1411567</key>
+         <key>researchgraph.org/inspirehep/1411567</key>
          <source>inspirehep.net</source>
          <local_id>1411567</local_id>
          <last_updated>2016-06-29T20:40:28Z</last_updated>
@@ -1728,7 +1728,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1411571</key>
+         <key>researchgraph.org/inspirehep/1411571</key>
          <source>inspirehep.net</source>
          <local_id>1411571</local_id>
          <last_updated>2016-06-29T20:40:28Z</last_updated>
@@ -1740,7 +1740,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1412165</key>
+         <key>researchgraph.org/inspirehep/1412165</key>
          <source>inspirehep.net</source>
          <local_id>1412165</local_id>
          <last_updated>2016-06-28T17:39:01Z</last_updated>
@@ -1752,7 +1752,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1413064</key>
+         <key>researchgraph.org/inspirehep/1413064</key>
          <source>inspirehep.net</source>
          <local_id>1413064</local_id>
          <last_updated>2016-06-29T20:40:27Z</last_updated>
@@ -1764,7 +1764,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1414136</key>
+         <key>researchgraph.org/inspirehep/1414136</key>
          <source>inspirehep.net</source>
          <local_id>1414136</local_id>
          <last_updated>2016-04-28T07:29:47Z</last_updated>
@@ -1776,7 +1776,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1451765</key>
+         <key>researchgraph.org/inspirehep/1451765</key>
          <source>inspirehep.net</source>
          <local_id>1451765</local_id>
          <last_updated>2016-06-28T04:31:33Z</last_updated>
@@ -1786,7 +1786,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1452554</key>
+         <key>researchgraph.org/inspirehep/1452554</key>
          <source>inspirehep.net</source>
          <local_id>1452554</local_id>
          <last_updated>2016-04-28T21:03:01Z</last_updated>
@@ -1797,7 +1797,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1451780</key>
+         <key>researchgraph.org/inspirehep/1451780</key>
          <source>inspirehep.net</source>
          <local_id>1451780</local_id>
          <last_updated>2016-05-18T14:38:04Z</last_updated>
@@ -1807,7 +1807,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1451787</key>
+         <key>researchgraph.org/inspirehep/1451787</key>
          <source>inspirehep.net</source>
          <local_id>1451787</local_id>
          <last_updated>2016-06-30T03:31:33Z</last_updated>
@@ -1818,7 +1818,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1452589</key>
+         <key>researchgraph.org/inspirehep/1452589</key>
          <source>inspirehep.net</source>
          <local_id>1452589</local_id>
          <last_updated>2016-07-04T09:21:56Z</last_updated>
@@ -1829,7 +1829,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1452701</key>
+         <key>researchgraph.org/inspirehep/1452701</key>
          <source>inspirehep.net</source>
          <local_id>1452701</local_id>
          <last_updated>2016-05-18T14:05:50Z</last_updated>
@@ -1840,7 +1840,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1384888</key>
+         <key>researchgraph.org/inspirehep/1384888</key>
          <source>inspirehep.net</source>
          <local_id>1384888</local_id>
          <last_updated>2016-05-18T21:57:43Z</last_updated>
@@ -1852,7 +1852,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1386582</key>
+         <key>researchgraph.org/inspirehep/1386582</key>
          <source>inspirehep.net</source>
          <local_id>1386582</local_id>
          <last_updated>2016-06-28T22:34:41Z</last_updated>
@@ -1865,7 +1865,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1387712</key>
+         <key>researchgraph.org/inspirehep/1387712</key>
          <source>inspirehep.net</source>
          <local_id>1387712</local_id>
          <last_updated>2016-06-28T22:34:41Z</last_updated>
@@ -1878,7 +1878,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1389057</key>
+         <key>researchgraph.org/inspirehep/1389057</key>
          <source>inspirehep.net</source>
          <local_id>1389057</local_id>
          <last_updated>2016-05-18T21:57:43Z</last_updated>
@@ -1890,7 +1890,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1391761</key>
+         <key>researchgraph.org/inspirehep/1391761</key>
          <source>inspirehep.net</source>
          <local_id>1391761</local_id>
          <last_updated>2016-06-28T22:35:28Z</last_updated>
@@ -1902,7 +1902,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1398468</key>
+         <key>researchgraph.org/inspirehep/1398468</key>
          <source>inspirehep.net</source>
          <local_id>1398468</local_id>
          <last_updated>2016-06-20T08:30:01Z</last_updated>
@@ -1915,7 +1915,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1399275</key>
+         <key>researchgraph.org/inspirehep/1399275</key>
          <source>inspirehep.net</source>
          <local_id>1399275</local_id>
          <last_updated>2016-05-02T13:17:54Z</last_updated>
@@ -1927,7 +1927,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1402705</key>
+         <key>researchgraph.org/inspirehep/1402705</key>
          <source>inspirehep.net</source>
          <local_id>1402705</local_id>
          <last_updated>2016-05-18T14:56:09Z</last_updated>
@@ -1939,7 +1939,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1403662</key>
+         <key>researchgraph.org/inspirehep/1403662</key>
          <source>inspirehep.net</source>
          <local_id>1403662</local_id>
          <last_updated>2016-06-28T22:34:39Z</last_updated>
@@ -1951,7 +1951,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1404091</key>
+         <key>researchgraph.org/inspirehep/1404091</key>
          <source>inspirehep.net</source>
          <local_id>1404091</local_id>
          <last_updated>2016-05-18T21:57:43Z</last_updated>
@@ -1963,7 +1963,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1404338</key>
+         <key>researchgraph.org/inspirehep/1404338</key>
          <source>inspirehep.net</source>
          <local_id>1404338</local_id>
          <last_updated>2016-06-29T22:46:42Z</last_updated>
@@ -1975,7 +1975,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1404768</key>
+         <key>researchgraph.org/inspirehep/1404768</key>
          <source>inspirehep.net</source>
          <local_id>1404768</local_id>
          <last_updated>2016-04-30T20:31:43Z</last_updated>
@@ -1987,7 +1987,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1404769</key>
+         <key>researchgraph.org/inspirehep/1404769</key>
          <source>inspirehep.net</source>
          <local_id>1404769</local_id>
          <last_updated>2016-04-30T20:31:43Z</last_updated>
@@ -1998,7 +1998,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1405556</key>
+         <key>researchgraph.org/inspirehep/1405556</key>
          <source>inspirehep.net</source>
          <local_id>1405556</local_id>
          <last_updated>2016-06-30T00:45:51Z</last_updated>
@@ -2011,7 +2011,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1406198</key>
+         <key>researchgraph.org/inspirehep/1406198</key>
          <source>inspirehep.net</source>
          <local_id>1406198</local_id>
          <last_updated>2016-04-30T20:31:43Z</last_updated>
@@ -2024,7 +2024,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1406773</key>
+         <key>researchgraph.org/inspirehep/1406773</key>
          <source>inspirehep.net</source>
          <local_id>1406773</local_id>
          <last_updated>2016-06-30T00:45:49Z</last_updated>
@@ -2036,7 +2036,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1407031</key>
+         <key>researchgraph.org/inspirehep/1407031</key>
          <source>inspirehep.net</source>
          <local_id>1407031</local_id>
          <last_updated>2016-05-18T14:22:09Z</last_updated>
@@ -2048,7 +2048,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1410660</key>
+         <key>researchgraph.org/inspirehep/1410660</key>
          <source>inspirehep.net</source>
          <local_id>1410660</local_id>
          <last_updated>2016-05-18T14:22:18Z</last_updated>
@@ -2060,7 +2060,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1410674</key>
+         <key>researchgraph.org/inspirehep/1410674</key>
          <source>inspirehep.net</source>
          <local_id>1410674</local_id>
          <last_updated>2016-04-30T20:31:44Z</last_updated>
@@ -2072,7 +2072,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1410675</key>
+         <key>researchgraph.org/inspirehep/1410675</key>
          <source>inspirehep.net</source>
          <local_id>1410675</local_id>
          <last_updated>2016-04-30T20:31:44Z</last_updated>
@@ -2084,7 +2084,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1410986</key>
+         <key>researchgraph.org/inspirehep/1410986</key>
          <source>inspirehep.net</source>
          <local_id>1410986</local_id>
          <last_updated>2016-05-18T14:22:26Z</last_updated>
@@ -2096,7 +2096,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1411929</key>
+         <key>researchgraph.org/inspirehep/1411929</key>
          <source>inspirehep.net</source>
          <local_id>1411929</local_id>
          <last_updated>2016-05-18T14:26:15Z</last_updated>
@@ -2108,7 +2108,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1414129</key>
+         <key>researchgraph.org/inspirehep/1414129</key>
          <source>inspirehep.net</source>
          <local_id>1414129</local_id>
          <last_updated>2016-04-30T20:31:44Z</last_updated>
@@ -2120,7 +2120,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1462260</key>
+         <key>researchgraph.org/inspirehep/1462260</key>
          <source>inspirehep.net</source>
          <local_id>1462260</local_id>
          <last_updated>2016-09-07T15:31:14Z</last_updated>
@@ -2130,7 +2130,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1452808</key>
+         <key>researchgraph.org/inspirehep/1452808</key>
          <source>inspirehep.net</source>
          <local_id>1452808</local_id>
          <last_updated>2016-05-02T20:41:06Z</last_updated>
@@ -2141,7 +2141,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1452810</key>
+         <key>researchgraph.org/inspirehep/1452810</key>
          <source>inspirehep.net</source>
          <local_id>1452810</local_id>
          <last_updated>2016-09-13T13:00:43Z</last_updated>
@@ -2153,7 +2153,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1454211</key>
+         <key>researchgraph.org/inspirehep/1454211</key>
          <source>inspirehep.net</source>
          <local_id>1454211</local_id>
          <last_updated>2016-07-04T09:21:15Z</last_updated>
@@ -2165,7 +2165,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1454081</key>
+         <key>researchgraph.org/inspirehep/1454081</key>
          <source>inspirehep.net</source>
          <local_id>1454081</local_id>
          <last_updated>2016-08-25T15:05:57Z</last_updated>
@@ -2177,7 +2177,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1454076</key>
+         <key>researchgraph.org/inspirehep/1454076</key>
          <source>inspirehep.net</source>
          <local_id>1454076</local_id>
          <last_updated>2016-06-29T23:47:30Z</last_updated>
@@ -2188,7 +2188,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1405810</key>
+         <key>researchgraph.org/inspirehep/1405810</key>
          <source>inspirehep.net</source>
          <local_id>1405810</local_id>
          <last_updated>2016-06-29T22:56:26Z</last_updated>
@@ -2199,7 +2199,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1456930</key>
+         <key>researchgraph.org/inspirehep/1456930</key>
          <source>inspirehep.net</source>
          <local_id>1456930</local_id>
          <last_updated>2016-06-30T01:46:38Z</last_updated>
@@ -2209,7 +2209,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1382458</key>
+         <key>researchgraph.org/inspirehep/1382458</key>
          <source>inspirehep.net</source>
          <local_id>1382458</local_id>
          <last_updated>2016-06-16T20:57:38Z</last_updated>
@@ -2221,7 +2221,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1384036</key>
+         <key>researchgraph.org/inspirehep/1384036</key>
          <source>inspirehep.net</source>
          <local_id>1384036</local_id>
          <last_updated>2016-05-03T20:54:30Z</last_updated>
@@ -2232,7 +2232,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1384911</key>
+         <key>researchgraph.org/inspirehep/1384911</key>
          <source>inspirehep.net</source>
          <local_id>1384911</local_id>
          <last_updated>2016-07-04T09:22:35Z</last_updated>
@@ -2245,7 +2245,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1385228</key>
+         <key>researchgraph.org/inspirehep/1385228</key>
          <source>inspirehep.net</source>
          <local_id>1385228</local_id>
          <last_updated>2016-05-03T20:54:30Z</last_updated>
@@ -2257,7 +2257,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1451853</key>
+         <key>researchgraph.org/inspirehep/1451853</key>
          <source>inspirehep.net</source>
          <local_id>1451853</local_id>
          <last_updated>2016-05-03T20:54:30Z</last_updated>
@@ -2268,7 +2268,7 @@
          <publication_year>1986</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1452348</key>
+         <key>researchgraph.org/inspirehep/1452348</key>
          <source>inspirehep.net</source>
          <local_id>1452348</local_id>
          <last_updated>2016-05-19T06:49:54Z</last_updated>
@@ -2280,7 +2280,7 @@
          <publication_year>1986</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1452485</key>
+         <key>researchgraph.org/inspirehep/1452485</key>
          <source>inspirehep.net</source>
          <local_id>1452485</local_id>
          <last_updated>2016-08-30T06:06:59Z</last_updated>
@@ -2293,7 +2293,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1452487</key>
+         <key>researchgraph.org/inspirehep/1452487</key>
          <source>inspirehep.net</source>
          <local_id>1452487</local_id>
          <last_updated>2016-06-13T13:09:59Z</last_updated>
@@ -2304,7 +2304,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1454384</key>
+         <key>researchgraph.org/inspirehep/1454384</key>
          <source>inspirehep.net</source>
          <local_id>1454384</local_id>
          <last_updated>2016-05-27T06:27:27Z</last_updated>
@@ -2315,7 +2315,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1454210</key>
+         <key>researchgraph.org/inspirehep/1454210</key>
          <source>inspirehep.net</source>
          <local_id>1454210</local_id>
          <last_updated>2016-06-29T16:39:56Z</last_updated>
@@ -2327,7 +2327,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1454213</key>
+         <key>researchgraph.org/inspirehep/1454213</key>
          <source>inspirehep.net</source>
          <local_id>1454213</local_id>
          <last_updated>2016-06-29T16:39:56Z</last_updated>
@@ -2338,7 +2338,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1454221</key>
+         <key>researchgraph.org/inspirehep/1454221</key>
          <source>inspirehep.net</source>
          <local_id>1454221</local_id>
          <last_updated>2016-06-29T15:39:30Z</last_updated>
@@ -2349,7 +2349,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1454222</key>
+         <key>researchgraph.org/inspirehep/1454222</key>
          <source>inspirehep.net</source>
          <local_id>1454222</local_id>
          <last_updated>2016-06-29T15:39:29Z</last_updated>
@@ -2360,7 +2360,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1454404</key>
+         <key>researchgraph.org/inspirehep/1454404</key>
          <source>inspirehep.net</source>
          <local_id>1454404</local_id>
          <last_updated>2016-06-29T17:21:06Z</last_updated>
@@ -2372,7 +2372,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1454422</key>
+         <key>researchgraph.org/inspirehep/1454422</key>
          <source>inspirehep.net</source>
          <local_id>1454422</local_id>
          <last_updated>2016-05-19T06:30:19Z</last_updated>
@@ -2382,7 +2382,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1454263</key>
+         <key>researchgraph.org/inspirehep/1454263</key>
          <source>inspirehep.net</source>
          <local_id>1454263</local_id>
          <last_updated>2016-09-14T09:14:04Z</last_updated>
@@ -2393,7 +2393,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1454442</key>
+         <key>researchgraph.org/inspirehep/1454442</key>
          <source>inspirehep.net</source>
          <local_id>1454442</local_id>
          <last_updated>2016-05-27T06:34:07Z</last_updated>
@@ -2405,7 +2405,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1454289</key>
+         <key>researchgraph.org/inspirehep/1454289</key>
          <source>inspirehep.net</source>
          <local_id>1454289</local_id>
          <last_updated>2016-06-30T06:24:02Z</last_updated>
@@ -2416,7 +2416,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehepXX</key>
+         <key>researchgraph.org/inspirehep/XX</key>
          <source>inspirehep.net</source>
          <local_id>XX</local_id>
          <last_updated>2016-06-30T06:04:22Z</last_updated>
@@ -2426,7 +2426,7 @@
          <authors_list>Shojaii. Seyedruhollah , Liberali. Valentino</authors_list>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1455754</key>
+         <key>researchgraph.org/inspirehep/1455754</key>
          <source>inspirehep.net</source>
          <local_id>1455754</local_id>
          <last_updated>2016-05-18T14:05:57Z</last_updated>
@@ -2437,7 +2437,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1455874</key>
+         <key>researchgraph.org/inspirehep/1455874</key>
          <source>inspirehep.net</source>
          <local_id>1455874</local_id>
          <last_updated>2016-09-13T13:00:50Z</last_updated>
@@ -2449,7 +2449,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1455783</key>
+         <key>researchgraph.org/inspirehep/1455783</key>
          <source>inspirehep.net</source>
          <local_id>1455783</local_id>
          <last_updated>2016-07-05T06:39:14Z</last_updated>
@@ -2460,7 +2460,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1455787</key>
+         <key>researchgraph.org/inspirehep/1455787</key>
          <source>inspirehep.net</source>
          <local_id>1455787</local_id>
          <last_updated>2016-06-29T17:04:33Z</last_updated>
@@ -2470,7 +2470,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1455799</key>
+         <key>researchgraph.org/inspirehep/1455799</key>
          <source>inspirehep.net</source>
          <local_id>1455799</local_id>
          <last_updated>2016-05-18T14:05:18Z</last_updated>
@@ -2481,7 +2481,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1455803</key>
+         <key>researchgraph.org/inspirehep/1455803</key>
          <source>inspirehep.net</source>
          <local_id>1455803</local_id>
          <last_updated>2016-06-30T06:04:10Z</last_updated>
@@ -2491,7 +2491,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1455813</key>
+         <key>researchgraph.org/inspirehep/1455813</key>
          <source>inspirehep.net</source>
          <local_id>1455813</local_id>
          <last_updated>2016-05-18T14:05:24Z</last_updated>
@@ -2501,7 +2501,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1455917</key>
+         <key>researchgraph.org/inspirehep/1455917</key>
          <source>inspirehep.net</source>
          <local_id>1455917</local_id>
          <last_updated>2016-08-12T22:27:37Z</last_updated>
@@ -2513,7 +2513,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1456795</key>
+         <key>researchgraph.org/inspirehep/1456795</key>
          <source>inspirehep.net</source>
          <local_id>1456795</local_id>
          <last_updated>2016-08-25T15:06:39Z</last_updated>
@@ -2525,7 +2525,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1456145</key>
+         <key>researchgraph.org/inspirehep/1456145</key>
          <source>inspirehep.net</source>
          <local_id>1456145</local_id>
          <last_updated>2016-08-05T06:00:51Z</last_updated>
@@ -2537,7 +2537,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1456156</key>
+         <key>researchgraph.org/inspirehep/1456156</key>
          <source>inspirehep.net</source>
          <local_id>1456156</local_id>
          <last_updated>2016-06-29T23:45:34Z</last_updated>
@@ -2548,7 +2548,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1456746</key>
+         <key>researchgraph.org/inspirehep/1456746</key>
          <source>inspirehep.net</source>
          <local_id>1456746</local_id>
          <last_updated>2016-09-13T13:00:43Z</last_updated>
@@ -2560,7 +2560,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1456789</key>
+         <key>researchgraph.org/inspirehep/1456789</key>
          <source>inspirehep.net</source>
          <local_id>1456789</local_id>
          <last_updated>2016-09-07T15:09:48Z</last_updated>
@@ -2571,7 +2571,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1456793</key>
+         <key>researchgraph.org/inspirehep/1456793</key>
          <source>inspirehep.net</source>
          <local_id>1456793</local_id>
          <last_updated>2016-08-17T20:32:13Z</last_updated>
@@ -2582,7 +2582,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1456797</key>
+         <key>researchgraph.org/inspirehep/1456797</key>
          <source>inspirehep.net</source>
          <local_id>1456797</local_id>
          <last_updated>2016-06-28T22:33:36Z</last_updated>
@@ -2593,7 +2593,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1456803</key>
+         <key>researchgraph.org/inspirehep/1456803</key>
          <source>inspirehep.net</source>
          <local_id>1456803</local_id>
          <last_updated>2016-06-29T17:55:22Z</last_updated>
@@ -2604,7 +2604,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1481667</key>
+         <key>researchgraph.org/inspirehep/1481667</key>
          <source>inspirehep.net</source>
          <local_id>1481667</local_id>
          <last_updated>2016-09-12T06:17:35Z</last_updated>
@@ -2617,7 +2617,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1456935</key>
+         <key>researchgraph.org/inspirehep/1456935</key>
          <source>inspirehep.net</source>
          <local_id>1456935</local_id>
          <last_updated>2016-09-14T09:44:07Z</last_updated>
@@ -2629,7 +2629,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1457605</key>
+         <key>researchgraph.org/inspirehep/1457605</key>
          <source>inspirehep.net</source>
          <local_id>1457605</local_id>
          <last_updated>2016-09-06T12:56:56Z</last_updated>
@@ -2641,7 +2641,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1452604</key>
+         <key>researchgraph.org/inspirehep/1452604</key>
          <source>inspirehep.net</source>
          <local_id>1452604</local_id>
          <last_updated>2016-05-12T22:03:22Z</last_updated>
@@ -2652,7 +2652,7 @@
          <authors_list>Basara. Laurent , Rosier-Lees. Sylvie</authors_list>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1456933</key>
+         <key>researchgraph.org/inspirehep/1456933</key>
          <source>inspirehep.net</source>
          <local_id>1456933</local_id>
          <last_updated>2016-09-13T13:00:48Z</last_updated>
@@ -2664,7 +2664,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1457595</key>
+         <key>researchgraph.org/inspirehep/1457595</key>
          <source>inspirehep.net</source>
          <local_id>1457595</local_id>
          <last_updated>2016-09-07T15:09:49Z</last_updated>
@@ -2675,7 +2675,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1457603</key>
+         <key>researchgraph.org/inspirehep/1457603</key>
          <source>inspirehep.net</source>
          <local_id>1457603</local_id>
          <last_updated>2016-08-17T20:32:13Z</last_updated>
@@ -2687,7 +2687,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1457637</key>
+         <key>researchgraph.org/inspirehep/1457637</key>
          <source>inspirehep.net</source>
          <local_id>1457637</local_id>
          <last_updated>2016-05-14T21:32:53Z</last_updated>
@@ -2698,7 +2698,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1458270</key>
+         <key>researchgraph.org/inspirehep/1458270</key>
          <source>inspirehep.net</source>
          <local_id>1458270</local_id>
          <last_updated>2016-09-14T11:47:09Z</last_updated>
@@ -2711,7 +2711,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1401065</key>
+         <key>researchgraph.org/inspirehep/1401065</key>
          <source>inspirehep.net</source>
          <local_id>1401065</local_id>
          <last_updated>2016-06-30T04:33:42Z</last_updated>
@@ -2722,7 +2722,7 @@
          <publication_year>1997</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1448146</key>
+         <key>researchgraph.org/inspirehep/1448146</key>
          <source>inspirehep.net</source>
          <local_id>1448146</local_id>
          <last_updated>2016-05-14T21:32:55Z</last_updated>
@@ -2733,7 +2733,7 @@
          <publication_year>2009</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1458276</key>
+         <key>researchgraph.org/inspirehep/1458276</key>
          <source>inspirehep.net</source>
          <local_id>1458276</local_id>
          <last_updated>2016-09-07T15:09:47Z</last_updated>
@@ -2743,7 +2743,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1458952</key>
+         <key>researchgraph.org/inspirehep/1458952</key>
          <source>inspirehep.net</source>
          <local_id>1458952</local_id>
          <last_updated>2016-09-07T15:29:43Z</last_updated>
@@ -2755,7 +2755,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1459051</key>
+         <key>researchgraph.org/inspirehep/1459051</key>
          <source>inspirehep.net</source>
          <local_id>1459051</local_id>
          <last_updated>2016-09-14T09:44:16Z</last_updated>
@@ -2767,7 +2767,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1459054</key>
+         <key>researchgraph.org/inspirehep/1459054</key>
          <source>inspirehep.net</source>
          <local_id>1459054</local_id>
          <last_updated>2016-09-14T09:47:35Z</last_updated>
@@ -2780,7 +2780,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1458967</key>
+         <key>researchgraph.org/inspirehep/1458967</key>
          <source>inspirehep.net</source>
          <local_id>1458967</local_id>
          <last_updated>2016-09-07T15:09:28Z</last_updated>
@@ -2791,7 +2791,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1458968</key>
+         <key>researchgraph.org/inspirehep/1458968</key>
          <source>inspirehep.net</source>
          <local_id>1458968</local_id>
          <last_updated>2016-09-07T07:41:37Z</last_updated>
@@ -2801,7 +2801,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1465513</key>
+         <key>researchgraph.org/inspirehep/1465513</key>
          <source>inspirehep.net</source>
          <local_id>1465513</local_id>
          <last_updated>2016-05-27T06:31:31Z</last_updated>
@@ -2812,7 +2812,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1459022</key>
+         <key>researchgraph.org/inspirehep/1459022</key>
          <source>inspirehep.net</source>
          <local_id>1459022</local_id>
          <last_updated>2016-05-19T06:27:32Z</last_updated>
@@ -2822,7 +2822,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1459049</key>
+         <key>researchgraph.org/inspirehep/1459049</key>
          <source>inspirehep.net</source>
          <local_id>1459049</local_id>
          <last_updated>2016-05-18T14:05:18Z</last_updated>
@@ -2833,7 +2833,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1459055</key>
+         <key>researchgraph.org/inspirehep/1459055</key>
          <source>inspirehep.net</source>
          <local_id>1459055</local_id>
          <last_updated>2016-08-25T06:24:11Z</last_updated>
@@ -2845,7 +2845,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1459079</key>
+         <key>researchgraph.org/inspirehep/1459079</key>
          <source>inspirehep.net</source>
          <local_id>1459079</local_id>
          <last_updated>2016-06-30T00:19:44Z</last_updated>
@@ -2856,7 +2856,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1459085</key>
+         <key>researchgraph.org/inspirehep/1459085</key>
          <source>inspirehep.net</source>
          <local_id>1459085</local_id>
          <last_updated>2016-07-21T06:37:59Z</last_updated>
@@ -2868,7 +2868,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1464839</key>
+         <key>researchgraph.org/inspirehep/1464839</key>
          <source>inspirehep.net</source>
          <local_id>1464839</local_id>
          <last_updated>2016-05-25T08:03:56Z</last_updated>
@@ -2880,7 +2880,7 @@
          <publication_year>2016</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1331510</key>
+         <key>researchgraph.org/inspirehep/1331510</key>
          <source>inspirehep.net</source>
          <local_id>1331510</local_id>
          <last_updated>2016-07-05T20:35:43Z</last_updated>
@@ -2892,7 +2892,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1334228</key>
+         <key>researchgraph.org/inspirehep/1334228</key>
          <source>inspirehep.net</source>
          <local_id>1334228</local_id>
          <last_updated>2016-07-05T20:35:43Z</last_updated>
@@ -2904,7 +2904,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1336221</key>
+         <key>researchgraph.org/inspirehep/1336221</key>
          <source>inspirehep.net</source>
          <local_id>1336221</local_id>
          <last_updated>2016-07-05T20:35:43Z</last_updated>
@@ -2916,7 +2916,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1336226</key>
+         <key>researchgraph.org/inspirehep/1336226</key>
          <source>inspirehep.net</source>
          <local_id>1336226</local_id>
          <last_updated>2016-06-07T06:59:41Z</last_updated>
@@ -2928,7 +2928,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1337534</key>
+         <key>researchgraph.org/inspirehep/1337534</key>
          <source>inspirehep.net</source>
          <local_id>1337534</local_id>
          <last_updated>2016-05-18T21:57:44Z</last_updated>
@@ -2940,7 +2940,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1337535</key>
+         <key>researchgraph.org/inspirehep/1337535</key>
          <source>inspirehep.net</source>
          <local_id>1337535</local_id>
          <last_updated>2016-06-30T06:38:29Z</last_updated>
@@ -2952,7 +2952,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1337543</key>
+         <key>researchgraph.org/inspirehep/1337543</key>
          <source>inspirehep.net</source>
          <local_id>1337543</local_id>
          <last_updated>2016-05-18T21:57:44Z</last_updated>
@@ -2964,7 +2964,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1339423</key>
+         <key>researchgraph.org/inspirehep/1339423</key>
          <source>inspirehep.net</source>
          <local_id>1339423</local_id>
          <last_updated>2016-06-07T06:59:38Z</last_updated>
@@ -2976,7 +2976,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1340167</key>
+         <key>researchgraph.org/inspirehep/1340167</key>
          <source>inspirehep.net</source>
          <local_id>1340167</local_id>
          <last_updated>2016-08-03T21:20:42Z</last_updated>
@@ -2988,7 +2988,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1340398</key>
+         <key>researchgraph.org/inspirehep/1340398</key>
          <source>inspirehep.net</source>
          <local_id>1340398</local_id>
          <last_updated>2016-05-18T21:57:44Z</last_updated>
@@ -3000,7 +3000,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1341534</key>
+         <key>researchgraph.org/inspirehep/1341534</key>
          <source>inspirehep.net</source>
          <local_id>1341534</local_id>
          <last_updated>2016-07-05T20:35:43Z</last_updated>
@@ -3012,7 +3012,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/inspirehep1341677</key>
+         <key>researchgraph.org/inspirehep/1341677</key>
          <source>inspirehep.net</source>
          <local_id>1341677</local_id>
          <last_updated>2016-05-18T21:57:45Z</last_updated>
