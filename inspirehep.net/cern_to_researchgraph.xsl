@@ -27,7 +27,7 @@
     </xsl:template>
     
     <!-- =========================================== -->
-    <!-- Publication Template                        -->
+    <!-- Publication Template                                                               -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="publication">
         <xsl:if test=".//marc:datafield[@tag='035'][marc:subfield='Inspire']">
@@ -35,7 +35,7 @@
         </xsl:if>
     </xsl:template>
     <xsl:template match="oai:metadata" mode="publication">
-        <xsl:variable name="local_id" select=".//marc:datafield[@tag='035'][marc:subfield='Inspire']/marc:subfield[@code='a']"/>/>
+        <xsl:variable name="local_id" select=".//marc:datafield[@tag='035'][marc:subfield='Inspire']/marc:subfield[@code='a']"/>
         <publication>
             <key>
                 <xsl:value-of select="concat('researchgraph.org/inspirehep',$local_id)"/>
@@ -78,5 +78,4 @@
             </xsl:if>
         </publication>
     </xsl:template>
-    
 </xsl:stylesheet>
