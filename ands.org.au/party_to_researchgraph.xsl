@@ -115,7 +115,7 @@
                     <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
                 </from_key>
                 <to_uri>
-                    <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:key)"/>
+                    <xsl:value-of select=".//rif:key"/>
                 </to_uri>
                 <label>
                     <xsl:value-of select=".//rif:relation/@type"/>
@@ -125,20 +125,24 @@
     </xsl:template>
     
     <!-- =========================================== -->
-    <!-- Related Info                                                                    -->
+    <!-- Related Info                                                                               -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relatedInfo"> 
         <xsl:for-each select=".//rif:relatedInfo">
             <xsl:if test=".//rif:identifier/@type='uri'
                 or .//rif:identifier/@type='doi'
                 or .//rif:identifier/@type='handle'
-                or .//rif:identifier/@type='purl'">
+                or .//rif:identifier/@type='purl'
+                or .//rif:identifier/@type='orcid'">
                 <relation>
                     <from_key>
                         <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
                     </from_key>
                     <to_uri>
-                        <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:identifier)"/>
+                        <xsl:if test=".//rif:identifier/@type='doi'">
+                            <xsl:value-of select="concat('dx.doi.org/',.//rif:identifier)"/>
+                        </xsl:if>
+                        <xsl:value-of select=".//rif:identifier"/>
                     </to_uri>
                 </relation>
             </xsl:if>
