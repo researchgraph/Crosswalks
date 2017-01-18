@@ -5,7 +5,7 @@ rifdef=\
            [ "keytxt","sydney.edu.au/researcher/",
              "data",'fldData["UserId"]'
            ],
-           "local_ID",
+           "local_id",
            [
                "data",'fldData["UserId"]'
            ],

@@ -5,7 +5,7 @@ rifdef=\
            [ "keytxt","sydney.edu.au/publication/",
              "data",'fldData["PublicationCode"]'
            ],
-           "local_ID",
+           "local_id",
            [ 
                "data",'fldData["PublicationCode"]'
            ],
@@ -25,13 +25,13 @@ rifdef=\
            [
              "data", '"dx.doi.org/"+fldData["DOI"]'
            ],
+           "scopus_eid",
+           [
+             "data", 'fldData["ScopusId"]'
+           ],
            "publication_year",
            [
              "data", 'fldData["PublicationYear"]'
-           ],
-           "scopus_id",
-           [
-             "data", 'fldData["ScopusId"]'
            ]
          ]
       ]
