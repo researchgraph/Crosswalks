@@ -63,7 +63,7 @@
     <xsl:template match="oai:metadata" mode="dataset">
         <dataset>
             <key>
-                <xsl:value-of select="concat('Researchgraph.org/figshare/',.//bibo:doi)"/>
+                <xsl:value-of select="concat('researchgraph.org/figshare/',.//bibo:doi)"/>
             </key>
             <source>
                 <xsl:value-of select="$source"/>
@@ -84,8 +84,7 @@
                 <xsl:value-of select=".//bibo:doi"/>
             </doi>
             <publication_year>
-                <!--                <xsl:value-of select="year-from-date(xs:date(substring-after(.//vivo:datePublished/@rdf:resource,'date')))"/>-->
-                <xsl:value-of select="substring-before(substring-after(.//vivo:datePublished/@rdf:resource,'date'),'-')"/>
+                <xsl:value-of select="year-from-date(xs:date(substring-after(.//vivo:datePublished/@rdf:resource,'date')))"/>
             </publication_year>
         </dataset>
     </xsl:template>
@@ -99,7 +98,7 @@
     <xsl:template match="oai:metadata" mode="publication">
         <publication>
             <key>
-                <xsl:value-of select="concat('Researchgraph.org/figshare/',.//bibo:doi)"/>
+                <xsl:value-of select="concat('researchgraph.org/figshare/',.//bibo:doi)"/>
             </key>
             <source>
                 <xsl:value-of select="$source"/>
@@ -111,22 +110,24 @@
                 <xsl:value-of select="..//oai:datestamp"/>
             </last_updated>
             <url>
-                <xsl:value-of select=".//@rdf:about[1]"/>
+                <xsl:value-of select=".//vivo:ConferencePaper/@rdf:about"/>
             </url>
             <title>
                 <xsl:value-of select=".//rdfs:label"/>
             </title>
             <authors_list>
                 <xsl:for-each select=".//vcard:Name">
-                    <xsl:value-of select="concat(.//vcard:givenName,' ',.//vcard:familyName,',')"/>
+                    <xsl:value-of select="concat(.//vcard:givenName,' ',.//vcard:familyName)"/>
+                    <xsl:if test="position() != last()">
+                        <xsl:value-of select="','"/>
+                    </xsl:if>
                 </xsl:for-each>
             </authors_list>
             <doi>
                 <xsl:value-of select=".//bibo:doi"/>
             </doi>
             <publication_year>
-<!--                <xsl:value-of select="year-from-date(xs:date(substring-after(.//vivo:datePublished/@rdf:resource,'date')))"/>-->
-                <xsl:value-of select="substring-before(substring-after(.//vivo:datePublished/@rdf:resource,'date'),'-')"/>
+                <xsl:value-of select="year-from-date(xs:date(substring-after(.//vivo:datePublished/@rdf:resource,'date')))"/>
             </publication_year>
         </publication>
     </xsl:template>
@@ -143,27 +144,28 @@
                 <xsl:choose>
                     <xsl:when test=".//vivo:orcidId">
                         <from_key>
-                            <xsl:value-of select="concat('Researchgraph.org/figshare/',substring-after(.//vivo:orcidId/@rdf:resource,'orcid.org/'))"/>
+                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(.//vivo:orcidId/@rdf:resource,'orcid.org/'))"/>
                         </from_key>
                     </xsl:when>
                     <xsl:otherwise>
                         <from_key>
-                            <xsl:value-of select="concat('Researchgraph.org/figshare/',..//bibo:doi)"/>
+                            <xsl:value-of select="concat('researchgraph.org/figshare/',../..//bibo:doi)"/>
                         </from_key>
                     </xsl:otherwise>
                 </xsl:choose>
                 <xsl:choose>
-                    <xsl:when test=".//vivo:orcidId">
-                        <to_uri>
-                            <xsl:value-of select=".//vivo:orcidId/@rdf:resource"/>
-                        </to_uri>
+                    <xsl:when test="preceding-sibling::vivo:Authorship[1]//vivo:orcidId">
+                        <key>
+                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(.//vivo:orcidId/@rdf:resource,'orcid.org/'))"/>
+                        </key>
                     </xsl:when>
                     <xsl:otherwise>
-                        <to_uri>
-                            <xsl:value-of select=".//vcard:Individual/@rdf:about"/>
-                        </to_uri>
+                        <key>
+                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(substring-before(.//vcard:Individual/@rdf:about,'-vcard'),'/figshare.com/'))"/>
+                        </key>
                     </xsl:otherwise>
                 </xsl:choose>
+                
                 <xsl:choose>
                     <xsl:when test=".//vivo:orcidId">
                         <label>
@@ -195,12 +197,12 @@
                 <xsl:choose>
                     <xsl:when test="preceding-sibling::vivo:Authorship[1]//vivo:orcidId">
                         <key>
-                            <xsl:value-of select="concat('Researchgraph.org/figshare/',substring-after(preceding-sibling::vivo:Authorship[1]//vivo:orcidId/@rdf:resource,'orcid.org/'))"/>
+                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(preceding-sibling::vivo:Authorship[1]//vivo:orcidId/@rdf:resource,'orcid.org/'))"/>
                         </key>
                     </xsl:when>
                     <xsl:otherwise>
                         <key>
-                            <xsl:value-of select="concat('Researchgraph.org/figshare/',substring-after(substring-before(..//vcard:Individual/@rdf:about[contains(.,$firstName)],'-vcard'),'/'))"/>
+                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(substring-before(preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about,'-vcard'),'/figshare.com/'))"/>
                         </key>
                     </xsl:otherwise>
                 </xsl:choose>
@@ -213,7 +215,7 @@
                             <xsl:value-of select="preceding-sibling::vivo:Authorship[1]//vivo:orcidId/@rdf:resource"/>
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:value-of select="preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about"/>
+                            <xsl:value-of select="substring-after(preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about,'authors/')"/>
                         </xsl:otherwise>
                     </xsl:choose>
                 </local_id>

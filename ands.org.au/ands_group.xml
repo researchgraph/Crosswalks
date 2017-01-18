@@ -400,5 +400,9 @@
     <group>AustLII</group>
     <source>austlii.edu.au</source>
   </row>
+  <row>
+    <group>data.vic.gov.au</group>
+    <source>data.vic.gov.au</source>
+  </row>
   
 </root>

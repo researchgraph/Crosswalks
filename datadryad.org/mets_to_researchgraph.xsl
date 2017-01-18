@@ -61,7 +61,7 @@
 		<xsl:variable name="forCode" select="substring-after(., ':')"/>
 		<dataset>
 			<key>
-				<xsl:value-of select="concat('Researchgraph.org/dryad/',substring-after(.//mods:identifier[not(@*)],'doi:'))"/>
+				<xsl:value-of select="concat('researchgraph.org/dryad/',substring-after(.//mods:identifier[not(@*)],'doi:'))"/>
 			</key>
 			<source>
 				<xsl:value-of select="$source"/>
@@ -155,10 +155,10 @@
 			<xsl:if test="contains(.,'dryad')">
 				<relation>
 					<from_key>
-						<xsl:value-of select="concat('Researchgraph.org/dryad/',substring-after(..//mods:identifier[not(@*)],'doi:'))"/>
+						<xsl:value-of select="concat('researchgraph.org/dryad/',substring-after(..//mods:identifier[not(@*)],'doi:'))"/>
 					</from_key>
 					<to_uri>
-						<xsl:value-of select="concat('Researchgraph.org/dryad/',substring-after(.,'doi:'))"/>					</to_uri>
+						<xsl:value-of select="concat('researchgraph.org/dryad/',substring-after(.,'doi:'))"/>					</to_uri>
 					<label>
 						<xsl:value-of select="@type"/>
 					</label>

@@ -5,7 +5,7 @@
    xmlns:fn="http://www.w3.org/2005/xpath-functions"
    xmlns:rif="http://ands.org.au/standards/rif-cs/registryObjects"
    exclude-result-prefixes="xs xsl oai fn rif"
-   version="2.0">
+   version="1.0">
    
    <!-- =========================================== -->
    <!-- Configuration                               -->
@@ -22,17 +22,23 @@
    <!-- =========================================== -->
    
    <xsl:template match="/">
-      <xsl:param name="date-stamp">
-         <xsl:value-of select=".//oai:header/oai:datestamp"/>
-      </xsl:param>
       <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes
          https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
          <grants>
-            <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="grant">
-               <xsl:with-param name="date-stamp" select="$date-stamp"/>
-            </xsl:apply-templates>
+            <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="grant"/>
          </grants>
+         <relations>
+            <xsl:if test=".//rif:relatedObject">
+               <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relatedObject"/>
+            </xsl:if>
+            <xsl:if test=".//rif:relatedInfo">
+               <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relatedInfo"/>
+            </xsl:if>
+            <xsl:if test=".//rif:subject[@type='anzsrc-for']">
+               <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
+            </xsl:if>
+         </relations>
       </registryObjects>
    </xsl:template>
    
@@ -40,29 +46,25 @@
    <!-- Grant Template                              -->
    <!-- =========================================== -->
    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="grant">
-      <xsl:param name="date-stamp"/>
-      <xsl:apply-templates select=".//oai:metadata" mode="grant">
-         <xsl:with-param name="date-stamp" select="$date-stamp"/>
-      </xsl:apply-templates>
+      <xsl:apply-templates select=".//oai:metadata" mode="grant"/>
    </xsl:template>
    
    <xsl:template match="oai:metadata" mode="grant">
-      <xsl:param name="date-stamp"/>
       <xsl:variable name="forCode" select="substring-after(., ':')"/>
       <xsl:variable name="groupName" select=".//rif:registryObject/@group"/>
       <xsl:variable name="groupSource" select="$andsGroupList/root/row[group = $groupName]/source"/>
       <grant>
          <key>
-            <xsl:value-of select="concat('Researchgraph.org/ands/',.//rif:key[1])"/>
+            <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:registryObject/rif:key[1])"/>
          </key>
          <source>
             <xsl:value-of select="$groupSource"/>
          </source>
          <local_id>
-            <xsl:value-of select=".//rif:key[1]"/>
+            <xsl:value-of select=".//rif:registryObject/rif:key[1]"/>
          </local_id>
          <last_updated>
-            <xsl:value-of select="$date-stamp"/>
+            <xsl:value-of select="..//oai:datestamp"/>
          </last_updated>
          <xsl:if test=".//rif:electronic[@type='url']">
             <url>
@@ -74,15 +76,15 @@
          </title>
          <xsl:if test=".//rif:startDate">
             <start_year>
-               <xsl:value-of select="year-from-date(xs:date(.//rif:startDate))"/>
+               <xsl:value-of select=".//rif:startDate"/>
             </start_year>
          </xsl:if>
          <xsl:if test=".//rif:endDate">
             <end_year>
-               <xsl:value-of select="year-from-date(xs:date(.//rif:endDate))"/>
+               <xsl:value-of select=".//rif:endDate"/>
             </end_year>
          </xsl:if>
-         <xsl:if test=".//rif:identifier[@type='purl'] and contains(.//rif:identifier[@type='purl'],'purl.org')">
+         <xsl:if test=".//rif:identifier[@type='purl'] and contains(.//rif:activity/rif:identifier[@type='purl'],'purl.org')">
             <purl>
                <xsl:value-of select=".//rif:identifier[@type='purl']"/>
             </purl>
@@ -96,5 +98,62 @@
             <xsl:value-of select="$groupSource"/>
          </founder>
       </grant>
+   </xsl:template>
+   
+   <!-- =========================================== -->
+   <!-- Related Object Template    `                                                 -->
+   <!-- =========================================== -->
+   <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relatedObject">
+         <xsl:for-each select=".//rif:relatedObject">
+            <relation>
+               <from_key>
+                  <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
+               </from_key>
+               <to_uri>
+                  <xsl:value-of select=".//rif:key"/>
+               </to_uri>
+               <label>
+                  <xsl:value-of select=".//rif:relation/@type"/>
+               </label>
+            </relation>
+         </xsl:for-each>
+   </xsl:template>
+   
+   <!-- =========================================== -->
+   <!-- Related Info                                                                    -->
+   <!-- =========================================== -->
+   <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relatedInfo"> 
+      <xsl:for-each select=".//rif:relatedInfo">
+         <xsl:if test=".//rif:identifier/@type='uri'
+            or .//rif:identifier/@type='doi'
+            or .//rif:identifier/@type='handle'
+            or .//rif:identifier/@type='purl'
+            or .//rif:identifier/@type='orcid'">
+            <relation>
+               <from_key>
+                  <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
+               </from_key>
+               <to_uri>
+                  <xsl:value-of select=".//rif:identifier"/>
+               </to_uri>
+            </relation>
+         </xsl:if>
+      </xsl:for-each>
+   </xsl:template>
+   
+   <!-- =========================================== -->
+   <!--  ANZSRC Relation                                                                    -->
+   <!-- =========================================== -->
+   <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relation"> 
+      <xsl:for-each select=".//rif:subject[@type='anzsrc-for']">
+         <relation>
+            <from_key>
+               <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
+            </from_key>
+            <to_uri>
+               <xsl:value-of select="concat('http://purl.org/au-research/vocabulary/anzsrc-for/2008/',.)"/>
+            </to_uri>
+         </relation>
+      </xsl:for-each>
    </xsl:template>
 </xsl:stylesheet>

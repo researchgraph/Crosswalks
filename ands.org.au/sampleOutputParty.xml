@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
    <researchers>
       <researcher>
-         <key>Researchgraph.org/ands/102.100.100/4589</key>
+         <key>researchgraph.org/ands/102.100.100/4589</key>
          <source>flinders.edu.au</source>
          <local_id>102.100.100/4589</local_id>
          <last_updated>2014-07-17T02:36:27Z</last_updated>
@@ -10,21 +11,18 @@
          <full_name>Professor Julie Holledge</full_name>
          <first_name>Julie</first_name>
          <last_name>Holledge</last_name>
-         <orcid>102.100.100/4589</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/102.100.100/4591</key>
+         <key>researchgraph.org/ands/102.100.100/4591</key>
          <source>flinders.edu.au</source>
          <local_id>102.100.100/4591</local_id>
          <last_updated>2014-07-17T02:36:27Z</last_updated>
-         <url/>
          <full_name>Ms Jenny Fewster</full_name>
          <first_name>Jenny</first_name>
          <last_name>Fewster</last_name>
-         <orcid>102.100.100/4591</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/102.100.100/4586</key>
+         <key>researchgraph.org/ands/102.100.100/4586</key>
          <source>flinders.edu.au</source>
          <local_id>102.100.100/4586</local_id>
          <last_updated>2014-07-17T02:36:28Z</last_updated>
@@ -32,10 +30,9 @@
          <full_name>Doctor Jonathan Bollen</full_name>
          <first_name>Jonathan</first_name>
          <last_name>Bollen</last_name>
-         <orcid>102.100.100/4586</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/102.100.100/4623</key>
+         <key>researchgraph.org/ands/102.100.100/4623</key>
          <source>flinders.edu.au</source>
          <local_id>102.100.100/4623</local_id>
          <last_updated>2014-07-17T02:36:28Z</last_updated>
@@ -43,516 +40,423 @@
          <full_name>Mr Joh Hartog</full_name>
          <first_name>Joh</first_name>
          <last_name>Hartog</last_name>
-         <orcid>102.100.100/4623</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</key>
+         <key>researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</key>
          <source>federation.edu.au</source>
          <local_id>www.ballarat.edu.au/party/0000015158</local_id>
          <last_updated>2015-03-22T22:47:38Z</last_updated>
-         <url/>
          <full_name>Dr Peter Dahlhaus</full_name>
          <first_name>Peter</first_name>
          <last_name>Dahlhaus</last_name>
-         <orcid>www.ballarat.edu.au/party/0000015158</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.ballarat.edu.au/party/0000017769</key>
+         <key>researchgraph.org/ands/www.ballarat.edu.au/party/0000017769</key>
          <source>federation.edu.au</source>
          <local_id>www.ballarat.edu.au/party/0000017769</local_id>
          <last_updated>2014-07-17T02:36:31Z</last_updated>
-         <url/>
-         <full_name> Anthony Miner</full_name>
+         <full_name>Anthony Miner</full_name>
          <first_name>Anthony</first_name>
          <last_name>Miner</last_name>
-         <orcid>www.ballarat.edu.au/party/0000017769</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.ballarat.edu.au/party/0000017632</key>
+         <key>researchgraph.org/ands/www.ballarat.edu.au/party/0000017632</key>
          <source>federation.edu.au</source>
          <local_id>www.ballarat.edu.au/party/0000017632</local_id>
          <last_updated>2014-07-17T02:36:31Z</last_updated>
-         <url/>
          <full_name>Dr Rochelle Eime</full_name>
          <first_name>Rochelle</first_name>
          <last_name>Eime</last_name>
-         <orcid>www.ballarat.edu.au/party/0000017632</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.ballarat.edu.au/party/0000022532</key>
+         <key>researchgraph.org/ands/www.ballarat.edu.au/party/0000022532</key>
          <source>federation.edu.au</source>
          <local_id>www.ballarat.edu.au/party/0000022532</local_id>
          <last_updated>2014-07-17T02:36:32Z</last_updated>
-         <url/>
-         <full_name> Jennifer Corbett</full_name>
+         <full_name>Jennifer Corbett</full_name>
          <first_name>Jennifer</first_name>
          <last_name>Corbett</last_name>
-         <orcid>www.ballarat.edu.au/party/0000022532</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/lateralplains.com/gfong</key>
+         <key>researchgraph.org/ands/lateralplains.com/gfong</key>
          <source>federation.edu.au</source>
          <local_id>lateralplains.com/gfong</local_id>
          <last_updated>2014-07-17T02:36:37Z</last_updated>
-         <url/>
-         <full_name> George Fong</full_name>
+         <full_name>George Fong</full_name>
          <first_name>George</first_name>
          <last_name>Fong</last_name>
-         <orcid>lateralplains.com/gfong</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.ballarat.edu.au/staff/hethompson</key>
+         <key>researchgraph.org/ands/www.ballarat.edu.au/staff/hethompson</key>
          <source>federation.edu.au</source>
          <local_id>www.ballarat.edu.au/staff/hethompson</local_id>
          <last_updated>2015-05-11T04:03:29Z</last_updated>
-         <url/>
          <full_name>Dr Helen Thompson</full_name>
          <first_name>Helen</first_name>
          <last_name>Thompson</last_name>
-         <orcid>www.ballarat.edu.au/staff/hethompson</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.ballarat.edu.au/party/FCHARCHAR</key>
+         <key>researchgraph.org/ands/www.ballarat.edu.au/party/FCHARCHAR</key>
          <source>federation.edu.au</source>
          <local_id>www.ballarat.edu.au/party/FCHARCHAR</local_id>
          <last_updated>2014-07-17T02:36:39Z</last_updated>
-         <url/>
          <full_name>Dr Fadi Charchar</full_name>
          <first_name>Fadi</first_name>
          <last_name>Charchar</last_name>
-         <orcid>www.ballarat.edu.au/party/FCHARCHAR</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bradley.evans@mq.edu.au</key>
+         <key>researchgraph.org/ands/bradley.evans@mq.edu.au</key>
          <source>mq.edu.au</source>
          <local_id>bradley.evans@mq.edu.au</local_id>
          <last_updated>2014-07-17T02:36:41Z</last_updated>
-         <url/>
-         <full_name> Bradley John Evans</full_name>
+         <full_name>Bradley John Evans</full_name>
          <first_name>Bradley John</first_name>
          <last_name>Evans</last_name>
-         <orcid>bradley.evans@mq.edu.au</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/colin.prentice@mq.edu.au</key>
+         <key>researchgraph.org/ands/colin.prentice@mq.edu.au</key>
          <source>mq.edu.au</source>
          <local_id>colin.prentice@mq.edu.au</local_id>
          <last_updated>2014-07-17T02:36:42Z</last_updated>
-         <url/>
-         <full_name> Iain Colin Prentice</full_name>
+         <full_name>Iain Colin Prentice</full_name>
          <first_name>Iain Colin</first_name>
          <last_name>Prentice</last_name>
-         <orcid>colin.prentice@mq.edu.au</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-2</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-2</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-2</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
-         <url/>
-         <full_name> Dave Edwards</full_name>
+         <full_name>Dave Edwards</full_name>
          <first_name>Dave</first_name>
          <last_name>Edwards</last_name>
-         <orcid>www.bioplatforms.com/party-2</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-15</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-15</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-15</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
-         <url/>
-         <full_name> Matthew Hayden</full_name>
+         <full_name>Matthew Hayden</full_name>
          <first_name>Matthew</first_name>
          <last_name>Hayden</last_name>
-         <orcid>www.bioplatforms.com/party-15</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-7</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-7</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-7</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
-         <url/>
-         <full_name> John Manners</full_name>
+         <full_name>John Manners</full_name>
          <first_name>John</first_name>
          <last_name>Manners</last_name>
-         <orcid>www.bioplatforms.com/party-7</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-10</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-10</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-10</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
-         <url/>
-         <full_name> Juan Juttner</full_name>
+         <full_name>Juan Juttner</full_name>
          <first_name>Juan</first_name>
          <last_name>Juttner</last_name>
-         <orcid>www.bioplatforms.com/party-10</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-12</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-12</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-12</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
-         <url/>
-         <full_name> Rudi Appels</full_name>
+         <full_name>Rudi Appels</full_name>
          <first_name>Rudi</first_name>
          <last_name>Appels</last_name>
-         <orcid>www.bioplatforms.com/party-12</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-17</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-17</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-17</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
-         <url/>
-         <full_name> Catherine Shang</full_name>
+         <full_name>Catherine Shang</full_name>
          <first_name>Catherine</first_name>
          <last_name>Shang</last_name>
-         <orcid>www.bioplatforms.com/party-17</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-14</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-14</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-14</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
-         <url/>
-         <full_name> Stephen Wilcox</full_name>
+         <full_name>Stephen Wilcox</full_name>
          <first_name>Stephen</first_name>
          <last_name>Wilcox</last_name>
-         <orcid>www.bioplatforms.com/party-14</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-3</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-3</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-3</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
-         <url/>
-         <full_name> Delphine Fleury</full_name>
+         <full_name>Delphine Fleury</full_name>
          <first_name>Delphine</first_name>
          <last_name>Fleury</last_name>
-         <orcid>www.bioplatforms.com/party-3</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-9</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-9</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-9</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
-         <url/>
-         <full_name> Jen Taylor</full_name>
+         <full_name>Jen Taylor</full_name>
          <first_name>Jen</first_name>
          <last_name>Taylor</last_name>
-         <orcid>www.bioplatforms.com/party-9</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-16</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-16</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-16</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
-         <url/>
-         <full_name> Anna Fitzgerald</full_name>
+         <full_name>Anna Fitzgerald</full_name>
          <first_name>Anna</first_name>
          <last_name>Fitzgerald</last_name>
-         <orcid>www.bioplatforms.com/party-16</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-13</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-13</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-13</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
-         <url/>
-         <full_name> Matthew Bellgard</full_name>
+         <full_name>Matthew Bellgard</full_name>
          <first_name>Matthew</first_name>
          <last_name>Bellgard</last_name>
-         <orcid>www.bioplatforms.com/party-13</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-8</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-8</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-8</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
-         <url/>
-         <full_name> Matthew Morell</full_name>
+         <full_name>Matthew Morell</full_name>
          <first_name>Matthew</first_name>
          <last_name>Morell</last_name>
-         <orcid>www.bioplatforms.com/party-8</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-4</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-4</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-4</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
-         <url/>
-         <full_name> Ute Baumann</full_name>
+         <full_name>Ute Baumann</full_name>
          <first_name>Ute</first_name>
          <last_name>Baumann</last_name>
-         <orcid>www.bioplatforms.com/party-4</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-5</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-5</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-5</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
-         <url/>
-         <full_name> Peter Langridge</full_name>
+         <full_name>Peter Langridge</full_name>
          <first_name>Peter</first_name>
          <last_name>Langridge</last_name>
-         <orcid>www.bioplatforms.com/party-5</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-11</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-11</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-11</local_id>
          <last_updated>2014-09-07T13:15:26Z</last_updated>
-         <url/>
-         <full_name> Jorge Mayer</full_name>
+         <full_name>Jorge Mayer</full_name>
          <first_name>Jorge</first_name>
          <last_name>Mayer</last_name>
-         <orcid>www.bioplatforms.com/party-11</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.bioplatforms.com/party-6</key>
+         <key>researchgraph.org/ands/www.bioplatforms.com/party-6</key>
          <source>bioplatforms.com</source>
          <local_id>www.bioplatforms.com/party-6</local_id>
          <last_updated>2014-09-07T13:15:25Z</last_updated>
-         <url/>
-         <full_name> Colin Cavanagh</full_name>
+         <full_name>Colin Cavanagh</full_name>
          <first_name>Colin</first_name>
          <last_name>Cavanagh</last_name>
-         <orcid>www.bioplatforms.com/party-6</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/8</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/8</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/8</local_id>
          <last_updated>2014-07-17T02:36:59Z</last_updated>
-         <url/>
-         <full_name> Gail White</full_name>
+         <full_name>Gail White</full_name>
          <first_name>Gail</first_name>
          <last_name>White</last_name>
-         <orcid>bond.edu.au/PTY/8</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/18</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/18</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/18</local_id>
          <last_updated>2014-07-17T02:37:00Z</last_updated>
-         <url/>
-         <full_name> Paul Glasziou</full_name>
+         <full_name>Paul Glasziou</full_name>
          <first_name>Paul</first_name>
          <last_name>Glasziou</last_name>
-         <orcid>bond.edu.au/PTY/18</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY13</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY13</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY13</local_id>
          <last_updated>2014-07-17T02:37:00Z</last_updated>
-         <url/>
-         <full_name> Trishita Mathew</full_name>
+         <full_name>Trishita Mathew</full_name>
          <first_name>Trishita</first_name>
          <last_name>Mathew</last_name>
-         <orcid>bond.edu.au/PTY13</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/5</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/5</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/5</local_id>
          <last_updated>2014-07-17T02:37:00Z</last_updated>
-         <url/>
-         <full_name> Grace Saw</full_name>
+         <full_name>Grace Saw</full_name>
          <first_name>Grace</first_name>
          <last_name>Saw</last_name>
-         <orcid>bond.edu.au/PTY/5</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/7</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/7</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/7</local_id>
          <last_updated>2014-07-17T02:37:00Z</last_updated>
-         <url/>
-         <full_name> Wendy Abbott</full_name>
+         <full_name>Wendy Abbott</full_name>
          <first_name>Wendy</first_name>
          <last_name>Abbott</last_name>
-         <orcid>bond.edu.au/PTY/7</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY12</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY12</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY12</local_id>
          <last_updated>2014-07-17T02:37:01Z</last_updated>
-         <url/>
-         <full_name> Shelley Kinash</full_name>
+         <full_name>Shelley Kinash</full_name>
          <first_name>Shelley</first_name>
          <last_name>Kinash</last_name>
-         <orcid>bond.edu.au/PTY12</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/21</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/21</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/21</local_id>
          <last_updated>2014-07-17T02:37:01Z</last_updated>
-         <url/>
-         <full_name> Vishen Naidu</full_name>
+         <full_name>Vishen Naidu</full_name>
          <first_name>Vishen</first_name>
          <last_name>Naidu</last_name>
-         <orcid>bond.edu.au/PTY/21</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/22</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/22</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/22</local_id>
          <last_updated>2014-07-17T02:37:01Z</last_updated>
-         <url/>
-         <full_name> Diana Knight</full_name>
+         <full_name>Diana Knight</full_name>
          <first_name>Diana</first_name>
          <last_name>Knight</last_name>
-         <orcid>bond.edu.au/PTY/22</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY15</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY15</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY15</local_id>
          <last_updated>2014-07-17T02:37:01Z</last_updated>
-         <url/>
-         <full_name> Elizabeth Spencer</full_name>
+         <full_name>Elizabeth Spencer</full_name>
          <first_name>Elizabeth</first_name>
          <last_name>Spencer</last_name>
-         <orcid>bond.edu.au/PTY15</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/9</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/9</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/9</local_id>
          <last_updated>2014-07-17T02:37:03Z</last_updated>
-         <url/>
-         <full_name> Linda Too</full_name>
+         <full_name>Linda Too</full_name>
          <first_name>Linda</first_name>
          <last_name>Too</last_name>
-         <orcid>bond.edu.au/PTY/9</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/10</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/10</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/10</local_id>
          <last_updated>2014-07-17T02:37:03Z</last_updated>
-         <url/>
-         <full_name> Bhishna Bajracharya</full_name>
+         <full_name>Bhishna Bajracharya</full_name>
          <first_name>Bhishna</first_name>
          <last_name>Bajracharya</last_name>
-         <orcid>bond.edu.au/PTY/10</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/11</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/11</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/11</local_id>
          <last_updated>2014-07-17T02:37:03Z</last_updated>
-         <url/>
-         <full_name> Chamkaur  Gill</full_name>
+         <full_name>Chamkaur  Gill</full_name>
          <first_name>Chamkaur </first_name>
          <last_name>Gill</last_name>
-         <orcid>bond.edu.au/PTY/11</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/20</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/20</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/20</local_id>
          <last_updated>2014-07-17T02:37:04Z</last_updated>
-         <url/>
-         <full_name> Phil Stocks</full_name>
+         <full_name>Phil Stocks</full_name>
          <first_name>Phil</first_name>
          <last_name>Stocks</last_name>
-         <orcid>bond.edu.au/PTY/20</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/17</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/17</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/17</local_id>
          <last_updated>2014-07-17T02:37:05Z</last_updated>
-         <url/>
-         <full_name> Elaine Beller</full_name>
+         <full_name>Elaine Beller</full_name>
          <first_name>Elaine</first_name>
          <last_name>Beller</last_name>
-         <orcid>bond.edu.au/PTY/17</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/4</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/4</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/4</local_id>
          <last_updated>2014-07-17T02:37:05Z</last_updated>
-         <url/>
-         <full_name> Marilyn Mitchell</full_name>
+         <full_name>Marilyn Mitchell</full_name>
          <first_name>Marilyn</first_name>
          <last_name>Mitchell</last_name>
-         <orcid>bond.edu.au/PTY/4</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/19</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/19</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/19</local_id>
          <last_updated>2014-07-17T02:37:05Z</last_updated>
-         <url/>
-         <full_name> Patrick Keyzer</full_name>
+         <full_name>Patrick Keyzer</full_name>
          <first_name>Patrick</first_name>
          <last_name>Keyzer</last_name>
-         <orcid>bond.edu.au/PTY/19</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY14</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY14</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY14</local_id>
          <last_updated>2014-07-17T02:37:05Z</last_updated>
-         <url/>
-         <full_name> Kayleen Wood</full_name>
+         <full_name>Kayleen Wood</full_name>
          <first_name>Kayleen</first_name>
          <last_name>Wood</last_name>
-         <orcid>bond.edu.au/PTY14</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/1</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/1</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/1</local_id>
          <last_updated>2014-07-17T02:37:06Z</last_updated>
-         <url/>
-         <full_name> Stephen Holden</full_name>
+         <full_name>Stephen Holden</full_name>
          <first_name>Stephen</first_name>
          <last_name>Holden</last_name>
-         <orcid>bond.edu.au/PTY/1</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/6</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/6</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/6</local_id>
          <last_updated>2014-07-17T02:37:06Z</last_updated>
-         <url/>
-         <full_name> Jessie Donaghey</full_name>
+         <full_name>Jessie Donaghey</full_name>
          <first_name>Jessie</first_name>
          <last_name>Donaghey</last_name>
-         <orcid>bond.edu.au/PTY/6</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/2</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/2</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/2</local_id>
          <last_updated>2014-07-17T02:37:07Z</last_updated>
-         <url/>
-         <full_name> Jeffrey Brand</full_name>
+         <full_name>Jeffrey Brand</full_name>
          <first_name>Jeffrey</first_name>
          <last_name>Brand</last_name>
-         <orcid>bond.edu.au/PTY/2</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/bond.edu.au/PTY/3</key>
+         <key>researchgraph.org/ands/bond.edu.au/PTY/3</key>
          <source>bond.edu.au</source>
          <local_id>bond.edu.au/PTY/3</local_id>
          <last_updated>2014-07-17T02:37:07Z</last_updated>
-         <url/>
-         <full_name> Craig Langston</full_name>
+         <full_name>Craig Langston</full_name>
          <first_name>Craig</first_name>
          <last_name>Langston</last_name>
-         <orcid>bond.edu.au/PTY/3</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-3</key>
+         <key>researchgraph.org/ands/www.cai.uq.edu.au/party-3</key>
          <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-3</local_id>
          <last_updated>2014-08-25T14:00:20Z</last_updated>
@@ -560,10 +464,9 @@
          <full_name>Professor Perry Bartlett</full_name>
          <first_name>Perry</first_name>
          <last_name>Bartlett</last_name>
-         <orcid>www.cai.uq.edu.au/party-3</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-12</key>
+         <key>researchgraph.org/ands/www.cai.uq.edu.au/party-12</key>
          <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-12</local_id>
          <last_updated>2014-08-25T14:00:18Z</last_updated>
@@ -571,10 +474,9 @@
          <full_name>Dr Andrew Janke</full_name>
          <first_name>Andrew</first_name>
          <last_name>Janke</last_name>
-         <orcid>www.cai.uq.edu.au/party-12</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-13</key>
+         <key>researchgraph.org/ands/www.cai.uq.edu.au/party-13</key>
          <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-13</local_id>
          <last_updated>2014-08-25T14:00:17Z</last_updated>
@@ -582,10 +484,9 @@
          <full_name>Dr Nyoman Kurniawan</full_name>
          <first_name>Nyoman</first_name>
          <last_name>Kurniawan</last_name>
-         <orcid>www.cai.uq.edu.au/party-13</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-2</key>
+         <key>researchgraph.org/ands/www.cai.uq.edu.au/party-2</key>
          <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-2</local_id>
          <last_updated>2014-08-25T14:00:20Z</last_updated>
@@ -593,54 +494,45 @@
          <full_name>Professor David Reutens</full_name>
          <first_name>David</first_name>
          <last_name>Reutens</last_name>
-         <orcid>www.cai.uq.edu.au/party-2</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-7</key>
+         <key>researchgraph.org/ands/www.cai.uq.edu.au/party-7</key>
          <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-7</local_id>
          <last_updated>2014-08-25T14:00:18Z</last_updated>
-         <url/>
          <full_name>Professor Gary Egan</full_name>
          <first_name>Gary</first_name>
          <last_name>Egan</last_name>
-         <orcid>www.cai.uq.edu.au/party-7</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-8</key>
+         <key>researchgraph.org/ands/www.cai.uq.edu.au/party-8</key>
          <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-8</local_id>
          <last_updated>2014-08-25T14:00:18Z</last_updated>
-         <url/>
          <full_name>Professor Charles Watson</full_name>
          <first_name>Charles</first_name>
          <last_name>Watson</last_name>
-         <orcid>www.cai.uq.edu.au/party-8</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-6</key>
+         <key>researchgraph.org/ands/www.cai.uq.edu.au/party-6</key>
          <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-6</local_id>
          <last_updated>2014-08-25T14:00:19Z</last_updated>
-         <url/>
          <full_name>Dr Steven Petrou</full_name>
          <first_name>Steven</first_name>
          <last_name>Petrou</last_name>
-         <orcid>www.cai.uq.edu.au/party-6</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-5</key>
+         <key>researchgraph.org/ands/www.cai.uq.edu.au/party-5</key>
          <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-5</local_id>
          <last_updated>2014-08-25T14:00:19Z</last_updated>
-         <url/>
          <full_name>Professor George Paxinos</full_name>
          <first_name>George</first_name>
          <last_name>Paxinos</last_name>
-         <orcid>www.cai.uq.edu.au/party-5</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-10</key>
+         <key>researchgraph.org/ands/www.cai.uq.edu.au/party-10</key>
          <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-10</local_id>
          <last_updated>2014-08-25T14:00:18Z</last_updated>
@@ -648,10 +540,9 @@
          <full_name>Dr Marianne Keller</full_name>
          <first_name>Marianne</first_name>
          <last_name>Keller</last_name>
-         <orcid>www.cai.uq.edu.au/party-10</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/www.cai.uq.edu.au/party-4</key>
+         <key>researchgraph.org/ands/www.cai.uq.edu.au/party-4</key>
          <source>uq.edu.au</source>
          <local_id>www.cai.uq.edu.au/party-4</local_id>
          <last_updated>2014-08-25T14:00:20Z</last_updated>
@@ -659,10 +550,9 @@
          <full_name>Professor Graham Galloway</full_name>
          <first_name>Graham</first_name>
          <last_name>Galloway</last_name>
-         <orcid>www.cai.uq.edu.au/party-4</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/canberra.edu.au/Party/Ps614519</key>
+         <key>researchgraph.org/ands/canberra.edu.au/Party/Ps614519</key>
          <source>canberra.edu.au</source>
          <local_id>canberra.edu.au/Party/Ps614519</local_id>
          <last_updated>2015-05-29T01:26:43Z</last_updated>
@@ -670,10 +560,9 @@
          <full_name>Dr Michael Wagner</full_name>
          <first_name>Michael</first_name>
          <last_name>Wagner</last_name>
-         <orcid>canberra.edu.au/Party/Ps614519</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/canberra.edu.au/Party/Ps423738</key>
+         <key>researchgraph.org/ands/canberra.edu.au/Party/Ps423738</key>
          <source>canberra.edu.au</source>
          <local_id>canberra.edu.au/Party/Ps423738</local_id>
          <last_updated>2015-05-27T03:59:26Z</last_updated>
@@ -681,76 +570,67 @@
          <full_name>Dr Roland GÖcke</full_name>
          <first_name>Roland</first_name>
          <last_name>GÖcke</last_name>
-         <orcid>canberra.edu.au/Party/Ps423738</orcid>
+         <orcid>0000-0003-2279-7041</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/(QCQU)rm115819</key>
+         <key>researchgraph.org/ands/(QCQU)rm115819</key>
          <source>cqu.edu.au</source>
          <local_id>(QCQU)rm115819</local_id>
          <last_updated>2014-07-17T02:37:36Z</last_updated>
          <url>http://cem.cqu.edu.au/FCWViewer/staff.do;jsessionid...sid=MELZERA</url>
-         <full_name> Alistair Melzer</full_name>
+         <full_name>Alistair Melzer</full_name>
          <first_name>Alistair</first_name>
          <last_name>Melzer</last_name>
-         <orcid>(QCQU)rm115819</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/(QCQU)rm353122</key>
+         <key>researchgraph.org/ands/(QCQU)rm353122</key>
          <source>cqu.edu.au</source>
          <local_id>(QCQU)rm353122</local_id>
          <last_updated>2014-07-17T02:37:39Z</last_updated>
-         <url/>
          <full_name>Dr Ashley Bunce</full_name>
          <first_name>Ashley</first_name>
          <last_name>Bunce</last_name>
-         <orcid>(QCQU)rm353122</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/(QCQU)rm364697</key>
+         <key>researchgraph.org/ands/(QCQU)rm364697</key>
          <source>cqu.edu.au</source>
          <local_id>(QCQU)rm364697</local_id>
          <last_updated>2014-07-17T02:37:40Z</last_updated>
-         <url/>
          <full_name>Dr Sander Scheffers</full_name>
          <first_name>Sander</first_name>
          <last_name>Scheffers</last_name>
-         <orcid>(QCQU)rm364697</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/(QCQU)rm260337</key>
+         <key>researchgraph.org/ands/(QCQU)rm260337</key>
          <source>cqu.edu.au</source>
          <local_id>(QCQU)rm260337</local_id>
          <last_updated>2014-07-17T02:37:44Z</last_updated>
          <url>http://cem.cqu.edu.au</url>
-         <full_name> David R Currie</full_name>
+         <full_name>David R Currie</full_name>
          <first_name>David R</first_name>
          <last_name>Currie</last_name>
-         <orcid>(QCQU)rm260337</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/(QCQU)rm397621</key>
+         <key>researchgraph.org/ands/(QCQU)rm397621</key>
          <source>cqu.edu.au</source>
          <local_id>(QCQU)rm397621</local_id>
          <last_updated>2014-07-17T02:37:44Z</last_updated>
-         <url/>
-         <full_name> Chad Hewitt</full_name>
+         <full_name>Chad Hewitt</full_name>
          <first_name>Chad</first_name>
          <last_name>Hewitt</last_name>
-         <orcid>(QCQU)rm397621</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/(QCQU)rda647864</key>
+         <key>researchgraph.org/ands/(QCQU)rda647864</key>
          <source>cqu.edu.au</source>
          <local_id>(QCQU)rda647864</local_id>
          <last_updated>2014-07-17T02:37:44Z</last_updated>
          <url>http://cem.cqu.edu.au</url>
-         <full_name> Samantha Lewis</full_name>
+         <full_name>Samantha Lewis</full_name>
          <first_name>Samantha</first_name>
          <last_name>Lewis</last_name>
-         <orcid>(QCQU)rda647864</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/(QCQU)rm337168</key>
+         <key>researchgraph.org/ands/(QCQU)rm337168</key>
          <source>cqu.edu.au</source>
          <local_id>(QCQU)rm337168</local_id>
          <last_updated>2014-07-17T02:37:45Z</last_updated>
@@ -758,10 +638,9 @@
          <full_name>Dr Ralph Alquezar</full_name>
          <first_name>Ralph</first_name>
          <last_name>Alquezar</last_name>
-         <orcid>(QCQU)rm337168</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/(QCQU)rm108872</key>
+         <key>researchgraph.org/ands/(QCQU)rm108872</key>
          <source>cqu.edu.au</source>
          <local_id>(QCQU)rm108872</local_id>
          <last_updated>2014-07-17T02:37:46Z</last_updated>
@@ -769,32 +648,28 @@
          <full_name>Professor Kerry B Walsh</full_name>
          <first_name>Kerry B</first_name>
          <last_name>Walsh</last_name>
-         <orcid>(QCQU)rm108872</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/(QCQU)rm170823</key>
+         <key>researchgraph.org/ands/(QCQU)rm170823</key>
          <source>cqu.edu.au</source>
          <local_id>(QCQU)rm170823</local_id>
          <last_updated>2014-07-17T02:37:47Z</last_updated>
          <url>http://cem.cqu.edu.au/FCWViewer/staff.do?sid=SMALLK</url>
-         <full_name> Kirsty J Small</full_name>
+         <full_name>Kirsty J Small</full_name>
          <first_name>Kirsty J</first_name>
          <last_name>Small</last_name>
-         <orcid>(QCQU)rm170823</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/(QCQU)rm347839</key>
+         <key>researchgraph.org/ands/(QCQU)rm347839</key>
          <source>cqu.edu.au</source>
          <local_id>(QCQU)rm347839</local_id>
          <last_updated>2014-07-17T02:37:49Z</last_updated>
-         <url/>
          <full_name>Dr Alison M Jones</full_name>
          <first_name>Alison M</first_name>
          <last_name>Jones</last_name>
-         <orcid>(QCQU)rm347839</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/(QCQU)rm301672</key>
+         <key>researchgraph.org/ands/(QCQU)rm301672</key>
          <source>cqu.edu.au</source>
          <local_id>(QCQU)rm301672</local_id>
          <last_updated>2014-07-17T02:37:49Z</last_updated>
@@ -802,139 +677,1449 @@
          <full_name>Dr Phul Subedi</full_name>
          <first_name>Phul</first_name>
          <last_name>Subedi</last_name>
-         <orcid>(QCQU)rm301672</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/(QCQU)rm330044</key>
+         <key>researchgraph.org/ands/(QCQU)rm330044</key>
          <source>cqu.edu.au</source>
          <local_id>(QCQU)rm330044</local_id>
          <last_updated>2014-07-17T02:37:50Z</last_updated>
          <url>http://cem.cqu.edu.au/FCWViewer/staff.do?sid=BOYDW</url>
-         <full_name> Wayne M Boyd</full_name>
+         <full_name>Wayne M Boyd</full_name>
          <first_name>Wayne M</first_name>
          <last_name>Boyd</last_name>
-         <orcid>(QCQU)rm330044</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm706235</key>
+         <key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm706235</key>
          <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm706235</local_id>
          <last_updated>2015-11-19T07:04:52Z</last_updated>
          <url>http://nanochemistry.curtin.edu.au/people/andrew.cfm</url>
-         <full_name> Andrew Rohl</full_name>
+         <full_name>Andrew Rohl</full_name>
          <first_name>Andrew</first_name>
          <last_name>Rohl</last_name>
-         <orcid>http://vivo.curtin.edu.au/vivo/individual/tm706235</orcid>
+         <orcid>0000-0003-0038-2785</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm51984603</key>
+         <key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm51984603</key>
          <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm51984603</local_id>
          <last_updated>2014-07-17T02:37:56Z</last_updated>
          <url>http://oasisapps.curtin.edu.au/staff/profile/view/K.Munyard</url>
-         <full_name> Kylie Munyard</full_name>
+         <full_name>Kylie Munyard</full_name>
          <first_name>Kylie</first_name>
          <last_name>Munyard</last_name>
-         <orcid>http://vivo.curtin.edu.au/vivo/individual/tm51984603</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm17407726</key>
+         <key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm17407726</key>
          <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm17407726</local_id>
          <last_updated>2014-09-18T03:23:21Z</last_updated>
          <url>http://nanochemistry.curtin.edu.au/people/damien.cfm</url>
-         <full_name> Damien Carter</full_name>
+         <full_name>Damien Carter</full_name>
          <first_name>Damien</first_name>
          <last_name>Carter</last_name>
-         <orcid>http://vivo.curtin.edu.au/vivo/individual/tm17407726</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/curtin.edu.au/P0003</key>
+         <key>researchgraph.org/ands/curtin.edu.au/P0003</key>
          <source>curtin.edu.au</source>
          <local_id>curtin.edu.au/P0003</local_id>
          <last_updated>2014-07-17T02:37:58Z</last_updated>
-         <url/>
          <full_name>Professor Graham Seal</full_name>
          <first_name>Graham</first_name>
          <last_name>Seal</last_name>
-         <orcid>curtin.edu.au/P0003</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm11565244</key>
+         <key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm11565244</key>
          <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm11565244</local_id>
          <last_updated>2014-07-17T02:38:01Z</last_updated>
          <url>http://humanities.curtin.edu.au/about/staff/index.cfm/j.yiannakis</url>
-         <full_name> John Yiannakis</full_name>
+         <full_name>John Yiannakis</full_name>
          <first_name>John</first_name>
          <last_name>Yiannakis</last_name>
-         <orcid>http://vivo.curtin.edu.au/vivo/individual/tm11565244</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/curtin.edu.au/P0002</key>
+         <key>researchgraph.org/ands/curtin.edu.au/P0002</key>
          <source>curtin.edu.au</source>
          <local_id>curtin.edu.au/P0002</local_id>
          <last_updated>2014-07-17T02:38:02Z</last_updated>
-         <url/>
          <full_name>Emeritus Professor John Penrose</full_name>
          <first_name>John</first_name>
          <last_name>Penrose</last_name>
-         <orcid>curtin.edu.au/P0002</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12229346</key>
+         <key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12229346</key>
          <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm12229346</local_id>
          <last_updated>2014-07-17T02:38:03Z</last_updated>
          <url>http://healthsciences.curtin.edu.au/faculty/research_staff_hide.cfm/O.Carter</url>
-         <full_name> Owen Carter</full_name>
+         <full_name>Owen Carter</full_name>
          <first_name>Owen</first_name>
          <last_name>Carter</last_name>
-         <orcid>http://vivo.curtin.edu.au/vivo/individual/tm12229346</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12410681</key>
+         <key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12410681</key>
          <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm12410681</local_id>
          <last_updated>2014-07-17T02:38:04Z</last_updated>
          <url>http://healthsciences.curtin.edu.au/research/chronic_innovators.cfm</url>
-         <full_name> Burford Oksana</full_name>
+         <full_name>Burford Oksana</full_name>
          <first_name>Burford</first_name>
          <last_name>Oksana</last_name>
-         <orcid>http://vivo.curtin.edu.au/vivo/individual/tm12410681</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12212269</key>
+         <key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12212269</key>
          <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm12212269</local_id>
          <last_updated>2014-07-17T02:38:04Z</last_updated>
          <url>http://healthsciences.curtin.edu.au/research/chiri_adjunct_staff.cfm/Marthe.Smith</url>
-         <full_name> Marthe Smith</full_name>
+         <full_name>Marthe Smith</full_name>
          <first_name>Marthe</first_name>
          <last_name>Smith</last_name>
-         <orcid>http://vivo.curtin.edu.au/vivo/individual/tm12212269</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm26961945</key>
+         <key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm26961945</key>
          <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm26961945</local_id>
          <last_updated>2014-07-17T02:38:05Z</last_updated>
          <url>http://geophysics.curtin.edu.au/about_us/academic_oasis.cfm/A.Squelch</url>
-         <full_name> Andrew Squelch</full_name>
+         <full_name>Andrew Squelch</full_name>
          <first_name>Andrew</first_name>
          <last_name>Squelch</last_name>
-         <orcid>http://vivo.curtin.edu.au/vivo/individual/tm26961945</orcid>
       </researcher>
       <researcher>
-         <key>Researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm54522248</key>
+         <key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm54522248</key>
          <source>curtin.edu.au</source>
          <local_id>http://vivo.curtin.edu.au/vivo/individual/tm54522248</local_id>
          <last_updated>2014-07-17T02:38:05Z</last_updated>
          <url>http://cs.curtin.edu.au/people/index.cfm/T.Tan</url>
-         <full_name> Tele Tan</full_name>
+         <full_name>Tele Tan</full_name>
          <first_name>Tele</first_name>
          <last_name>Tan</last_name>
-         <orcid>http://vivo.curtin.edu.au/vivo/individual/tm54522248</orcid>
       </researcher>
    </researchers>
+   <relations>
+      <relation>
+         <from_key>researchgraph.org/ands/ausnc.org.au/parties:AusNCInc</from_key>
+         <to_uri>ausnc.org.au/corpora:cooee</to_uri>
+         <label>isCollectorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ausnc.org.au/parties:AusNCInc</from_key>
+         <to_uri>ausnc.org.au/corpora:ausnc</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/ausnc.org.au/parties:AusNCInc</from_key>
+         <to_uri>ausnc.org.au/corpora:ausnc</to_uri>
+         <label>isOwnerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/4589</from_key>
+         <to_uri>102.100.100/4580</to_uri>
+         <label>enriches</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/4589</from_key>
+         <to_uri>102.100.100/4653</to_uri>
+         <label>isParticipantIn</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/4591</from_key>
+         <to_uri>102.100.100/4580</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/4586</from_key>
+         <to_uri>102.100.100/4580</to_uri>
+         <label>enriches</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/4586</from_key>
+         <to_uri>102.100.100/4653</to_uri>
+         <label>isParticipantIn</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/4623</from_key>
+         <to_uri>102.100.100/4580</to_uri>
+         <label>enriches</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/4623</from_key>
+         <to_uri>102.100.100/4653</to_uri>
+         <label>isParticipantIn</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</from_key>
+         <to_uri>www.ballarat.edu.au/coll/5</to_uri>
+         <label>isPrincipalInvestigatorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</from_key>
+         <to_uri>www.ballarat.edu.au/coll/4</to_uri>
+         <label>isPrincipalInvestigatorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</from_key>
+         <to_uri>www.ballarat.edu.au/coll/3</to_uri>
+         <label>isPrincipalInvestigatorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</from_key>
+         <to_uri>www.ballarat.edu.au/coll/2</to_uri>
+         <label>isPrincipalInvestigatorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</from_key>
+         <to_uri>www.ballarat.edu.au/act/6</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000017769</from_key>
+         <to_uri>www.ballarat.edu.au/coll/2</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000017769</from_key>
+         <to_uri>www.ballarat.edu.au/act/6</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000017632</from_key>
+         <to_uri>www.ballarat.edu.au/act/8</to_uri>
+         <label>isManagedBy</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000017632</from_key>
+         <to_uri>www.ballarat.edu.au/coll/10</to_uri>
+         <label>isPrincipalInvestigatorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000022532</from_key>
+         <to_uri>www.cecc.com.au/cb_pages/wsm_study</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000022532</from_key>
+         <to_uri>www.cecc.com.au/cb_pages/wsm_home.php</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000022532</from_key>
+         <to_uri>www.ballarat.edu.au/coll/14</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/lateralplains.com/gfong</from_key>
+         <to_uri>www.cecc.com.au/cb_pages/CH_ICT_home</to_uri>
+         <label>isParticipantIn</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/lateralplains.com</from_key>
+         <to_uri>www.cecc.com.au/cb_pages/CH_ICT_home</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/staff/hethompson</from_key>
+         <to_uri>www.cecc.com</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/staff/hethompson</from_key>
+         <to_uri>www.cecc.com.au/cb_pages/CH_ICT_home</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/staff/hethompson</from_key>
+         <to_uri>www.cecc.com.au/moorabool_study</to_uri>
+         <label>hasOutput</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/staff/hethompson</from_key>
+         <to_uri>www.cecc.com.au/cb_pages/wsm_study</to_uri>
+         <label>isManagedBy</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/staff/hethompson</from_key>
+         <to_uri>www.cecc.com.au/cb_pages/wsm_home.php</to_uri>
+         <label>isOutputOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/staff/hethompson</from_key>
+         <to_uri>www.cecc.com.au/chict_index.php</to_uri>
+         <label>hasOutput</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/staff/hethompson</from_key>
+         <to_uri>www.cecc.moorabool.com.au/cb_pages/CH_ICT_home</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cecc.com</from_key>
+         <to_uri>www.cecc.com.au/cb_pages/CH_ICT_home</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cecc.com</from_key>
+         <to_uri>www.cecc.com.au/chict_index.php</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cecc.com</from_key>
+         <to_uri>www.ballarat.edu.au/staff/hethompson</to_uri>
+         <label>isManagedBy</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/FCHARCHAR</from_key>
+         <to_uri>www.ballarat.edu.au/coll/19</to_uri>
+         <label>isPrincipalInvestigatorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bradley.evans@mq.edu.au</from_key>
+         <to_uri>MQ-ePiSaT-AP28-s1x00</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/AP28-pisat-data-manager@mq.edu.au</from_key>
+         <to_uri>MQ-ePiSaT-AP28-s1x00</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/colin.prentice@mq.edu.au</from_key>
+         <to_uri>MQ-ePiSaT-AP28-s1x00</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
+         <to_uri>www.bioplatforms.com/activity-1</to_uri>
+         <label>isFunderOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
+         <to_uri>www.bioplatforms.com/collection-1</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
+         <to_uri>UrbanWater:CollectionDraft1</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/8</from_key>
+         <to_uri>bond.edu.au/COL/6</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/18</from_key>
+         <to_uri>bond.edu.au/COL/10</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY13</from_key>
+         <to_uri>bond.edu.au/COL/8</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/5</from_key>
+         <to_uri>bond.edu.au/COL/5</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/7</from_key>
+         <to_uri>bond.edu.au/COL/5</to_uri>
+         <label>isManagedBy</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY12</from_key>
+         <to_uri>bond.edu.au/COL/13</to_uri>
+         <label>isManagedBy</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY12</from_key>
+         <to_uri>bond.edu.au/COL/14</to_uri>
+         <label>isManagedBy</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY12</from_key>
+         <to_uri>bond.edu.au/COL15</to_uri>
+         <label>isManagedBy</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/21</from_key>
+         <to_uri>bond.edu.au/COL/13</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/22</from_key>
+         <to_uri>bond.edu.au/COL/13</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY15</from_key>
+         <to_uri>bond.edu.au/COL9</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/9</from_key>
+         <to_uri>bond.edu.au/COL/7</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/10</from_key>
+         <to_uri>bond.edu.au/COL/7</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/11</from_key>
+         <to_uri>bond.edu.au/COL/8</to_uri>
+         <label>isManagedBy</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/20</from_key>
+         <to_uri>bond.edu.au/COL11</to_uri>
+         <label>isManagedBy</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/17</from_key>
+         <to_uri>bond.edu.au/COL/10</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/4</from_key>
+         <to_uri>bond.edu.au/COL/4</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/19</from_key>
+         <to_uri>bond.edu.au/COL/12</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY14</from_key>
+         <to_uri>bond.edu.au/COL/8</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/1</from_key>
+         <to_uri>bond.edu.au/COL/1</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/6</from_key>
+         <to_uri>bond.edu.au/COL/5</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/2</from_key>
+         <to_uri>bond.edu.au/COL/2</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/3</from_key>
+         <to_uri>bond.edu.au/COL/3</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/3</from_key>
+         <to_uri>http://purl.org/au-research/grants/arc/LP0990261</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-3</from_key>
+         <to_uri>www.cai.uq.edu.au/party-1</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-3</from_key>
+         <to_uri>http://purl.org/au-research/grants/nhmrc/436673</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-3</from_key>
+         <to_uri>www.cai.uq.edu.au/collection-1</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-12</from_key>
+         <to_uri>www.cai.uq.edu.au/collection-1</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-13</from_key>
+         <to_uri>www.cai.uq.edu.au/collection-1</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
+         <to_uri>http://purl.org/au-research/grants/nhmrc/436673</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
+         <to_uri>www.cai.uq.edu.au/collection-1</to_uri>
+         <label>isOwnedBy</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
+         <to_uri>www.cai.uq.edu.au/party-2</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
+         <to_uri>www.cai.uq.edu.au/party-3</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
+         <to_uri>www.cai.uq.edu.au/party-4</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
+         <to_uri>www.cai.uq.edu.au/party-5</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
+         <to_uri>www.cai.uq.edu.au/party-6</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
+         <to_uri>www.cai.uq.edu.au/party-7</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
+         <to_uri>www.cai.uq.edu.au/party-8</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-2</from_key>
+         <to_uri>www.cai.uq.edu.au/party-1</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-2</from_key>
+         <to_uri>http://purl.org/au-research/grants/nhmrc/436673</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-2</from_key>
+         <to_uri>www.cai.uq.edu.au/collection-1</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-7</from_key>
+         <to_uri>www.cai.uq.edu.au/party-1</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-7</from_key>
+         <to_uri>http://purl.org/au-research/grants/nhmrc/436673</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-7</from_key>
+         <to_uri>http://nla.gov.au/nla.party-643828</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-7</from_key>
+         <to_uri>www.cai.uq.edu.au/collection-1</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-8</from_key>
+         <to_uri>www.cai.uq.edu.au/party-1</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-8</from_key>
+         <to_uri>http://purl.org/au-research/grants/nhmrc/436673</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-8</from_key>
+         <to_uri>http://nla.gov.au/nla.party-593921</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-8</from_key>
+         <to_uri>http://nla.gov.au/nla.party-611898</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-6</from_key>
+         <to_uri>www.cai.uq.edu.au/party-1</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-6</from_key>
+         <to_uri>http://purl.org/au-research/grants/nhmrc/436673</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-6</from_key>
+         <to_uri>http://nla.gov.au/nla.party-643828</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-6</from_key>
+         <to_uri>www.cai.uq.edu.au/collection-1</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-5</from_key>
+         <to_uri>www.cai.uq.edu.au/party-1</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-5</from_key>
+         <to_uri>http://purl.org/au-research/grants/nhmrc/436673</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-5</from_key>
+         <to_uri>http://nla.gov.au/nla.party-593921</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-10</from_key>
+         <to_uri>www.cai.uq.edu.au/collection-1</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-4</from_key>
+         <to_uri>www.cai.uq.edu.au/party-1</to_uri>
+         <label>isMemberOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-4</from_key>
+         <to_uri>http://purl.org/au-research/grants/nhmrc/436673</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-4</from_key>
+         <to_uri>www.cai.uq.edu.au/collection-1</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-9</from_key>
+         <to_uri>www.cai.uq.edu.au/service-1</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-9</from_key>
+         <to_uri>www.cai.uq.edu.au/service-1</to_uri>
+         <label>isOwnerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-9</from_key>
+         <to_uri>www.cai.uq.edu.au/collection-1</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps614519</from_key>
+         <to_uri>canberra.edu.au/Collection/Ducbn001</to_uri>
+         <label>isCollectorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps614519</from_key>
+         <to_uri>canberra.edu.au/Activity/Piavsiv001</to_uri>
+         <label>isParticipantIn</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps423738</from_key>
+         <to_uri>canberra.edu.au/Collection/Davozes001</to_uri>
+         <label>isOwnerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps423738</from_key>
+         <to_uri>canberra.edu.au/Activity/Pavozes001</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm115819</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/60234</to_uri>
+         <label>isCollectorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm353122</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/58925</to_uri>
+         <label>isParticipantIn</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm353122</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/57813</to_uri>
+         <label>isCollectorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm364697</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/58925</to_uri>
+         <label>isParticipantIn</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm364697</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/57813</to_uri>
+         <label>isCollectorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm260337</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/60097</to_uri>
+         <label>isPartOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm260337</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/60241</to_uri>
+         <label>hasCollector</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm397621</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/60234</to_uri>
+         <label>hasAssociationWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rda647864</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/60234</to_uri>
+         <label>isCollectorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm337168</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/58925</to_uri>
+         <label>isParticipantIn</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm337168</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/57921</to_uri>
+         <label>isCollectorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm337168</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/57813</to_uri>
+         <label>isCollectorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm108872</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/57849</to_uri>
+         <label>hasCollector</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm170823</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/60097</to_uri>
+         <label>isParticipantIn</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm170823</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/60241</to_uri>
+         <label>hasCollector</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm347839</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/60155</to_uri>
+         <label>isOwnerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm330044</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/58925</to_uri>
+         <label>hasParticipant</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm330044</from_key>
+         <to_uri>http://hdl.cqu.edu.au/10018/57921</to_uri>
+         <label>hasCollector</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm706235</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm14544370</to_uri>
+         <label>hasAssociatonWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm706235</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm64826250</to_uri>
+         <label>hasAssociatonWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm51984603</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm24431770</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm51984603</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm50783726</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/curtin.edu.au/G0002</from_key>
+         <to_uri>curtin.edu.au/A0001</to_uri>
+         <label>isParticipantIn</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/curtin.edu.au/G0002</from_key>
+         <to_uri>curtin.edu.au/A0002</to_uri>
+         <label>isParticipantIn</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/curtin.edu.au/G0002</from_key>
+         <to_uri>curtin.edu.au/C0006</to_uri>
+         <label>isCollectorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm17407726</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm14544370</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm17407726</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm64826250</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/curtin.edu.au/P0003</from_key>
+         <to_uri>curtin.edu.au/C0006</to_uri>
+         <label>isCollectorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/curtin.edu.au/P0003</from_key>
+         <to_uri>curtin.edu.au/A0001</to_uri>
+         <label>isParticipantIn</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/curtin.edu.au/P0003</from_key>
+         <to_uri>curtin.edu.au/A0002</to_uri>
+         <label>isParticipantIn</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm11565244</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm52017159</to_uri>
+         <label>hasAssociatonWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/curtin.edu.au/P0002</from_key>
+         <to_uri>curtin.edu.au/C0005</to_uri>
+         <label>isCollectorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12229346</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm6951824</to_uri>
+         <label>hasAssociatonWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12229346</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm17157582</to_uri>
+         <label>hasAssociatonWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12410681</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm6951824</to_uri>
+         <label>hasAssociatonWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12410681</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm17157582</to_uri>
+         <label>isCollectorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12212269</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm6951824</to_uri>
+         <label>hasAssociatonWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm12212269</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm17157582</to_uri>
+         <label>hasAssociatonWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/curtin.edu.au/G0001</from_key>
+         <to_uri>curtin.edu.au/C0005</to_uri>
+         <label>isCollectorOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm26961945</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm44237232</to_uri>
+         <label>hasAssociatonWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm26961945</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm40860657</to_uri>
+         <label>hasAssociatonWith</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://vivo.curtin.edu.au/vivo/individual/tm54522248</from_key>
+         <to_uri>http://vivo.curtin.edu.au/vivo/individual/tm64281660</to_uri>
+         <label>isManagerOf</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</from_key>
+         <to_uri>http://theses.flinders.edu.au/public/adt-SFU20100928.150627/index.html</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</from_key>
+         <to_uri>http://researchonline.ballarat.edu.au:8080/vital/access/Person/Dahlhaus, Peter</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000017632</from_key>
+         <to_uri>http://researchonline.ballarat.edu.au:8080/vital/access/Person/Eime, Rochelle</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/lateralplains.com</from_key>
+         <to_uri>http://www.cecc.com.au/cb_pages/files/CH ICT Survey Results Final Nov 2010.pdf</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/staff/hethompson</from_key>
+         <to_uri>http://researchonline.ballarat.edu.au:8080/vital/access/Person/Thompson, Helen</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/FCHARCHAR</from_key>
+         <to_uri>http://researchonline.ballarat.edu.au:8080/vital/access/Person/Charchar,%20Fadi</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/FCHARCHAR</from_key>
+         <to_uri>http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health/staff-directory/staff-directory/charchar,-fadi-prof.</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
+         <to_uri>http://reg.bom.gov.au/reguser/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
+         <to_uri>http://reg.bom.gov.au/uv/index.shtml</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
+         <to_uri>http://reg.bom.gov.au/marine/index.shtml</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
+         <to_uri>http://reg.bom.gov.au/aviation/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
+         <to_uri>http://reg.bom.gov.au/water/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
+         <to_uri>http://reg.bom.gov.au/climate/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
+         <to_uri>http://reg.bom.gov.au/watl/index.shtml</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/18</from_key>
+         <to_uri>http://works.bepress.com/paul_glasziou/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY13</from_key>
+         <to_uri>http://works.bepress.com/trishita_mathew/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/5</from_key>
+         <to_uri> http://works.bepress.com/grace_saw1/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/7</from_key>
+         <to_uri>http://works.bepress.com/wendy_abbott/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY12</from_key>
+         <to_uri>http://works.bepress.com/shelley_kinash/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/22</from_key>
+         <to_uri>http://epublications.bond.edu.au/tls/31/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY15</from_key>
+         <to_uri>http://works.bepress.com/elizabeth_spencer/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/9</from_key>
+         <to_uri>http://works.bepress.com/linda_too/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/10</from_key>
+         <to_uri>http://works.bepress.com/bhishna_bajracharya/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/11</from_key>
+         <to_uri>http://works.bepress.com/chamkaur_gill/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/20</from_key>
+         <to_uri>http://works.bepress.com/phil_stocks/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/17</from_key>
+         <to_uri>http://works.bepress.com/elaine_beller/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/4</from_key>
+         <to_uri> http://works.bepress.com/marilyn_mitchell/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/19</from_key>
+         <to_uri>http://works.bepress.com/patrick_keyzer/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/1</from_key>
+         <to_uri>http://works.bepress.com/stephen_holden/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/2</from_key>
+         <to_uri>http://works.bepress.com/jeff_brand/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/3</from_key>
+         <to_uri>http://works.bepress.com/craig_langston/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-3</from_key>
+         <to_uri>http://www.imaging.org.au/People/PerryBartlett</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-3</from_key>
+         <to_uri>http://www.qbi.uq.edu.au/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-2</from_key>
+         <to_uri>http://www.imaging.org.au/People/DavidReutens</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-7</from_key>
+         <to_uri>http://www.florey.edu.au/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-8</from_key>
+         <to_uri>http://www.curtin.edu.au/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-8</from_key>
+         <to_uri>http://www.neura.edu.au/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-6</from_key>
+         <to_uri>http://www.florey.edu.au</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-5</from_key>
+         <to_uri>http://www.neura.edu.au/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-4</from_key>
+         <to_uri>http://www.anif.org.au/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-4</from_key>
+         <to_uri>http://www.cai.uq.edu.au/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps614519</from_key>
+         <to_uri>http://ise.canberra.edu.au/mwagner/michael-wagner-publications/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps423738</from_key>
+         <to_uri>http://staff.estem-uc.edu.au/roland/publications/</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm353122</from_key>
+         <to_uri>http://uninews.cqu.edu.au/UniNews/viewStory.do?story=4884</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm364697</from_key>
+         <to_uri>http://www.bmrg.org.au/information.php/2/55/209</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/curtin.edu.au/P0003</from_key>
+         <to_uri>http://humanities.curtin.edu.au/about/staff/index.cfm/g.seal</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/curtin.edu.au/P0002</from_key>
+         <to_uri>http://cmst.curtin.edu.au/people/penrose.cfm</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://portal.auscope.org/UniOfBallarat</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/040603</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://portal.auscope.org/OGC</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/04</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://portal.auscope.org/NCGRT</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/040603</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/4589</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/190404</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/4591</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/190404</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/4586</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/190404</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/102.100.100/4623</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/190404</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0403</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000017769</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0403</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000017632</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1106</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000022532</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0806</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/FCHARCHAR</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/11</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bradley.evans@mq.edu.au</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050101</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bradley.evans@mq.edu.au</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050102</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bradley.evans@mq.edu.au</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050206</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/AP28-pisat-data-manager@mq.edu.au</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050101</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/AP28-pisat-data-manager@mq.edu.au</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050102</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/AP28-pisat-data-manager@mq.edu.au</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050206</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/colin.prentice@mq.edu.au</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050101</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/colin.prentice@mq.edu.au</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050102</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/colin.prentice@mq.edu.au</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050206</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/http://www.biogrid.org.au</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/11</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-2</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-15</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-7</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-10</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-12</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-17</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-14</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-3</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-9</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/06</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060109</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/110106</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060104</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060102</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-16</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-13</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-8</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-4</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-5</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-11</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.bioplatforms.com/party-6</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/04</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/079901</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/5</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/080799</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/5</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/089999</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY12</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/130303</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/21</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/130303</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/22</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/130303</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY15</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180105</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/11</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200303</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/20</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/080299</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/4</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200101</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/19</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180108</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/1</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/150501</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/1</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/150505</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/2</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200102</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/bond.edu.au/PTY/3</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/120504 </to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-3</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-12</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-13</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/110903</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060805</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-2</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-7</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-8</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-6</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0601</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-5</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-10</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-4</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/110320</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps614519</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/080104</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps614519</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/080106</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps614519</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/08</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps423738</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/080106</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps423738</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/08</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps423738</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0801</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps423738</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/080104</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm115819</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm353122</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm364697</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm260337</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm397621</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rda647864</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm337168</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060808</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm337168</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm108872</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/070605</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm170823</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm347839</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050202</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm301672</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/070605</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm330044</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/039901</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/(QCQU)rm330044</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/curtin.edu.au/P0002</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/040305</to_uri>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/ands/curtin.edu.au/G0001</from_key>
+         <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/040305</to_uri>
+      </relation>
+   </relations>
 </registryObjects>
