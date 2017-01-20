@@ -1745,41 +1745,41 @@
          <last_name>Gese-Klier</last_name>
       </researcher>
    </researchers>
-   <relation>
+   <relations>
       <relation xmlns="">
          <from_key>researchgraph.org/da-ra/ZA3862</from_key>
          <to_uri>10.4232/1.3862</to_uri>
-         <label>7</label>
+         <label>relatedTo</label>
       </relation>
       <relation xmlns="">
          <from_key>researchgraph.org/da-ra/ZA3863</from_key>
          <to_uri>10.4232/1.3863</to_uri>
-         <label>7</label>
+         <label>relatedTo</label>
       </relation>
       <relation xmlns="">
          <from_key>researchgraph.org/da-ra/ZA3864</from_key>
          <to_uri>10.4232/1.3864</to_uri>
-         <label>7</label>
+         <label>relatedTo</label>
       </relation>
       <relation xmlns="">
          <from_key>researchgraph.org/da-ra/ZA3865</from_key>
          <to_uri>10.4232/1.3865</to_uri>
-         <label>7</label>
+         <label>relatedTo</label>
       </relation>
       <relation xmlns="">
          <from_key>researchgraph.org/da-ra/ZA3866</from_key>
          <to_uri>10.4232/1.3866</to_uri>
-         <label>7</label>
+         <label>relatedTo</label>
       </relation>
       <relation xmlns="">
          <from_key>researchgraph.org/da-ra/ZA3861</from_key>
          <to_uri>10.4232/1.3861</to_uri>
-         <label>7</label>
+         <label>relatedTo</label>
       </relation>
       <relation xmlns="">
          <from_key>researchgraph.org/da-ra/ZA3867</from_key>
          <to_uri>10.4232/1.3867</to_uri>
-         <label>7</label>
+         <label>relatedTo</label>
       </relation>
-   </relation>
+   </relations>
 </registryObjects>

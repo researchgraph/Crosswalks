@@ -18,18 +18,23 @@
     <!-- =========================================== -->
     <xsl:template match="/">
         <registryObjects xmlns="http://researchgraph.org/schema/v2.0/xml/nodes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/dataset.xsd">
-            <datasets>
-                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
-            </datasets>
-            <!--<publications>
-                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
-            </publications>-->
+            <xsl:if test=".//oai:resourceType='1' or
+                .//oai:resourceType='2'">
+              <datasets>
+                  <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
+              </datasets>
+            </xsl:if>
+            <xsl:if test=".//oai:resourceType='3'">
+              <publications>
+                  <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
+              </publications>
+            </xsl:if>
             <researchers>
                 <xsl:apply-templates select="."  mode="researcher"/>
             </researchers>
-            <relation>
+            <relations>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
-            </relation>
+            </relations>
         </registryObjects>
     </xsl:template>
     
@@ -45,7 +50,7 @@
     <xsl:template match="oai:metadata" mode="dataset">
         <dataset>
             <key>
-                <xsl:value-of select="concat('researchgraph.org/da-ra/',.//oai:resourceIdentifier/oai:identifier,.//oai:resourceIdentifier/oai:currentVersion)"/>
+                <xsl:value-of select="concat('researchgraph.org/da-ra/',.//oai:resourceIdentifier/oai:identifier)"/>
             </key>
             <source>
                 <xsl:value-of select="substring-before(substring-after(.//oai:dataURLs/oai:dataURL[1],'www.'),'/')"/>
@@ -74,12 +79,64 @@
     <!-- =========================================== -->
     <!-- Publication Template                                                               -->
     <!-- =========================================== -->
-    <!--<xsl:template match="oai:OAI-PMH/*/oai:">
-        <xsl:if test=".//oai:resourceType='1' or
-            .//oai:resourceType='2'">
-            <xsl:apply-templates select=".//oai:metadata" mode="dataset"/>
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="publication">
+        <xsl:if test=".//oai:resourceType='3'">
+            <xsl:apply-templates select=".//oai:metadata" mode="publication"/>
         </xsl:if>
-    </xsl:template>-->
+    </xsl:template>
+    <xsl:template match="oai:metadata" mode="publication">
+        <publication>
+            <key>
+                <xsl:value-of select="concat('researchgraph.org/da-ra/',.//oai:resourceIdentifier/oai:identifier)"/>
+            </key>
+            <source>
+                <xsl:value-of select="substring-before(substring-after(.//oai:dataURLs/oai:dataURL[1],'www.'),'/')"/>
+            </source>
+            <local_id>
+                <xsl:value-of select=".//oai:resourceIdentifier/oai:identifier"/>
+            </local_id>
+            <last_updated>
+                <xsl:value-of select="ancestor::oai:record//oai:datestamp"/>
+            </last_updated>
+            <url>
+                <xsl:value-of select=".//oai:dataURLs/oai:dataURL"/>
+            </url>
+            <xsl:choose>
+                <xsl:when test=".//oai:title[oai:language='en']">
+                    <title>
+                        <xsl:value-of select=".//oai:title[oai:language='en']/oai:titleName"/>
+                    </title>
+                </xsl:when>
+                <xsl:otherwise>
+                    <title>
+                        <xsl:value-of select=".//oai:titleName[1]"/>
+                    </title>
+                </xsl:otherwise>
+            </xsl:choose>
+            <author_lists>
+                <xsl:for-each select=".//oai:creator">
+                    <xsl:variable name="firstName">
+                        <xsl:value-of select=".//oai:firstName"/>
+                    </xsl:variable>
+                    <xsl:variable name="lastName">
+                        <xsl:value-of select=".//oai:lastName"/>
+                    </xsl:variable>
+                    <xsl:value-of select="concat($firstName,$lastName)"/>
+                    <xsl:if test="position() != last()">
+                        <xsl:value-of select="','"/>
+                    </xsl:if>
+                </xsl:for-each>
+            </author_lists>
+            <xsl:if test=".//oai:doiProposal">
+                <doi>
+                    <xsl:value-of select=".//oai:doiProposal"/>
+                </doi>
+            </xsl:if>
+            <publication_year>
+                <xsl:value-of select=".//oai:publicationDate/oai:date"/>
+            </publication_year>
+        </publication>
+    </xsl:template>
     
     <!-- =========================================== -->
     <!-- Researchers Template                                                           -->
@@ -117,7 +174,7 @@
                         <xsl:value-of select=".//oai:identifier"/>
                     </to_uri>
                     <label>
-                        <xsl:value-of select=".//oai:relationType"/>
+                        <xsl:value-of select="'relatedTo'"/>
                     </label>
                 </relation>
             </xsl:for-each>
