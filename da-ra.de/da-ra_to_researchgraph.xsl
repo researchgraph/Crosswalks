@@ -56,7 +56,7 @@
                 <xsl:value-of select="substring-before(substring-after(.//oai:dataURLs/oai:dataURL[1],'www.'),'/')"/>
             </source>
             <local_id>
-                <xsl:value-of select="concat(.//oai:resourceIdentifier/oai:identifier,.//oai:resourceIdentifier/oai:currentVersion)"/>
+                <xsl:value-of select=".//oai:resourceIdentifier/oai:identifier"/>
             </local_id>
             <last_updated>
                 <xsl:value-of select="ancestor::oai:record//oai:datestamp"/>

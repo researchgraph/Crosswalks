@@ -4,9 +4,9 @@
                  xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/dataset.xsd">
    <datasets>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA38561.0.0</key>
+         <key>researchgraph.org/da-ra/ZA3856</key>
          <source/>
-         <local_id>ZA38561.0.0</local_id>
+         <local_id>ZA3856</local_id>
          <last_updated>2014-03-12T11:57:46Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3856&amp;db=e&amp;doi=10.4232/1.3856</url>
          <title>Media-Analyse (MA 2001, Radio I)</title>
@@ -14,9 +14,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA38571.0.0</key>
+         <key>researchgraph.org/da-ra/ZA3857</key>
          <source/>
-         <local_id>ZA38571.0.0</local_id>
+         <local_id>ZA3857</local_id>
          <last_updated>2014-03-12T11:57:46Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3857&amp;db=e&amp;doi=10.4232/1.3857</url>
          <title>Media-Analyse (MA 2001, Radio II)</title>
@@ -24,9 +24,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA38581.0.0</key>
+         <key>researchgraph.org/da-ra/ZA3858</key>
          <source/>
-         <local_id>ZA38581.0.0</local_id>
+         <local_id>ZA3858</local_id>
          <last_updated>2014-03-12T11:57:46Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3858&amp;db=e&amp;doi=10.4232/1.3858</url>
          <title>Media-Analyse (MA 2001, Pressemedien I)</title>
@@ -34,9 +34,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA38591.0.0</key>
+         <key>researchgraph.org/da-ra/ZA3859</key>
          <source/>
-         <local_id>ZA38591.0.0</local_id>
+         <local_id>ZA3859</local_id>
          <last_updated>2014-03-12T11:57:46Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3859&amp;db=e&amp;doi=10.4232/1.3859</url>
          <title>Media-Analyse (MA 2001, Pressemedien II)</title>
@@ -44,9 +44,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA38622.0.0</key>
+         <key>researchgraph.org/da-ra/ZA3862</key>
          <source/>
-         <local_id>ZA38622.0.0</local_id>
+         <local_id>ZA3862</local_id>
          <last_updated>2014-03-12T11:57:46Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3862&amp;db=e&amp;doi=10.4232/1.11284</url>
          <title>Wahl zum Abgeordnetenhaus in Berlin 2001</title>
@@ -54,9 +54,9 @@
          <publication_year>2012-02-27</publication_year>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA38632.0.0</key>
+         <key>researchgraph.org/da-ra/ZA3863</key>
          <source/>
-         <local_id>ZA38632.0.0</local_id>
+         <local_id>ZA3863</local_id>
          <last_updated>2014-03-12T11:57:46Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3863&amp;db=e&amp;doi=10.4232/1.11285</url>
          <title>Bürgerschaftswahl in Hamburg 2001</title>
@@ -64,9 +64,9 @@
          <publication_year>2012-02-27</publication_year>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA38642.0.0</key>
+         <key>researchgraph.org/da-ra/ZA3864</key>
          <source/>
-         <local_id>ZA38642.0.0</local_id>
+         <local_id>ZA3864</local_id>
          <last_updated>2014-03-12T11:57:46Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3864&amp;db=e&amp;doi=10.4232/1.11286</url>
          <title>Landtagswahl in Mecklenburg-Vorpommern 2002</title>
@@ -74,9 +74,9 @@
          <publication_year>2012-02-27</publication_year>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA38652.0.0</key>
+         <key>researchgraph.org/da-ra/ZA3865</key>
          <source/>
-         <local_id>ZA38652.0.0</local_id>
+         <local_id>ZA3865</local_id>
          <last_updated>2014-03-12T11:57:46Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3865&amp;db=e&amp;doi=10.4232/1.11287</url>
          <title>Landtagswahl in Sachsen-Anhalt 2002</title>
@@ -84,9 +84,9 @@
          <publication_year>2012-02-27</publication_year>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA38662.0.0</key>
+         <key>researchgraph.org/da-ra/ZA3866</key>
          <source/>
-         <local_id>ZA38662.0.0</local_id>
+         <local_id>ZA3866</local_id>
          <last_updated>2014-03-12T11:57:46Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3866&amp;db=e&amp;doi=10.4232/1.11288</url>
          <title>Landtagswahl in Hessen 2003</title>
@@ -94,9 +94,9 @@
          <publication_year>2012-02-27</publication_year>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA38612.0.0</key>
+         <key>researchgraph.org/da-ra/ZA3861</key>
          <source/>
-         <local_id>ZA38612.0.0</local_id>
+         <local_id>ZA3861</local_id>
          <last_updated>2014-03-12T11:57:46Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3861&amp;db=e&amp;doi=10.4232/1.11462</url>
          <title>Politische Einstellungen, politische Partizipation und
@@ -106,9 +106,9 @@
          <publication_year>2012-09-25</publication_year>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA38672.0.0</key>
+         <key>researchgraph.org/da-ra/ZA3867</key>
          <source/>
-         <local_id>ZA38672.0.0</local_id>
+         <local_id>ZA3867</local_id>
          <last_updated>2014-03-12T11:57:47Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3867&amp;db=e&amp;doi=10.4232/1.11289</url>
          <title>Landtagswahl in Niedersachsen 2003</title>
@@ -116,9 +116,9 @@
          <publication_year>2012-02-27</publication_year>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA38681.0.0</key>
+         <key>researchgraph.org/da-ra/ZA3868</key>
          <source/>
-         <local_id>ZA38681.0.0</local_id>
+         <local_id>ZA3868</local_id>
          <last_updated>2014-03-12T11:57:47Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3868&amp;db=e&amp;doi=10.4232/1.3868</url>
          <title>Zur politischen Lage in Hamburg im September 2001</title>
@@ -126,9 +126,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA38691.0.0</key>
+         <key>researchgraph.org/da-ra/ZA3869</key>
          <source/>
-         <local_id>ZA38691.0.0</local_id>
+         <local_id>ZA3869</local_id>
          <last_updated>2014-03-12T11:57:47Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3869&amp;db=e&amp;doi=10.4232/1.3869</url>
          <title>Zur politischen Lage in Berlin im Oktober 2001</title>
@@ -136,9 +136,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42351.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4235</key>
          <source/>
-         <local_id>ZA42351.0.0</local_id>
+         <local_id>ZA4235</local_id>
          <last_updated>2014-03-12T11:58:19Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4235&amp;db=e&amp;doi=10.4232/1.4235</url>
          <title>Candidate Countries Eurobarometer 2002.3 (New Europeans, Science and
@@ -147,9 +147,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42401.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4240</key>
          <source/>
-         <local_id>ZA42401.0.0</local_id>
+         <local_id>ZA4240</local_id>
          <last_updated>2014-03-12T11:58:19Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4240&amp;db=e&amp;doi=10.4232/1.4240</url>
          <title>Candidate Countries Eurobarometer 2003.5</title>
@@ -157,9 +157,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42381.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4238</key>
          <source/>
-         <local_id>ZA42381.0.0</local_id>
+         <local_id>ZA4238</local_id>
          <last_updated>2014-03-12T11:58:19Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4238&amp;db=e&amp;doi=10.4232/1.4238</url>
          <title>Four Nations Study 1985</title>
@@ -167,9 +167,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42411.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4241</key>
          <source/>
-         <local_id>ZA42411.0.0</local_id>
+         <local_id>ZA4241</local_id>
          <last_updated>2014-03-12T11:58:20Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4241&amp;db=e&amp;doi=10.4232/1.4241</url>
          <title>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS -
@@ -178,9 +178,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42421.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4242</key>
          <source/>
-         <local_id>ZA42421.0.0</local_id>
+         <local_id>ZA4242</local_id>
          <last_updated>2014-03-12T11:58:20Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4242&amp;db=e&amp;doi=10.4232/1.4242</url>
          <title>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften
@@ -189,9 +189,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42431.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4243</key>
          <source/>
-         <local_id>ZA42431.0.0</local_id>
+         <local_id>ZA4243</local_id>
          <last_updated>2014-03-12T11:58:20Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4243&amp;db=e&amp;doi=10.4232/1.4243</url>
          <title>German General Social Survey - ALLBUS - Cumulation
@@ -200,9 +200,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42441.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4244</key>
          <source/>
-         <local_id>ZA42441.0.0</local_id>
+         <local_id>ZA4244</local_id>
          <last_updated>2014-03-12T11:58:20Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4244&amp;db=e&amp;doi=10.4232/1.4244</url>
          <title>German General Social Survey - ALLBUScompact - Cumulation
@@ -211,9 +211,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42461.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4246</key>
          <source/>
-         <local_id>ZA42461.0.0</local_id>
+         <local_id>ZA4246</local_id>
          <last_updated>2014-03-12T11:58:20Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4246&amp;db=e&amp;doi=10.4232/1.4246</url>
          <title>Candidate Countries Eurobarometer 2004.1</title>
@@ -221,9 +221,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42531.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4253</key>
          <source/>
-         <local_id>ZA42531.0.0</local_id>
+         <local_id>ZA4253</local_id>
          <last_updated>2014-03-12T11:58:20Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4253&amp;db=e&amp;doi=10.4232/1.4253</url>
          <title>Vorstellungen über und potentielle Verhaltensintentionen bei Notwehr
@@ -232,9 +232,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42551.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4255</key>
          <source/>
-         <local_id>ZA42551.0.0</local_id>
+         <local_id>ZA4255</local_id>
          <last_updated>2014-03-12T11:58:21Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4255&amp;db=e&amp;doi=10.4232/1.4255</url>
          <title>Lokales und nationales Kompetenzgefühl in Europa</title>
@@ -242,9 +242,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42581.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4258</key>
          <source/>
-         <local_id>ZA42581.0.0</local_id>
+         <local_id>ZA4258</local_id>
          <last_updated>2014-03-12T11:58:21Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4258&amp;db=e&amp;doi=10.4232/1.4258</url>
          <title>Politbarometer Ost 2005 (Kumulierter Datensatz, inkl.
@@ -253,9 +253,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42591.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4259</key>
          <source/>
-         <local_id>ZA42591.0.0</local_id>
+         <local_id>ZA4259</local_id>
          <last_updated>2014-03-12T11:58:21Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4259&amp;db=e&amp;doi=10.4232/1.4259</url>
          <title>Politbarometer West 2005 (Kumulierter Datensatz, inkl.
@@ -264,9 +264,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42601.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4260</key>
          <source/>
-         <local_id>ZA42601.0.0</local_id>
+         <local_id>ZA4260</local_id>
          <last_updated>2014-03-12T11:58:21Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4260&amp;db=e&amp;doi=10.4232/1.4260</url>
          <title>Sozialwissenschaftliche Status- und Prestigeskalen</title>
@@ -274,9 +274,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42611.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4261</key>
          <source/>
-         <local_id>ZA42611.0.0</local_id>
+         <local_id>ZA4261</local_id>
          <last_updated>2014-03-12T11:58:21Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4261&amp;db=e&amp;doi=10.4232/1.4261</url>
          <title>European adolescent delinquency and substance use</title>
@@ -284,9 +284,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42621.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4262</key>
          <source/>
-         <local_id>ZA42621.0.0</local_id>
+         <local_id>ZA4262</local_id>
          <last_updated>2014-03-12T11:58:21Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4262&amp;db=e&amp;doi=10.4232/1.4262</url>
          <title>Transatlantic Trends 2005</title>
@@ -294,9 +294,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42631.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4263</key>
          <source/>
-         <local_id>ZA42631.0.0</local_id>
+         <local_id>ZA4263</local_id>
          <last_updated>2014-03-12T11:58:22Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4263&amp;db=e&amp;doi=10.4232/1.4263</url>
          <title>Studiensituation und studentische Orientierungen 2006/07
@@ -305,9 +305,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42661.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4266</key>
          <source/>
-         <local_id>ZA42661.0.0</local_id>
+         <local_id>ZA4266</local_id>
          <last_updated>2014-03-12T11:58:22Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4266&amp;db=e&amp;doi=10.4232/1.4266</url>
          <title>Bamberger Ehepaar-Panel</title>
@@ -315,9 +315,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42681.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4268</key>
          <source/>
-         <local_id>ZA42681.0.0</local_id>
+         <local_id>ZA4268</local_id>
          <last_updated>2014-03-12T11:58:22Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4268&amp;db=e&amp;doi=10.4232/1.4268</url>
          <title>Reiseanalyse 2004</title>
@@ -325,9 +325,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42691.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4269</key>
          <source/>
-         <local_id>ZA42691.0.0</local_id>
+         <local_id>ZA4269</local_id>
          <last_updated>2014-03-12T11:58:22Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4269&amp;db=e&amp;doi=10.4232/1.4269</url>
          <title>Reiseanalyse 2005</title>
@@ -335,9 +335,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42701.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4270</key>
          <source/>
-         <local_id>ZA42701.0.0</local_id>
+         <local_id>ZA4270</local_id>
          <last_updated>2014-03-12T11:58:22Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4270&amp;db=e&amp;doi=10.4232/1.4270</url>
          <title>Japanese General Social Survey 2005 (JGSS 2005)</title>
@@ -345,9 +345,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42671.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4267</key>
          <source/>
-         <local_id>ZA42671.0.0</local_id>
+         <local_id>ZA4267</local_id>
          <last_updated>2014-03-12T11:58:22Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4267&amp;db=e&amp;doi=10.4232/1.4267</url>
          <title>Chancenzuweisung durch Ausbildung (Längsschnitt
@@ -356,9 +356,9 @@
          <publication_year>2012-01-17</publication_year>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42711.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4271</key>
          <source/>
-         <local_id>ZA42711.0.0</local_id>
+         <local_id>ZA4271</local_id>
          <last_updated>2014-03-12T11:58:23Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4271&amp;db=e&amp;doi=10.4232/1.4271</url>
          <title>Kommunale Wahlbeteiligung – Kommunalwahl am 26. September 2004 in
@@ -367,9 +367,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42731.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4273</key>
          <source/>
-         <local_id>ZA42731.0.0</local_id>
+         <local_id>ZA4273</local_id>
          <last_updated>2014-03-12T11:58:23Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4273&amp;db=e&amp;doi=10.4232/1.4273</url>
          <title>Post-Election Survey in Latvia 1998</title>
@@ -377,9 +377,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42741.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4274</key>
          <source/>
-         <local_id>ZA42741.0.0</local_id>
+         <local_id>ZA4274</local_id>
          <last_updated>2014-03-12T11:58:23Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4274&amp;db=e&amp;doi=10.4232/1.4274</url>
          <title>Post-Election Survey in Latvia 2002</title>
@@ -387,9 +387,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42751.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4275</key>
          <source/>
-         <local_id>ZA42751.0.0</local_id>
+         <local_id>ZA4275</local_id>
          <last_updated>2014-03-12T11:58:23Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4275&amp;db=e&amp;doi=10.4232/1.4275</url>
          <title>Non-governmental Organisations in Latvia: Knowledge, Attitudes and
@@ -398,9 +398,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42761.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4276</key>
          <source/>
-         <local_id>ZA42761.0.0</local_id>
+         <local_id>ZA4276</local_id>
          <last_updated>2014-03-12T11:58:23Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4276&amp;db=e&amp;doi=10.4232/1.4276</url>
          <title>Public Opinion about Legitimacy of the political System in Serbia
@@ -409,9 +409,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42771.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4277</key>
          <source/>
-         <local_id>ZA42771.0.0</local_id>
+         <local_id>ZA4277</local_id>
          <last_updated>2014-03-12T11:58:23Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4277&amp;db=e&amp;doi=10.4232/1.4277</url>
          <title>Yugoslav Public Opinion 1998</title>
@@ -419,9 +419,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42781.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4278</key>
          <source/>
-         <local_id>ZA42781.0.0</local_id>
+         <local_id>ZA4278</local_id>
          <last_updated>2014-03-12T11:58:24Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4278&amp;db=e&amp;doi=10.4232/1.4278</url>
          <title>Election Study Serbia September 1999</title>
@@ -429,9 +429,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42791.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4279</key>
          <source/>
-         <local_id>ZA42791.0.0</local_id>
+         <local_id>ZA4279</local_id>
          <last_updated>2014-03-12T11:58:24Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4279&amp;db=e&amp;doi=10.4232/1.4279</url>
          <title>Election Study Serbia November 1999</title>
@@ -439,9 +439,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA42801.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4280</key>
          <source/>
-         <local_id>ZA42801.0.0</local_id>
+         <local_id>ZA4280</local_id>
          <last_updated>2014-03-12T11:58:24Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4280&amp;db=e&amp;doi=10.4232/1.4280</url>
          <title>Pre-Election Study - Presidential Elections Serbia February
@@ -450,9 +450,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA45141.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4514</key>
          <source/>
-         <local_id>ZA45141.0.0</local_id>
+         <local_id>ZA4514</local_id>
          <last_updated>2014-03-12T11:58:43Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4514&amp;db=e&amp;doi=10.4232/1.4514</url>
          <title>Forsa-Bus 2006</title>
@@ -460,9 +460,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA45181.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4518</key>
          <source/>
-         <local_id>ZA45181.0.0</local_id>
+         <local_id>ZA4518</local_id>
          <last_updated>2014-03-12T11:58:44Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4518&amp;db=e&amp;doi=10.4232/1.4518</url>
          <title>Transatlantic Trends 2006</title>
@@ -470,9 +470,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA45191.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4519</key>
          <source/>
-         <local_id>ZA45191.0.0</local_id>
+         <local_id>ZA4519</local_id>
          <last_updated>2014-03-12T11:58:44Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4519&amp;db=e&amp;doi=10.4232/1.4519</url>
          <title>Nachwahlbefragungen zur Bundestagswahl 1949-2005 (Kumulierte
@@ -481,9 +481,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA45211.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4521</key>
          <source/>
-         <local_id>ZA45211.0.0</local_id>
+         <local_id>ZA4521</local_id>
          <last_updated>2014-03-12T11:58:44Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4521&amp;db=e&amp;doi=10.4232/1.4521</url>
          <title>Sparen und Altersvorsorge in Deutschland (SAVE) 2006</title>
@@ -491,9 +491,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA46181.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4618</key>
          <source/>
-         <local_id>ZA46181.0.0</local_id>
+         <local_id>ZA4618</local_id>
          <last_updated>2014-03-12T11:58:56Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=4618&amp;db=e&amp;doi=10.4232/1.11774</url>
          <title>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012:
@@ -502,9 +502,9 @@
          <publication_year>2013-10-28</publication_year>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA46531.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4653</key>
          <source/>
-         <local_id>ZA46531.0.0</local_id>
+         <local_id>ZA4653</local_id>
          <last_updated>2014-03-12T11:58:57Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4653&amp;db=e&amp;doi=10.4232/1.4653</url>
          <title>Population Policy Acceptance Study (PPAS)</title>
@@ -512,9 +512,9 @@
          <publication_year/>
       </dataset>
       <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA46591.0.0</key>
+         <key>researchgraph.org/da-ra/ZA4659</key>
          <source/>
-         <local_id>ZA46591.0.0</local_id>
+         <local_id>ZA4659</local_id>
          <last_updated>2014-03-12T11:58:57Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4659&amp;db=e&amp;doi=10.4232/1.4659</url>
          <title>Persönlichkeit, Motive, und Humankapital als Prädikatoren für den
