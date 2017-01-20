@@ -27,6 +27,9 @@
             <researchers>
                 <xsl:apply-templates select="."  mode="researcher"/>
             </researchers>
+            <relation>
+                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
+            </relation>
         </registryObjects>
     </xsl:template>
     
@@ -69,6 +72,16 @@
     </xsl:template>
     
     <!-- =========================================== -->
+    <!-- Publication Template                                                               -->
+    <!-- =========================================== -->
+    <!--<xsl:template match="oai:OAI-PMH/*/oai:">
+        <xsl:if test=".//oai:resourceType='1' or
+            .//oai:resourceType='2'">
+            <xsl:apply-templates select=".//oai:metadata" mode="dataset"/>
+        </xsl:if>
+    </xsl:template>-->
+    
+    <!-- =========================================== -->
     <!-- Researchers Template                                                           -->
     <!-- =========================================== -->
     <xsl:template match="/" mode="researcher">
@@ -85,5 +98,29 @@
                 </last_name>
             </researcher>
         </xsl:for-each>
+    </xsl:template>
+    
+    <!-- =========================================== -->
+    <!-- Relation Template                                                                    -->
+    <!-- =========================================== -->
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relation">
+        <xsl:apply-templates select=".//oai:metadata" mode="relation"/>
+    </xsl:template>
+    <xsl:template match="oai:metadata" mode="relation">
+        <xsl:if test=".//oai:relation">
+            <xsl:for-each select=".//oai:relation">
+                <relation>
+                    <from_key>
+                        <xsl:value-of select="concat('researchgraph.org/da-ra/',ancestor::oai:metadata//oai:resourceIdentifier/oai:identifier)"/>
+                    </from_key>
+                    <to_uri>
+                        <xsl:value-of select=".//oai:identifier"/>
+                    </to_uri>
+                    <label>
+                        <xsl:value-of select=".//oai:relationType"/>
+                    </label>
+                </relation>
+            </xsl:for-each>
+        </xsl:if>
     </xsl:template>
 </xsl:stylesheet>
