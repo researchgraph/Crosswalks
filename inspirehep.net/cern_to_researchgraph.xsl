@@ -26,6 +26,9 @@
             <researchers>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="researcher"/>
             </researchers>
+            <relations>
+                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"></xsl:apply-templates>
+            </relations>
         </registryObjects>
     </xsl:template>
     
@@ -86,7 +89,9 @@
     <!-- Researcher Template -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="researcher">
-        <xsl:apply-templates select=".//oai:metadata" mode="researcher"/>
+        <xsl:if test=".//marc:subfield[@code='i']">
+            <xsl:apply-templates select=".//oai:metadata" mode="researcher"/>
+        </xsl:if>
     </xsl:template>
     <xsl:template match="oai:metadata" mode="researcher">
         <xsl:for-each select=".//marc:datafield[@tag='700']
@@ -120,5 +125,16 @@
                 </xsl:if>
             </researcher>
         </xsl:for-each>
+    </xsl:template>
+    
+    <!-- =========================================== -->
+    <!-- Relation Template                                                                    -->
+    <!-- =========================================== -->
+    <xsl:template match="oai:OAI-PMH/*/record" mode="relation">
+        <relation>
+            <from_key>
+                
+            </from_key>
+        </relation>
     </xsl:template>
 </xsl:stylesheet>
