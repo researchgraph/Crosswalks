@@ -776,14 +776,5 @@
     <subfield code="v">content.pdf;1</subfield>
   </datafield>
 </record>
+</collection>
 
-<record>
-  <controlfield tag="001">29</controlfield>
-  <controlfield tag="005">20131213072949.0</controlfield>
-  <datafield tag="037" ind1=" " ind2=" ">
-    <subfield code="a">SLAC-0033</subfield>
-  </datafield>
-  <datafield tag="037" ind1=" " ind2=" ">
-    <subfield code="a">SLAC-033</subfield>
-  </datafield>
-  <datafield tag="037" ind1=
