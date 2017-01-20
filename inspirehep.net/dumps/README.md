@@ -78,3 +78,13 @@ Example:
 - url= ```http://inspirehep.net/author/profile/H.Schlereth.1```
 
 
+##Relations
+
+###from_key:
+- publication.key
+
+###to_uri:
+- researcher.key
+
+###label:
+- "relatedTo"
