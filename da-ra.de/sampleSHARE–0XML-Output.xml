@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/dataset.xsd">
+   <datasets>
+      <dataset xmlns="">
+         <key>researchgraph.org/da-ra/easy</key>
+         <source>share-project.org</source>
+         <local_id>easy</local_id>
+         <last_updated>2014-01-31T14:03:24Z</last_updated>
+         <url>http://www.share-project.org/data-access-documentation.html</url>
+         <title>easySHARE</title>
+         <doi>10.6103/SHARE.easy.100</doi>
+         <publication_year>2013-11-29</publication_year>
+      </dataset>
+      <dataset xmlns="">
+         <key>researchgraph.org/da-ra/jep</key>
+         <source>share-project.org</source>
+         <local_id>jep</local_id>
+         <last_updated>2014-01-31T14:43:39Z</last_updated>
+         <url>http://www.share-project.org/data-access-documentation.html</url>
+         <title>SHARE Job Episodes Panel</title>
+         <doi>10.6103/SHARE.jep.100</doi>
+         <publication_year>2013-03-28</publication_year>
+      </dataset>
+      <dataset xmlns="">
+         <key>researchgraph.org/da-ra/w4</key>
+         <source>share-project.org</source>
+         <local_id>w4</local_id>
+         <last_updated>2014-01-31T15:42:22Z</last_updated>
+         <url>http://www.share-project.org/data-access-documentation.html</url>
+         <title>Survey of Health, Ageing and Retirement in Europe (SHARE) Wave
+                        4</title>
+         <doi>10.6103/SHARE.w4.111</doi>
+         <publication_year>2013-03-28</publication_year>
+      </dataset>
+      <dataset xmlns="">
+         <key>researchgraph.org/da-ra/w3</key>
+         <source>share-project.org</source>
+         <local_id>w3</local_id>
+         <last_updated>2014-01-31T15:48:24Z</last_updated>
+         <url>http://www.share-project.org/data-access-documentation.html</url>
+         <title>Survey of Health, Ageing and Retirement in Europe (SHARE) Wave 3 -
+                        SHARELIFE</title>
+         <doi>10.6103/SHARE.w3.100</doi>
+         <publication_year>2010-11-24</publication_year>
+      </dataset>
+      <dataset xmlns="">
+         <key>researchgraph.org/da-ra/w2</key>
+         <source>share-project.org</source>
+         <local_id>w2</local_id>
+         <last_updated>2014-01-31T15:52:21Z</last_updated>
+         <url>http://www.share-project.org/data-access-documentation.html</url>
+         <title>Survey of Health, Ageing and Retirement in Europe (SHARE) Wave
+                        2</title>
+         <doi>10.6103/SHARE.w2.260</doi>
+         <publication_year>2013-11-29</publication_year>
+      </dataset>
+      <dataset xmlns="">
+         <key>researchgraph.org/da-ra/w1</key>
+         <source>share-project.org</source>
+         <local_id>w1</local_id>
+         <last_updated>2014-01-31T16:21:03Z</last_updated>
+         <url>http://www.share-project.org/data-access-documentation.html</url>
+         <title>Survey of Health, Ageing and Retirement in Europe (SHARE) Wave
+                        1</title>
+         <doi>10.6103/SHARE.w1.260</doi>
+         <publication_year>2013-11-29</publication_year>
+      </dataset>
+      <dataset xmlns="">
+         <key>researchgraph.org/da-ra/RV</key>
+         <source>share-project.org</source>
+         <local_id>RV</local_id>
+         <last_updated>2014-03-03T09:46:22Z</last_updated>
+         <url>http://www.share-project.org/data-access-documentation.html</url>
+         <title>SHARE-RV</title>
+         <doi>10.6103/SHARE.SHARE-RV.200</doi>
+         <publication_year>2014-03-03</publication_year>
+      </dataset>
+      <dataset xmlns="">
+         <key>researchgraph.org/da-ra/jep</key>
+         <source>share-project.org</source>
+         <local_id>jep</local_id>
+         <last_updated>2014-08-14T13:41:36Z</last_updated>
+         <url>http://www.share-project.org/data-access-documentation.html</url>
+         <title>SHARE Job Episodes Panel</title>
+         <doi>10.6103/SHARE.jep.200</doi>
+         <publication_year>2014-08-13</publication_year>
+      </dataset>
+      <dataset xmlns="">
+         <key>researchgraph.org/da-ra/RV</key>
+         <source>share-project.org</source>
+         <local_id>RV</local_id>
+         <last_updated>2015-03-31T09:18:22Z</last_updated>
+         <url>http://www.share-project.org/data-access-documentation.html</url>
+         <title>SHARE-RV</title>
+         <doi>10.6103/SHARE.SHARE-RV.300</doi>
+         <publication_year>2015-03-31</publication_year>
+      </dataset>
+      <dataset xmlns="">
+         <key>researchgraph.org/da-ra/w5</key>
+         <source>share-project.org</source>
+         <local_id>w5</local_id>
+         <last_updated>2015-03-31T09:28:04Z</last_updated>
+         <url>http://www.share-project.org/data-access-documentation.html</url>
+         <title>Survey of Health, Ageing and Retirement in Europe (SHARE) Wave
+                        5</title>
+         <doi>10.6103/SHARE.w5.100</doi>
+         <publication_year>2015-03-31</publication_year>
+      </dataset>
+      <dataset xmlns="">
+         <key>researchgraph.org/da-ra/easy</key>
+         <source>share-project.org</source>
+         <local_id>easy</local_id>
+         <last_updated>2015-06-15T12:32:09Z</last_updated>
+         <url>http://www.share-project.org/data-access-documentation.html</url>
+         <title>easySHARE</title>
+         <doi>10.6103/SHARE.easy.200</doi>
+         <publication_year>2015-06-15</publication_year>
+      </dataset>
+   </datasets>
+   <researchers>
+      <researcher xmlns="">
+         <full_name>Axel Börsch-Supan</full_name>
+         <first_name>Axel</first_name>
+         <last_name>Börsch-Supan</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Christian Hunkler</full_name>
+         <first_name>Christian</first_name>
+         <last_name>Hunkler</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Stefan Gruber</full_name>
+         <first_name>Stefan</first_name>
+         <last_name>Gruber</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Agnes Orban</full_name>
+         <first_name>Agnes</first_name>
+         <last_name>Orban</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Stephanie Stuck</full_name>
+         <first_name>Stephanie</first_name>
+         <last_name>Stuck</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Martina Brandt</full_name>
+         <first_name>Martina</first_name>
+         <last_name>Brandt</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Agar Brugiavini</full_name>
+         <first_name>Agar</first_name>
+         <last_name>Brugiavini</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Danilo Cavapozzi</full_name>
+         <first_name>Danilo</first_name>
+         <last_name>Cavapozzi</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Giacomo Pasini</full_name>
+         <first_name>Giacomo</first_name>
+         <last_name>Pasini</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Elisabetta Trevisan</full_name>
+         <first_name>Elisabetta</first_name>
+         <last_name>Trevisan</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Axel Börsch-Supan</full_name>
+         <first_name>Axel</first_name>
+         <last_name>Börsch-Supan</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Axel Börsch-Supan</full_name>
+         <first_name>Axel</first_name>
+         <last_name>Börsch-Supan</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Axel Börsch-Supan</full_name>
+         <first_name>Axel</first_name>
+         <last_name>Börsch-Supan</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Axel Börsch-Supan</full_name>
+         <first_name>Axel</first_name>
+         <last_name>Börsch-Supan</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Liudmila Antonova</full_name>
+         <first_name>Liudmila</first_name>
+         <last_name>Antonova</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Luis Aranda</full_name>
+         <first_name>Luis</first_name>
+         <last_name>Aranda</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Agar Brugiavini</full_name>
+         <first_name>Agar</first_name>
+         <last_name>Brugiavini</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Danilo Cavapozzi</full_name>
+         <first_name>Danilo</first_name>
+         <last_name>Cavapozzi</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Giacomo Pasini</full_name>
+         <first_name>Giacomo</first_name>
+         <last_name>Pasini</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Elisabetta Trevisan</full_name>
+         <first_name>Elisabetta</first_name>
+         <last_name>Trevisan</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Axel Börsch-Supan</full_name>
+         <first_name>Axel</first_name>
+         <last_name>Börsch-Supan</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Axel Börsch-Supan</full_name>
+         <first_name>Axel</first_name>
+         <last_name>Börsch-Supan</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Christian Hunkler</full_name>
+         <first_name>Christian</first_name>
+         <last_name>Hunkler</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Stefan Gruber</full_name>
+         <first_name>Stefan</first_name>
+         <last_name>Gruber</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Agnes Orban</full_name>
+         <first_name>Agnes</first_name>
+         <last_name>Orban</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Stephanie Stuck</full_name>
+         <first_name>Stephanie</first_name>
+         <last_name>Stuck</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Jana Neumann</full_name>
+         <first_name>Jana</first_name>
+         <last_name>Neumann</last_name>
+      </researcher>
+      <researcher xmlns="">
+         <full_name>Martina Brandt</full_name>
+         <first_name>Martina</first_name>
+         <last_name>Brandt</last_name>
+      </researcher>
+   </researchers>
+   <relations/>
+</registryObjects>
