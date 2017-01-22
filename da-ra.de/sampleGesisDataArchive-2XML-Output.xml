@@ -5,8 +5,8 @@
    <datasets>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA4391</key>
-         <source/>
-         <local_id>ZA43911.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA4391</local_id>
          <last_updated>2013-05-30T06:07:04Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4391&amp;db=e&amp;doi=10.4232/1.4391</url>
          <title>Gruppenbezogene Menschenfeindlichkeit (GMF-Survey 2002)</title>
@@ -15,8 +15,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA4662</key>
-         <source/>
-         <local_id>ZA46621.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA4662</local_id>
          <last_updated>2013-05-30T06:19:30Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4662&amp;db=e&amp;doi=10.4232/1.4662</url>
          <title>Politische Einstellungen, politische Partizipation und
@@ -26,8 +26,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA5200</key>
-         <source/>
-         <local_id>ZA52001.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA5200</local_id>
          <last_updated>2013-05-30T06:21:29Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=5200&amp;db=e&amp;doi=10.4232/1.5200</url>
          <title>Politbarometer Ost 2008 (Kumulierter Datensatz inkl.
@@ -37,8 +37,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA5201</key>
-         <source/>
-         <local_id>ZA52011.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA5201</local_id>
          <last_updated>2013-05-30T06:22:42Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=5201&amp;db=e&amp;doi=10.4232/1.5201</url>
          <title>Politbarometer West 2008 (Kumulierter Datensatz inkl.
@@ -48,8 +48,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA5260</key>
-         <source/>
-         <local_id>ZA52601.1.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA5260</local_id>
          <last_updated>2013-06-03T10:03:53Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5260&amp;db=e&amp;doi=10.4232/1.11565</url>
          <title>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS -
@@ -59,8 +59,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA5678</key>
-         <source/>
-         <local_id>ZA56783.1.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA5678</local_id>
          <last_updated>2013-06-09T10:04:28Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5678&amp;db=e&amp;doi=10.4232/pairfam.5678.3.1.0</url>
          <title>Beziehungs- und Familienpanel (pairfam)</title>
@@ -69,8 +69,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA5684</key>
-         <source/>
-         <local_id>ZA56842.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA5684</local_id>
          <last_updated>2013-06-10T10:05:07Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5684&amp;db=e&amp;doi=10.4232/demodiff.5684.2.0.0</url>
          <title>Demographic Differences in Life Course Dynamics in Eastern and
@@ -80,8 +80,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA5340</key>
-         <source/>
-         <local_id>ZA53403.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA5340</local_id>
          <last_updated>2013-06-27T10:04:30Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5340&amp;db=e&amp;doi=10.4232/1.10401</url>
          <title>Langfrist-Online-Tracking, T7 (GLES 2009)</title>
@@ -90,8 +90,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3783</key>
-         <source/>
-         <local_id>ZA37832.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3783</local_id>
          <last_updated>2013-07-03T10:03:01Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3783&amp;db=e&amp;doi=10.4232/1.3783</url>
          <title>EVS - European Values Study 1999 - Niederlande</title>
@@ -100,8 +100,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3794</key>
-         <source/>
-         <local_id>ZA37942.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3794</local_id>
          <last_updated>2013-07-03T10:03:02Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3794&amp;db=e&amp;doi=10.4232/1.3794</url>
          <title>EVS - European Values Study 1999 - Polen</title>
@@ -110,8 +110,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3801</key>
-         <source/>
-         <local_id>ZA38012.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3801</local_id>
          <last_updated>2013-07-03T10:03:03Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3801&amp;db=e&amp;doi=10.4232/1.3801</url>
          <title>EVS - European Values Study 1999 - Griechenland</title>
@@ -120,8 +120,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3805</key>
-         <source/>
-         <local_id>ZA38052.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3805</local_id>
          <last_updated>2013-07-03T10:03:03Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3805&amp;db=e&amp;doi=10.4232/1.3805</url>
          <title>EVS - European Values Study 1999 - Slowenien</title>
@@ -130,8 +130,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3300</key>
-         <source/>
-         <local_id>ZA33001.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3300</local_id>
          <last_updated>2013-07-04T09:45:14Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3300&amp;db=e&amp;doi=10.4232/1.3300</url>
          <title>Forsa-Bus 1992</title>
@@ -140,8 +140,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA2689</key>
-         <source/>
-         <local_id>ZA26891.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA2689</local_id>
          <last_updated>2013-07-04T09:48:44Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=2689&amp;db=e&amp;doi=10.4232/1.2689</url>
          <title>Eurobarometer 44.0 (Oct-Nov 1995)</title>
@@ -150,8 +150,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA4332</key>
-         <source/>
-         <local_id>ZA43321.0.1</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA4332</local_id>
          <last_updated>2013-07-04T10:44:51Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=4332&amp;db=e&amp;doi=10.4232/1.10726</url>
          <title>Bundestagswahl 2005 - Bürger und Parteien in einer veränderten
@@ -161,8 +161,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA5235</key>
-         <source/>
-         <local_id>ZA52353.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA5235</local_id>
          <last_updated>2013-07-04T12:20:14Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5235&amp;db=e&amp;doi=10.4232/1.11309</url>
          <title>Eurobarometer 73.5 (2010)</title>
@@ -171,8 +171,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA5233</key>
-         <source/>
-         <local_id>ZA52332.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA5233</local_id>
          <last_updated>2013-07-04T12:47:58Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5233&amp;db=e&amp;doi=10.4232/1.10709</url>
          <title>Eurobarometer 73.3 (2010)</title>
@@ -181,8 +181,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA5000</key>
-         <source/>
-         <local_id>ZA50003.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA5000</local_id>
          <last_updated>2013-07-04T13:07:17Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5000&amp;db=e&amp;doi=10.4232/1.11411</url>
          <title>Eurobarometer 73.1 (2010)</title>
@@ -191,8 +191,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA4529</key>
-         <source/>
-         <local_id>ZA45292.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA4529</local_id>
          <last_updated>2013-07-04T13:09:30Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=4529&amp;db=e&amp;doi=10.4232/1.10065</url>
          <title>Eurobarometer 67.1 (2007)</title>
@@ -201,8 +201,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA5234</key>
-         <source/>
-         <local_id>ZA52341.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA5234</local_id>
          <last_updated>2013-07-04T13:16:34Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5234&amp;db=e&amp;doi=10.4232/1.10197</url>
          <title>Eurobarometer 73.4 (2010)</title>
@@ -211,8 +211,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA5236</key>
-         <source/>
-         <local_id>ZA52361.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA5236</local_id>
          <last_updated>2013-07-04T13:21:17Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5236&amp;db=e&amp;doi=10.4232/1.11058</url>
          <title>Eurobarometer 73.2+73.3 (2-3 2010)</title>
@@ -221,8 +221,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA4460</key>
-         <source/>
-         <local_id>ZA44602.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA4460</local_id>
          <last_updated>2013-07-04T13:25:08Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4460&amp;db=e&amp;doi=10.4232/1.4460</url>
          <title>EVS - European Values Study 1990 - Integrated Dataset</title>
@@ -231,8 +231,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA4794</key>
-         <source/>
-         <local_id>ZA47941.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA4794</local_id>
          <last_updated>2013-07-04T13:33:51Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4794&amp;db=e&amp;doi=10.4232/1.10023</url>
          <title>European Values Study 2008: Republic of Montenegro (EVS
@@ -242,8 +242,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA4438</key>
-         <source/>
-         <local_id>ZA44382.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA4438</local_id>
          <last_updated>2013-07-04T13:37:23Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4438&amp;db=e&amp;doi=10.4232/1.4438</url>
          <title>EVS - European Values Study 1981 - Integrated Dataset</title>
@@ -252,8 +252,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3993</key>
-         <source/>
-         <local_id>ZA39931.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3993</local_id>
          <last_updated>2013-07-05T07:00:50Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3993&amp;db=e&amp;doi=10.4232/1.3993</url>
          <title>Landtagswahl im Saarland 2004</title>
@@ -262,8 +262,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3388</key>
-         <source/>
-         <local_id>ZA33881.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3388</local_id>
          <last_updated>2013-07-05T07:05:47Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3388&amp;db=e&amp;doi=10.4232/1.3388</url>
          <title>Eurobarometer 54.2 (Jan-Feb 2001)</title>
@@ -272,8 +272,8 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3762</key>
-         <source/>
-         <local_id>ZA37621.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3762</local_id>
          <last_updated>2013-07-05T07:36:21Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3762&amp;db=e&amp;doi=10.4232/1.3762</url>
          <title>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS
@@ -283,252 +283,252 @@
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA5185</key>
-         <source/>
-         <local_id>ZA51851.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA5185</local_id>
          <last_updated>2013-07-16T10:03:26Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=5185&amp;db=e&amp;doi=10.4232/1.5185</url>
          <title>Absolventenpanel 1979</title>
          <doi>10.4232/1.5185</doi>
-         <publication_year/>
+         <publication_year>2009</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3776</key>
-         <source/>
-         <local_id>ZA37761.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3776</local_id>
          <last_updated>2013-07-18T09:47:19Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3776&amp;db=e&amp;doi=10.4232/1.11170</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Frankreich</title>
          <doi>10.4232/1.11170</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3777</key>
-         <source/>
-         <local_id>ZA37771.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3777</local_id>
          <last_updated>2013-07-18T09:47:21Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3777&amp;db=e&amp;doi=10.4232/1.11172</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Großbritannien</title>
          <doi>10.4232/1.11172</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3778</key>
-         <source/>
-         <local_id>ZA37781.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3778</local_id>
          <last_updated>2013-07-18T09:47:22Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3778&amp;db=e&amp;doi=10.4232/1.11171</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Deutschland</title>
          <doi>10.4232/1.11171</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3781</key>
-         <source/>
-         <local_id>ZA37811.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3781</local_id>
          <last_updated>2013-07-18T09:47:26Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3781&amp;db=e&amp;doi=10.4232/1.11192</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Spanien</title>
          <doi>10.4232/1.11192</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3782</key>
-         <source/>
-         <local_id>ZA37821.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3782</local_id>
          <last_updated>2013-07-18T09:47:27Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3782&amp;db=e&amp;doi=10.4232/1.11186</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Portugal</title>
          <doi>10.4232/1.11186</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3783</key>
-         <source/>
-         <local_id>ZA37831.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3783</local_id>
          <last_updated>2013-07-18T09:47:29Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=37833&amp;db=e3&amp;doi=10.4232/1.11184</url>
          <title>EVS - European Values Study 1999 (release 2, Mai 2006) -
                         Niederlande</title>
          <doi>10.4232/1.11184</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3784</key>
-         <source/>
-         <local_id>ZA37841.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3784</local_id>
          <last_updated>2013-07-18T09:47:31Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3784&amp;db=e&amp;doi=10.4232/1.11163</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Belgien</title>
          <doi>10.4232/1.11163</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3785</key>
-         <source/>
-         <local_id>ZA37851.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3785</local_id>
          <last_updated>2013-07-18T09:47:33Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3785&amp;db=e&amp;doi=10.4232/1.11167</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Dänemark</title>
          <doi>10.4232/1.11167</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3786</key>
-         <source/>
-         <local_id>ZA37861.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3786</local_id>
          <last_updated>2013-07-18T09:47:34Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3786&amp;db=e&amp;doi=10.4232/1.11193</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Schweden</title>
          <doi>10.4232/1.11193</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3787</key>
-         <source/>
-         <local_id>ZA37871.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3787</local_id>
          <last_updated>2013-07-18T09:47:36Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3787&amp;db=e&amp;doi=10.4232/1.11169</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Finnland</title>
          <doi>10.4232/1.11169</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3788</key>
-         <source/>
-         <local_id>ZA37881.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3788</local_id>
          <last_updated>2013-07-18T09:47:37Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3788&amp;db=e&amp;doi=10.4232/1.11175</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Island</title>
          <doi>10.4232/1.11175</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3789</key>
-         <source/>
-         <local_id>ZA37891.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3789</local_id>
          <last_updated>2013-07-18T09:47:39Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3789&amp;db=e&amp;doi=10.4232/1.11177</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Nordirland</title>
          <doi>10.4232/1.11177</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3790</key>
-         <source/>
-         <local_id>ZA37901.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3790</local_id>
          <last_updated>2013-07-18T09:47:41Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3790&amp;db=e&amp;doi=10.4232/1.11176</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Irland</title>
          <doi>10.4232/1.11176</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3791</key>
-         <source/>
-         <local_id>ZA37911.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3791</local_id>
          <last_updated>2013-07-18T09:47:42Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3791&amp;db=e&amp;doi=10.4232/1.11168</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Estland</title>
          <doi>10.4232/1.11168</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3792</key>
-         <source/>
-         <local_id>ZA37921.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3792</local_id>
          <last_updated>2013-07-18T09:47:44Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3792&amp;db=e&amp;doi=10.4232/1.11179</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Lettland</title>
          <doi>10.4232/1.11179</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3793</key>
-         <source/>
-         <local_id>ZA37931.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3793</local_id>
          <last_updated>2013-07-18T09:47:45Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3793&amp;db=e&amp;doi=10.4232/1.11180</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Litauen</title>
          <doi>10.4232/1.11180</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3794</key>
-         <source/>
-         <local_id>ZA37941.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3794</local_id>
          <last_updated>2013-07-18T09:47:47Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3794&amp;db=e&amp;doi=10.4232/1.11185</url>
          <title>EVS - European Values Study 1999 (release 2, Mai 2006) -
                         Polen</title>
          <doi>10.4232/1.11185</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3795</key>
-         <source/>
-         <local_id>ZA37951.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3795</local_id>
          <last_updated>2013-07-18T09:47:49Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3795&amp;db=e&amp;doi=10.4232/1.11166</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Tschechische Republik</title>
          <doi>10.4232/1.11166</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA3796</key>
-         <source/>
-         <local_id>ZA37961.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA3796</local_id>
          <last_updated>2013-07-18T09:47:50Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3796&amp;db=e&amp;doi=10.4232/1.11190</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
                         Slowakei</title>
          <doi>10.4232/1.11190</doi>
-         <publication_year/>
+         <publication_year>2006</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA0112</key>
-         <source/>
-         <local_id>ZA01121.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA0112</local_id>
          <last_updated>2014-03-12T11:51:31Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=0112&amp;db=e&amp;doi=10.4232/1.0112</url>
          <title>Die Stewardessen der Deutschen Lufthansa</title>
          <doi>10.4232/1.0112</doi>
-         <publication_year/>
+         <publication_year>1964</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA0113</key>
-         <source/>
-         <local_id>ZA01131.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA0113</local_id>
          <last_updated>2014-03-12T11:51:31Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=0113&amp;db=e&amp;doi=10.4232/1.0113</url>
          <title>Attitudes Towards Work</title>
          <doi>10.4232/1.0113</doi>
-         <publication_year/>
+         <publication_year>1964</publication_year>
       </dataset>
       <dataset xmlns="">
          <key>researchgraph.org/da-ra/ZA0114</key>
-         <source/>
-         <local_id>ZA01141.0.0</local_id>
+         <source>info1.gesis.org</source>
+         <local_id>ZA0114</local_id>
          <last_updated>2014-03-12T11:51:31Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=0114&amp;db=e&amp;doi=10.4232/1.0114</url>
          <title>Fortune Survey of American Executives</title>
          <doi>10.4232/1.0114</doi>
-         <publication_year/>
+         <publication_year>1964</publication_year>
       </dataset>
    </datasets>
    <researchers>
@@ -963,16 +963,6 @@
          <last_name>Malnar</last_name>
       </researcher>
       <researcher xmlns="">
-         <full_name> </full_name>
-         <first_name/>
-         <last_name/>
-      </researcher>
-      <researcher xmlns="">
-         <full_name> </full_name>
-         <first_name/>
-         <last_name/>
-      </researcher>
-      <researcher xmlns="">
          <full_name>Karlheinz Reif</full_name>
          <first_name>Karlheinz</first_name>
          <last_name>Reif</last_name>
@@ -1333,16 +1323,6 @@
          <last_name>Petersen</last_name>
       </researcher>
       <researcher xmlns="">
-         <full_name> </full_name>
-         <first_name/>
-         <last_name/>
-      </researcher>
-      <researcher xmlns="">
-         <full_name> </full_name>
-         <first_name/>
-         <last_name/>
-      </researcher>
-      <researcher xmlns="">
          <full_name>Thomas Christensen</full_name>
          <first_name>Thomas</first_name>
          <last_name>Christensen</last_name>
@@ -1611,26 +1591,6 @@
          <full_name>Hans-Henning Sawitzki</full_name>
          <first_name>Hans-Henning</first_name>
          <last_name>Sawitzki</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name> </full_name>
-         <first_name/>
-         <last_name/>
-      </researcher>
-      <researcher xmlns="">
-         <full_name> </full_name>
-         <first_name/>
-         <last_name/>
-      </researcher>
-      <researcher xmlns="">
-         <full_name> </full_name>
-         <first_name/>
-         <last_name/>
-      </researcher>
-      <researcher xmlns="">
-         <full_name> </full_name>
-         <first_name/>
-         <last_name/>
       </researcher>
    </researchers>
    <relations>

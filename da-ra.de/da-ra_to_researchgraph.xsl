@@ -53,7 +53,14 @@
                 <xsl:value-of select="concat('researchgraph.org/da-ra/',.//oai:resourceIdentifier/oai:identifier)"/>
             </key>
             <source>
-                <xsl:value-of select="substring-before(substring-after(.//oai:dataURLs/oai:dataURL[1],'www.'),'/')"/>
+                <xsl:choose>
+                  <xsl:when test="contains(.//oai:dataURLs/oai:dataURL,'www')">
+                      <xsl:value-of select="substring-before(substring-after(.//oai:dataURLs/oai:dataURL[1],'www.'),'/')"/>    
+                  </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="substring-before(substring-after(.//oai:dataURLs/oai:dataURL,'://'),'/')"/>
+                    </xsl:otherwise>
+                </xsl:choose>
             </source>
             <local_id>
                 <xsl:value-of select=".//oai:resourceIdentifier/oai:identifier"/>
@@ -71,7 +78,14 @@
                 <xsl:value-of select=".//oai:doiProposal"/>
             </doi>
             <publication_year>
-                <xsl:value-of select=".//oai:publicationDate/oai:date"/>
+                <xsl:choose>
+                    <xsl:when test=".//oai:publicationDate/oai:year">
+                        <xsl:value-of select=".//oai:publicationDate/oai:year"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select=".//oai:publicationDate/*[1]"/>
+                    </xsl:otherwise>
+                </xsl:choose>
             </publication_year>
         </dataset>
     </xsl:template>
@@ -133,7 +147,10 @@
                 </doi>
             </xsl:if>
             <publication_year>
-                <xsl:value-of select=".//oai:publicationDate/oai:date"/>
+                <xsl:if test=".//oai:publicationDate/oai:year">
+                    <xsl:value-of select=".//oai:publicationDate/oai:year"/>
+                </xsl:if>
+                <xsl:value-of select=".//oai:publicationDate/*[1]"/>
             </publication_year>
         </publication>
     </xsl:template>
@@ -143,17 +160,19 @@
     <!-- =========================================== -->
     <xsl:template match="/" mode="researcher">
         <xsl:for-each select=".//oai:creator">
-            <researcher>
-                <full_name>
-                    <xsl:value-of select="concat(.//oai:firstName,' ',.//oai:lastName)"/>
-                </full_name>
-                <first_name>
-                    <xsl:value-of select=".//oai:firstName"/>
-                </first_name>
-                <last_name>
-                    <xsl:value-of select=".//oai:lastName"/>
-                </last_name>
-            </researcher>
+            <xsl:if test=".//oai:firstName">
+                <researcher>
+                    <full_name>
+                        <xsl:value-of select="concat(.//oai:firstName,' ',.//oai:lastName)"/>
+                    </full_name>
+                    <first_name>
+                        <xsl:value-of select=".//oai:firstName"/>
+                    </first_name>
+                    <last_name>
+                        <xsl:value-of select=".//oai:lastName"/>
+                    </last_name>
+                </researcher>
+            </xsl:if>
         </xsl:for-each>
     </xsl:template>
     
