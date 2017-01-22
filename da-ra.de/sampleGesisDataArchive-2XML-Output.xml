@@ -3,20 +3,20 @@
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                  xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/dataset.xsd">
    <datasets>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA4391</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.4391</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA4391</local_id>
+         <local_id>10.4232/1.4391</local_id>
          <last_updated>2013-05-30T06:07:04Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4391&amp;db=e&amp;doi=10.4232/1.4391</url>
          <title>Gruppenbezogene Menschenfeindlichkeit (GMF-Survey 2002)</title>
          <doi>10.4232/1.4391</doi>
          <publication_year>2010-04-13</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA4662</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.4662</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA4662</local_id>
+         <local_id>10.4232/1.4662</local_id>
          <last_updated>2013-05-30T06:19:30Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4662&amp;db=e&amp;doi=10.4232/1.4662</url>
          <title>Politische Einstellungen, politische Partizipation und
@@ -24,10 +24,10 @@
          <doi>10.4232/1.4662</doi>
          <publication_year>2010-04-13</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA5200</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.5200</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA5200</local_id>
+         <local_id>10.4232/1.5200</local_id>
          <last_updated>2013-05-30T06:21:29Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=5200&amp;db=e&amp;doi=10.4232/1.5200</url>
          <title>Politbarometer Ost 2008 (Kumulierter Datensatz inkl.
@@ -35,10 +35,10 @@
          <doi>10.4232/1.5200</doi>
          <publication_year>2010-07-14</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA5201</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.5201</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA5201</local_id>
+         <local_id>10.4232/1.5201</local_id>
          <last_updated>2013-05-30T06:22:42Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=5201&amp;db=e&amp;doi=10.4232/1.5201</url>
          <title>Politbarometer West 2008 (Kumulierter Datensatz inkl.
@@ -46,10 +46,10 @@
          <doi>10.4232/1.5201</doi>
          <publication_year>2010-07-14</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA5260</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11565</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA5260</local_id>
+         <local_id>10.4232/1.11565</local_id>
          <last_updated>2013-06-03T10:03:53Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5260&amp;db=e&amp;doi=10.4232/1.11565</url>
          <title>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS -
@@ -57,20 +57,20 @@
          <doi>10.4232/1.11565</doi>
          <publication_year>2013-02-25</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA5678</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/pairfam.5678.3.1.0</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA5678</local_id>
+         <local_id>10.4232/pairfam.5678.3.1.0</local_id>
          <last_updated>2013-06-09T10:04:28Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5678&amp;db=e&amp;doi=10.4232/pairfam.5678.3.1.0</url>
          <title>Beziehungs- und Familienpanel (pairfam)</title>
          <doi>10.4232/pairfam.5678.3.1.0</doi>
          <publication_year>2013-01-07</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA5684</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/demodiff.5684.2.0.0</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA5684</local_id>
+         <local_id>10.4232/demodiff.5684.2.0.0</local_id>
          <last_updated>2013-06-10T10:05:07Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5684&amp;db=e&amp;doi=10.4232/demodiff.5684.2.0.0</url>
          <title>Demographic Differences in Life Course Dynamics in Eastern and
@@ -78,80 +78,80 @@
          <doi>10.4232/demodiff.5684.2.0.0</doi>
          <publication_year>2013-01-07</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA5340</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.10401</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA5340</local_id>
+         <local_id>10.4232/1.10401</local_id>
          <last_updated>2013-06-27T10:04:30Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5340&amp;db=e&amp;doi=10.4232/1.10401</url>
          <title>Langfrist-Online-Tracking, T7 (GLES 2009)</title>
          <doi>10.4232/1.10401</doi>
          <publication_year>2011-01-24</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3783</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.3783</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3783</local_id>
+         <local_id>10.4232/1.3783</local_id>
          <last_updated>2013-07-03T10:03:01Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3783&amp;db=e&amp;doi=10.4232/1.3783</url>
          <title>EVS - European Values Study 1999 - Niederlande</title>
          <doi>10.4232/1.3783</doi>
          <publication_year>2006-05-30</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3794</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.3794</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3794</local_id>
+         <local_id>10.4232/1.3794</local_id>
          <last_updated>2013-07-03T10:03:02Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3794&amp;db=e&amp;doi=10.4232/1.3794</url>
          <title>EVS - European Values Study 1999 - Polen</title>
          <doi>10.4232/1.3794</doi>
          <publication_year>2006-05-30</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3801</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.3801</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3801</local_id>
+         <local_id>10.4232/1.3801</local_id>
          <last_updated>2013-07-03T10:03:03Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3801&amp;db=e&amp;doi=10.4232/1.3801</url>
          <title>EVS - European Values Study 1999 - Griechenland</title>
          <doi>10.4232/1.3801</doi>
          <publication_year>2006-05-30</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3805</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.3805</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3805</local_id>
+         <local_id>10.4232/1.3805</local_id>
          <last_updated>2013-07-03T10:03:03Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3805&amp;db=e&amp;doi=10.4232/1.3805</url>
          <title>EVS - European Values Study 1999 - Slowenien</title>
          <doi>10.4232/1.3805</doi>
          <publication_year>2006-05-30</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3300</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.3300</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3300</local_id>
+         <local_id>10.4232/1.3300</local_id>
          <last_updated>2013-07-04T09:45:14Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3300&amp;db=e&amp;doi=10.4232/1.3300</url>
          <title>Forsa-Bus 1992</title>
          <doi>10.4232/1.3300</doi>
          <publication_year>2010-04-13</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA2689</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.2689</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA2689</local_id>
+         <local_id>10.4232/1.2689</local_id>
          <last_updated>2013-07-04T09:48:44Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=2689&amp;db=e&amp;doi=10.4232/1.2689</url>
          <title>Eurobarometer 44.0 (Oct-Nov 1995)</title>
          <doi>10.4232/1.2689</doi>
          <publication_year>2010-04-13</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA4332</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.10726</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA4332</local_id>
+         <local_id>10.4232/1.10726</local_id>
          <last_updated>2013-07-04T10:44:51Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=4332&amp;db=e&amp;doi=10.4232/1.10726</url>
          <title>Bundestagswahl 2005 - Bürger und Parteien in einer veränderten
@@ -159,80 +159,80 @@
          <doi>10.4232/1.10726</doi>
          <publication_year>2011-07-04</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA5235</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11309</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA5235</local_id>
+         <local_id>10.4232/1.11309</local_id>
          <last_updated>2013-07-04T12:20:14Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5235&amp;db=e&amp;doi=10.4232/1.11309</url>
          <title>Eurobarometer 73.5 (2010)</title>
          <doi>10.4232/1.11309</doi>
          <publication_year>2012-03-13</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA5233</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.10709</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA5233</local_id>
+         <local_id>10.4232/1.10709</local_id>
          <last_updated>2013-07-04T12:47:58Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5233&amp;db=e&amp;doi=10.4232/1.10709</url>
          <title>Eurobarometer 73.3 (2010)</title>
          <doi>10.4232/1.10709</doi>
          <publication_year>2011-06-14</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA5000</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11411</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA5000</local_id>
+         <local_id>10.4232/1.11411</local_id>
          <last_updated>2013-07-04T13:07:17Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5000&amp;db=e&amp;doi=10.4232/1.11411</url>
          <title>Eurobarometer 73.1 (2010)</title>
          <doi>10.4232/1.11411</doi>
          <publication_year>2012-08-09</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA4529</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.10065</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA4529</local_id>
+         <local_id>10.4232/1.10065</local_id>
          <last_updated>2013-07-04T13:09:30Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=4529&amp;db=e&amp;doi=10.4232/1.10065</url>
          <title>Eurobarometer 67.1 (2007)</title>
          <doi>10.4232/1.10065</doi>
          <publication_year>2009-10-22</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA5234</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.10197</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA5234</local_id>
+         <local_id>10.4232/1.10197</local_id>
          <last_updated>2013-07-04T13:16:34Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5234&amp;db=e&amp;doi=10.4232/1.10197</url>
          <title>Eurobarometer 73.4 (2010)</title>
          <doi>10.4232/1.10197</doi>
          <publication_year>2010-11-23</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA5236</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11058</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA5236</local_id>
+         <local_id>10.4232/1.11058</local_id>
          <last_updated>2013-07-04T13:21:17Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=5236&amp;db=e&amp;doi=10.4232/1.11058</url>
          <title>Eurobarometer 73.2+73.3 (2-3 2010)</title>
          <doi>10.4232/1.11058</doi>
          <publication_year>2011-11-22</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA4460</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.4460</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA4460</local_id>
+         <local_id>10.4232/1.4460</local_id>
          <last_updated>2013-07-04T13:25:08Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4460&amp;db=e&amp;doi=10.4232/1.4460</url>
          <title>EVS - European Values Study 1990 - Integrated Dataset</title>
          <doi>10.4232/1.4460</doi>
          <publication_year>2010-04-13</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA4794</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.10023</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA4794</local_id>
+         <local_id>10.4232/1.10023</local_id>
          <last_updated>2013-07-04T13:33:51Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4794&amp;db=e&amp;doi=10.4232/1.10023</url>
          <title>European Values Study 2008: Republic of Montenegro (EVS
@@ -240,40 +240,40 @@
          <doi>10.4232/1.10023</doi>
          <publication_year>2010-06-30</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA4438</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.4438</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA4438</local_id>
+         <local_id>10.4232/1.4438</local_id>
          <last_updated>2013-07-04T13:37:23Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=4438&amp;db=e&amp;doi=10.4232/1.4438</url>
          <title>EVS - European Values Study 1981 - Integrated Dataset</title>
          <doi>10.4232/1.4438</doi>
          <publication_year>2010-04-13</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3993</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.3993</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3993</local_id>
+         <local_id>10.4232/1.3993</local_id>
          <last_updated>2013-07-05T07:00:50Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=3993&amp;db=e&amp;doi=10.4232/1.3993</url>
          <title>Landtagswahl im Saarland 2004</title>
          <doi>10.4232/1.3993</doi>
          <publication_year>2010-04-13</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3388</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.3388</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3388</local_id>
+         <local_id>10.4232/1.3388</local_id>
          <last_updated>2013-07-05T07:05:47Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3388&amp;db=e&amp;doi=10.4232/1.3388</url>
          <title>Eurobarometer 54.2 (Jan-Feb 2001)</title>
          <doi>10.4232/1.3388</doi>
          <publication_year>2010-04-13</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3762</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.3762</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3762</local_id>
+         <local_id>10.4232/1.3762</local_id>
          <last_updated>2013-07-05T07:36:21Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3762&amp;db=e&amp;doi=10.4232/1.3762</url>
          <title>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS
@@ -281,20 +281,20 @@
          <doi>10.4232/1.3762</doi>
          <publication_year>2010-04-13</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA5185</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.5185</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA5185</local_id>
+         <local_id>10.4232/1.5185</local_id>
          <last_updated>2013-07-16T10:03:26Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=5185&amp;db=e&amp;doi=10.4232/1.5185</url>
          <title>Absolventenpanel 1979</title>
          <doi>10.4232/1.5185</doi>
          <publication_year>2009</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3776</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11170</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3776</local_id>
+         <local_id>10.4232/1.11170</local_id>
          <last_updated>2013-07-18T09:47:19Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3776&amp;db=e&amp;doi=10.4232/1.11170</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -302,10 +302,10 @@
          <doi>10.4232/1.11170</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3777</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11172</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3777</local_id>
+         <local_id>10.4232/1.11172</local_id>
          <last_updated>2013-07-18T09:47:21Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3777&amp;db=e&amp;doi=10.4232/1.11172</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -313,10 +313,10 @@
          <doi>10.4232/1.11172</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3778</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11171</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3778</local_id>
+         <local_id>10.4232/1.11171</local_id>
          <last_updated>2013-07-18T09:47:22Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3778&amp;db=e&amp;doi=10.4232/1.11171</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -324,10 +324,10 @@
          <doi>10.4232/1.11171</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3781</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11192</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3781</local_id>
+         <local_id>10.4232/1.11192</local_id>
          <last_updated>2013-07-18T09:47:26Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3781&amp;db=e&amp;doi=10.4232/1.11192</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -335,10 +335,10 @@
          <doi>10.4232/1.11192</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3782</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11186</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3782</local_id>
+         <local_id>10.4232/1.11186</local_id>
          <last_updated>2013-07-18T09:47:27Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3782&amp;db=e&amp;doi=10.4232/1.11186</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -346,10 +346,10 @@
          <doi>10.4232/1.11186</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3783</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11184</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3783</local_id>
+         <local_id>10.4232/1.11184</local_id>
          <last_updated>2013-07-18T09:47:29Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=37833&amp;db=e3&amp;doi=10.4232/1.11184</url>
          <title>EVS - European Values Study 1999 (release 2, Mai 2006) -
@@ -357,10 +357,10 @@
          <doi>10.4232/1.11184</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3784</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11163</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3784</local_id>
+         <local_id>10.4232/1.11163</local_id>
          <last_updated>2013-07-18T09:47:31Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3784&amp;db=e&amp;doi=10.4232/1.11163</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -368,10 +368,10 @@
          <doi>10.4232/1.11163</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3785</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11167</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3785</local_id>
+         <local_id>10.4232/1.11167</local_id>
          <last_updated>2013-07-18T09:47:33Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3785&amp;db=e&amp;doi=10.4232/1.11167</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -379,10 +379,10 @@
          <doi>10.4232/1.11167</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3786</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11193</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3786</local_id>
+         <local_id>10.4232/1.11193</local_id>
          <last_updated>2013-07-18T09:47:34Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3786&amp;db=e&amp;doi=10.4232/1.11193</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -390,10 +390,10 @@
          <doi>10.4232/1.11193</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3787</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11169</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3787</local_id>
+         <local_id>10.4232/1.11169</local_id>
          <last_updated>2013-07-18T09:47:36Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3787&amp;db=e&amp;doi=10.4232/1.11169</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -401,10 +401,10 @@
          <doi>10.4232/1.11169</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3788</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11175</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3788</local_id>
+         <local_id>10.4232/1.11175</local_id>
          <last_updated>2013-07-18T09:47:37Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3788&amp;db=e&amp;doi=10.4232/1.11175</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -412,10 +412,10 @@
          <doi>10.4232/1.11175</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3789</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11177</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3789</local_id>
+         <local_id>10.4232/1.11177</local_id>
          <last_updated>2013-07-18T09:47:39Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3789&amp;db=e&amp;doi=10.4232/1.11177</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -423,10 +423,10 @@
          <doi>10.4232/1.11177</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3790</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11176</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3790</local_id>
+         <local_id>10.4232/1.11176</local_id>
          <last_updated>2013-07-18T09:47:41Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3790&amp;db=e&amp;doi=10.4232/1.11176</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -434,10 +434,10 @@
          <doi>10.4232/1.11176</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3791</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11168</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3791</local_id>
+         <local_id>10.4232/1.11168</local_id>
          <last_updated>2013-07-18T09:47:42Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3791&amp;db=e&amp;doi=10.4232/1.11168</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -445,10 +445,10 @@
          <doi>10.4232/1.11168</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3792</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11179</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3792</local_id>
+         <local_id>10.4232/1.11179</local_id>
          <last_updated>2013-07-18T09:47:44Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3792&amp;db=e&amp;doi=10.4232/1.11179</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -456,10 +456,10 @@
          <doi>10.4232/1.11179</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3793</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11180</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3793</local_id>
+         <local_id>10.4232/1.11180</local_id>
          <last_updated>2013-07-18T09:47:45Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3793&amp;db=e&amp;doi=10.4232/1.11180</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -467,10 +467,10 @@
          <doi>10.4232/1.11180</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3794</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11185</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3794</local_id>
+         <local_id>10.4232/1.11185</local_id>
          <last_updated>2013-07-18T09:47:47Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3794&amp;db=e&amp;doi=10.4232/1.11185</url>
          <title>EVS - European Values Study 1999 (release 2, Mai 2006) -
@@ -478,10 +478,10 @@
          <doi>10.4232/1.11185</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3795</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11166</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3795</local_id>
+         <local_id>10.4232/1.11166</local_id>
          <last_updated>2013-07-18T09:47:49Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3795&amp;db=e&amp;doi=10.4232/1.11166</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -489,10 +489,10 @@
          <doi>10.4232/1.11166</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA3796</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.11190</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA3796</local_id>
+         <local_id>10.4232/1.11190</local_id>
          <last_updated>2013-07-18T09:47:50Z</last_updated>
          <url>http://info1.gesis.org/dbksearch/sdesc2.asp?no=3796&amp;db=e&amp;doi=10.4232/1.11190</url>
          <title>EVS - European Values Study 1999/2000 (release 2, Mai 2006) -
@@ -500,30 +500,30 @@
          <doi>10.4232/1.11190</doi>
          <publication_year>2006</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA0112</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.0112</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA0112</local_id>
+         <local_id>10.4232/1.0112</local_id>
          <last_updated>2014-03-12T11:51:31Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=0112&amp;db=e&amp;doi=10.4232/1.0112</url>
          <title>Die Stewardessen der Deutschen Lufthansa</title>
          <doi>10.4232/1.0112</doi>
          <publication_year>1964</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA0113</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.0113</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA0113</local_id>
+         <local_id>10.4232/1.0113</local_id>
          <last_updated>2014-03-12T11:51:31Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=0113&amp;db=e&amp;doi=10.4232/1.0113</url>
          <title>Attitudes Towards Work</title>
          <doi>10.4232/1.0113</doi>
          <publication_year>1964</publication_year>
       </dataset>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/ZA0114</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.4232/1.0114</key>
          <source>info1.gesis.org</source>
-         <local_id>ZA0114</local_id>
+         <local_id>10.4232/1.0114</local_id>
          <last_updated>2014-03-12T11:51:31Z</last_updated>
          <url>http://info1.gesis.org/dbksearch13/sdesc2.asp?no=0114&amp;db=e&amp;doi=10.4232/1.0114</url>
          <title>Fortune Survey of American Executives</title>
@@ -531,1357 +531,295 @@
          <publication_year>1964</publication_year>
       </dataset>
    </datasets>
-   <researchers>
-      <researcher xmlns="">
-         <full_name>Wilhelm Heitmeyer</full_name>
-         <first_name>Wilhelm</first_name>
-         <last_name>Heitmeyer</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Hans Rattinger</full_name>
-         <first_name>Hans</first_name>
-         <last_name>Rattinger</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Manfred Berger</full_name>
-         <first_name>Manfred</first_name>
-         <last_name>Berger</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Matthias Jung</full_name>
-         <first_name>Matthias</first_name>
-         <last_name>Jung</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Dieter Roth</full_name>
-         <first_name>Dieter</first_name>
-         <last_name>Roth</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Manfred Berger</full_name>
-         <first_name>Manfred</first_name>
-         <last_name>Berger</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Matthias Jung</full_name>
-         <first_name>Matthias</first_name>
-         <last_name>Jung</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Dieter Roth</full_name>
-         <first_name>Dieter</first_name>
-         <last_name>Roth</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Klaus Allerbeck</full_name>
-         <first_name>Klaus</first_name>
-         <last_name>Allerbeck</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Jutta Allmendinger</full_name>
-         <first_name>Jutta</first_name>
-         <last_name>Allmendinger</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Hans-Jürgen Andreß</full_name>
-         <first_name>Hans-Jürgen</first_name>
-         <last_name>Andreß</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Wilhelm Bürklin</full_name>
-         <first_name>Wilhelm</first_name>
-         <last_name>Bürklin</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Andreas Diekmann</full_name>
-         <first_name>Andreas</first_name>
-         <last_name>Diekmann</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Hubert Feger</full_name>
-         <first_name>Hubert</first_name>
-         <last_name>Feger</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Detlef Fetchenhauer</full_name>
-         <first_name>Detlef</first_name>
-         <last_name>Fetchenhauer</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Johannes Huinink</full_name>
-         <first_name>Johannes</first_name>
-         <last_name>Huinink</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Marie Luise Kiefer</full_name>
-         <first_name>Marie Luise</first_name>
-         <last_name>Kiefer</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Steffen Kühnel</full_name>
-         <first_name>Steffen</first_name>
-         <last_name>Kühnel</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>M. Rainer Lepsius</full_name>
-         <first_name>M. Rainer</first_name>
-         <last_name>Lepsius</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Stefan Liebig</full_name>
-         <first_name>Stefan</first_name>
-         <last_name>Liebig</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Karl Ulrich Mayer</full_name>
-         <first_name>Karl Ulrich</first_name>
-         <last_name>Mayer</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Heiner Meulemann</full_name>
-         <first_name>Heiner</first_name>
-         <last_name>Meulemann</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Walter Müller</full_name>
-         <first_name>Walter</first_name>
-         <last_name>Müller</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Karl Dieter Opp</full_name>
-         <first_name>Karl Dieter</first_name>
-         <last_name>Opp</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Franz Urban Pappi</full_name>
-         <first_name>Franz Urban</first_name>
-         <last_name>Pappi</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Erwin K. Scheuch</full_name>
-         <first_name>Erwin K.</first_name>
-         <last_name>Scheuch</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Rüdiger Schmitt-Beck</full_name>
-         <first_name>Rüdiger</first_name>
-         <last_name>Schmitt-Beck</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Heike Solga</full_name>
-         <first_name>Heike</first_name>
-         <last_name>Solga</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Heike Trappe</full_name>
-         <first_name>Heike</first_name>
-         <last_name>Trappe</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Michael Wagner</full_name>
-         <first_name>Michael</first_name>
-         <last_name>Wagner</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Rolf Ziegler</full_name>
-         <first_name>Rolf</first_name>
-         <last_name>Ziegler</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Bernhard Nauck</full_name>
-         <first_name>Bernhard</first_name>
-         <last_name>Nauck</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Josef Brüderl</full_name>
-         <first_name>Josef</first_name>
-         <last_name>Brüderl</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Johannes Huinink</full_name>
-         <first_name>Johannes</first_name>
-         <last_name>Huinink</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Sabine Walper</full_name>
-         <first_name>Sabine</first_name>
-         <last_name>Walper</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Oliver Arránz Becker</full_name>
-         <first_name>Oliver</first_name>
-         <last_name>Arránz Becker</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Elena Boldin</full_name>
-         <first_name>Elena</first_name>
-         <last_name>Boldin</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Petra Buhr</full_name>
-         <first_name>Petra</first_name>
-         <last_name>Buhr</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Laura Castiglioni</full_name>
-         <first_name>Laura</first_name>
-         <last_name>Castiglioni</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Stefan Fiedrich</full_name>
-         <first_name>Stefan</first_name>
-         <last_name>Fiedrich</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Daniel Fuß</full_name>
-         <first_name>Daniel</first_name>
-         <last_name>Fuß</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Kristin Hajek</full_name>
-         <first_name>Kristin</first_name>
-         <last_name>Hajek</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Bernadette Huyer-May</full_name>
-         <first_name>Bernadette</first_name>
-         <last_name>Huyer-May</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Nadia Lois</full_name>
-         <first_name>Nadia</first_name>
-         <last_name>Lois</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Volker Ludwig</full_name>
-         <first_name>Volker</first_name>
-         <last_name>Ludwig</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Klaus Pforr</full_name>
-         <first_name>Klaus</first_name>
-         <last_name>Pforr</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Veronika Salzburger</full_name>
-         <first_name>Veronika</first_name>
-         <last_name>Salzburger</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Markus Schaer</full_name>
-         <first_name>Markus</first_name>
-         <last_name>Schaer</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Franziska Schmahl</full_name>
-         <first_name>Franziska</first_name>
-         <last_name>Schmahl</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Claudia Schmiedeberg</full_name>
-         <first_name>Claudia</first_name>
-         <last_name>Schmiedeberg</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Mirte Scholten</full_name>
-         <first_name>Mirte</first_name>
-         <last_name>Scholten</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Jette Schröder</full_name>
-         <first_name>Jette</first_name>
-         <last_name>Schröder</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Nina Schumann</full_name>
-         <first_name>Nina</first_name>
-         <last_name>Schumann</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Philipp Schütze</full_name>
-         <first_name>Philipp</first_name>
-         <last_name>Schütze</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Anja Steinbach</full_name>
-         <first_name>Anja</first_name>
-         <last_name>Steinbach</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Carolin Thönnissen</full_name>
-         <first_name>Carolin</first_name>
-         <last_name>Thönnissen</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Eva-Verena Wendt</full_name>
-         <first_name>Eva-Verena</first_name>
-         <last_name>Wendt</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Barbara Wilhelm</full_name>
-         <first_name>Barbara</first_name>
-         <last_name>Wilhelm</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Michaela Kreyenfeld</full_name>
-         <first_name>Michaela</first_name>
-         <last_name>Kreyenfeld</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Joshua Goldstein</full_name>
-         <first_name>Joshua</first_name>
-         <last_name>Goldstein</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Rainer Walke</full_name>
-         <first_name>Rainer</first_name>
-         <last_name>Walke</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Heike Trappe</full_name>
-         <first_name>Heike</first_name>
-         <last_name>Trappe</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Johannes Huinink</full_name>
-         <first_name>Johannes</first_name>
-         <last_name>Huinink</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Sonja Bastin</full_name>
-         <first_name>Sonja</first_name>
-         <last_name>Bastin</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Tom Hensel</full_name>
-         <first_name>Tom</first_name>
-         <last_name>Hensel</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Rüdiger Lenke</full_name>
-         <first_name>Rüdiger</first_name>
-         <last_name>Lenke</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Bibimasoumeh Mir Mousavi</full_name>
-         <first_name>Bibimasoumeh</first_name>
-         <last_name>Mir Mousavi</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Veronika Salzburger</full_name>
-         <first_name>Veronika</first_name>
-         <last_name>Salzburger</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Christine Schnor</full_name>
-         <first_name>Christine</first_name>
-         <last_name>Schnor</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Hans Rattinger</full_name>
-         <first_name>Hans</first_name>
-         <last_name>Rattinger</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Sigrid Roßteutscher</full_name>
-         <first_name>Sigrid</first_name>
-         <last_name>Roßteutscher</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Rüdiger Schmitt-Beck</full_name>
-         <first_name>Rüdiger</first_name>
-         <last_name>Schmitt-Beck</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Bernhard Weßels</full_name>
-         <first_name>Bernhard</first_name>
-         <last_name>Weßels</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Wil A. Arts</full_name>
-         <first_name>Wil A.</first_name>
-         <last_name>Arts</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Jacques A.P. Hagenaars</full_name>
-         <first_name>Jacques A.P.</first_name>
-         <last_name>Hagenaars</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Pieter J.D. Drenth</full_name>
-         <first_name>Pieter J.D.</first_name>
-         <last_name>Drenth</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Chris Geppaart</full_name>
-         <first_name>Chris</first_name>
-         <last_name>Geppaart</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Loek Halman</full_name>
-         <first_name>Loek</first_name>
-         <last_name>Halman</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Aleksandra Jasinska-Kania</full_name>
-         <first_name>Aleksandra</first_name>
-         <last_name>Jasinska-Kania</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Mira Marody</full_name>
-         <first_name>Mira</first_name>
-         <last_name>Marody</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Joanna Konieczna</full_name>
-         <first_name>Joanna</first_name>
-         <last_name>Konieczna</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>James Georgas</full_name>
-         <first_name>James</first_name>
-         <last_name>Georgas</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Aikaterini Gari</full_name>
-         <first_name>Aikaterini</first_name>
-         <last_name>Gari</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Kostas Mylonas</full_name>
-         <first_name>Kostas</first_name>
-         <last_name>Mylonas</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Niko Tos</full_name>
-         <first_name>Niko</first_name>
-         <last_name>Tos</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Brina Malnar</full_name>
-         <first_name>Brina</first_name>
-         <last_name>Malnar</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Karlheinz Reif</full_name>
-         <first_name>Karlheinz</first_name>
-         <last_name>Reif</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Anna Melich</full_name>
-         <first_name>Anna</first_name>
-         <last_name>Melich</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Steffen Kühnel</full_name>
-         <first_name>Steffen</first_name>
-         <last_name>Kühnel</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Oskar Niedermayer</full_name>
-         <first_name>Oskar</first_name>
-         <last_name>Niedermayer</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Bettina Westle</full_name>
-         <first_name>Bettina</first_name>
-         <last_name>Westle</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Antonis Papacostas</full_name>
-         <first_name>Antonis</first_name>
-         <last_name>Papacostas</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Antonis Papacostas</full_name>
-         <first_name>Antonis</first_name>
-         <last_name>Papacostas</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Antonis Papacostas</full_name>
-         <first_name>Antonis</first_name>
-         <last_name>Papacostas</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Antonis Papacostas</full_name>
-         <first_name>Antonis</first_name>
-         <last_name>Papacostas</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Antonis Papacostas</full_name>
-         <first_name>Antonis</first_name>
-         <last_name>Papacostas</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Antonis Papacostas</full_name>
-         <first_name>Antonis</first_name>
-         <last_name>Papacostas</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Paul Zulehner</full_name>
-         <first_name>Paul</first_name>
-         <last_name>Zulehner</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Karel Dobbelaere</full_name>
-         <first_name>Karel</first_name>
-         <last_name>Dobbelaere</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Andrei Raychev</full_name>
-         <first_name>Andrei</first_name>
-         <last_name>Raychev</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Jan Rehak</full_name>
-         <first_name>Jan</first_name>
-         <last_name>Rehak</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Peter Gundelach</full_name>
-         <first_name>Peter</first_name>
-         <last_name>Gundelach</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Ole Riis</full_name>
-         <first_name>Ole</first_name>
-         <last_name>Riis</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Andrus Saar</full_name>
-         <first_name>Andrus</first_name>
-         <last_name>Saar</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Leila Lotti</full_name>
-         <first_name>Leila</first_name>
-         <last_name>Lotti</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Wolfgang Jagodzinski</full_name>
-         <first_name>Wolfgang</first_name>
-         <last_name>Jagodzinski</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Hélène Riffault</full_name>
-         <first_name>Hélène</first_name>
-         <last_name>Riffault</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Renate Köcher</full_name>
-         <first_name>Renate</first_name>
-         <last_name>Köcher</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Stephen Harding</full_name>
-         <first_name>Stephen</first_name>
-         <last_name>Harding</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>David Barker</full_name>
-         <first_name>David</first_name>
-         <last_name>Barker</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Robert Manchin</full_name>
-         <first_name>Robert</first_name>
-         <last_name>Manchin</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Fridrik Jonsson</full_name>
-         <first_name>Fridrik</first_name>
-         <last_name>Jonsson</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Chris Whelan</full_name>
-         <first_name>Chris</first_name>
-         <last_name>Whelan</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Renzo Gubert</full_name>
-         <first_name>Renzo</first_name>
-         <last_name>Gubert</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Brigita Zepa</full_name>
-         <first_name>Brigita</first_name>
-         <last_name>Zepa</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Rasa Alishauskiene</full_name>
-         <first_name>Rasa</first_name>
-         <last_name>Alishauskiene</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Fr. Inganuez</full_name>
-         <first_name>Fr.</first_name>
-         <last_name>Inganuez</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Richard Cachia-Caruana</full_name>
-         <first_name>Richard</first_name>
-         <last_name>Cachia-Caruana</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Loek Halman</full_name>
-         <first_name>Loek</first_name>
-         <last_name>Halman</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Michael Fogarty</full_name>
-         <first_name>Michael</first_name>
-         <last_name>Fogarty</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Ola Listhaug</full_name>
-         <first_name>Ola</first_name>
-         <last_name>Listhaug</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Aleksandra Jasinska-Kania</full_name>
-         <first_name>Aleksandra</first_name>
-         <last_name>Jasinska-Kania</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Luis de Franca</full_name>
-         <first_name>Luis de</first_name>
-         <last_name>Franca</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Catalin Zamfir</full_name>
-         <first_name>Catalin</first_name>
-         <last_name>Zamfir</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Niko Tos</full_name>
-         <first_name>Niko</first_name>
-         <last_name>Tos</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Francisco Orizo</full_name>
-         <first_name>Francisco</first_name>
-         <last_name>Orizo</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Javier Elzo</full_name>
-         <first_name>Javier</first_name>
-         <last_name>Elzo</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Thorleif Pettersson</full_name>
-         <first_name>Thorleif</first_name>
-         <last_name>Pettersson</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Juan Diez-Nicolás</full_name>
-         <first_name>Juan</first_name>
-         <last_name>Diez-Nicolás</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Vladimir Rak</full_name>
-         <first_name>Vladimir</first_name>
-         <last_name>Rak</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Blanca Filipcova</full_name>
-         <first_name>Blanca</first_name>
-         <last_name>Filipcova</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Neil Nevitte</full_name>
-         <first_name>Neil</first_name>
-         <last_name>Nevitte</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Jan Kerkhofs</full_name>
-         <first_name>Jan</first_name>
-         <last_name>Kerkhofs</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Juhani Pehkonen</full_name>
-         <first_name>Juhani</first_name>
-         <last_name>Pehkonen</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Elmer Hankiss</full_name>
-         <first_name>Elmer</first_name>
-         <last_name>Hankiss</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Renata Siemienska</full_name>
-         <first_name>Renata</first_name>
-         <last_name>Siemienska</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Jorge Vala</full_name>
-         <first_name>Jorge</first_name>
-         <last_name>Vala</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Chris Whelan</full_name>
-         <first_name>Chris</first_name>
-         <last_name>Whelan</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Kieran Kennedy</full_name>
-         <first_name>Kieran</first_name>
-         <last_name>Kennedy</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Marek Boguszak</full_name>
-         <first_name>Marek</first_name>
-         <last_name>Boguszak</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Ivan Gabal</full_name>
-         <first_name>Ivan</first_name>
-         <last_name>Gabal</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Milos Besic</full_name>
-         <first_name>Milos</first_name>
-         <last_name>Besic</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Jan Kerkhofs</full_name>
-         <first_name>Jan</first_name>
-         <last_name>Kerkhofs</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>J. Kielty</full_name>
-         <first_name>J.</first_name>
-         <last_name>Kielty</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Jean Stoezel</full_name>
-         <first_name>Jean</first_name>
-         <last_name>Stoezel</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Olafur Haraldsson</full_name>
-         <first_name>Olafur</first_name>
-         <last_name>Haraldsson</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Ruud de Moor</full_name>
-         <first_name>Ruud</first_name>
-         <last_name>de Moor</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Nils Röhme</full_name>
-         <first_name>Nils</first_name>
-         <last_name>Röhme</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Gordon Heald</full_name>
-         <first_name>Gordon</first_name>
-         <last_name>Heald</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Claudio Calvaruso</full_name>
-         <first_name>Claudio</first_name>
-         <last_name>Calvaruso</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Ola Listhaug</full_name>
-         <first_name>Ola</first_name>
-         <last_name>Listhaug</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Francisco Orizo</full_name>
-         <first_name>Francisco</first_name>
-         <last_name>Orizo</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Wolfgang Jagodzinski</full_name>
-         <first_name>Wolfgang</first_name>
-         <last_name>Jagodzinski</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Thorleif Pettersson</full_name>
-         <first_name>Thorleif</first_name>
-         <last_name>Pettersson</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Ronald Inglehart</full_name>
-         <first_name>Ronald</first_name>
-         <last_name>Inglehart</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Hélène Riffault</full_name>
-         <first_name>Hélène</first_name>
-         <last_name>Riffault</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Salvatore Abbruzzese</full_name>
-         <first_name>Salvatore</first_name>
-         <last_name>Abbruzzese</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>E. Petersen</full_name>
-         <first_name>E.</first_name>
-         <last_name>Petersen</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Thomas Christensen</full_name>
-         <first_name>Thomas</first_name>
-         <last_name>Christensen</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Ruben Mohedano-Brethes</full_name>
-         <first_name>Ruben</first_name>
-         <last_name>Mohedano-Brethes</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Hans-Jürgen Andreß</full_name>
-         <first_name>Hans-Jürgen</first_name>
-         <last_name>Andreß</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Heiner Meulemann</full_name>
-         <first_name>Heiner</first_name>
-         <last_name>Meulemann</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Andreas Diekmann</full_name>
-         <first_name>Andreas</first_name>
-         <last_name>Diekmann</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Hubert Feger</full_name>
-         <first_name>Hubert</first_name>
-         <last_name>Feger</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Johannes Huinink</full_name>
-         <first_name>Johannes</first_name>
-         <last_name>Huinink</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Rüdiger Schmitt-Beck</full_name>
-         <first_name>Rüdiger</first_name>
-         <last_name>Schmitt-Beck</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Heiner Solga</full_name>
-         <first_name>Heiner</first_name>
-         <last_name>Solga</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Hansgert Peisert</full_name>
-         <first_name>Hansgert</first_name>
-         <last_name>Peisert</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Tino Ernst Bargel</full_name>
-         <first_name>Tino Ernst</first_name>
-         <last_name>Bargel</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Barbara Dippelhofer-Stiem</full_name>
-         <first_name>Barbara</first_name>
-         <last_name>Dippelhofer-Stiem</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Gerhild Framhein</full_name>
-         <first_name>Gerhild</first_name>
-         <last_name>Framhein</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Georg Lind</full_name>
-         <first_name>Georg</first_name>
-         <last_name>Lind</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Johann-Ulrich Sandberger</full_name>
-         <first_name>Johann-Ulrich</first_name>
-         <last_name>Sandberger</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Hans-Gerhard Walter</full_name>
-         <first_name>Hans-Gerhard</first_name>
-         <last_name>Walter</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Jean-Francois Tchernia</full_name>
-         <first_name>Jean-Francois</first_name>
-         <last_name>Tchernia</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Bi Puranen</full_name>
-         <first_name>Bi</first_name>
-         <last_name>Puranen</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Helmut Anheier</full_name>
-         <first_name>Helmut</first_name>
-         <last_name>Anheier</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Stephen Harding</full_name>
-         <first_name>Stephen</first_name>
-         <last_name>Harding</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Wolfgang Jagodzinski</full_name>
-         <first_name>Wolfgang</first_name>
-         <last_name>Jagodzinski</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Javier Elzo</full_name>
-         <first_name>Javier</first_name>
-         <last_name>Elzo</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Francisco Orizo</full_name>
-         <first_name>Francisco</first_name>
-         <last_name>Orizo</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Jorge Vala</full_name>
-         <first_name>Jorge</first_name>
-         <last_name>Vala</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Alice Ramos</full_name>
-         <first_name>Alice</first_name>
-         <last_name>Ramos</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Manuel Cabral</full_name>
-         <first_name>Manuel</first_name>
-         <last_name>Cabral</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Wil Arts</full_name>
-         <first_name>Wil</first_name>
-         <last_name>Arts</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Jacques Hagenaars</full_name>
-         <first_name>Jacques</first_name>
-         <last_name>Hagenaars</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Pieter Drenth</full_name>
-         <first_name>Pieter</first_name>
-         <last_name>Drenth</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Chris Geppaart</full_name>
-         <first_name>Chris</first_name>
-         <last_name>Geppaart</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Loek Halman</full_name>
-         <first_name>Loek</first_name>
-         <last_name>Halman</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Herman DeDijn</full_name>
-         <first_name>Herman</first_name>
-         <last_name>DeDijn</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Karel Dobbelaere</full_name>
-         <first_name>Karel</first_name>
-         <last_name>Dobbelaere</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Jaak Billiet</full_name>
-         <first_name>Jaak</first_name>
-         <last_name>Billiet</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Jan Kerkhofs</full_name>
-         <first_name>Jan</first_name>
-         <last_name>Kerkhofs</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Bernadette Bawin</full_name>
-         <first_name>Bernadette</first_name>
-         <last_name>Bawin</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Peter Gundelach</full_name>
-         <first_name>Peter</first_name>
-         <last_name>Gundelach</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Thorleif Pettersson</full_name>
-         <first_name>Thorleif</first_name>
-         <last_name>Pettersson</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Juhani Pehkonen</full_name>
-         <first_name>Juhani</first_name>
-         <last_name>Pehkonen</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Friòrik Jonsson</full_name>
-         <first_name>Friòrik</first_name>
-         <last_name>Jonsson</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Stefan Olafsson</full_name>
-         <first_name>Stefan</first_name>
-         <last_name>Olafsson</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Bernadette Hayes</full_name>
-         <first_name>Bernadette</first_name>
-         <last_name>Hayes</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Tony Fahey</full_name>
-         <first_name>Tony</first_name>
-         <last_name>Fahey</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Richard Sinnott</full_name>
-         <first_name>Richard</first_name>
-         <last_name>Sinnott</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Andrus Saar</full_name>
-         <first_name>Andrus</first_name>
-         <last_name>Saar</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Brigita Zepa</full_name>
-         <first_name>Brigita</first_name>
-         <last_name>Zepa</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Stanislovas Juknevicius</full_name>
-         <first_name>Stanislovas</first_name>
-         <last_name>Juknevicius</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Rasa Alishauskene</full_name>
-         <first_name>Rasa</first_name>
-         <last_name>Alishauskene</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Aleksandra Jasinska-Kania</full_name>
-         <first_name>Aleksandra</first_name>
-         <last_name>Jasinska-Kania</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Mira Marody</full_name>
-         <first_name>Mira</first_name>
-         <last_name>Marody</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Joanna Konieczna</full_name>
-         <first_name>Joanna</first_name>
-         <last_name>Konieczna</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Ladislav Rabusic</full_name>
-         <first_name>Ladislav</first_name>
-         <last_name>Rabusic</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Zuzana Kusá</full_name>
-         <first_name>Zuzana</first_name>
-         <last_name>Kusá</last_name>
-      </researcher>
-      <researcher xmlns="">
-         <full_name>Hans-Henning Sawitzki</full_name>
-         <first_name>Hans-Henning</first_name>
-         <last_name>Sawitzki</last_name>
-      </researcher>
-   </researchers>
    <relations>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3300</from_key>
-         <to_uri>10.4232/1.10247</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.3300</from_key>
+         <to_uri>dx.doi.org/10.4232/1.10247</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA2689</from_key>
-         <to_uri>10.4232/1.10916</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.2689</from_key>
+         <to_uri>dx.doi.org/10.4232/1.10916</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA4332</from_key>
-         <to_uri>10.4232/1.4332</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.10726</from_key>
+         <to_uri>dx.doi.org/10.4232/1.4332</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA4332</from_key>
-         <to_uri>10.4232/1.11463</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.10726</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11463</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA5235</from_key>
-         <to_uri>10.4232/1.10342</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11309</from_key>
+         <to_uri>dx.doi.org/10.4232/1.10342</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA5235</from_key>
-         <to_uri>10.4232/1.11432</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11309</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11432</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA5233</from_key>
-         <to_uri>10.4232/1.10114</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.10709</from_key>
+         <to_uri>dx.doi.org/10.4232/1.10114</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA5233</from_key>
-         <to_uri>10.4232/1.11430</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.10709</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11430</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA5000</from_key>
-         <to_uri>10.4232/1.10200</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11411</from_key>
+         <to_uri>dx.doi.org/10.4232/1.10200</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA5000</from_key>
-         <to_uri>10.4232/1.11428</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11411</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11428</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA4529</from_key>
-         <to_uri>10.4232/1.10066</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.10065</from_key>
+         <to_uri>dx.doi.org/10.4232/1.10066</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA5234</from_key>
-         <to_uri>10.4232/1.11431</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.10197</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11431</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA5236</from_key>
-         <to_uri>10.4232/1.11433</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11058</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11433</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA4460</from_key>
-         <to_uri>10.4232/1.10790</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.4460</from_key>
+         <to_uri>dx.doi.org/10.4232/1.10790</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA4794</from_key>
-         <to_uri>10.4232/1.10185</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.10023</from_key>
+         <to_uri>dx.doi.org/10.4232/1.10185</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA4794</from_key>
-         <to_uri>10.4232/1.10059</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.10023</from_key>
+         <to_uri>dx.doi.org/10.4232/1.10059</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA4438</from_key>
-         <to_uri>10.4232/1.10791</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.4438</from_key>
+         <to_uri>dx.doi.org/10.4232/1.10791</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3993</from_key>
-         <to_uri>10.4232/1.11305</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.3993</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11305</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3388</from_key>
-         <to_uri>10.4232/1.10938</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.3388</from_key>
+         <to_uri>dx.doi.org/10.4232/1.10938</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3762</from_key>
-         <to_uri>10.4232/1.10977</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.3762</from_key>
+         <to_uri>dx.doi.org/10.4232/1.10977</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3776</from_key>
-         <to_uri>10.4232/1.3776</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11170</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3776</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3776</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11170</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3777</from_key>
-         <to_uri>10.4232/1.3777</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11172</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3777</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3777</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11172</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3778</from_key>
-         <to_uri>10.4232/1.3778</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11171</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3778</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3778</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11171</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3781</from_key>
-         <to_uri>10.4232/1.3781</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11192</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3781</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3781</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11192</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3782</from_key>
-         <to_uri>10.4232/1.3782</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11186</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3782</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3782</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11186</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3783</from_key>
-         <to_uri>10.4232/1.3783</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11184</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3783</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3783</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11184</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3784</from_key>
-         <to_uri>10.4232/1.3784</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11163</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3784</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3784</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11163</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3785</from_key>
-         <to_uri>10.4232/1.3785</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11167</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3785</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3785</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11167</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3786</from_key>
-         <to_uri>10.4232/1.3786</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11193</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3786</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3786</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11193</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3787</from_key>
-         <to_uri>10.4232/1.3787</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11169</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3787</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3787</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11169</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3788</from_key>
-         <to_uri>10.4232/1.3788</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11175</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3788</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3788</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11175</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3789</from_key>
-         <to_uri>10.4232/1.3789</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11177</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3789</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3789</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11177</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3790</from_key>
-         <to_uri>10.4232/1.3790</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11176</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3790</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3790</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11176</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3791</from_key>
-         <to_uri>10.4232/1.3791</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11168</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3791</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3791</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11168</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3792</from_key>
-         <to_uri>10.4232/1.3792</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11179</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3792</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3792</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11179</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3793</from_key>
-         <to_uri>10.4232/1.3793</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11180</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3793</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3793</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11180</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3794</from_key>
-         <to_uri>10.4232/1.3794</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11185</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3794</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3794</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11185</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3795</from_key>
-         <to_uri>10.4232/1.3795</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11166</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3795</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3795</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11166</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3796</from_key>
-         <to_uri>10.4232/1.3796</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11190</from_key>
+         <to_uri>dx.doi.org/10.4232/1.3796</to_uri>
          <label>relatedTo</label>
       </relation>
-      <relation xmlns="">
-         <from_key>researchgraph.org/da-ra/ZA3796</from_key>
-         <to_uri>10.4232/1.11307</to_uri>
+      <relation>
+         <from_key>researchgraph.org/da-ra/10.4232/1.11190</from_key>
+         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
    </relations>

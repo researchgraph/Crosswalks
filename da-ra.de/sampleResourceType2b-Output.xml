@@ -3,10 +3,10 @@
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                  xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/dataset.xsd">
    <datasets>
-      <dataset xmlns="">
-         <key>researchgraph.org/da-ra/IHI_IMPACT_SAVVY_v02</key>
+      <dataset>
+         <key>researchgraph.org/da-ra/10.17890/09871.1</key>
          <source>data.ihi.or.tz</source>
-         <local_id>IHI_IMPACT_SAVVY_v02</local_id>
+         <local_id>10.17890/09871.1</local_id>
          <last_updated>2015-09-28T15:57:00Z</last_updated>
          <url>http://data.ihi.or.tz/index.php/catalog/3</url>
          <title>TANZANIA - Sample Vital Registration with Verbal Autopsy, (SAVVY)</title>
@@ -14,12 +14,4 @@
          <publication_year>2014-07-18</publication_year>
       </dataset>
    </datasets>
-   <researchers>
-      <researcher xmlns="">
-         <full_name>Honoraty Masanja</full_name>
-         <first_name>Honoraty</first_name>
-         <last_name>Masanja</last_name>
-      </researcher>
-   </researchers>
-   <relations/>
 </registryObjects>

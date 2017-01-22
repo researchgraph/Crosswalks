@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet xmlns="http://researchgraph.org/schema/v2.0/xml/nodes" 
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:oai="http://www.openarchives.org/OAI/2.0/"
     xmlns:fn="http://www.w3.org/2005/xpath-functions"
@@ -29,12 +30,14 @@
                   <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
               </publications>
             </xsl:if>
-            <researchers>
+            <!--<researchers>
                 <xsl:apply-templates select="."  mode="researcher"/>
-            </researchers>
-            <relations>
-                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
-            </relations>
+            </researchers>-->
+            <xsl:if test=".//oai:relation">
+                <relations>
+                    <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
+                </relations>
+            </xsl:if>
         </registryObjects>
     </xsl:template>
     
@@ -50,7 +53,7 @@
     <xsl:template match="oai:metadata" mode="dataset">
         <dataset>
             <key>
-                <xsl:value-of select="concat('researchgraph.org/da-ra/',.//oai:resourceIdentifier/oai:identifier)"/>
+                <xsl:value-of select="concat('researchgraph.org/da-ra/',.//oai:doiProposal)"/>
             </key>
             <source>
                 <xsl:choose>
@@ -63,7 +66,7 @@
                 </xsl:choose>
             </source>
             <local_id>
-                <xsl:value-of select=".//oai:resourceIdentifier/oai:identifier"/>
+                <xsl:value-of select=".//oai:doiProposal"/>
             </local_id>
             <last_updated>
                 <xsl:value-of select="ancestor::oai:record//oai:datestamp"/>
@@ -101,13 +104,13 @@
     <xsl:template match="oai:metadata" mode="publication">
         <publication>
             <key>
-                <xsl:value-of select="concat('researchgraph.org/da-ra/',.//oai:resourceIdentifier/oai:identifier)"/>
+                <xsl:value-of select="concat('researchgraph.org/da-ra/',.//oai:doiProposal)"/>
             </key>
             <source>
                 <xsl:value-of select="substring-before(substring-after(.//oai:dataURLs/oai:dataURL[1],'www.'),'/')"/>
             </source>
             <local_id>
-                <xsl:value-of select=".//oai:resourceIdentifier/oai:identifier"/>
+                <xsl:value-of select=".//oai:doiProposal"/>
             </local_id>
             <last_updated>
                 <xsl:value-of select="ancestor::oai:record//oai:datestamp"/>
@@ -158,7 +161,7 @@
     <!-- =========================================== -->
     <!-- Researchers Template                                                           -->
     <!-- =========================================== -->
-    <xsl:template match="/" mode="researcher">
+    <!--<xsl:template match="/" mode="researcher">
         <xsl:for-each select=".//oai:creator">
             <xsl:if test=".//oai:firstName">
                 <researcher>
@@ -174,7 +177,7 @@
                 </researcher>
             </xsl:if>
         </xsl:for-each>
-    </xsl:template>
+    </xsl:template>-->
     
     <!-- =========================================== -->
     <!-- Relation Template                                                                    -->
@@ -187,10 +190,17 @@
             <xsl:for-each select=".//oai:relation">
                 <relation>
                     <from_key>
-                        <xsl:value-of select="concat('researchgraph.org/da-ra/',ancestor::oai:metadata//oai:resourceIdentifier/oai:identifier)"/>
+                        <xsl:value-of select="concat('researchgraph.org/da-ra/',ancestor::oai:metadata//oai:doiProposal)"/>
                     </from_key>
                     <to_uri>
-                        <xsl:value-of select=".//oai:identifier"/>
+                        <xsl:choose>
+                            <xsl:when test=".//oai:identifierType='DOI'">
+                                <xsl:value-of select="concat('dx.doi.org/',.//oai:identifier)"/>
+                            </xsl:when>
+                            <xsl:when test=".//oai:identifierType='URL'">
+                                <xsl:value-of select=".//oai:identifier"/>
+                            </xsl:when>
+                        </xsl:choose>
                     </to_uri>
                     <label>
                         <xsl:value-of select="'relatedTo'"/>
