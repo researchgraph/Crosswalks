@@ -2,7 +2,7 @@
 #Set data and application locations
 rdswitchDir=/usr/local/rdswitchboard
 appdir=$rdwitchDir/Crosswalks/sydney.edu.au/py
-xmldir=$rdwitchDir/xml
+xmldir=/data/rdswitchboard/xml
 
 # Run routine to read CSV files from /home/dspace/rdswitchboard
 # place resulting XML files into directory xmldir

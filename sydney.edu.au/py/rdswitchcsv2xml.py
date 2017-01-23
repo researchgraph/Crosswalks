@@ -6,6 +6,8 @@ import sys,csv,os
 import codecs
 import pdb
 
+codeDir="/usr/local/rdswitchboard/Crosswalks/sydney.edu.au/py"
+
 reload(sys)
 sys.setdefaultencoding('utf8')
 
@@ -30,7 +32,7 @@ else:
    sys.exit()
 
 
-includeSchema="./"+idKeyWord+"XMLSchemaInclude.py"
+includeSchema=codeDir+"/"+idKeyWord+"XMLSchemaInclude.py"
 
 if not os.path.isfile(includeSchema):
    print("Schema File %s cannot be found." % includeSchema)

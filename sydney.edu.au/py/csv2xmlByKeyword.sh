@@ -6,8 +6,8 @@
 # usage:     runAllcsv2xml.sh <keywordlist> 
 
 csvDir=/home/dspace/rd_switchboard
-xmlDir=/usr/local/rdswitchboard/xml
-testXmlDir=/usr/local/rdswitchboard/xmlTests
+xmlDir=/data/rdswitchboard/xml
+testXmlDir=/data/rdswitchboard/xmlTests
 appdir=/usr/local/rdswitchboard/Crosswalks/sydney.edu.au/py
 
 # Use arguments to determine which CSVs to process

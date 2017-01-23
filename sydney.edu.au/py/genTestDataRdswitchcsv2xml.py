@@ -7,6 +7,8 @@ import sys,csv,os
 import codecs
 import pdb
 
+codeDir="/usr/local/rdswitchboard/Crosswalks/sydney.edu.au/py"
+
 reload(sys)
 sys.setdefaultencoding('utf8')
 
@@ -30,6 +32,7 @@ else:
    print('For example: python createResearcherXML.py sampleResearcher.csv')
    sys.exit()
 
+includeSchema=codeDir+"/"+idKeyWord+"XMLSchemaInclude.py"
 
 includeSchema="./"+idKeyWord+"XMLSchemaInclude.py"
 

@@ -19,15 +19,15 @@ rifdef=\
            ],
            "doi",
            [
-             "data", 'fldData["DOI"]',
-           ],
-           "url",
-           [
-             "data", '"dx.doi.org/"+fldData["DOI"]'
+             "data", 'fldData["DOI"]'
            ],
            "scopus_eid",
            [
              "data", 'fldData["ScopusId"]'
+           ],
+           "url",
+           [
+             "data", '"dx.doi.org"+fldData["DOI"]'
            ],
            "publication_year",
            [
