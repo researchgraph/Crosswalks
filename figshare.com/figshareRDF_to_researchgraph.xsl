@@ -194,18 +194,9 @@
             <xsl:variable name="lastName" select=".//vcard:familyName"/>
             <xsl:variable name="fullName" select="concat($firstName,' ',$lastName)"/>
             <researcher>
-                <xsl:choose>
-                    <xsl:when test="preceding-sibling::vivo:Authorship[1]//vivo:orcidId">
-                        <key>
-                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(preceding-sibling::vivo:Authorship[1]//vivo:orcidId/@rdf:resource,'orcid.org/'))"/>
-                        </key>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <key>
-                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(substring-before(preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about,'-vcard'),'/figshare.com/'))"/>
-                        </key>
-                    </xsl:otherwise>
-                </xsl:choose>
+                <key>
+                    <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(substring-before(preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about,'-vcard'),'authors/'))"/>
+                </key>
                 <source>
                     <xsl:value-of select="$source"/>
                 </source>

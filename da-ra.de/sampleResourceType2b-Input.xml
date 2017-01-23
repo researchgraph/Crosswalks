@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?><?xml-stylesheet type="text/xsl" href="xsl/oaitohtml.xsl"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2015-12-16T11:19:24Z</responseDate><request metadataPrefix="dara" verb="ListRecords" set="105">http://www.da-ra.de/oaip</request><ListRecords>
+<record><header><identifier>oai:oai.da-ra.de:461926</identifier><datestamp>2015-09-28T15:57:00Z</datestamp><setSpec>105</setSpec></header><metadata><resource>
+  <resourceType>2</resourceType>
+  <resourceIdentifier>
+      <identifier>IHI_IMPACT_SAVVY_v02</identifier>
+      <currentVersion>v02</currentVersion>
+  </resourceIdentifier>
+  <titles>
+      <title>
+         <language>en</language>
+         <titleName>TANZANIA - Sample Vital Registration with Verbal Autopsy, (SAVVY)</titleName>
+      </title>
+  </titles>
+  <creators>
+      <creator>
+         <person>
+            <firstName>Honoraty</firstName>
+            <middleName/>
+            <lastName>Masanja</lastName>
+            <affiliation>
+               <affiliationName>
+                  <language>en</language>
+                  <name>Ifakara Health Institute, Dar es Salaam, Tanzania</name>
+               </affiliationName>
+            </affiliation>
+         </person>
+      </creator>
+  </creators>
+  <dataURLs>
+      <dataURL>http://data.ihi.or.tz/index.php/catalog/3</dataURL>
+  </dataURLs>
+  <doiProposal>10.17890/09871.1</doiProposal>
+  <publicationDate>
+      <date>2014-07-18</date>
+  </publicationDate>
+  <glPlace>TANZANIA</glPlace>
+  <availability>
+      <availabilityControlled>2</availabilityControlled>
+      <availabilityFree>
+         <language>en</language>
+         <availabilityText>Licensed Data</availabilityText>
+      </availabilityFree>
+  </availability>
+  <resourceLanguage>eng</resourceLanguage>
+  <descriptions>
+      <description>
+         <language>en</language>
+         <freetext>
+            <p>SAVVY is a demographic surveillance system built around vital events monitoring. It operates in a similar way to existing Health and Demographic Surveillance (HDSS) but is distributed across the country and sampled to generate estimates that are nationally representative. The system is based on a periodic census of the sample population that provides information on population age, sex, household characteristics and migration. During the year, community key informants report births and deaths and probable cause of death is determined through verbal autopsy.</p>
+         </freetext>
+         <type>1</type>
+      </description>
+  </descriptions>
+  <geographicCoverages>
+      <geographicCoverage>
+         <language>en</language>
+         <freetext>Mainland Tanzania</freetext>
+      </geographicCoverage>
+  </geographicCoverages>
+</resource></metadata></record>
+<resumptionToken expirationDate="2015-12-16T12:19:25Z" completeListSize="1" cursor="0"></resumptionToken></ListRecords></OAI-PMH>

@@ -1,0 +1,1 @@
+xsltproc cern_to_researchgraph.xsl sampleWithORCID-1-Input.xml > sampleWithORCID-1-Output.xml
