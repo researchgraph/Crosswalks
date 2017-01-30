@@ -185,30 +185,21 @@
         <xsl:apply-templates select=".//oai:metadata" mode="relation"/>
     </xsl:template>
     <xsl:template match="oai:metadata" mode="relation">
-        <xsl:for-each select=".//vivo:relates[*]">
+        <xsl:for-each select=".//vivo:Authorship">
             <relation>
+                <from_key>
+                    <xsl:value-of select="concat('researchgraph.org/figshare/',ancestor::oai:metadata//bibo:doi)"/>
+                </from_key>
                 <xsl:choose>
                     <xsl:when test=".//vivo:orcidId">
-                        <from_key>
-                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(.//vivo:orcidId/@rdf:resource,'orcid.org/'))"/>
-                        </from_key>
+                        <to_uri>
+                            <xsl:value-of select=".//vivo:orcidId/@rdf:resource"/>
+                        </to_uri>
                     </xsl:when>
                     <xsl:otherwise>
-                        <from_key>
-                            <xsl:value-of select="concat('researchgraph.org/figshare/',../..//bibo:doi)"/>
-                        </from_key>
-                    </xsl:otherwise>
-                </xsl:choose>
-                <xsl:choose>
-                    <xsl:when test="preceding-sibling::vivo:Authorship[1]//vivo:orcidId">
-                        <key>
-                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(.//vivo:orcidId/@rdf:resource,'orcid.org/'))"/>
-                        </key>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <key>
-                            <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(substring-before(.//vcard:Individual/@rdf:about,'-vcard'),'/figshare.com/'))"/>
-                        </key>
+                        <to_uri>
+                            <xsl:value-of select="substring-before(.//vcard:Individual/@rdf:about,'-vcard')"/>
+                        </to_uri>
                     </xsl:otherwise>
                 </xsl:choose>
                 

@@ -1190,602 +1190,602 @@
    <relations>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619</from_key>
-         <key>researchgraph.org/figshare/authors/Khatira_Anwari/254980</key>
+         <to_uri>https://figshare.com/authors/Khatira_Anwari/254980</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619</from_key>
-         <key>researchgraph.org/figshare/authors/Sebastian_Poggio/251019</key>
+         <to_uri>https://figshare.com/authors/Sebastian_Poggio/251019</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619</from_key>
-         <key>researchgraph.org/figshare/authors/Andrew_Perry/254989</key>
+         <to_uri>https://figshare.com/authors/Andrew_Perry/254989</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619</from_key>
-         <key>researchgraph.org/figshare/authors/Xenia_Gatsos/254994</key>
+         <to_uri>https://figshare.com/authors/Xenia_Gatsos/254994</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619</from_key>
-         <key>researchgraph.org/figshare/authors/Sri_Harsha_Ramarathinam/255001</key>
+         <to_uri>https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_A_Williamson/255006</key>
+         <to_uri>https://figshare.com/authors/Nicholas_A_Williamson/255006</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_Noinaj/216256</key>
+         <to_uri>https://figshare.com/authors/Nicholas_Noinaj/216256</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619</from_key>
-         <key>researchgraph.org/figshare/authors/Susan_Buchanan/255012</key>
+         <to_uri>https://figshare.com/authors/Susan_Buchanan/255012</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619</from_key>
-         <key>researchgraph.org/figshare/authors/Kipros_Gabriel/189246</key>
+         <to_uri>https://figshare.com/authors/Kipros_Gabriel/189246</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619</from_key>
-         <key>researchgraph.org/figshare/authors/Anthony_W_Purcell/105036</key>
+         <to_uri>https://figshare.com/authors/Anthony_W_Purcell/105036</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619</from_key>
-         <key>researchgraph.org/figshare/authors/Christine_Jacobs_Wagner/255016</key>
+         <to_uri>https://figshare.com/authors/Christine_Jacobs_Wagner/255016</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619</from_key>
-         <key>researchgraph.org/figshare/authors/Trevor_Lithgow/105055</key>
+         <to_uri>https://figshare.com/authors/Trevor_Lithgow/105055</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Khatira_Anwari/254980</key>
+         <to_uri>https://figshare.com/authors/Khatira_Anwari/254980</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Sebastian_Poggio/251019</key>
+         <to_uri>https://figshare.com/authors/Sebastian_Poggio/251019</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Andrew_Perry/254989</key>
+         <to_uri>https://figshare.com/authors/Andrew_Perry/254989</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Xenia_Gatsos/254994</key>
+         <to_uri>https://figshare.com/authors/Xenia_Gatsos/254994</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Sri_Harsha_Ramarathinam/255001</key>
+         <to_uri>https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_A_Williamson/255006</key>
+         <to_uri>https://figshare.com/authors/Nicholas_A_Williamson/255006</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_Noinaj/216256</key>
+         <to_uri>https://figshare.com/authors/Nicholas_Noinaj/216256</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Susan_Buchanan/255012</key>
+         <to_uri>https://figshare.com/authors/Susan_Buchanan/255012</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Kipros_Gabriel/189246</key>
+         <to_uri>https://figshare.com/authors/Kipros_Gabriel/189246</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Anthony_W_Purcell/105036</key>
+         <to_uri>https://figshare.com/authors/Anthony_W_Purcell/105036</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Christine_Jacobs_Wagner/255016</key>
+         <to_uri>https://figshare.com/authors/Christine_Jacobs_Wagner/255016</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Trevor_Lithgow/105055</key>
+         <to_uri>https://figshare.com/authors/Trevor_Lithgow/105055</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Khatira_Anwari/254980</key>
+         <to_uri>https://figshare.com/authors/Khatira_Anwari/254980</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Sebastian_Poggio/251019</key>
+         <to_uri>https://figshare.com/authors/Sebastian_Poggio/251019</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Andrew_Perry/254989</key>
+         <to_uri>https://figshare.com/authors/Andrew_Perry/254989</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Xenia_Gatsos/254994</key>
+         <to_uri>https://figshare.com/authors/Xenia_Gatsos/254994</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Sri_Harsha_Ramarathinam/255001</key>
+         <to_uri>https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_A_Williamson/255006</key>
+         <to_uri>https://figshare.com/authors/Nicholas_A_Williamson/255006</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_Noinaj/216256</key>
+         <to_uri>https://figshare.com/authors/Nicholas_Noinaj/216256</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Susan_Buchanan/255012</key>
+         <to_uri>https://figshare.com/authors/Susan_Buchanan/255012</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Kipros_Gabriel/189246</key>
+         <to_uri>https://figshare.com/authors/Kipros_Gabriel/189246</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Anthony_W_Purcell/105036</key>
+         <to_uri>https://figshare.com/authors/Anthony_W_Purcell/105036</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Christine_Jacobs_Wagner/255016</key>
+         <to_uri>https://figshare.com/authors/Christine_Jacobs_Wagner/255016</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Trevor_Lithgow/105055</key>
+         <to_uri>https://figshare.com/authors/Trevor_Lithgow/105055</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g003</from_key>
-         <key>researchgraph.org/figshare/authors/Khatira_Anwari/254980</key>
+         <to_uri>https://figshare.com/authors/Khatira_Anwari/254980</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g003</from_key>
-         <key>researchgraph.org/figshare/authors/Sebastian_Poggio/251019</key>
+         <to_uri>https://figshare.com/authors/Sebastian_Poggio/251019</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g003</from_key>
-         <key>researchgraph.org/figshare/authors/Andrew_Perry/254989</key>
+         <to_uri>https://figshare.com/authors/Andrew_Perry/254989</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g003</from_key>
-         <key>researchgraph.org/figshare/authors/Xenia_Gatsos/254994</key>
+         <to_uri>https://figshare.com/authors/Xenia_Gatsos/254994</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g003</from_key>
-         <key>researchgraph.org/figshare/authors/Sri_Harsha_Ramarathinam/255001</key>
+         <to_uri>https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g003</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_A_Williamson/255006</key>
+         <to_uri>https://figshare.com/authors/Nicholas_A_Williamson/255006</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g003</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_Noinaj/216256</key>
+         <to_uri>https://figshare.com/authors/Nicholas_Noinaj/216256</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g003</from_key>
-         <key>researchgraph.org/figshare/authors/Susan_Buchanan/255012</key>
+         <to_uri>https://figshare.com/authors/Susan_Buchanan/255012</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g003</from_key>
-         <key>researchgraph.org/figshare/authors/Kipros_Gabriel/189246</key>
+         <to_uri>https://figshare.com/authors/Kipros_Gabriel/189246</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g003</from_key>
-         <key>researchgraph.org/figshare/authors/Anthony_W_Purcell/105036</key>
+         <to_uri>https://figshare.com/authors/Anthony_W_Purcell/105036</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g003</from_key>
-         <key>researchgraph.org/figshare/authors/Christine_Jacobs_Wagner/255016</key>
+         <to_uri>https://figshare.com/authors/Christine_Jacobs_Wagner/255016</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g003</from_key>
-         <key>researchgraph.org/figshare/authors/Trevor_Lithgow/105055</key>
+         <to_uri>https://figshare.com/authors/Trevor_Lithgow/105055</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g004</from_key>
-         <key>researchgraph.org/figshare/authors/Khatira_Anwari/254980</key>
+         <to_uri>https://figshare.com/authors/Khatira_Anwari/254980</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g004</from_key>
-         <key>researchgraph.org/figshare/authors/Sebastian_Poggio/251019</key>
+         <to_uri>https://figshare.com/authors/Sebastian_Poggio/251019</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g004</from_key>
-         <key>researchgraph.org/figshare/authors/Andrew_Perry/254989</key>
+         <to_uri>https://figshare.com/authors/Andrew_Perry/254989</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g004</from_key>
-         <key>researchgraph.org/figshare/authors/Xenia_Gatsos/254994</key>
+         <to_uri>https://figshare.com/authors/Xenia_Gatsos/254994</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g004</from_key>
-         <key>researchgraph.org/figshare/authors/Sri_Harsha_Ramarathinam/255001</key>
+         <to_uri>https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g004</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_A_Williamson/255006</key>
+         <to_uri>https://figshare.com/authors/Nicholas_A_Williamson/255006</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g004</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_Noinaj/216256</key>
+         <to_uri>https://figshare.com/authors/Nicholas_Noinaj/216256</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g004</from_key>
-         <key>researchgraph.org/figshare/authors/Susan_Buchanan/255012</key>
+         <to_uri>https://figshare.com/authors/Susan_Buchanan/255012</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g004</from_key>
-         <key>researchgraph.org/figshare/authors/Kipros_Gabriel/189246</key>
+         <to_uri>https://figshare.com/authors/Kipros_Gabriel/189246</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g004</from_key>
-         <key>researchgraph.org/figshare/authors/Anthony_W_Purcell/105036</key>
+         <to_uri>https://figshare.com/authors/Anthony_W_Purcell/105036</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g004</from_key>
-         <key>researchgraph.org/figshare/authors/Christine_Jacobs_Wagner/255016</key>
+         <to_uri>https://figshare.com/authors/Christine_Jacobs_Wagner/255016</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g004</from_key>
-         <key>researchgraph.org/figshare/authors/Trevor_Lithgow/105055</key>
+         <to_uri>https://figshare.com/authors/Trevor_Lithgow/105055</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g005</from_key>
-         <key>researchgraph.org/figshare/authors/Khatira_Anwari/254980</key>
+         <to_uri>https://figshare.com/authors/Khatira_Anwari/254980</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g005</from_key>
-         <key>researchgraph.org/figshare/authors/Sebastian_Poggio/251019</key>
+         <to_uri>https://figshare.com/authors/Sebastian_Poggio/251019</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g005</from_key>
-         <key>researchgraph.org/figshare/authors/Andrew_Perry/254989</key>
+         <to_uri>https://figshare.com/authors/Andrew_Perry/254989</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g005</from_key>
-         <key>researchgraph.org/figshare/authors/Xenia_Gatsos/254994</key>
+         <to_uri>https://figshare.com/authors/Xenia_Gatsos/254994</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g005</from_key>
-         <key>researchgraph.org/figshare/authors/Sri_Harsha_Ramarathinam/255001</key>
+         <to_uri>https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g005</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_A_Williamson/255006</key>
+         <to_uri>https://figshare.com/authors/Nicholas_A_Williamson/255006</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g005</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_Noinaj/216256</key>
+         <to_uri>https://figshare.com/authors/Nicholas_Noinaj/216256</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g005</from_key>
-         <key>researchgraph.org/figshare/authors/Susan_Buchanan/255012</key>
+         <to_uri>https://figshare.com/authors/Susan_Buchanan/255012</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g005</from_key>
-         <key>researchgraph.org/figshare/authors/Kipros_Gabriel/189246</key>
+         <to_uri>https://figshare.com/authors/Kipros_Gabriel/189246</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g005</from_key>
-         <key>researchgraph.org/figshare/authors/Anthony_W_Purcell/105036</key>
+         <to_uri>https://figshare.com/authors/Anthony_W_Purcell/105036</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g005</from_key>
-         <key>researchgraph.org/figshare/authors/Christine_Jacobs_Wagner/255016</key>
+         <to_uri>https://figshare.com/authors/Christine_Jacobs_Wagner/255016</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g005</from_key>
-         <key>researchgraph.org/figshare/authors/Trevor_Lithgow/105055</key>
+         <to_uri>https://figshare.com/authors/Trevor_Lithgow/105055</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g006</from_key>
-         <key>researchgraph.org/figshare/authors/Khatira_Anwari/254980</key>
+         <to_uri>https://figshare.com/authors/Khatira_Anwari/254980</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g006</from_key>
-         <key>researchgraph.org/figshare/authors/Sebastian_Poggio/251019</key>
+         <to_uri>https://figshare.com/authors/Sebastian_Poggio/251019</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g006</from_key>
-         <key>researchgraph.org/figshare/authors/Andrew_Perry/254989</key>
+         <to_uri>https://figshare.com/authors/Andrew_Perry/254989</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g006</from_key>
-         <key>researchgraph.org/figshare/authors/Xenia_Gatsos/254994</key>
+         <to_uri>https://figshare.com/authors/Xenia_Gatsos/254994</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g006</from_key>
-         <key>researchgraph.org/figshare/authors/Sri_Harsha_Ramarathinam/255001</key>
+         <to_uri>https://figshare.com/authors/Sri_Harsha_Ramarathinam/255001</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g006</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_A_Williamson/255006</key>
+         <to_uri>https://figshare.com/authors/Nicholas_A_Williamson/255006</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g006</from_key>
-         <key>researchgraph.org/figshare/authors/Nicholas_Noinaj/216256</key>
+         <to_uri>https://figshare.com/authors/Nicholas_Noinaj/216256</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g006</from_key>
-         <key>researchgraph.org/figshare/authors/Susan_Buchanan/255012</key>
+         <to_uri>https://figshare.com/authors/Susan_Buchanan/255012</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g006</from_key>
-         <key>researchgraph.org/figshare/authors/Kipros_Gabriel/189246</key>
+         <to_uri>https://figshare.com/authors/Kipros_Gabriel/189246</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g006</from_key>
-         <key>researchgraph.org/figshare/authors/Anthony_W_Purcell/105036</key>
+         <to_uri>https://figshare.com/authors/Anthony_W_Purcell/105036</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g006</from_key>
-         <key>researchgraph.org/figshare/authors/Christine_Jacobs_Wagner/255016</key>
+         <to_uri>https://figshare.com/authors/Christine_Jacobs_Wagner/255016</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008619.g006</from_key>
-         <key>researchgraph.org/figshare/authors/Trevor_Lithgow/105055</key>
+         <to_uri>https://figshare.com/authors/Trevor_Lithgow/105055</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626</from_key>
-         <key>researchgraph.org/figshare/authors/Reiko_Sanokawa_Akakura/254909</key>
+         <to_uri>https://figshare.com/authors/Reiko_Sanokawa_Akakura/254909</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626</from_key>
-         <key>researchgraph.org/figshare/authors/Weihuan_Cao/254912</key>
+         <to_uri>https://figshare.com/authors/Weihuan_Cao/254912</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626</from_key>
-         <key>researchgraph.org/figshare/authors/Kirsten_Allan/254915</key>
+         <to_uri>https://figshare.com/authors/Kirsten_Allan/254915</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626</from_key>
-         <key>researchgraph.org/figshare/authors/Khyati_Patel/254918</key>
+         <to_uri>https://figshare.com/authors/Khyati_Patel/254918</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626</from_key>
-         <key>researchgraph.org/figshare/authors/Anupama_Ganesh/254919</key>
+         <to_uri>https://figshare.com/authors/Anupama_Ganesh/254919</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626</from_key>
-         <key>researchgraph.org/figshare/authors/Gary_Heiman/254921</key>
+         <to_uri>https://figshare.com/authors/Gary_Heiman/254921</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626</from_key>
-         <key>researchgraph.org/figshare/authors/Richard_Burke/199095</key>
+         <to_uri>https://figshare.com/authors/Richard_Burke/199095</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626</from_key>
-         <key>researchgraph.org/figshare/authors/Francis_W_Kemp/254924</key>
+         <to_uri>https://figshare.com/authors/Francis_W_Kemp/254924</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626</from_key>
-         <key>researchgraph.org/figshare/authors/John_D_Bogden/254927</key>
+         <to_uri>https://figshare.com/authors/John_D_Bogden/254927</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626</from_key>
-         <key>researchgraph.org/figshare/authors/James_Camakaris/234851</key>
+         <to_uri>https://figshare.com/authors/James_Camakaris/234851</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626</from_key>
-         <key>researchgraph.org/figshare/authors/Raymond_B_Birge/254929</key>
+         <to_uri>https://figshare.com/authors/Raymond_B_Birge/254929</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626</from_key>
-         <key>researchgraph.org/figshare/authors/Mary_Konsolaki/254931</key>
+         <to_uri>https://figshare.com/authors/Mary_Konsolaki/254931</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Reiko_Sanokawa_Akakura/254909</key>
+         <to_uri>https://figshare.com/authors/Reiko_Sanokawa_Akakura/254909</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Weihuan_Cao/254912</key>
+         <to_uri>https://figshare.com/authors/Weihuan_Cao/254912</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Kirsten_Allan/254915</key>
+         <to_uri>https://figshare.com/authors/Kirsten_Allan/254915</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Khyati_Patel/254918</key>
+         <to_uri>https://figshare.com/authors/Khyati_Patel/254918</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Anupama_Ganesh/254919</key>
+         <to_uri>https://figshare.com/authors/Anupama_Ganesh/254919</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Gary_Heiman/254921</key>
+         <to_uri>https://figshare.com/authors/Gary_Heiman/254921</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Richard_Burke/199095</key>
+         <to_uri>https://figshare.com/authors/Richard_Burke/199095</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Francis_W_Kemp/254924</key>
+         <to_uri>https://figshare.com/authors/Francis_W_Kemp/254924</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g001</from_key>
-         <key>researchgraph.org/figshare/authors/John_D_Bogden/254927</key>
+         <to_uri>https://figshare.com/authors/John_D_Bogden/254927</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g001</from_key>
-         <key>researchgraph.org/figshare/authors/James_Camakaris/234851</key>
+         <to_uri>https://figshare.com/authors/James_Camakaris/234851</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Raymond_B_Birge/254929</key>
+         <to_uri>https://figshare.com/authors/Raymond_B_Birge/254929</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g001</from_key>
-         <key>researchgraph.org/figshare/authors/Mary_Konsolaki/254931</key>
+         <to_uri>https://figshare.com/authors/Mary_Konsolaki/254931</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Reiko_Sanokawa_Akakura/254909</key>
+         <to_uri>https://figshare.com/authors/Reiko_Sanokawa_Akakura/254909</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Weihuan_Cao/254912</key>
+         <to_uri>https://figshare.com/authors/Weihuan_Cao/254912</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Kirsten_Allan/254915</key>
+         <to_uri>https://figshare.com/authors/Kirsten_Allan/254915</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Khyati_Patel/254918</key>
+         <to_uri>https://figshare.com/authors/Khyati_Patel/254918</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Anupama_Ganesh/254919</key>
+         <to_uri>https://figshare.com/authors/Anupama_Ganesh/254919</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Gary_Heiman/254921</key>
+         <to_uri>https://figshare.com/authors/Gary_Heiman/254921</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Richard_Burke/199095</key>
+         <to_uri>https://figshare.com/authors/Richard_Burke/199095</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Francis_W_Kemp/254924</key>
+         <to_uri>https://figshare.com/authors/Francis_W_Kemp/254924</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g002</from_key>
-         <key>researchgraph.org/figshare/authors/John_D_Bogden/254927</key>
+         <to_uri>https://figshare.com/authors/John_D_Bogden/254927</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g002</from_key>
-         <key>researchgraph.org/figshare/authors/James_Camakaris/234851</key>
+         <to_uri>https://figshare.com/authors/James_Camakaris/234851</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Raymond_B_Birge/254929</key>
+         <to_uri>https://figshare.com/authors/Raymond_B_Birge/254929</to_uri>
          <label>Author</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.1371/journal.pone.0008626.g002</from_key>
-         <key>researchgraph.org/figshare/authors/Mary_Konsolaki/254931</key>
+         <to_uri>https://figshare.com/authors/Mary_Konsolaki/254931</to_uri>
          <label>Author</label>
       </relation>
    </relations>
