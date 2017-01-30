@@ -1,0 +1,999 @@
+<collection>
+<record>
+  <controlfield tag="001">987</controlfield>
+  <controlfield tag="005">20131120123708.0</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Penner:1974ek</subfield>
+    <subfield code="9">SPIRESTeX</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="a">SPIRES-29874</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">HEP</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Penner, Richard L.</subfield>
+    <subfield code="u">Toronto U.</subfield>
+    <subfield code="w">R.L.Penner.1</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">903282</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Nuovo Cim.,14,171</subfield>
+    <subfield code="0">8251</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,82,664</subfield>
+    <subfield code="0">113</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,177,2426</subfield>
+    <subfield code="0">55000</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Lett.,12,132</subfield>
+    <subfield code="0">40440</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,115,1554</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Lett.Nuovo Cim.,8S2,273</subfield>
+    <subfield code="0">86486</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.Lett.,19,1264</subfield>
+    <subfield code="0">51188</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Lett.,8,214</subfield>
+    <subfield code="0">11880</subfield>
+  </datafield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">Print-74-0884 (TORONTO)</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Majorana Gauge Theory and V-A</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">8</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="O">
+    <subfield code="o">oai:inspirehep.net:987</subfield>
+    <subfield code="p">INSPIRE:HEP</subfield>
+  </datafield>
+  <datafield tag="961" ind1=" " ind2=" ">
+    <subfield code="c">1974-04-01</subfield>
+    <subfield code="x">2013-08-13</subfield>
+  </datafield>
+  <datafield tag="269" ind1=" " ind2=" ">
+    <subfield code="c">1974-04</subfield>
+  </datafield>
+</record>
+
+<record>
+  <controlfield tag="001">988</controlfield>
+  <controlfield tag="005">20160616121513.0</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="a">10.1088/0305-4470/7/11/006</subfield>
+    <subfield code="2">DOI</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="z">D74-08146</subfield>
+    <subfield code="9">DESY</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Becker:1974em</subfield>
+    <subfield code="9">SPIRESTeX</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">ADS</subfield>
+    <subfield code="a">1974JPhA....7.1266B</subfield>
+  </datafield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">PRINT-74-0874 (TUBINGEN)</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Becker, W.</subfield>
+    <subfield code="u">Tubingen U.</subfield>
+    <subfield code="w">W.Becker.1</subfield>
+    <subfield code="x">1016987</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">903294</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Relativistic Theory of Nucleons in Laser Fields</subfield>
+  </datafield>
+  <datafield tag="269" ind1=" " ind2=" ">
+    <subfield code="c">1974-04</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">12</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="9">IOP</subfield>
+    <subfield code="a">The Dirac equation for a particle with spin 1/2 and an anomalous magnetic moment in an external wave field is reduced to a set of coupled ordinary differential equations for a spin factor, in which the wavefunction differs from the corresponding one for a 'normal' particle. Exact solutions are given for a linearly polarized laser wave of finite length and for an infinitely extended plane wave with circular polarization.</subfield>
+  </datafield>
+  <datafield tag="690" ind1="C" ind2=" ">
+    <subfield code="a">Published</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">field equations</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">optics: laser</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">photon nucleon: interaction</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">interaction: photon nucleon</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">magnetic moment</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">photon: polarization</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">polarization: photon</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Mitter, H.</subfield>
+    <subfield code="u">Tubingen U.</subfield>
+    <subfield code="w">H.Mitter.1</subfield>
+    <subfield code="x">1049430</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">903294</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="p">J.Phys.</subfield>
+    <subfield code="v">A7</subfield>
+    <subfield code="c">1266</subfield>
+    <subfield code="y">1974</subfield>
+    <subfield code="1">1211595</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="O">
+    <subfield code="o">oai:inspirehep.net:988</subfield>
+    <subfield code="p">INSPIRE:HEP</subfield>
+  </datafield>
+  <datafield tag="961" ind1=" " ind2=" ">
+    <subfield code="c">1974-04-01</subfield>
+    <subfield code="x">2016-07-13</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="a">SPIRES-29882</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">Published</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">Citeable</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">CORE</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">HEP</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Z.Phys.,94,250</subfield>
+    <subfield code="0">918328</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Acta Phys.Austriaca Suppl.,8,277</subfield>
+    <subfield code="0">1091761</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,D3,1692</subfield>
+    <subfield code="0">68016</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,99,998</subfield>
+    <subfield code="0">46949</subfield>
+  </datafield>
+</record>
+
+<record>
+  <controlfield tag="001">989</controlfield>
+  <controlfield tag="005">20160909172444.0</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="2">DOI</subfield>
+    <subfield code="a">10.1088/0305-4470/8/10/017</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">SPIRESTeX</subfield>
+    <subfield code="a">Becker:1974en</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="9">ADS</subfield>
+    <subfield code="a">1975JPhA....8.1638B</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Becker, W.</subfield>
+    <subfield code="u">Tubingen U.</subfield>
+    <subfield code="w">W.Becker.1</subfield>
+    <subfield code="x">1016987</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">903294</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">Vacuum polarization in laser fields</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1975-10</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Mitter, H.</subfield>
+    <subfield code="u">Tubingen U.</subfield>
+    <subfield code="w">H.Mitter.1</subfield>
+    <subfield code="x">1049430</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">903294</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="c">1638-1657</subfield>
+    <subfield code="n">10</subfield>
+    <subfield code="p">J.Phys.</subfield>
+    <subfield code="v">A8</subfield>
+    <subfield code="y">1975</subfield>
+    <subfield code="1">1211595</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="O">
+    <subfield code="o">oai:inspirehep.net:989</subfield>
+    <subfield code="p">INSPIRE:HEP</subfield>
+  </datafield>
+  <datafield tag="961" ind1=" " ind2=" ">
+    <subfield code="c">1974-04-01</subfield>
+    <subfield code="x">2016-09-09</subfield>
+  </datafield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">Print-74-0875 (TUBINGEN)</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">58</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">According to quantum electrodynamics the vacuum shows polarization properties because of the presence of virtual electron-positron pairs. These properties are investigated in the presence of an intense plane wave field, such as is produced by a laser. The laser wave is considered as an external prescribed field and its interaction with the electron-positron field is treated without reference to perturbation theory. The vacuum polarization tensor is computed to second order in the fine structure constant in the form of a double integral. The Dyson equation for the photon propagator is solved by an eigenfunction expansion. For a plane laser wave of infinite extent and circular polarization the results are relatively simple and explicit. Analytical properties of the photon propagator are discussed. The effects of vacuum polarization on an additional weak wave field (a non-laser photon) can be described approximately by two complex indices of refraction. The corresponding dispersion curves resemble qualitatively those of ordinary optical media. Quantitatively, however, the effects are small and will show up only if the non-laser photon has a very high energy. If the laser frequency could be raised into the x-ray region, the effects could be observed at moderate photon energies.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="269" ind1=" " ind2=" ">
+    <subfield code="c">1974-04</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="a">SPIRES-29890</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">HEP</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">Published</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">Citeable</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">CORE</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">67390</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Adler S</subfield>
+    <subfield code="m">1971 Ann. Phys., NY 67 599-647</subfield>
+    <subfield code="s">Annals Phys.,67,599</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">940212</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Baier R and Breitenlohner P</subfield>
+    <subfield code="m">1967a Acta Phys. Austr. 25 212-23</subfield>
+    <subfield code="s">Acta Phys.Austriaca,25,212</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">940211</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Baier R and Breitenlohner P</subfield>
+    <subfield code="m">1967b Nuovo Cim. B 47 117-20</subfield>
+    <subfield code="s">Nuovo Cim.,B47,117</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Batalin I A and Shabad A E</subfield>
+    <subfield code="m">1968 PN Lebedev Institute Preprint No 166</subfield>
+    <subfield code="r">LEBEDEV-68-166</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">71774</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Batalin I A and Shabad A E</subfield>
+    <subfield code="m">1971 Zh. Eksp. Teor. Fiz. 60 894-900</subfield>
+    <subfield code="s">Zh.Eksp.Teor.Fiz.,60,894</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">1433878</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Breitenlohner P and Mitter H</subfield>
+    <subfield code="m">1968 Nucl. Phys. B 7 443-58</subfield>
+    <subfield code="s">Nucl.Phys.,B7,443</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">47468</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Brown L S and Kibble T W B</subfield>
+    <subfield code="m">1964 Phys. Rev. 133 A705-19</subfield>
+    <subfield code="s">Phys.Rev.,133,A705</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Denisov N N and Fedorov M V</subfield>
+    <subfield code="m">1967 Zh. Eksp. Teor. Fiz. 53 1340-8</subfield>
+    <subfield code="s">Zh.Eksp.Teor.Fiz.,53,1340</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Eberly J H</subfield>
+    <subfield code="m">1969 Progress in Optics vol 7, ed E Wolf (Amsterdam: North Holland) pp 361-415</subfield>
+    <subfield code="s">Prog.Opt.,7,361</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Ehlotzky F</subfield>
+    <subfield code="m">1970a Nuovo Cim. B 69 73-82</subfield>
+    <subfield code="s">Nuovo Cim.,B69,73</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">65368</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Ehlotzky F</subfield>
+    <subfield code="m">1970b Acta Phys. Austr. 31 18-30, 31-46</subfield>
+    <subfield code="s">Acta Phys.Austriaca,31,18</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">65369</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="s">Acta Phys.Austriaca,31,31</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Euler H</subfield>
+    <subfield code="m">1936 Ann. Phys., Lpz 26 398-448</subfield>
+    <subfield code="s">Annalen Phys.,26,398</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">9113</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Heisenberg W and Euler H</subfield>
+    <subfield code="m">1936 Z. Phys. 98 714-32</subfield>
+    <subfield code="s">Z.Phys.,98,714</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">46685</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Karplus R, Neumann M</subfield>
+    <subfield code="m">1950 Phys. Rev. 80 380-5</subfield>
+    <subfield code="s">Phys.Rev.,80,380</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">47894</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Karplus R, Neumann M</subfield>
+    <subfield code="m">1951 Phys. Rev. 83 776-84</subfield>
+    <subfield code="s">Phys.Rev.,83,776</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Minguzzi A</subfield>
+    <subfield code="m">1956 Nuovo Cim. 4 476-86</subfield>
+    <subfield code="s">Nuovo Cim.,4,476</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Minguzzi A</subfield>
+    <subfield code="m">1957 Nuovo Cim. 6 501-11</subfield>
+    <subfield code="s">Nuovo Cim.,6,501</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Minguzzi A</subfield>
+    <subfield code="m">1958 Nuovo Cim. 9 145-53</subfield>
+    <subfield code="s">Nuovo Cim.,9,145</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">941</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Mitter H</subfield>
+    <subfield code="m">1975 Proc. 14th Int. Universitätswochen für Kerphysik, Schladming, ed P Urban (Wien: Springer)</subfield>
+    <subfield code="s">Acta Phys.Austriaca Suppl.,14,397</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">1443721</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Morozov D A and Ritus V I</subfield>
+    <subfield code="m">1975 Nucl. Phys. B 86 309-32</subfield>
+    <subfield code="s">Nucl.Phys.,B86,309</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Narozhnyi N B</subfield>
+    <subfield code="m">1968 Zh. Eksp. Teor. Fiz. 55 714-21</subfield>
+    <subfield code="s">Zh.Eksp.Teor.Fiz.,55,714</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Narozhnyi N B, Nikishov A I and Ritus V I</subfield>
+    <subfield code="m">1964 Zh. Eksp. Teor. Fiz. 47 930-40</subfield>
+    <subfield code="s">Zh.Eksp.Teor.Fiz.,47,930</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">68016</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Neville R A and Rohrlich F</subfield>
+    <subfield code="m">1971 Phys. Rev. D 3 1692-707</subfield>
+    <subfield code="s">Phys.Rev.,D3,1692</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Newton R</subfield>
+    <subfield code="m">1954a Phys. Rev. 94 1773-89</subfield>
+    <subfield code="s">Phys.Rev.,94,1773</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">47517</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Newton R</subfield>
+    <subfield code="m">1954b Phys. Rev. 96 523-8</subfield>
+    <subfield code="s">Phys.Rev.,96,523</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Oleinik V P</subfield>
+    <subfield code="m">1967a Zh. Eksp. Teor. Fiz. 52 1049-67</subfield>
+    <subfield code="s">Zh.Eksp.Teor.Fiz.,52,1049</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Oleinik V P</subfield>
+    <subfield code="m">1967b Zh. Eksp. Teor. Fiz. 53 1997-2011</subfield>
+    <subfield code="s">Zh.Eksp.Teor.Fiz.,53,1997</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Reiss H R</subfield>
+    <subfield code="m">1970 Phys. Rev. A 1 803-18</subfield>
+    <subfield code="s">Phys.Rev.,A1,803</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">71687</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Reiss H R</subfield>
+    <subfield code="m">1971 Phys. Rev. Lett. 26 1072-5</subfield>
+    <subfield code="s">Phys.Rev.Lett.,26,1072</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">74020</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Reiss H R</subfield>
+    <subfield code="m">1972 Phys. Rev. D 6 385-7</subfield>
+    <subfield code="s">Phys.Rev.,D6,385</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">1474264</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Reiss H R and Eberly J L</subfield>
+    <subfield code="m">1966 Phys. Rev. 151 1058-66</subfield>
+    <subfield code="s">Phys.Rev.,151,1058</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">78682</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Richard J L</subfield>
+    <subfield code="m">1972 Nuovo Cim. A 8 485-500</subfield>
+    <subfield code="s">Nuovo Cim.,A8,485</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Ritus V I</subfield>
+    <subfield code="m">1969 Zh. Eksp. Teor. Fiz. 57 2176-88</subfield>
+    <subfield code="s">Zh.Eksp.Teor.Fiz.,57,2176</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">78590</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Ritus V I</subfield>
+    <subfield code="m">1972a Ann. Phys., NY 69 555-82</subfield>
+    <subfield code="s">Annals Phys.,69,555</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">75030</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Ritus V I</subfield>
+    <subfield code="m">1972b Nucl. Phys. B 44 236-52</subfield>
+    <subfield code="s">Nucl.Phys.,B44,236</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">113</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Schwinger J</subfield>
+    <subfield code="m">1951 Phys. Rev. 82 664-79</subfield>
+    <subfield code="s">Phys.Rev.,82,664</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Shabad A E</subfield>
+    <subfield code="m">1971 P N Lebedev Institute Preprints Nos 10 and 125</subfield>
+    <subfield code="r">LEBEDEV-71-10</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="r">LEBEDEV-71-125</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="0">1303283</subfield>
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Weisskopf V F</subfield>
+    <subfield code="m">1936 K. Danske Vidensk. Selsk. Mat.-Fys. Meddr. 14 No 6</subfield>
+    <subfield code="s">Kong.Dan.Vid.Sel.Mat.Fys.Med.,14N6,1</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Yakovlev V P</subfield>
+    <subfield code="m">1966 Zh. Eksp. Teor. Fiz. 51 619-27</subfield>
+    <subfield code="s">Zh.Eksp.Teor.Fiz.,51,619</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="9">CURATOR</subfield>
+    <subfield code="h">Zeldovich Ya B</subfield>
+    <subfield code="m">1966 Zh. Eksp. Teor. Fiz. 51 1492-5</subfield>
+    <subfield code="s">Zh.Eksp.Teor.Fiz.,51,1492</subfield>
+  </datafield>
+</record>
+
+<record>
+  <controlfield tag="001">990</controlfield>
+  <controlfield tag="005">20160406113155.0</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="a">10.1016/0375-9474(74)90508-9</subfield>
+    <subfield code="2">DOI</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Landau:1974eq</subfield>
+    <subfield code="9">SPIRESTeX</subfield>
+  </datafield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">Print-74-0888 (BRITISH COLUMBIA)</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Landau, R.H.</subfield>
+    <subfield code="u">British Columbia U.</subfield>
+    <subfield code="v">Department of Physics, University of British Columbia, Vancouver, Canada, V6T 1W5</subfield>
+    <subfield code="w">R.H.Landau.1</subfield>
+    <subfield code="x">1001170</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">902688</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">The Role of Off-Shell Scattering in the Pion Optical Potential</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1974</subfield>
+    <subfield code="t">published</subfield>
+  </datafield>
+  <datafield tag="269" ind1=" " ind2=" ">
+    <subfield code="c">1974-04</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">10</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">A discussion of the expected and calculated importance of the off-energy-shell π N interaction as it is used to construct a pi-nucleus optical potential is presented. Simple coordinatespace and equivalent momentum-space descriptions of the multiple scattering process are employed, as well as numerical studies including recently developed π N models. It is demonstrated that by incorporating the inherent short-but-non-zero-range aspects of the π N interaction into the nuclear scattering theory, the off-shell sensitivity will be slight even without the introduction of fixed nucleons or nucleon-nucleon correlations which keep the nucleons apart. Several of the popular pi-nucleus theories are consequently found to be physically unacceptable.</subfield>
+    <subfield code="9">Elsevier</subfield>
+  </datafield>
+  <datafield tag="542" ind1=" " ind2=" ">
+    <subfield code="f">Copyright @ unknown. Published by Elsevier B.V.</subfield>
+  </datafield>
+  <datafield tag="690" ind1="C" ind2=" ">
+    <subfield code="a">Published</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Tabakin, F.</subfield>
+    <subfield code="u">Pittsburgh U.</subfield>
+    <subfield code="v">Department of Physics, University of Pittsburgh, Pittsburgh, PA 15213, USA</subfield>
+    <subfield code="w">F.Tabakin.1</subfield>
+    <subfield code="x">986904</subfield>
+    <subfield code="y">1</subfield>
+    <subfield code="z">903130</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="y">1974</subfield>
+    <subfield code="p">Nucl.Phys.</subfield>
+    <subfield code="c">445-454</subfield>
+    <subfield code="v">A231</subfield>
+    <subfield code="1">1214548</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="O">
+    <subfield code="o">oai:inspirehep.net:990</subfield>
+    <subfield code="p">INSPIRE:HEP</subfield>
+  </datafield>
+  <datafield tag="961" ind1=" " ind2=" ">
+    <subfield code="c">1974-04-01</subfield>
+    <subfield code="x">2016-04-06</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="a">SPIRES-29912</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">Published</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">Citeable</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">HEP</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,C6,765</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Nucl.Phys.,A174,251</subfield>
+    <subfield code="0">1438386</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Nucl.Phys.,B49,541</subfield>
+    <subfield code="0">84367</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,C6,1118</subfield>
+    <subfield code="0">79858</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Annals Phys.,78,299</subfield>
+    <subfield code="0">87473</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,C7,1750</subfield>
+    <subfield code="0">82171</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Nucl.Phys.,B58,55</subfield>
+    <subfield code="0">84020</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Annals Phys.,71,542</subfield>
+    <subfield code="0">76602</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Nucl.Phys.,A206,176</subfield>
+    <subfield code="0">84127</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Nucl.Phys.,A208,56</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Nucl.Phys.,A197,449</subfield>
+    <subfield code="0">84420</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,99,899</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Annals Phys.,13,110</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Annals Phys.,75,56</subfield>
+    <subfield code="0">87208</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,C7,63</subfield>
+    <subfield code="0">82560</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Nucl.Phys.,A208,20</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Bull.Am.Phys.Soc.,19,43</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Lett.,B46,228</subfield>
+    <subfield code="0">84672</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Annals Phys.,8,551</subfield>
+    <subfield code="0">8961</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,D5,2746</subfield>
+    <subfield code="0">74104</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Lett.,45B,195</subfield>
+    <subfield code="0">1441307</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.Lett.,30,105</subfield>
+    <subfield code="0">84544</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,98,761</subfield>
+    <subfield code="0">48023</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Nucl.Phys.,A167,257</subfield>
+    <subfield code="0">68658</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Annals Phys.,54,447</subfield>
+    <subfield code="0">58726</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,C7,2256</subfield>
+    <subfield code="0">82070</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Rev.,C6,1620</subfield>
+    <subfield code="0">82586</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Lett.,B45,203</subfield>
+    <subfield code="0">84753</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Bull.Am.Phys.Soc.,18,20</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Lett.,B43,476</subfield>
+    <subfield code="0">84891</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Nucl.Phys.,B17,168</subfield>
+    <subfield code="0">62712</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Nucl.Phys.,64,567</subfield>
+  </datafield>
+</record>
+
+<record>
+  <controlfield tag="001">991</controlfield>
+  <controlfield tag="005">20160407101341.0</controlfield>
+  <datafield tag="024" ind1="7" ind2=" ">
+    <subfield code="a">10.1016/0550-3213(75)90643-4</subfield>
+    <subfield code="2">DOI</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="z">D75-04650</subfield>
+    <subfield code="9">DESY</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">Caro:1974es</subfield>
+    <subfield code="9">SPIRESTeX</subfield>
+  </datafield>
+  <datafield tag="037" ind1=" " ind2=" ">
+    <subfield code="a">UM-P-74/12</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">Caro, D.E.</subfield>
+    <subfield code="u">Melbourne U.</subfield>
+    <subfield code="v">School of Physics, University of Melbourne, Parkville, Victoria 3052, Australia</subfield>
+    <subfield code="w">D.E.Caro.1</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">902999</subfield>
+  </datafield>
+  <datafield tag="210" ind1=" " ind2=" ">
+    <subfield code="a">IN-FLIGHT</subfield>
+  </datafield>
+  <datafield tag="245" ind1=" " ind2=" ">
+    <subfield code="a">A Test of the Orfanidis-Rittenberg Statistical Model Using anti-p n Data in Flight</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="c">1975</subfield>
+    <subfield code="t">published</subfield>
+  </datafield>
+  <datafield tag="269" ind1=" " ind2=" ">
+    <subfield code="c">1974-04</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">6</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">We produce inclusive and exclusive branching ratios for pionic annihilations of p n in the range 450–920 MeV/ c . These are compared with a statistical, linear decay model for N N annihilations proposed by Orfanidis and Rittenberg, and we find good agreement using the same parameters as those adopted in previous fits of the model to p p data.</subfield>
+    <subfield code="9">Elsevier</subfield>
+  </datafield>
+  <datafield tag="542" ind1=" " ind2=" ">
+    <subfield code="f">Copyright @ unknown. Published by Elsevier B.V.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+    <subfield code="2">INSPIRE</subfield>
+    <subfield code="a">Experiment-HEP</subfield>
+    <subfield code="9">automatically added based on DCC, PPF, DK</subfield>
+  </datafield>
+  <datafield tag="690" ind1="C" ind2=" ">
+    <subfield code="a">Published</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">ANTI-P DEUTERIUM: INTERACTION</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">INTERACTION: ANTI-P DEUTERIUM</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">ANTI-P N: ANNIHILATION</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">ANNIHILATION: ANTI-P N</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">ANTI-P N: INCLUSIVE REACTION</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">ANTI-P N: EXCLUSIVE REACTION</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">MULTIPLE PRODUCTION</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">MODEL: STATISTICAL</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">MODEL: ORFANIDIS-RITTENBERG</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">PI+: FINAL STATE</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">FINAL STATE: PI+</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">PI-: FINAL STATE</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">FINAL STATE: PI-</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">PI0: FINAL STATE</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">FINAL STATE: PI0</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">BUBBLE CHAMBER(DEUTERIUM): EXPERIMENTAL RESULTS</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">EXPERIMENTAL RESULTS: BUBBLE CHAMBER(DEUTERIUM)</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">BROOKHAVEN PS</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">ANTI-P N --&gt; PI+ 2PI-</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">ANTI-P N --&gt; PI+ 2PI- PI0</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">ANTI-P N --&gt; 2PI+ 3PI-</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">ANTI-P N --&gt; 2PI+ 3PI- PI0</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="695" ind1=" " ind2=" ">
+    <subfield code="a">0.5-1.0 GEV/C</subfield>
+    <subfield code="2">INSPIRE</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Gold, E.</subfield>
+    <subfield code="u">Melbourne U.</subfield>
+    <subfield code="v">School of Physics, University of Melbourne, Parkville, Victoria 3052, Australia</subfield>
+    <subfield code="w">E.Gold.2</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">902999</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Klein, A.G.</subfield>
+    <subfield code="u">Melbourne U.</subfield>
+    <subfield code="v">School of Physics, University of Melbourne, Parkville, Victoria 3052, Australia</subfield>
+    <subfield code="w">A.Klein.5</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">902999</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Opat, G.I.</subfield>
+    <subfield code="u">Melbourne U.</subfield>
+    <subfield code="v">School of Physics, University of Melbourne, Parkville, Victoria 3052, Australia</subfield>
+    <subfield code="w">G.I.Opat.1</subfield>
+    <subfield code="x">994830</subfield>
+    <subfield code="y">1</subfield>
+    <subfield code="z">902999</subfield>
+  </datafield>
+  <datafield tag="700" ind1=" " ind2=" ">
+    <subfield code="a">Wignall, J.W.G.</subfield>
+    <subfield code="u">Melbourne U.</subfield>
+    <subfield code="v">School of Physics, University of Melbourne, Parkville, Victoria 3052, Australia</subfield>
+    <subfield code="w">J.W.G.Wignall.1</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">902999</subfield>
+  </datafield>
+  <datafield tag="773" ind1=" " ind2=" ">
+    <subfield code="y">1975</subfield>
+    <subfield code="p">Nucl.Phys.</subfield>
+    <subfield code="c">221-226</subfield>
+    <subfield code="v">B90</subfield>
+    <subfield code="1">1214548</subfield>
+  </datafield>
+  <datafield tag="909" ind1="C" ind2="O">
+    <subfield code="o">oai:inspirehep.net:991</subfield>
+    <subfield code="p">INSPIRE:HEP</subfield>
+  </datafield>
+  <datafield tag="961" ind1=" " ind2=" ">
+    <subfield code="c">1974-04-01</subfield>
+    <subfield code="x">2016-07-13</subfield>
+  </datafield>
+  <datafield tag="970" ind1=" " ind2=" ">
+    <subfield code="a">SPIRES-29939</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">Published</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">Citeable</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">CORE</subfield>
+  </datafield>
+  <datafield tag="980" ind1=" " ind2=" ">
+    <subfield code="a">HEP</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Austral.J.Phys.,23,819</subfield>
+    <subfield code="0">65943</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Nuovo Cim.,A12,162</subfield>
+    <subfield code="0">76551</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Phys.Lett.,B33,477</subfield>
+    <subfield code="0">69368</subfield>
+  </datafield>
+  <datafield tag="999" ind1="C" ind2="5">
+    <subfield code="s">Lett.Nuovo Cim.,2S2,1009</subfield>
+    <subfield code="0">69921</subfield>
+  </datafield>
+</record>
+</collection>
