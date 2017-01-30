@@ -45,12 +45,12 @@
                     <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
                 </publications>
             </xsl:if>
-            <relations>
-                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
-            </relations>
             <researchers>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="researcher"/>
             </researchers>
+            <relations>
+                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
+            </relations>
         </registryObjects>
     </xsl:template>
     
@@ -133,6 +133,52 @@
     </xsl:template>
     
     <!-- =========================================== -->
+    <!-- Researcher Template                         -->
+    <!-- =========================================== -->
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="researcher">
+        <xsl:apply-templates select=".//oai:metadata" mode="researcher"/>
+    </xsl:template>
+    <xsl:template match="oai:metadata" mode="researcher">
+        <xsl:for-each select=".//vcard:Name">
+            <xsl:if test="not(contains(preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about,'authors//'))">
+                <xsl:variable name="firstName" select=".//vcard:givenName"/>
+                <xsl:variable name="lastName" select=".//vcard:familyName"/>
+                <xsl:variable name="fullName" select="concat($firstName,' ',$lastName)"/>
+                <researcher>
+                    <key>
+                        <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(substring-before(preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about,'-vcard'),'authors/'))"/>
+                    </key>
+                    <source>
+                        <xsl:value-of select="$source"/>
+                    </source>
+                    <local_id>
+                        <xsl:value-of select="substring-after(substring-before(preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about,'-vcard'),'authors/')"/>
+                    </local_id>
+                    <url>
+                        <xsl:choose>
+                            <xsl:when test="preceding-sibling::vivo:Authorship[1]//vivo:orcidId">
+                                <xsl:value-of select="preceding-sibling::vivo:Authorship[1]//vivo:orcidId/@rdf:resource"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:value-of select="substring-before(preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about,'-vcard')"/>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </url>
+                    <full_name>
+                        <xsl:value-of select="$fullName"/>
+                    </full_name>
+                    <first_name>
+                        <xsl:value-of select="$firstName"/>
+                    </first_name>
+                    <last_name>
+                        <xsl:value-of select="$lastName"/>
+                    </last_name>
+                </researcher>
+            </xsl:if>
+        </xsl:for-each>
+    </xsl:template>
+    
+    <!-- =========================================== -->
     <!-- Relation Template                           -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relation">
@@ -179,59 +225,6 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </relation>
-        </xsl:for-each>
-    </xsl:template>
-    
-    <!-- =========================================== -->
-    <!-- Researcher Template                         -->
-    <!-- =========================================== -->
-    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="researcher">
-        <xsl:apply-templates select=".//oai:metadata" mode="researcher"/>
-    </xsl:template>
-    <xsl:template match="oai:metadata" mode="researcher">
-        <xsl:for-each select=".//vcard:Name">
-            <xsl:variable name="firstName" select=".//vcard:givenName"/>
-            <xsl:variable name="lastName" select=".//vcard:familyName"/>
-            <xsl:variable name="fullName" select="concat($firstName,' ',$lastName)"/>
-            <researcher>
-                <key>
-                    <xsl:value-of select="concat('researchgraph.org/figshare/',substring-after(substring-before(preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about,'-vcard'),'authors/'))"/>
-                </key>
-                <source>
-                    <xsl:value-of select="$source"/>
-                </source>
-                <local_id>
-                    <xsl:choose>
-                        <xsl:when test="preceding-sibling::vivo:Authorship[1]//vivo:orcidId">
-                            <xsl:value-of select="preceding-sibling::vivo:Authorship[1]//vivo:orcidId/@rdf:resource"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:value-of select="substring-after(preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about,'authors/')"/>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                </local_id>
-                <xsl:choose>
-                    <xsl:when test="preceding-sibling::vivo:Authorship[1]//vivo:orcidId">
-                        <url>
-                            <xsl:value-of select="preceding-sibling::vivo:Authorship[1]//vivo:orcidId/@rdf:resource"/>
-                        </url>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <url>
-                            <xsl:value-of select="preceding-sibling::vivo:Authorship[1]//vcard:Individual/@rdf:about"/>
-                        </url>
-                    </xsl:otherwise>
-                </xsl:choose>
-                <full_name>
-                    <xsl:value-of select="$fullName"/>
-                </full_name>
-                <first_name>
-                    <xsl:value-of select="$firstName"/>
-                </first_name>
-                <last_name>
-                    <xsl:value-of select="$lastName"/>
-                </last_name>
-            </researcher>
         </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>
