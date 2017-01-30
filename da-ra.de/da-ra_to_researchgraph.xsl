@@ -138,7 +138,7 @@
                     <xsl:variable name="lastName">
                         <xsl:value-of select=".//oai:lastName"/>
                     </xsl:variable>
-                    <xsl:value-of select="concat($firstName,$lastName)"/>
+                    <xsl:value-of select="concat($firstName,' ',$lastName)"/>
                     <xsl:if test="position() != last()">
                         <xsl:value-of select="','"/>
                     </xsl:if>
