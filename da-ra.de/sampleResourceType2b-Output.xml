@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<registryObjects xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"
-                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                 xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/dataset.xsd">
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
    <datasets>
       <dataset>
          <key>researchgraph.org/da-ra/10.17890/09871.1</key>

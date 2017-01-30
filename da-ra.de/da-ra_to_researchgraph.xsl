@@ -18,7 +18,9 @@
     <!-- RegistryObjects (root) Template                                           -->
     <!-- =========================================== -->
     <xsl:template match="/">
-        <registryObjects xmlns="http://researchgraph.org/schema/v2.0/xml/nodes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/researchgraph/schema/master/xsd/dataset.xsd">
+        <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes
+            https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
             <xsl:if test=".//oai:resourceType='1' or
                 .//oai:resourceType='2'">
               <datasets>
