@@ -1,343 +1,292 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://researchgraph.org/schema/v2.0/xml/nodes" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
-  <publications>
-    <publication>
-      <key>Researchgraph.org/figshare/10.4225/49/552b658019d34</key>
-      <source>figshare.com</source>
-      <local_id>10.4225/49/552b658019d34</local_id>
-      <last_updated>2015-04-13T06:43:17Z</last_updated>
-      <url>https://figshare.com/articles/testShare/2000066</url>
-      <title>Research Cloud Data Communities</title>
-      <authors_list>ANDY TSENG,</authors_list>
-      <doi>10.4225/49/552b658019d34</doi>
-      <publication_year>2015</publication_year>
-    </publication>
-    <publication>
-      <key>Researchgraph.org/figshare/10.17608/k6.auckland.2000550.v1</key>
-      <source>figshare.com</source>
-      <local_id>10.17608/k6.auckland.2000550.v1</local_id>
-      <last_updated>2015-05-12T22:21:30Z</last_updated>
-      <url>https://figshare.com/articles/Monitoring_the_Impact_of_Social_Policy_1980_2001_Social_Expenditure_Patterns_in_Aotearoa_New_Zealan/2000550</url>
-      <title>Monitoring the Impact of Social Policy, 1980–2001: Social Expenditure Patterns in Aotearoa / New Zealan</title>
-      <authors_list>Gerard Cotterell,Charles Crothers,</authors_list>
-      <doi>10.17608/k6.auckland.2000550.v1</doi>
-      <publication_year>2015</publication_year>
-    </publication>
-    <publication>
-      <key>Researchgraph.org/figshare/10.5072/fk2.figshare.2001966.v1</key>
-      <source>figshare.com</source>
-      <local_id>10.5072/fk2.figshare.2001966.v1</local_id>
-      <last_updated>2015-08-17T13:31:03Z</last_updated>
-      <url>https://figshare.com/articles/Constraining_Exoplanet_Characteristics_with_Asteroseismology/2001966</url>
-      <title>Constraining Exoplanet Characteristics with Asteroseismology</title>
-      <authors_list>Barbara Pedley,</authors_list>
-      <doi>10.5072/fk2.figshare.2001966.v1</doi>
-      <publication_year>2015</publication_year>
-    </publication>
-    <publication>
-      <key>Researchgraph.org/figshare/10.6084/m9.figshare.2002128.v2</key>
-      <source>figshare.com</source>
-      <local_id>10.6084/m9.figshare.2002128.v2</local_id>
-      <last_updated>2015-08-18T15:50:33Z</last_updated>
-      <url>https://figshare.com/articles/Using_openWordnet_PT_to_improve_VIVO/2002128</url>
-      <title>Using openWordnet-PT to improve VIVO</title>
-      <authors_list>Alexandre Rademaker,Daniela Brauner,Glauco Roberto Munsberg,André Guimarães Peil,</authors_list>
-      <doi>10.6084/m9.figshare.2002128.v2</doi>
-      <publication_year>2015</publication_year>
-    </publication>
-    <publication>
-      <key>Researchgraph.org/figshare/10.4225/03/55d57c84ce4e0</key>
-      <source>figshare.com</source>
-      <local_id>10.4225/03/55d57c84ce4e0</local_id>
-      <last_updated>2015-08-20T07:06:49Z</last_updated>
-      <url>https://figshare.com/articles/A_Comment_on_Open_Access_the_Whipping_Boy_for_Problems_in_Scholarly_Publishing/2002209</url>
-      <title>A Comment on Open Access: the Whipping Boy for Problems in Scholarly Publishing</title>
-      <authors_list>David Groenewegen,</authors_list>
-      <doi>10.4225/03/55d57c84ce4e0</doi>
-      <publication_year>2015</publication_year>
-    </publication>
-    <publication>
-      <key>Researchgraph.org/figshare/10.4225/03/5605c7a3f0652</key>
-      <source>figshare.com</source>
-      <local_id>10.4225/03/5605c7a3f0652</local_id>
-      <last_updated>2015-09-25T22:16:08Z</last_updated>
-      <url>https://figshare.com/articles/Pre_and_post_conflict_language_designations_and_language_policies_Re_configuration_of_professional_norms_amongst_translators_of_the_Bosnian_Croatian_and_Serbian_languages/2003247</url>
-      <title>Pre- and post-conflict language designations and language policies. Re-configuration of professional norms amongst translators of the Bosnian, Croatian and Serbian languages</title>
-      <authors_list>Jim Hlavac,</authors_list>
-      <doi>10.4225/03/5605c7a3f0652</doi>
-      <publication_year>2015</publication_year>
-    </publication>
-    <publication>
-      <key>Researchgraph.org/figshare/10.4225/03/56239bd13c5e0</key>
-      <source>figshare.com</source>
-      <local_id>10.4225/03/56239bd13c5e0</local_id>
-      <last_updated>2015-10-20T13:08:30Z</last_updated>
-      <url>https://figshare.com/articles/Predicting_blood_glucose_levels_from_HbA1c_is_not_the_same_as_predicting_HbA1c_from_blood_glucose_levels_a_common_methodological_misunderstanding_/2003748</url>
-      <title>Predicting blood glucose levels from HbA1c is not the same as predicting HbA1c from blood glucose levels: a common methodological misunderstanding.</title>
-      <authors_list>Daniel Reidpath,Pascale Allotey,Mark R Diamond,</authors_list>
-      <doi>10.4225/03/56239bd13c5e0</doi>
-      <publication_year>2015</publication_year>
-    </publication>
-    <publication>
-      <key>Researchgraph.org/figshare/10.6084/m9.figshare.1585085.v2</key>
-      <source>figshare.com</source>
-      <local_id>10.6084/m9.figshare.1585085.v2</local_id>
-      <last_updated>2015-10-26T13:43:09Z</last_updated>
-      <url>https://figshare.com/articles/Theoretical_Atom_Crystol/1585085</url>
-      <title>Theoretical Atom Crystal</title>
-      <authors_list>Richard Morefield,</authors_list>
-      <doi>10.6084/m9.figshare.1585085.v2</doi>
-      <publication_year>2015</publication_year>
-    </publication>
-    <publication>
-      <key>Researchgraph.org/figshare/10.4225/03/562f0aa17ab04</key>
-      <source>figshare.com</source>
-      <local_id>10.4225/03/562f0aa17ab04</local_id>
-      <last_updated>2015-10-27T05:25:05Z</last_updated>
-      <url>https://figshare.com/articles/Arguments_from_Moral_Evil/2004393</url>
-      <title>Arguments from Moral Evil</title>
-      <authors_list>Graham Oppy,</authors_list>
-      <doi>10.4225/03/562f0aa17ab04</doi>
-      <publication_year>2015</publication_year>
-    </publication>
-    <publication>
-      <key>Researchgraph.org/figshare/10.4225/03/562ef546df22c</key>
-      <source>figshare.com</source>
-      <local_id>10.4225/03/562ef546df22c</local_id>
-      <last_updated>2015-10-27T05:28:33Z</last_updated>
-      <url>https://figshare.com/articles/Arguing_about_the_Kalam_Cosmological_Argument/2004321</url>
-      <title>Arguing about the Kalam Cosmological Argument</title>
-      <authors_list>Graham Oppy,</authors_list>
-      <doi>10.4225/03/562ef546df22c</doi>
-      <publication_year>2015</publication_year>
-    </publication>
-  </publications>
-  <relations>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors/ANDY_TSENG/1163885-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors/Gerard_Cotterell/1171773-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors//1175292-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors/Barbara_Pedley/1227654-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors//1228608-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors//1228605-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors//1228602-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors//1228599-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/0000-0003-2523-1676</from_key>
-      <to_uri>http://orcid.org/0000-0003-2523-1676</to_uri>
-      <label>Author_ORCID</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors/Jim_Hlavac/1230528-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors/Daniel_Reidpath/1228911-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors/Pascale_Allotey/1228914-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors//1233426-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors/Richard_Morefield/450149-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors/Graham_Oppy/1233579-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-    <relation>
-      <from_key>Researchgraph.org/figshare/</from_key>
-      <to_uri>https://figshare.com/authors/Graham_Oppy/1233579-vcard</to_uri>
-      <label>Author</label>
-    </relation>
-  </relations>
-  <researchers>
-    <researcher>
-      <key>Researchgraph.org/figshare//figshare.com/authors/ANDY_TSENG/1163885</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors/ANDY_TSENG/1163885-vcard</local_id>
-      <url>https://figshare.com/authors/ANDY_TSENG/1163885-vcard</url>
-      <full_name>ANDY TSENG</full_name>
-      <first_name>ANDY</first_name>
-      <last_name>TSENG</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare//figshare.com/authors/Gerard_Cotterell/1171773</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors/Gerard_Cotterell/1171773-vcard</local_id>
-      <url>https://figshare.com/authors/Gerard_Cotterell/1171773-vcard</url>
-      <full_name>Gerard Cotterell</full_name>
-      <first_name>Gerard</first_name>
-      <last_name>Cotterell</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare/</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors//1175292-vcard</local_id>
-      <url>https://figshare.com/authors//1175292-vcard</url>
-      <full_name>Charles Crothers</full_name>
-      <first_name>Charles</first_name>
-      <last_name>Crothers</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare//figshare.com/authors/Barbara_Pedley/1227654</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors/Barbara_Pedley/1227654-vcard</local_id>
-      <url>https://figshare.com/authors/Barbara_Pedley/1227654-vcard</url>
-      <full_name>Barbara Pedley</full_name>
-      <first_name>Barbara</first_name>
-      <last_name>Pedley</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare/</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors//1228608-vcard</local_id>
-      <url>https://figshare.com/authors//1228608-vcard</url>
-      <full_name>Alexandre Rademaker</full_name>
-      <first_name>Alexandre</first_name>
-      <last_name>Rademaker</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare/</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors//1228605-vcard</local_id>
-      <url>https://figshare.com/authors//1228605-vcard</url>
-      <full_name>Daniela Brauner</full_name>
-      <first_name>Daniela</first_name>
-      <last_name>Brauner</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare/</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors//1228602-vcard</local_id>
-      <url>https://figshare.com/authors//1228602-vcard</url>
-      <full_name>Glauco Roberto Munsberg</full_name>
-      <first_name>Glauco</first_name>
-      <last_name>Roberto Munsberg</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare/</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors//1228599-vcard</local_id>
-      <url>https://figshare.com/authors//1228599-vcard</url>
-      <full_name>André Guimarães Peil</full_name>
-      <first_name>André</first_name>
-      <last_name>Guimarães Peil</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare/0000-0003-2523-1676</key>
-      <source>figshare.com</source>
-      <local_id>http://orcid.org/0000-0003-2523-1676</local_id>
-      <url>http://orcid.org/0000-0003-2523-1676</url>
-      <full_name>David Groenewegen</full_name>
-      <first_name>David</first_name>
-      <last_name>Groenewegen</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare//figshare.com/authors/Jim_Hlavac/1230528</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors/Jim_Hlavac/1230528-vcard</local_id>
-      <url>https://figshare.com/authors/Jim_Hlavac/1230528-vcard</url>
-      <full_name>Jim Hlavac</full_name>
-      <first_name>Jim</first_name>
-      <last_name>Hlavac</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare//figshare.com/authors/Daniel_Reidpath/1228911</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors/Daniel_Reidpath/1228911-vcard</local_id>
-      <url>https://figshare.com/authors/Daniel_Reidpath/1228911-vcard</url>
-      <full_name>Daniel Reidpath</full_name>
-      <first_name>Daniel</first_name>
-      <last_name>Reidpath</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare//figshare.com/authors/Pascale_Allotey/1228914</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors/Pascale_Allotey/1228914-vcard</local_id>
-      <url>https://figshare.com/authors/Pascale_Allotey/1228914-vcard</url>
-      <full_name>Pascale Allotey</full_name>
-      <first_name>Pascale</first_name>
-      <last_name>Allotey</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare/</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors//1233426-vcard</local_id>
-      <url>https://figshare.com/authors//1233426-vcard</url>
-      <full_name>Mark R Diamond</full_name>
-      <first_name>Mark</first_name>
-      <last_name>R Diamond</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare//figshare.com/authors/Richard_Morefield/450149</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors/Richard_Morefield/450149-vcard</local_id>
-      <url>https://figshare.com/authors/Richard_Morefield/450149-vcard</url>
-      <full_name>Richard Morefield</full_name>
-      <first_name>Richard</first_name>
-      <last_name>Morefield</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare//figshare.com/authors/Graham_Oppy/1233579</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors/Graham_Oppy/1233579-vcard</local_id>
-      <url>https://figshare.com/authors/Graham_Oppy/1233579-vcard</url>
-      <full_name>Graham Oppy</full_name>
-      <first_name>Graham</first_name>
-      <last_name>Oppy</last_name>
-    </researcher>
-    <researcher>
-      <key>Researchgraph.org/figshare//figshare.com/authors/Graham_Oppy/1233579</key>
-      <source>figshare.com</source>
-      <local_id>https://figshare.com/authors/Graham_Oppy/1233579-vcard</local_id>
-      <url>https://figshare.com/authors/Graham_Oppy/1233579-vcard</url>
-      <full_name>Graham Oppy</full_name>
-      <first_name>Graham</first_name>
-      <last_name>Oppy</last_name>
-    </researcher>
-  </researchers>
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"
+                 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <publications>
+      <publication>
+         <key>researchgraph.org/figshare/10.4225/49/552b658019d34</key>
+         <source>figshare.com</source>
+         <local_id>10.4225/49/552b658019d34</local_id>
+         <last_updated>2015-04-13T06:43:17Z</last_updated>
+         <url>https://figshare.com/articles/testShare/2000066</url>
+         <title>Research Cloud Data Communities</title>
+         <authors_list>ANDY TSENG</authors_list>
+         <doi>10.4225/49/552b658019d34</doi>
+         <publication_year>2015</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/figshare/10.17608/k6.auckland.2000550.v1</key>
+         <source>figshare.com</source>
+         <local_id>10.17608/k6.auckland.2000550.v1</local_id>
+         <last_updated>2015-05-12T22:21:30Z</last_updated>
+         <url>https://figshare.com/articles/Monitoring_the_Impact_of_Social_Policy_1980_2001_Social_Expenditure_Patterns_in_Aotearoa_New_Zealan/2000550</url>
+         <title>Monitoring the Impact of Social Policy, 1980–2001: Social Expenditure Patterns in Aotearoa / New Zealan</title>
+         <authors_list>Gerard Cotterell,Charles Crothers</authors_list>
+         <doi>10.17608/k6.auckland.2000550.v1</doi>
+         <publication_year>2015</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/figshare/10.5072/fk2.figshare.2001966.v1</key>
+         <source>figshare.com</source>
+         <local_id>10.5072/fk2.figshare.2001966.v1</local_id>
+         <last_updated>2015-08-17T13:31:03Z</last_updated>
+         <url>https://figshare.com/articles/Constraining_Exoplanet_Characteristics_with_Asteroseismology/2001966</url>
+         <title>Constraining Exoplanet Characteristics with Asteroseismology</title>
+         <authors_list>Barbara Pedley</authors_list>
+         <doi>10.5072/fk2.figshare.2001966.v1</doi>
+         <publication_year>2015</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/figshare/10.6084/m9.figshare.2002128.v2</key>
+         <source>figshare.com</source>
+         <local_id>10.6084/m9.figshare.2002128.v2</local_id>
+         <last_updated>2015-08-18T15:50:33Z</last_updated>
+         <url>https://figshare.com/articles/Using_openWordnet_PT_to_improve_VIVO/2002128</url>
+         <title>Using openWordnet-PT to improve VIVO</title>
+         <authors_list>Alexandre Rademaker,Daniela Brauner,Glauco Roberto Munsberg,André Guimarães Peil</authors_list>
+         <doi>10.6084/m9.figshare.2002128.v2</doi>
+         <publication_year>2015</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/figshare/10.4225/03/55d57c84ce4e0</key>
+         <source>figshare.com</source>
+         <local_id>10.4225/03/55d57c84ce4e0</local_id>
+         <last_updated>2015-08-20T07:06:49Z</last_updated>
+         <url>https://figshare.com/articles/A_Comment_on_Open_Access_the_Whipping_Boy_for_Problems_in_Scholarly_Publishing/2002209</url>
+         <title>A Comment on Open Access: the Whipping Boy for Problems in Scholarly Publishing David Groenewegen</title>
+         <authors_list>David Groenewegen</authors_list>
+         <doi>10.4225/03/55d57c84ce4e0</doi>
+         <publication_year>2015</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/figshare/10.4225/03/5605c7a3f0652</key>
+         <source>figshare.com</source>
+         <local_id>10.4225/03/5605c7a3f0652</local_id>
+         <last_updated>2015-09-25T22:16:08Z</last_updated>
+         <url>https://figshare.com/articles/Pre_and_post_conflict_language_designations_and_language_policies_Re_configuration_of_professional_norms_amongst_translators_of_the_Bosnian_Croatian_and_Serbian_languages/2003247</url>
+         <title>Pre- and post-conflict language designations and language policies. Re-configuration of professional norms amongst translators of the Bosnian, Croatian and Serbian languages</title>
+         <authors_list>Jim Hlavac</authors_list>
+         <doi>10.4225/03/5605c7a3f0652</doi>
+         <publication_year>2015</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/figshare/10.4225/03/56239bd13c5e0</key>
+         <source>figshare.com</source>
+         <local_id>10.4225/03/56239bd13c5e0</local_id>
+         <last_updated>2015-10-20T13:08:30Z</last_updated>
+         <url>https://figshare.com/articles/Predicting_blood_glucose_levels_from_HbA1c_is_not_the_same_as_predicting_HbA1c_from_blood_glucose_levels_a_common_methodological_misunderstanding_/2003748</url>
+         <title>Predicting blood glucose levels from HbA1c is not the same as predicting HbA1c from blood glucose levels: a common methodological misunderstanding.</title>
+         <authors_list>Daniel Reidpath,Pascale Allotey,Mark R Diamond</authors_list>
+         <doi>10.4225/03/56239bd13c5e0</doi>
+         <publication_year>2015</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/figshare/10.6084/m9.figshare.1585085.v2</key>
+         <source>figshare.com</source>
+         <local_id>10.6084/m9.figshare.1585085.v2</local_id>
+         <last_updated>2015-10-26T13:43:09Z</last_updated>
+         <url>https://figshare.com/articles/Theoretical_Atom_Crystol/1585085</url>
+         <title>Theoretical Atom Crystal</title>
+         <authors_list>Richard Morefield</authors_list>
+         <doi>10.6084/m9.figshare.1585085.v2</doi>
+         <publication_year>2015</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/figshare/10.4225/03/562f0aa17ab04</key>
+         <source>figshare.com</source>
+         <local_id>10.4225/03/562f0aa17ab04</local_id>
+         <last_updated>2015-10-27T05:25:05Z</last_updated>
+         <url>https://figshare.com/articles/Arguments_from_Moral_Evil/2004393</url>
+         <title>Arguments from Moral Evil</title>
+         <authors_list>Graham Oppy</authors_list>
+         <doi>10.4225/03/562f0aa17ab04</doi>
+         <publication_year>2015</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/figshare/10.4225/03/562ef546df22c</key>
+         <source>figshare.com</source>
+         <local_id>10.4225/03/562ef546df22c</local_id>
+         <last_updated>2015-10-27T05:28:33Z</last_updated>
+         <url>https://figshare.com/articles/Arguing_about_the_Kalam_Cosmological_Argument/2004321</url>
+         <title>Arguing about the Kalam Cosmological Argument</title>
+         <authors_list>Graham Oppy</authors_list>
+         <doi>10.4225/03/562ef546df22c</doi>
+         <publication_year>2015</publication_year>
+      </publication>
+   </publications>
+   <researchers>
+      <researcher>
+         <key>researchgraph.org/figshare/ANDY_TSENG/1163885</key>
+         <source>figshare.com</source>
+         <local_id>ANDY_TSENG/1163885</local_id>
+         <url>https://figshare.com/authors/ANDY_TSENG/1163885</url>
+         <full_name>ANDY TSENG</full_name>
+         <first_name>ANDY</first_name>
+         <last_name>TSENG</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Gerard_Cotterell/1171773</key>
+         <source>figshare.com</source>
+         <local_id>Gerard_Cotterell/1171773</local_id>
+         <url>https://figshare.com/authors/Gerard_Cotterell/1171773</url>
+         <full_name>Gerard Cotterell</full_name>
+         <first_name>Gerard</first_name>
+         <last_name>Cotterell</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Barbara_Pedley/1227654</key>
+         <source>figshare.com</source>
+         <local_id>Barbara_Pedley/1227654</local_id>
+         <url>https://figshare.com/authors/Barbara_Pedley/1227654</url>
+         <full_name>Barbara Pedley</full_name>
+         <first_name>Barbara</first_name>
+         <last_name>Pedley</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/David_Groenewegen/1176435</key>
+         <source>figshare.com</source>
+         <local_id>David_Groenewegen/1176435</local_id>
+         <url>http://orcid.org/0000-0003-2523-1676</url>
+         <full_name>David Groenewegen</full_name>
+         <first_name>David</first_name>
+         <last_name>Groenewegen</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Jim_Hlavac/1230528</key>
+         <source>figshare.com</source>
+         <local_id>Jim_Hlavac/1230528</local_id>
+         <url>https://figshare.com/authors/Jim_Hlavac/1230528</url>
+         <full_name>Jim Hlavac</full_name>
+         <first_name>Jim</first_name>
+         <last_name>Hlavac</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Daniel_Reidpath/1228911</key>
+         <source>figshare.com</source>
+         <local_id>Daniel_Reidpath/1228911</local_id>
+         <url>https://figshare.com/authors/Daniel_Reidpath/1228911</url>
+         <full_name>Daniel Reidpath</full_name>
+         <first_name>Daniel</first_name>
+         <last_name>Reidpath</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Pascale_Allotey/1228914</key>
+         <source>figshare.com</source>
+         <local_id>Pascale_Allotey/1228914</local_id>
+         <url>https://figshare.com/authors/Pascale_Allotey/1228914</url>
+         <full_name>Pascale Allotey</full_name>
+         <first_name>Pascale</first_name>
+         <last_name>Allotey</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Richard_Morefield/450149</key>
+         <source>figshare.com</source>
+         <local_id>Richard_Morefield/450149</local_id>
+         <url>https://figshare.com/authors/Richard_Morefield/450149</url>
+         <full_name>Richard Morefield</full_name>
+         <first_name>Richard</first_name>
+         <last_name>Morefield</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Graham_Oppy/1233579</key>
+         <source>figshare.com</source>
+         <local_id>Graham_Oppy/1233579</local_id>
+         <url>https://figshare.com/authors/Graham_Oppy/1233579</url>
+         <full_name>Graham Oppy</full_name>
+         <first_name>Graham</first_name>
+         <last_name>Oppy</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Graham_Oppy/1233579</key>
+         <source>figshare.com</source>
+         <local_id>Graham_Oppy/1233579</local_id>
+         <url>https://figshare.com/authors/Graham_Oppy/1233579</url>
+         <full_name>Graham Oppy</full_name>
+         <first_name>Graham</first_name>
+         <last_name>Oppy</last_name>
+      </researcher>
+   </researchers>
+   <relations>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.4225/49/552b658019d34</from_key>
+         <key>researchgraph.org/figshare/authors/ANDY_TSENG/1163885</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.17608/k6.auckland.2000550.v1</from_key>
+         <key>researchgraph.org/figshare/authors/Gerard_Cotterell/1171773</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.17608/k6.auckland.2000550.v1</from_key>
+         <key>researchgraph.org/figshare/authors//1175292</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.5072/fk2.figshare.2001966.v1</from_key>
+         <key>researchgraph.org/figshare/authors/Barbara_Pedley/1227654</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.6084/m9.figshare.2002128.v2</from_key>
+         <key>researchgraph.org/figshare/authors//1228608</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.6084/m9.figshare.2002128.v2</from_key>
+         <key>researchgraph.org/figshare/authors//1228605</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.6084/m9.figshare.2002128.v2</from_key>
+         <key>researchgraph.org/figshare/authors//1228602</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.6084/m9.figshare.2002128.v2</from_key>
+         <key>researchgraph.org/figshare/authors//1228599</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/0000-0003-2523-1676</from_key>
+         <key>researchgraph.org/figshare/authors/David_Groenewegen/1176435</key>
+         <label>Author_ORCID</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.4225/03/5605c7a3f0652</from_key>
+         <key>researchgraph.org/figshare/authors/Jim_Hlavac/1230528</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.4225/03/56239bd13c5e0</from_key>
+         <key>researchgraph.org/figshare/authors/Daniel_Reidpath/1228911</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.4225/03/56239bd13c5e0</from_key>
+         <key>researchgraph.org/figshare/authors/Pascale_Allotey/1228914</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.4225/03/56239bd13c5e0</from_key>
+         <key>researchgraph.org/figshare/authors//1233426</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.6084/m9.figshare.1585085.v2</from_key>
+         <key>researchgraph.org/figshare/authors/Richard_Morefield/450149</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.4225/03/562f0aa17ab04</from_key>
+         <key>researchgraph.org/figshare/authors/Graham_Oppy/1233579</key>
+         <label>Author</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/figshare/10.4225/03/562ef546df22c</from_key>
+         <key>researchgraph.org/figshare/authors/Graham_Oppy/1233579</key>
+         <label>Author</label>
+      </relation>
+   </relations>
 </registryObjects>

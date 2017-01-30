@@ -115,6 +115,98 @@
          <publication_year>2015</publication_year>
       </publication>
    </publications>
+   <researchers>
+      <researcher>
+         <key>researchgraph.org/figshare/ANDY_TSENG/1163885</key>
+         <source>figshare.com</source>
+         <local_id>ANDY_TSENG/1163885</local_id>
+         <url>https://figshare.com/authors/ANDY_TSENG/1163885</url>
+         <full_name>ANDY TSENG</full_name>
+         <first_name>ANDY</first_name>
+         <last_name>TSENG</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Gerard_Cotterell/1171773</key>
+         <source>figshare.com</source>
+         <local_id>Gerard_Cotterell/1171773</local_id>
+         <url>https://figshare.com/authors/Gerard_Cotterell/1171773</url>
+         <full_name>Gerard Cotterell</full_name>
+         <first_name>Gerard</first_name>
+         <last_name>Cotterell</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Barbara_Pedley/1227654</key>
+         <source>figshare.com</source>
+         <local_id>Barbara_Pedley/1227654</local_id>
+         <url>https://figshare.com/authors/Barbara_Pedley/1227654</url>
+         <full_name>Barbara Pedley</full_name>
+         <first_name>Barbara</first_name>
+         <last_name>Pedley</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/David_Groenewegen/1176435</key>
+         <source>figshare.com</source>
+         <local_id>David_Groenewegen/1176435</local_id>
+         <url>http://orcid.org/0000-0003-2523-1676</url>
+         <full_name>David Groenewegen</full_name>
+         <first_name>David</first_name>
+         <last_name>Groenewegen</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Jim_Hlavac/1230528</key>
+         <source>figshare.com</source>
+         <local_id>Jim_Hlavac/1230528</local_id>
+         <url>https://figshare.com/authors/Jim_Hlavac/1230528</url>
+         <full_name>Jim Hlavac</full_name>
+         <first_name>Jim</first_name>
+         <last_name>Hlavac</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Daniel_Reidpath/1228911</key>
+         <source>figshare.com</source>
+         <local_id>Daniel_Reidpath/1228911</local_id>
+         <url>https://figshare.com/authors/Daniel_Reidpath/1228911</url>
+         <full_name>Daniel Reidpath</full_name>
+         <first_name>Daniel</first_name>
+         <last_name>Reidpath</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Pascale_Allotey/1228914</key>
+         <source>figshare.com</source>
+         <local_id>Pascale_Allotey/1228914</local_id>
+         <url>https://figshare.com/authors/Pascale_Allotey/1228914</url>
+         <full_name>Pascale Allotey</full_name>
+         <first_name>Pascale</first_name>
+         <last_name>Allotey</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Richard_Morefield/450149</key>
+         <source>figshare.com</source>
+         <local_id>Richard_Morefield/450149</local_id>
+         <url>https://figshare.com/authors/Richard_Morefield/450149</url>
+         <full_name>Richard Morefield</full_name>
+         <first_name>Richard</first_name>
+         <last_name>Morefield</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Graham_Oppy/1233579</key>
+         <source>figshare.com</source>
+         <local_id>Graham_Oppy/1233579</local_id>
+         <url>https://figshare.com/authors/Graham_Oppy/1233579</url>
+         <full_name>Graham Oppy</full_name>
+         <first_name>Graham</first_name>
+         <last_name>Oppy</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/figshare/Graham_Oppy/1233579</key>
+         <source>figshare.com</source>
+         <local_id>Graham_Oppy/1233579</local_id>
+         <url>https://figshare.com/authors/Graham_Oppy/1233579</url>
+         <full_name>Graham Oppy</full_name>
+         <first_name>Graham</first_name>
+         <last_name>Oppy</last_name>
+      </researcher>
+   </researchers>
    <relations>
       <relation>
          <from_key>researchgraph.org/figshare/10.4225/49/552b658019d34</from_key>
@@ -197,150 +289,4 @@
          <label>Author</label>
       </relation>
    </relations>
-   <researchers>
-      <researcher>
-         <key>researchgraph.org/figshare/authors/ANDY_TSENG/1163885</key>
-         <source>figshare.com</source>
-         <local_id>ANDY_TSENG/1163885-vcard</local_id>
-         <url>https://figshare.com/authors/ANDY_TSENG/1163885-vcard</url>
-         <full_name>ANDY TSENG</full_name>
-         <first_name>ANDY</first_name>
-         <last_name>TSENG</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors/Gerard_Cotterell/1171773</key>
-         <source>figshare.com</source>
-         <local_id>Gerard_Cotterell/1171773-vcard</local_id>
-         <url>https://figshare.com/authors/Gerard_Cotterell/1171773-vcard</url>
-         <full_name>Gerard Cotterell</full_name>
-         <first_name>Gerard</first_name>
-         <last_name>Cotterell</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors//1175292</key>
-         <source>figshare.com</source>
-         <local_id>/1175292-vcard</local_id>
-         <url>https://figshare.com/authors//1175292-vcard</url>
-         <full_name>Charles Crothers</full_name>
-         <first_name>Charles</first_name>
-         <last_name>Crothers</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors/Barbara_Pedley/1227654</key>
-         <source>figshare.com</source>
-         <local_id>Barbara_Pedley/1227654-vcard</local_id>
-         <url>https://figshare.com/authors/Barbara_Pedley/1227654-vcard</url>
-         <full_name>Barbara Pedley</full_name>
-         <first_name>Barbara</first_name>
-         <last_name>Pedley</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors//1228608</key>
-         <source>figshare.com</source>
-         <local_id>/1228608-vcard</local_id>
-         <url>https://figshare.com/authors//1228608-vcard</url>
-         <full_name>Alexandre Rademaker</full_name>
-         <first_name>Alexandre</first_name>
-         <last_name>Rademaker</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors//1228605</key>
-         <source>figshare.com</source>
-         <local_id>/1228605-vcard</local_id>
-         <url>https://figshare.com/authors//1228605-vcard</url>
-         <full_name>Daniela Brauner</full_name>
-         <first_name>Daniela</first_name>
-         <last_name>Brauner</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors//1228602</key>
-         <source>figshare.com</source>
-         <local_id>/1228602-vcard</local_id>
-         <url>https://figshare.com/authors//1228602-vcard</url>
-         <full_name>Glauco Roberto Munsberg</full_name>
-         <first_name>Glauco</first_name>
-         <last_name>Roberto Munsberg</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors//1228599</key>
-         <source>figshare.com</source>
-         <local_id>/1228599-vcard</local_id>
-         <url>https://figshare.com/authors//1228599-vcard</url>
-         <full_name>André Guimarães Peil</full_name>
-         <first_name>André</first_name>
-         <last_name>Guimarães Peil</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/0000-0003-2523-1676</key>
-         <source>figshare.com</source>
-         <local_id>http://orcid.org/0000-0003-2523-1676</local_id>
-         <url>http://orcid.org/0000-0003-2523-1676</url>
-         <full_name>David Groenewegen</full_name>
-         <first_name>David</first_name>
-         <last_name>Groenewegen</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors/Jim_Hlavac/1230528</key>
-         <source>figshare.com</source>
-         <local_id>Jim_Hlavac/1230528-vcard</local_id>
-         <url>https://figshare.com/authors/Jim_Hlavac/1230528-vcard</url>
-         <full_name>Jim Hlavac</full_name>
-         <first_name>Jim</first_name>
-         <last_name>Hlavac</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors/Daniel_Reidpath/1228911</key>
-         <source>figshare.com</source>
-         <local_id>Daniel_Reidpath/1228911-vcard</local_id>
-         <url>https://figshare.com/authors/Daniel_Reidpath/1228911-vcard</url>
-         <full_name>Daniel Reidpath</full_name>
-         <first_name>Daniel</first_name>
-         <last_name>Reidpath</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors/Pascale_Allotey/1228914</key>
-         <source>figshare.com</source>
-         <local_id>Pascale_Allotey/1228914-vcard</local_id>
-         <url>https://figshare.com/authors/Pascale_Allotey/1228914-vcard</url>
-         <full_name>Pascale Allotey</full_name>
-         <first_name>Pascale</first_name>
-         <last_name>Allotey</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors//1233426</key>
-         <source>figshare.com</source>
-         <local_id>/1233426-vcard</local_id>
-         <url>https://figshare.com/authors//1233426-vcard</url>
-         <full_name>Mark R Diamond</full_name>
-         <first_name>Mark</first_name>
-         <last_name>R Diamond</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors/Richard_Morefield/450149</key>
-         <source>figshare.com</source>
-         <local_id>Richard_Morefield/450149-vcard</local_id>
-         <url>https://figshare.com/authors/Richard_Morefield/450149-vcard</url>
-         <full_name>Richard Morefield</full_name>
-         <first_name>Richard</first_name>
-         <last_name>Morefield</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors/Graham_Oppy/1233579</key>
-         <source>figshare.com</source>
-         <local_id>Graham_Oppy/1233579-vcard</local_id>
-         <url>https://figshare.com/authors/Graham_Oppy/1233579-vcard</url>
-         <full_name>Graham Oppy</full_name>
-         <first_name>Graham</first_name>
-         <last_name>Oppy</last_name>
-      </researcher>
-      <researcher>
-         <key>researchgraph.org/figshare/authors/Graham_Oppy/1233579</key>
-         <source>figshare.com</source>
-         <local_id>Graham_Oppy/1233579-vcard</local_id>
-         <url>https://figshare.com/authors/Graham_Oppy/1233579-vcard</url>
-         <full_name>Graham Oppy</full_name>
-         <first_name>Graham</first_name>
-         <last_name>Oppy</last_name>
-      </researcher>
-   </researchers>
 </registryObjects>
