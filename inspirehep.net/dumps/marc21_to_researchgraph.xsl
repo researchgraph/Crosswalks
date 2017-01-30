@@ -18,15 +18,22 @@
         <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes
             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
-            <!--<publications>
-                <xsl:apply-templates select="//record" mode="publication"/>
-            </publications>-->
-            <researchers>
-                <xsl:apply-templates select="//record" mode="researcher"/>
-            </researchers>
-            <relations>
-                <xsl:apply-templates select="//record" mode="relation"/>
-            </relations>
+            <xsl:if test=".//datafield[@tag='035'][subfield='INSPIRE']">
+                <publications>
+                    <xsl:apply-templates select="//record" mode="publication"/>
+                </publications>
+            </xsl:if>
+            <xsl:if test=".//datafield[@tag='700'][subfield[@code='x']]
+                                    or .//datafield[@tag='100'][subfield[@code='x']]">
+                <researchers>
+                    <xsl:apply-templates select="//record" mode="researcher"/>
+                </researchers>
+            </xsl:if>
+            <xsl:if test=".//datafield[@tag='700']/subfield[@code='x']">
+                <relations>
+                    <xsl:apply-templates select="//record" mode="relation"/>
+                </relations>
+            </xsl:if>
         </registryObjects>
     </xsl:template>
     
@@ -61,9 +68,9 @@
                     
                     <xsl:for-each select=".//datafield[@tag='700']">
                         <xsl:value-of select="translate(.//subfield[@code='a'],',','.')"/>
-                        <xsl:if test="position() != last()">
-                            <xsl:value-of select="' , '"/>
-                        </xsl:if>
+                            <xsl:if test="position() != last()">
+                                <xsl:value-of select="' , '"/>
+                            </xsl:if>
                     </xsl:for-each>
                 </authors_list>
                 <xsl:if test=".//datafield[@tag='024'][@ind1='7']">
@@ -88,16 +95,16 @@
                                      | ./datafield[@tag='100'][subfield[@code='x']]">
             <researcher>
                 <key>
-                    <xsl:value-of select="concat('researchgraph.org/inspirehep/researcher/', ./subfield[@code='x'])"/>
+                    <xsl:value-of select="concat('researchgraph.org/inspirehep/', ./subfield[@code='x'])"/>
                 </key>
-                <!--<source>
+                <source>
                     <xsl:value-of select="$source"/>
                 </source>
                 <local_id>
-                    <xsl:value-of select=".//subfield[@code='i']"/>
+                    <xsl:value-of select=".//subfield[@code='x']"/>
                 </local_id>
                 <last_updated>
-                    <xsl:value-of select="ancestor::record/header/datestamp"/>
+                    <xsl:value-of select="ancestor::record/controlfield[@tag='005']"/>
                 </last_updated>
                 <full_name>
                     <xsl:value-of select=".//subfield[@code='a']"/>
@@ -112,7 +119,7 @@
                     <orcid>
                         <xsl:value-of select="subfield[@code='j']"/>
                     </orcid>
-                </xsl:if>-->
+                </xsl:if>
             </researcher>
         </xsl:for-each>
     </xsl:template>
@@ -120,14 +127,19 @@
     <!-- =========================================== -->
     <!-- Relation Template                                                                    -->
     <!-- =========================================== -->
-    <!--<xsl:template match="record" mode="relation">
-        <relation>
-            <from_key>
-                <xsl:value-of select="'fromkey'"/>
-            </from_key>
-            <to_uri>
-                <xsl:value-of select="'to_uri'"/>
-            </to_uri>
-        </relation>
-    </xsl:template>-->
+    <xsl:template match="record" mode="relation">
+        <xsl:for-each select="datafield[@tag='700'][subfield[@code='x']]">
+            <relation>
+                <from_key>
+                    <xsl:value-of select="'fromkey'"/>
+                </from_key>
+                <to_uri>
+                    <xsl:value-of select="concat('https://orcid.org/',.//subfield[@code='x'])"/>
+                </to_uri>
+                <label>
+                    <xsl:value-of select="'related_to'"/>
+                </label>
+            </relation>
+        </xsl:for-each>
+    </xsl:template>
 </xsl:stylesheet>

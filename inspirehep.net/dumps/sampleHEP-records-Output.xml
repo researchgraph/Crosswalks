@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <researchers>
+      <researcher>
+         <key>researchgraph.org/inspirehep/1041777</key>
+         <source>inspirehep.net</source>
+         <local_id>1041777</local_id>
+         <last_updated>20140813154923.0</last_updated>
+         <full_name>Ryabov, V.V.</full_name>
+         <first_name>Ryabov</first_name>
+         <last_name>V.V.</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/inspirehep/1019152</key>
+         <source>inspirehep.net</source>
+         <local_id>1019152</local_id>
+         <last_updated>20160404111620.0</last_updated>
+         <full_name>Miller, Roger H.</full_name>
+         <first_name>Miller</first_name>
+         <last_name>Roger H.</last_name>
+      </researcher>
+   </researchers>
+   <relations>
+      <relation>
+         <from_key>fromkey</from_key>
+         <to_uri>https://orcid.org/1041777</to_uri>
+         <label>related_to</label>
+      </relation>
+   </relations>
+</registryObjects>
