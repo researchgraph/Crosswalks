@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"
                  xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
    <researchers>
       <researcher>
@@ -1552,574 +1553,717 @@
       <relation>
          <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</from_key>
          <to_uri>http://theses.flinders.edu.au/public/adt-SFU20100928.150627/index.html</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</from_key>
          <to_uri>http://researchonline.ballarat.edu.au:8080/vital/access/Person/Dahlhaus, Peter</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000017632</from_key>
          <to_uri>http://researchonline.ballarat.edu.au:8080/vital/access/Person/Eime, Rochelle</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/lateralplains.com</from_key>
          <to_uri>http://www.cecc.com.au/cb_pages/files/CH ICT Survey Results Final Nov 2010.pdf</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.ballarat.edu.au/staff/hethompson</from_key>
          <to_uri>http://researchonline.ballarat.edu.au:8080/vital/access/Person/Thompson, Helen</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/FCHARCHAR</from_key>
          <to_uri>http://researchonline.ballarat.edu.au:8080/vital/access/Person/Charchar,%20Fadi</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/FCHARCHAR</from_key>
          <to_uri>http://federation.edu.au/faculties-and-schools/faculty-of-health/school-of-health/staff-directory/staff-directory/charchar,-fadi-prof.</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
          <to_uri>http://reg.bom.gov.au/reguser/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
          <to_uri>http://reg.bom.gov.au/uv/index.shtml</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
          <to_uri>http://reg.bom.gov.au/marine/index.shtml</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
          <to_uri>http://reg.bom.gov.au/aviation/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
          <to_uri>http://reg.bom.gov.au/water/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
          <to_uri>http://reg.bom.gov.au/climate/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
          <to_uri>http://reg.bom.gov.au/watl/index.shtml</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/18</from_key>
          <to_uri>http://works.bepress.com/paul_glasziou/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY13</from_key>
          <to_uri>http://works.bepress.com/trishita_mathew/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/5</from_key>
          <to_uri> http://works.bepress.com/grace_saw1/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/7</from_key>
          <to_uri>http://works.bepress.com/wendy_abbott/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY12</from_key>
          <to_uri>http://works.bepress.com/shelley_kinash/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/22</from_key>
          <to_uri>http://epublications.bond.edu.au/tls/31/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY15</from_key>
          <to_uri>http://works.bepress.com/elizabeth_spencer/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/9</from_key>
          <to_uri>http://works.bepress.com/linda_too/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/10</from_key>
          <to_uri>http://works.bepress.com/bhishna_bajracharya/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/11</from_key>
          <to_uri>http://works.bepress.com/chamkaur_gill/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/20</from_key>
          <to_uri>http://works.bepress.com/phil_stocks/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/17</from_key>
          <to_uri>http://works.bepress.com/elaine_beller/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/4</from_key>
          <to_uri> http://works.bepress.com/marilyn_mitchell/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/19</from_key>
          <to_uri>http://works.bepress.com/patrick_keyzer/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/1</from_key>
          <to_uri>http://works.bepress.com/stephen_holden/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/2</from_key>
          <to_uri>http://works.bepress.com/jeff_brand/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/3</from_key>
          <to_uri>http://works.bepress.com/craig_langston/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-3</from_key>
          <to_uri>http://www.imaging.org.au/People/PerryBartlett</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-3</from_key>
          <to_uri>http://www.qbi.uq.edu.au/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-2</from_key>
          <to_uri>http://www.imaging.org.au/People/DavidReutens</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-7</from_key>
          <to_uri>http://www.florey.edu.au/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-8</from_key>
          <to_uri>http://www.curtin.edu.au/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-8</from_key>
          <to_uri>http://www.neura.edu.au/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-6</from_key>
          <to_uri>http://www.florey.edu.au</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-5</from_key>
          <to_uri>http://www.neura.edu.au/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-4</from_key>
          <to_uri>http://www.anif.org.au/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-4</from_key>
          <to_uri>http://www.cai.uq.edu.au/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps614519</from_key>
          <to_uri>http://ise.canberra.edu.au/mwagner/michael-wagner-publications/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps423738</from_key>
          <to_uri>http://staff.estem-uc.edu.au/roland/publications/</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm353122</from_key>
          <to_uri>http://uninews.cqu.edu.au/UniNews/viewStory.do?story=4884</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm364697</from_key>
          <to_uri>http://www.bmrg.org.au/information.php/2/55/209</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/curtin.edu.au/P0003</from_key>
          <to_uri>http://humanities.curtin.edu.au/about/staff/index.cfm/g.seal</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/curtin.edu.au/P0002</from_key>
          <to_uri>http://cmst.curtin.edu.au/people/penrose.cfm</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://portal.auscope.org/UniOfBallarat</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/040603</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://portal.auscope.org/OGC</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/04</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://portal.auscope.org/NCGRT</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/040603</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/102.100.100/4589</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/190404</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/102.100.100/4591</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/190404</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/102.100.100/4586</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/190404</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/102.100.100/4623</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/190404</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000015158</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0403</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000017769</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0403</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000017632</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1106</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/0000022532</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0806</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.ballarat.edu.au/party/FCHARCHAR</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/11</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bradley.evans@mq.edu.au</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050101</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bradley.evans@mq.edu.au</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050102</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bradley.evans@mq.edu.au</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050206</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/AP28-pisat-data-manager@mq.edu.au</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050101</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/AP28-pisat-data-manager@mq.edu.au</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050102</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/AP28-pisat-data-manager@mq.edu.au</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050206</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/colin.prentice@mq.edu.au</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050101</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/colin.prentice@mq.edu.au</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050102</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/colin.prentice@mq.edu.au</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050206</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/http://www.biogrid.org.au</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/11</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-2</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-15</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-7</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-10</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-12</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-17</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-14</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-3</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-9</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/06</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060109</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/110106</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060104</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-1</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060102</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-16</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-13</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-8</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-4</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-5</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-11</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.bioplatforms.com/party-6</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060408</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/04</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/BOM_Contributor_Page_03</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/079901</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/5</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/080799</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/5</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/089999</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY12</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/130303</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/21</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/130303</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/22</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/130303</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY15</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180105</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/11</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200303</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/20</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/080299</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/4</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200101</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/19</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/180108</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/1</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/150501</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/1</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/150505</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/2</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/200102</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/bond.edu.au/PTY/3</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/120504 </to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-3</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-12</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-13</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/110903</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-1</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060805</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-2</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-7</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-8</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-6</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0601</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-5</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-10</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/1109</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/www.cai.uq.edu.au/party-4</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/110320</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps614519</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/080104</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps614519</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/080106</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps614519</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/08</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps423738</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/080106</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps423738</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/08</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps423738</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/0801</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/canberra.edu.au/Party/Ps423738</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/080104</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm115819</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm353122</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm364697</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm260337</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm397621</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rda647864</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm337168</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060808</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm337168</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm108872</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/070605</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm170823</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm347839</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/050202</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm301672</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/070605</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm330044</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/039901</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/(QCQU)rm330044</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/060205</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/curtin.edu.au/P0002</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/040305</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/ands/curtin.edu.au/G0001</from_key>
          <to_uri>http://purl.org/au-research/vocabulary/anzsrc-for/2008/040305</to_uri>
+         <label>relatedTo</label>
       </relation>
    </relations>
 </registryObjects>
