@@ -6,16 +6,21 @@ import sys,csv,os
 import codecs
 import pdb
 
-codeDir="/usr/local/rdswitchboard/Crosswalks/sydney.edu.au/py"
 
 reload(sys)
 sys.setdefaultencoding('utf8')
+
+codeDir="/usr/local/rdswitchboard/Crosswalks/sydney.edu.au/py"
 
 # Rifs XML data representation of RMA data fields below
 # rifplace is a nested set of rif tag entities expressed as nested lists
 # In each list the first entry is a key, item zero is a text key every second entry is either a list of data
 
-if len(sys.argv) == 4:
+if len(sys.argv) <4:
+   print("Please specify a set name for  CSV input file and output.")
+   print('For example: python createResearcherXML.py sampleResearcher.csv')
+   sys.exit()
+else:
    csvSrcDir=str(sys.argv[1])
    if not os.path.isdir(csvSrcDir):
        print( csvSrcDir+" Not found")
@@ -26,11 +31,20 @@ if len(sys.argv) == 4:
        print( xmlDestDir+" Not found")
        sys.exit()
    idKeyWord=str(sys.argv[3])
-else:
-   print("Please specify a set name for  CSV input file and output.")
-   print('For example: python createResearcherXML.py sampleResearcher.csv')
-   sys.exit()
+   if len(sys.argv) == 5:
+      srcfile=str(sys.argv[4])
+      rawDatIn=csvSrcDir+"/"+srcfile
 
+      outfile=os.path.splitext( os.path.basename(srcfile))[0]+".xml"
+      rifout=xmlDestDir+"/"+ outfile
+   else:
+      rawDatIn=csvSrcDir+"/"+idKeyWord+".csv"
+      rifout=xmlDestDir+"/"+idKeyWord+".xml"
+
+
+# Input Output files
+print "CSV sourced from " + rawDatIn
+print("Output file will be at " + rifout)
 
 includeSchema=codeDir+"/"+idKeyWord+"XMLSchemaInclude.py"
 
@@ -175,11 +189,6 @@ def groupOut(rifdef,idt):
 
 # main Main    -------------------------------------------------------
 
-# Input Output files
-rawDatIn=csvSrcDir+"/"+idKeyWord+".csv"
-rifout=xmlDestDir+"/"+idKeyWord+".xml"
-print "CSV sourced from " + rawDatIn
-print("Output file will be at " + rifout)
 
 fldData={}
 idt=0    # idt is indent

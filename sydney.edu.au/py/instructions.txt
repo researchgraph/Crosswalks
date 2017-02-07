@@ -1,3 +1,7 @@
+CSV to XML Translation 
+
+     Auth:Keir Vaughan Taylor
+
 ERA machine is source of infornation having an ODBC connection to IRMA
 In the morning SQL programs arre run extracting data from IRMA and outputting
 CSV files
@@ -38,3 +42,24 @@ XML syntax and the output XML. For example
      The result is passed through a program to remove unwanted characters and place in a "cleaned" xml file.
 The program will output an xml file called GrantsCleaned.xml
 
+Batch program csv2xmlByKeyword.sh sets the names of input, output data 
+directories and the directory of source executables.
+Each csv files in the csv input directory is converted to XML suitable
+for export to Neo4j database. The converted XMl is placed in an XML destination
+directory and then run though a program to clean up any unicode chararacters
+
+
+Batch program csvSplits2xmlByKeyword.sh does the same job as csv2xmlByKeyword.sh 
+however splits the CSV files into pieces smaller units thus providing file sizes more
+managable for computers with limited memory capacity.
+Each CSV content is prepended with the heading from the original single CSV. Each piece
+is named  with the identifying keyword followed by a four digit numeric then the extension .csv
+
+
+
+
+
+
+
+
+csvSplits2xmlByKeyword.sh

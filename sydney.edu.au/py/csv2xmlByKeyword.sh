@@ -7,7 +7,6 @@
 
 csvDir=/home/dspace/rd_switchboard
 xmlDir=/data/rdswitchboard/xml
-testXmlDir=/data/rdswitchboard/xmlTests
 appdir=/usr/local/rdswitchboard/Crosswalks/sydney.edu.au/py
 
 # Use arguments to determine which CSVs to process
@@ -18,19 +17,12 @@ function csv2xml {
       #ensure just the keyword
       idkeyword=$(basename $csvname .csv)
       xmlfile=${xmlDir}/${idkeyword}.xml
-      testXmlfile=${testXmlDir}/testData_${idkeyword}.xml
       echo convert $idkeyword
 
       ${appdir}/rdswitchcsv2xml.py ${csvDir} $xmlDir $idkeyword
 
-      # Produce test data output reducing the number of CSV lines used to make XML to about ten lines
-      ${appdir}/genTestDataRdswitchcsv2xml.py ${csvDir} $testXmlDir $idkeyword
-
       ${appdir}/clean.py $xmlfile  >    ${xmlDir}/${idkeyword}Cleaned.xml
-      ${appdir}/clean.py $testXmlfile > ${testXmlDir}/testData_${idkeyword}Cleaned.xml
-      rm -f $xmlfile $testXmlfile
       cp ${xmlDir}/${idkeyword}Cleaned.xml /home/ftpuser/xml/
-      cp ${testXmlDir}/testData_${idkeyword}Cleaned.xml /home/ftpuser/xml/
 }
 
 if [ $# -eq 0 ]
@@ -38,6 +30,10 @@ then
    # Process all the CSV
    for csvfile in `ls $csvDir/*.csv`
    do
+      # sed edits in place removeing any a Windows carriage return when 
+      # immediately followed by a newline  and joins the two lines
+      # Usually caused by a carriage return in a fields text
+      sed -i ':a;N;$!ba;s/^M\n/ /g' $csvfile
       csv2xml $csvfile
    done
 else
