@@ -48,12 +48,12 @@
                 <xsl:if test=".//rif:relatedObject">
                     <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relatedObject"/>
                 </xsl:if>
-                <xsl:if test=".//rif:relatedInfo">
+                <!--<xsl:if test=".//rif:relatedInfo">
                     <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relatedInfo"/>
                 </xsl:if>
                 <xsl:if test=".//rif:subject[@type='anzsrc-for']">
                     <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
-                </xsl:if>
+                </xsl:if>-->
             </relations>
         </registryObjects>
     </xsl:template>
@@ -329,7 +329,7 @@
                     <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
                 </from_key>
                 <to_uri>
-                    <xsl:value-of select=".//rif:key"/>
+                    <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:key)"/>
                 </to_uri>
                 <label>
                     <xsl:value-of select=".//rif:relation/@type"/>
@@ -341,7 +341,7 @@
     <!-- =========================================== -->
     <!-- Related Info                                                                    -->
     <!-- =========================================== -->
-    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relatedInfo"> 
+    <!--<xsl:template match="oai:OAI-PMH/*/oai:record" mode="relatedInfo"> 
         <xsl:for-each select=".//rif:relatedInfo">
             <xsl:if test=".//rif:identifier/@type='uri'
                 or .//rif:identifier/@type='doi'
@@ -353,7 +353,7 @@
                         <xsl:value-of select="concat('researchgraph.org/ands/',ancestor::rif:registryObject/rif:key)"/>
                     </from_key>
                     <to_uri>
-                        <xsl:value-of select=".//rif:identifier"/>
+                        <xsl:value-of select="concat('researchgraph.org/ands/',.//rif:identifier)"/>
                     </to_uri>
                     <label>
                         <xsl:value-of select="'relatedTo'"/>
@@ -361,12 +361,12 @@
                 </relation>
             </xsl:if>
         </xsl:for-each>
-    </xsl:template>
+    </xsl:template>-->
     
     <!-- =========================================== -->
     <!--  ANZSRC Relation                                                                    -->
     <!-- =========================================== -->
-    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relation"> 
+   <!-- <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relation"> 
         <xsl:for-each select=".//rif:subject[@type='anzsrc-for']">
             <relation>
                 <from_key>
@@ -380,5 +380,5 @@
                 </label>
             </relation>
         </xsl:for-each>
-    </xsl:template>
+    </xsl:template>-->
 </xsl:stylesheet>
