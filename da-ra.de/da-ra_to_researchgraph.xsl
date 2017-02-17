@@ -32,9 +32,6 @@
                   <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
               </publications>
             </xsl:if>
-            <!--<researchers>
-                <xsl:apply-templates select="."  mode="researcher"/>
-            </researchers>-->
             <xsl:if test=".//oai:relation">
                 <relations>
                     <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
@@ -189,20 +186,13 @@
     </xsl:template>
     <xsl:template match="oai:metadata" mode="relation">
         <xsl:if test=".//oai:relation">
-            <xsl:for-each select=".//oai:relation">
+            <xsl:for-each select=".//oai:relation[oai:identifierType='DOI']">
                 <relation>
                     <from_key>
                         <xsl:value-of select="concat('researchgraph.org/da-ra/',ancestor::oai:metadata//oai:doiProposal)"/>
                     </from_key>
                     <to_uri>
-                        <xsl:choose>
-                            <xsl:when test=".//oai:identifierType='DOI'">
-                                <xsl:value-of select="concat('dx.doi.org/',.//oai:identifier)"/>
-                            </xsl:when>
-                            <xsl:when test=".//oai:identifierType='URL'">
-                                <xsl:value-of select=".//oai:identifier"/>
-                            </xsl:when>
-                        </xsl:choose>
+                        <xsl:value-of select="concat('researchgraph.org/da-ra/',.//oai:identifier)"/>
                     </to_uri>
                     <label>
                         <xsl:value-of select="'relatedTo'"/>

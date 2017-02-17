@@ -158,7 +158,8 @@
 						<xsl:value-of select="concat('researchgraph.org/dryad/',substring-after(..//mods:identifier[not(@*)],'doi:'))"/>
 					</from_key>
 					<to_uri>
-						<xsl:value-of select="concat('researchgraph.org/dryad/',substring-after(.,'doi:'))"/>					</to_uri>
+						<xsl:value-of select="concat('researchgraph.org/dryad/',substring-after(.,'doi:'))"/>	
+					</to_uri>
 					<label>
 						<xsl:value-of select="@type"/>
 					</label>

@@ -534,292 +534,292 @@
    <relations>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.3300</from_key>
-         <to_uri>dx.doi.org/10.4232/1.10247</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.10247</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.2689</from_key>
-         <to_uri>dx.doi.org/10.4232/1.10916</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.10916</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.10726</from_key>
-         <to_uri>dx.doi.org/10.4232/1.4332</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.4332</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.10726</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11463</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11463</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11309</from_key>
-         <to_uri>dx.doi.org/10.4232/1.10342</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.10342</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11309</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11432</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11432</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.10709</from_key>
-         <to_uri>dx.doi.org/10.4232/1.10114</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.10114</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.10709</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11430</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11430</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11411</from_key>
-         <to_uri>dx.doi.org/10.4232/1.10200</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.10200</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11411</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11428</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11428</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.10065</from_key>
-         <to_uri>dx.doi.org/10.4232/1.10066</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.10066</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.10197</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11431</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11431</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11058</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11433</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11433</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.4460</from_key>
-         <to_uri>dx.doi.org/10.4232/1.10790</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.10790</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.10023</from_key>
-         <to_uri>dx.doi.org/10.4232/1.10185</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.10185</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.10023</from_key>
-         <to_uri>dx.doi.org/10.4232/1.10059</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.10059</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.4438</from_key>
-         <to_uri>dx.doi.org/10.4232/1.10791</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.10791</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.3993</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11305</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11305</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.3388</from_key>
-         <to_uri>dx.doi.org/10.4232/1.10938</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.10938</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.3762</from_key>
-         <to_uri>dx.doi.org/10.4232/1.10977</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.10977</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11170</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3776</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3776</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11170</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11172</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3777</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3777</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11172</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11171</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3778</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3778</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11171</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11192</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3781</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3781</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11192</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11186</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3782</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3782</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11186</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11184</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3783</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3783</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11184</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11163</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3784</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3784</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11163</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11167</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3785</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3785</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11167</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11193</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3786</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3786</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11193</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11169</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3787</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3787</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11169</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11175</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3788</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3788</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11175</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11177</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3789</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3789</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11177</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11176</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3790</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3790</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11176</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11168</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3791</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3791</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11168</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11179</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3792</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3792</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11179</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11180</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3793</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3793</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11180</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11185</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3794</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3794</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11185</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11166</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3795</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3795</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11166</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11190</from_key>
-         <to_uri>dx.doi.org/10.4232/1.3796</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.3796</to_uri>
          <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/da-ra/10.4232/1.11190</from_key>
-         <to_uri>dx.doi.org/10.4232/1.11307</to_uri>
+         <to_uri>researchgraph.org/da-ra/10.4232/1.11307</to_uri>
          <label>relatedTo</label>
       </relation>
    </relations>

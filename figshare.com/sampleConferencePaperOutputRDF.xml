@@ -210,83 +210,83 @@
    <relations>
       <relation>
          <from_key>researchgraph.org/figshare/10.4225/49/552b658019d34</from_key>
-         <to_uri>https://figshare.com/authors/ANDY_TSENG/1163885</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare/ANDY_TSENG/1163885</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.17608/k6.auckland.2000550.v1</from_key>
-         <to_uri>https://figshare.com/authors/Gerard_Cotterell/1171773</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare/Gerard_Cotterell/1171773</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.17608/k6.auckland.2000550.v1</from_key>
-         <to_uri>https://figshare.com/authors//1175292</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare//1175292</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.5072/fk2.figshare.2001966.v1</from_key>
-         <to_uri>https://figshare.com/authors/Barbara_Pedley/1227654</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare/Barbara_Pedley/1227654</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.6084/m9.figshare.2002128.v2</from_key>
-         <to_uri>https://figshare.com/authors//1228608</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare//1228608</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.6084/m9.figshare.2002128.v2</from_key>
-         <to_uri>https://figshare.com/authors//1228605</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare//1228605</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.6084/m9.figshare.2002128.v2</from_key>
-         <to_uri>https://figshare.com/authors//1228602</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare//1228602</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.6084/m9.figshare.2002128.v2</from_key>
-         <to_uri>https://figshare.com/authors//1228599</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare//1228599</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.4225/03/55d57c84ce4e0</from_key>
-         <to_uri>http://orcid.org/0000-0003-2523-1676</to_uri>
-         <label>Author_ORCID</label>
+         <to_uri>researchgraph.org/figshare/David_Groenewegen/1176435</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.4225/03/5605c7a3f0652</from_key>
-         <to_uri>https://figshare.com/authors/Jim_Hlavac/1230528</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare/Jim_Hlavac/1230528</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.4225/03/56239bd13c5e0</from_key>
-         <to_uri>https://figshare.com/authors/Daniel_Reidpath/1228911</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare/Daniel_Reidpath/1228911</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.4225/03/56239bd13c5e0</from_key>
-         <to_uri>https://figshare.com/authors/Pascale_Allotey/1228914</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare/Pascale_Allotey/1228914</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.4225/03/56239bd13c5e0</from_key>
-         <to_uri>https://figshare.com/authors//1233426</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare//1233426</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.6084/m9.figshare.1585085.v2</from_key>
-         <to_uri>https://figshare.com/authors/Richard_Morefield/450149</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare/Richard_Morefield/450149</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.4225/03/562f0aa17ab04</from_key>
-         <to_uri>https://figshare.com/authors/Graham_Oppy/1233579</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare/Graham_Oppy/1233579</to_uri>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/figshare/10.4225/03/562ef546df22c</from_key>
-         <to_uri>https://figshare.com/authors/Graham_Oppy/1233579</to_uri>
-         <label>Author</label>
+         <to_uri>researchgraph.org/figshare/Graham_Oppy/1233579</to_uri>
+         <label>relatedTo</label>
       </relation>
    </relations>
 </registryObjects>

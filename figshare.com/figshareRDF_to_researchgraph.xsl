@@ -179,7 +179,7 @@
     </xsl:template>
     
     <!-- =========================================== -->
-    <!-- Relation Template                           -->
+    <!-- Relation Template                                                                    -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relation">
         <xsl:apply-templates select=".//oai:metadata" mode="relation"/>
@@ -190,31 +190,12 @@
                 <from_key>
                     <xsl:value-of select="concat('researchgraph.org/figshare/',ancestor::oai:metadata//bibo:doi)"/>
                 </from_key>
-                <xsl:choose>
-                    <xsl:when test=".//vivo:orcidId">
-                        <to_uri>
-                            <xsl:value-of select=".//vivo:orcidId/@rdf:resource"/>
-                        </to_uri>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <to_uri>
-                            <xsl:value-of select="substring-before(.//vcard:Individual/@rdf:about,'-vcard')"/>
-                        </to_uri>
-                    </xsl:otherwise>
-                </xsl:choose>
-                
-                <xsl:choose>
-                    <xsl:when test=".//vivo:orcidId">
-                        <label>
-                            <xsl:value-of select="'Author_ORCID'"/>
-                        </label>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <label>
-                            <xsl:value-of select="'Author'"/>
-                        </label>
-                    </xsl:otherwise>
-                </xsl:choose>
+                <to_uri>
+                    <xsl:value-of select="concat('researchgraph.org/figshare/',substring-before(substring-after(.//vcard:Individual/@rdf:about,'authors/'),'-vcard'))"/>
+                </to_uri>
+                <label>
+                    <xsl:value-of select="'relatedTo'"/>
+                </label>
             </relation>
         </xsl:for-each>
     </xsl:template>
