@@ -2,6 +2,8 @@
 Crosswalk of the main fields from the **HEP-records.xml** file available at
 http://inspirehep.net/dumps/inspire-dump.html
 
+Supporting Doc: https://twiki.cern.ch/twiki/bin/view/Inspire/DevelopmentRecordMarkup#Literature_MARC
+
 
 ##Publication
 
