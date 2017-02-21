@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet xmlns="http://researchgraph.org/schema/v2.0/xml/nodes" 
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:fn="http://www.w3.org/2005/xpath-functions" 
     exclude-result-prefixes="xs xsl fn"
@@ -18,11 +19,10 @@
         <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes
             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
-            <xsl:if test=".//datafield[@tag='035'][subfield='INSPIRE']">
-                <publications>
-                    <xsl:apply-templates select="//record" mode="publication"/>
-                </publications>
-            </xsl:if>
+       
+            <publications>
+                <xsl:apply-templates select="//record" mode="publication"/>
+            </publications>
             <xsl:if test=".//datafield[@tag='700'][subfield[@code='x']]
                                     or .//datafield[@tag='100'][subfield[@code='x']]">
                 <researchers>
@@ -41,8 +41,7 @@
     <!-- Publication Template                                                               -->
     <!-- =========================================== -->
     <xsl:template match="record" mode="publication">
-        <xsl:variable name="local_id" select=".//datafield[@tag='035'][subfield='Inspire']/subfield[@code='a']"/>
-        <xsl:if test=".//datafield[@tag='035'][subfield='INSPIRE']">
+        <xsl:variable name="local_id" select=".//datafield[@tag='035'][subfield[@code='a']][1]/subfield[@code='a']"/>
             <publication>
                 <key>
                     <xsl:value-of select="concat('researchgraph.org/inspirehep/',$local_id)"/>
@@ -54,7 +53,7 @@
                     <xsl:value-of select="$local_id"/>
                 </local_id>
                 <last_updated>
-                    <xsl:value-of select="ancestor::record/header/datestamp"/>
+                    <xsl:value-of select=".//controlfield[@tag='005']"/>
                 </last_updated>
                 <url>
                     <xsl:value-of select="concat('https://inspirehep.net/record/',$local_id)"/>
@@ -84,7 +83,6 @@
                     </publication_year>
                 </xsl:if>
             </publication>
-        </xsl:if>
     </xsl:template>
     
     <!-- =========================================== -->
@@ -128,13 +126,14 @@
     <!-- Relation Template                                                                    -->
     <!-- =========================================== -->
     <xsl:template match="record" mode="relation">
-        <xsl:for-each select="datafield[@tag='700'][subfield[@code='x']]">
+        <xsl:for-each select="datafield[@tag='100'][subfield[@code='x']]
+                                                | datafield[@tag='700'][subfield[@code='x']]">
             <relation>
                 <from_key>
-                    <xsl:value-of select="'fromkey'"/>
+                    <xsl:value-of select="concat('researchgraph.org/inspirehep/',ancestor::record//datafield[@tag='035'][subfield[@code='a']][1]/subfield[@code='a'])"/>
                 </from_key>
                 <to_uri>
-                    <xsl:value-of select="concat('https://orcid.org/',.//subfield[@code='x'])"/>
+                    <xsl:value-of select="concat('researchgraph.org/inspirehep/',.//subfield[@code='x'])"/>
                 </to_uri>
                 <label>
                     <xsl:value-of select="'related_to'"/>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <publications>
+      <publication>
+         <key>researchgraph.org/inspirehep/Penner:1974ek</key>
+         <source>inspirehep.net</source>
+         <local_id>Penner:1974ek</local_id>
+         <last_updated>20131120123708.0</last_updated>
+         <url>https://inspirehep.net/record/Penner:1974ek</url>
+         <title>Majorana Gauge Theory and V-A</title>
+         <authors_list>Penner. Richard L. , </authors_list>
+      </publication>
+      <publication>
+         <key>researchgraph.org/inspirehep/Becker:1974em</key>
+         <source>inspirehep.net</source>
+         <local_id>Becker:1974em</local_id>
+         <last_updated>20160616121513.0</last_updated>
+         <url>https://inspirehep.net/record/Becker:1974em</url>
+         <title>Relativistic Theory of Nucleons in Laser Fields</title>
+         <authors_list>Becker. W. , Mitter. H.</authors_list>
+         <doi>10.1088/0305-4470/7/11/006</doi>
+      </publication>
+      <publication>
+         <key>researchgraph.org/inspirehep/Becker:1974en</key>
+         <source>inspirehep.net</source>
+         <local_id>Becker:1974en</local_id>
+         <last_updated>20160909172444.0</last_updated>
+         <url>https://inspirehep.net/record/Becker:1974en</url>
+         <title>Vacuum polarization in laser fields</title>
+         <authors_list>Becker. W. , Mitter. H.</authors_list>
+         <doi>10.1088/0305-4470/8/10/017</doi>
+         <publication_year>1975-10</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/inspirehep/Landau:1974eq</key>
+         <source>inspirehep.net</source>
+         <local_id>Landau:1974eq</local_id>
+         <last_updated>20160406113155.0</last_updated>
+         <url>https://inspirehep.net/record/Landau:1974eq</url>
+         <title>The Role of Off-Shell Scattering in the Pion Optical Potential</title>
+         <authors_list>Landau. R.H. , Tabakin. F.</authors_list>
+         <doi>10.1016/0375-9474(74)90508-9</doi>
+         <publication_year>1974</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/inspirehep/Caro:1974es</key>
+         <source>inspirehep.net</source>
+         <local_id>Caro:1974es</local_id>
+         <last_updated>20160407101341.0</last_updated>
+         <url>https://inspirehep.net/record/Caro:1974es</url>
+         <title>A Test of the Orfanidis-Rittenberg Statistical Model Using anti-p n Data in Flight</title>
+         <authors_list>Caro. D.E. , Gold. E. , Klein. A.G. , Opat. G.I. , Wignall. J.W.G.</authors_list>
+         <doi>10.1016/0550-3213(75)90643-4</doi>
+         <publication_year>1975</publication_year>
+      </publication>
+   </publications>
+   <researchers>
+      <researcher>
+         <key>researchgraph.org/inspirehep/1016987</key>
+         <source>inspirehep.net</source>
+         <local_id>1016987</local_id>
+         <last_updated>20160616121513.0</last_updated>
+         <full_name>Becker, W.</full_name>
+         <first_name>Becker</first_name>
+         <last_name>W.</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/inspirehep/1049430</key>
+         <source>inspirehep.net</source>
+         <local_id>1049430</local_id>
+         <last_updated>20160616121513.0</last_updated>
+         <full_name>Mitter, H.</full_name>
+         <first_name>Mitter</first_name>
+         <last_name>H.</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/inspirehep/1016987</key>
+         <source>inspirehep.net</source>
+         <local_id>1016987</local_id>
+         <last_updated>20160909172444.0</last_updated>
+         <full_name>Becker, W.</full_name>
+         <first_name>Becker</first_name>
+         <last_name>W.</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/inspirehep/1049430</key>
+         <source>inspirehep.net</source>
+         <local_id>1049430</local_id>
+         <last_updated>20160909172444.0</last_updated>
+         <full_name>Mitter, H.</full_name>
+         <first_name>Mitter</first_name>
+         <last_name>H.</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/inspirehep/1001170</key>
+         <source>inspirehep.net</source>
+         <local_id>1001170</local_id>
+         <last_updated>20160406113155.0</last_updated>
+         <full_name>Landau, R.H.</full_name>
+         <first_name>Landau</first_name>
+         <last_name>R.H.</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/inspirehep/986904</key>
+         <source>inspirehep.net</source>
+         <local_id>986904</local_id>
+         <last_updated>20160406113155.0</last_updated>
+         <full_name>Tabakin, F.</full_name>
+         <first_name>Tabakin</first_name>
+         <last_name>F.</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/inspirehep/994830</key>
+         <source>inspirehep.net</source>
+         <local_id>994830</local_id>
+         <last_updated>20160407101341.0</last_updated>
+         <full_name>Opat, G.I.</full_name>
+         <first_name>Opat</first_name>
+         <last_name>G.I.</last_name>
+      </researcher>
+   </researchers>
+   <relations>
+      <relation>
+         <from_key>researchgraph.org/inspirehep/Becker:1974em</from_key>
+         <to_uri>researchgraph.org/inspirehep/1016987</to_uri>
+         <label>related_to</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/inspirehep/Becker:1974em</from_key>
+         <to_uri>researchgraph.org/inspirehep/1049430</to_uri>
+         <label>related_to</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/inspirehep/Becker:1974en</from_key>
+         <to_uri>researchgraph.org/inspirehep/1016987</to_uri>
+         <label>related_to</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/inspirehep/Becker:1974en</from_key>
+         <to_uri>researchgraph.org/inspirehep/1049430</to_uri>
+         <label>related_to</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/inspirehep/Landau:1974eq</from_key>
+         <to_uri>researchgraph.org/inspirehep/1001170</to_uri>
+         <label>related_to</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/inspirehep/Landau:1974eq</from_key>
+         <to_uri>researchgraph.org/inspirehep/986904</to_uri>
+         <label>related_to</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/inspirehep/Caro:1974es</from_key>
+         <to_uri>researchgraph.org/inspirehep/994830</to_uri>
+         <label>related_to</label>
+      </relation>
+   </relations>
+</registryObjects>
