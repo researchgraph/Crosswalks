@@ -11,7 +11,7 @@
          <url>https://inspirehep.net/record/Wong:1961af</url>
          <title>Isoclinic N planes in Euclidean 2N space, Clifford parallels in elliptic
         (2N-1) space, and the Hurwitz matrix equations</title>
-         <authors_list>Wong. Yung-Chow , </authors_list>
+         <authors_list>Wong. Yung-Chow</authors_list>
          <doi>10.1090/memo/0041</doi>
       </publication>
       <publication>
@@ -39,7 +39,7 @@
          <last_updated>20160404111619.0</last_updated>
          <url>https://inspirehep.net/record/Muray:1963bp</url>
          <title>IRRADIATION OF A CERIUM - CONTAINING SILICATE GLASS</title>
-         <authors_list>Muray. J.J. , </authors_list>
+         <authors_list>Muray. J.J.</authors_list>
       </publication>
       <publication>
          <key>researchgraph.org/inspirehep/Mozley:1963bw</key>
@@ -49,7 +49,7 @@
          <url>https://inspirehep.net/record/Mozley:1963bw</url>
          <title>PROPOSAL FOR A LARGE SOLID ANGLE PHOTON AND ELECTRON INTERACTION
         DETECTOR</title>
-         <authors_list>Mozley. Robert F. , </authors_list>
+         <authors_list>Mozley. Robert F.</authors_list>
       </publication>
       <publication>
          <key>researchgraph.org/inspirehep/Vakhrushin:1977bz</key>
@@ -67,25 +67,7 @@
          <last_updated>20160404111620.0</last_updated>
          <url>https://inspirehep.net/record/Miller:1963cb</url>
          <title>PROPOSED BUNCH MONITOR</title>
-         <authors_list>Miller. Roger H. , </authors_list>
-      </publication>
-      <publication>
-         <key>researchgraph.org/inspirehep/</key>
-         <source>inspirehep.net</source>
-         <local_id/>
-         <last_updated>20131213072949.0</last_updated>
-         <url>https://inspirehep.net/record/</url>
-         <title>withdrawn or canceled</title>
-         <authors_list> , </authors_list>
-      </publication>
-      <publication>
-         <key>researchgraph.org/inspirehep/</key>
-         <source>inspirehep.net</source>
-         <local_id/>
-         <last_updated>20131213072949.0</last_updated>
-         <url>https://inspirehep.net/record/</url>
-         <title>withdrawn or canceled</title>
-         <authors_list> , </authors_list>
+         <authors_list>Miller. Roger H.</authors_list>
       </publication>
       <publication>
          <key>researchgraph.org/inspirehep/Helm:1963ci</key>
@@ -95,7 +77,7 @@
          <url>https://inspirehep.net/record/Helm:1963ci</url>
          <title>CALCULATIONS ON CYLINDRICAL METAL VACUUM CHAMBERS IN PULSED MAGNETIC
         FIELDS</title>
-         <authors_list>Helm. Richard H. , </authors_list>
+         <authors_list>Helm. Richard H.</authors_list>
       </publication>
    </publications>
    <researchers>
@@ -122,12 +104,12 @@
       <relation>
          <from_key>researchgraph.org/inspirehep/Vakhrushin:1977bz</from_key>
          <to_uri>researchgraph.org/inspirehep/1041777</to_uri>
-         <label>related_to</label>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/inspirehep/Miller:1963cb</from_key>
          <to_uri>researchgraph.org/inspirehep/1019152</to_uri>
-         <label>related_to</label>
+         <label>relatedTo</label>
       </relation>
    </relations>
 </registryObjects>

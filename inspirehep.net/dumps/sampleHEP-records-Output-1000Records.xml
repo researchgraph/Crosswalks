@@ -10,7 +10,7 @@
          <last_updated>20131120123708.0</last_updated>
          <url>https://inspirehep.net/record/Penner:1974ek</url>
          <title>Majorana Gauge Theory and V-A</title>
-         <authors_list>Penner. Richard L. , </authors_list>
+         <authors_list>Penner. Richard L.</authors_list>
       </publication>
       <publication>
          <key>researchgraph.org/inspirehep/Becker:1974em</key>
@@ -125,37 +125,37 @@
       <relation>
          <from_key>researchgraph.org/inspirehep/Becker:1974em</from_key>
          <to_uri>researchgraph.org/inspirehep/1016987</to_uri>
-         <label>related_to</label>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/inspirehep/Becker:1974em</from_key>
          <to_uri>researchgraph.org/inspirehep/1049430</to_uri>
-         <label>related_to</label>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/inspirehep/Becker:1974en</from_key>
          <to_uri>researchgraph.org/inspirehep/1016987</to_uri>
-         <label>related_to</label>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/inspirehep/Becker:1974en</from_key>
          <to_uri>researchgraph.org/inspirehep/1049430</to_uri>
-         <label>related_to</label>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/inspirehep/Landau:1974eq</from_key>
          <to_uri>researchgraph.org/inspirehep/1001170</to_uri>
-         <label>related_to</label>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/inspirehep/Landau:1974eq</from_key>
          <to_uri>researchgraph.org/inspirehep/986904</to_uri>
-         <label>related_to</label>
+         <label>relatedTo</label>
       </relation>
       <relation>
          <from_key>researchgraph.org/inspirehep/Caro:1974es</from_key>
          <to_uri>researchgraph.org/inspirehep/994830</to_uri>
-         <label>related_to</label>
+         <label>relatedTo</label>
       </relation>
    </relations>
 </registryObjects>

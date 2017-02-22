@@ -42,6 +42,7 @@
     <!-- =========================================== -->
     <xsl:template match="record" mode="publication">
         <xsl:variable name="local_id" select=".//datafield[@tag='035'][subfield[@code='a']][1]/subfield[@code='a']"/>
+        <xsl:if test=".//datafield[@tag='035']">
             <publication>
                 <key>
                     <xsl:value-of select="concat('researchgraph.org/inspirehep/',$local_id)"/>
@@ -63,13 +64,15 @@
                 </title>
                 <authors_list>
                     <xsl:value-of select="translate(.//datafield[@tag='100']/subfield[@code='a'],',','.')"/>
-                    <xsl:value-of select=" ' , '"/>
+                    <xsl:if test=".//datafield[@tag='700']">
+                        <xsl:value-of select=" ' , '"/>
+                    </xsl:if>
                     
                     <xsl:for-each select=".//datafield[@tag='700']">
                         <xsl:value-of select="translate(.//subfield[@code='a'],',','.')"/>
-                            <xsl:if test="position() != last()">
-                                <xsl:value-of select="' , '"/>
-                            </xsl:if>
+                        <xsl:if test="position() != last()">
+                            <xsl:value-of select="' , '"/>
+                        </xsl:if>
                     </xsl:for-each>
                 </authors_list>
                 <xsl:if test=".//datafield[@tag='024'][@ind1='7']">
@@ -83,6 +86,7 @@
                     </publication_year>
                 </xsl:if>
             </publication>
+        </xsl:if>
     </xsl:template>
     
     <!-- =========================================== -->
@@ -128,17 +132,32 @@
     <xsl:template match="record" mode="relation">
         <xsl:for-each select="datafield[@tag='100'][subfield[@code='x']]
                                                 | datafield[@tag='700'][subfield[@code='x']]">
-            <relation>
-                <from_key>
-                    <xsl:value-of select="concat('researchgraph.org/inspirehep/',ancestor::record//datafield[@tag='035'][subfield[@code='a']][1]/subfield[@code='a'])"/>
-                </from_key>
-                <to_uri>
-                    <xsl:value-of select="concat('researchgraph.org/inspirehep/',.//subfield[@code='x'])"/>
-                </to_uri>
-                <label>
-                    <xsl:value-of select="'related_to'"/>
-                </label>
-            </relation>
+            <xsl:choose>
+                <xsl:when test="contains(.//subfield[@code='j'],'ORCID')">
+                    <from_key>
+                        <xsl:value-of select="concat('researchgraph.org/inspirehep/',.//subfield[@code='x'])"/>
+                    </from_key>
+                    <to_uri>
+                        <xsl:value-of select="concat('https://orcid.org/',substring-after(.//subfield[@code='j'],'ORCID:'))"/>
+                    </to_uri>
+                    <label>
+                        <xsl:value-of select="'relatedTo'"/>
+                    </label>
+                </xsl:when>
+                <xsl:otherwise>
+                    <relation>
+                        <from_key>
+                            <xsl:value-of select="concat('researchgraph.org/inspirehep/',ancestor::record//datafield[@tag='035'][subfield[@code='a']][1]/subfield[@code='a'])"/>
+                        </from_key>
+                        <to_uri>
+                            <xsl:value-of select="concat('researchgraph.org/inspirehep/',.//subfield[@code='x'])"/>
+                        </to_uri>
+                        <label>
+                            <xsl:value-of select="'relatedTo'"/>
+                        </label>
+                    </relation>
+                </xsl:otherwise>
+            </xsl:choose>
         </xsl:for-each>
     </xsl:template>
 </xsl:stylesheet>
