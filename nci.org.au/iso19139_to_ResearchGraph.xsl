@@ -26,15 +26,15 @@
             <datasets>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
             </datasets>
- <!--       <publications>
-                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
-            </publications>
             <researchers>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="researcher"/>
             </researchers>
-            <relations>
+            <publications>
+                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
+            </publications>           
+           <relations>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
-            </relations>-->
+            </relations>
         </registryObjects>
     </xsl:template>
     
@@ -57,7 +57,7 @@
         </xsl:param>
         <dataset>
             <key>
-                <xsl:value-of select="concat('researchgraph.org/nci/',$local_id)"/>
+                <xsl:value-of select="concat('researchgraph.org/',$local_id)"/>
             </key>
             <source>
                 <xsl:value-of select="$source"/>
@@ -69,7 +69,7 @@
                 <xsl:value-of select="$date-stamp"/>
             </last_updated>
             <url>
-                <xsl:value-of select="concat('pid.nci.org.au/',.//oai.identifier)"/>
+                <xsl:value-of select="concat('pid.nci.org.au/',$local_id)"/>
             </url>
             <title>
                 <xsl:value-of select=".//*/gmd:title/gco:CharacterString"/>
@@ -84,4 +84,104 @@
             </publication_year>
         </dataset>
     </xsl:template>
+
+
+<!-- =========================================== -->
+<!-- Researcher Template                            -->
+<!-- =========================================== -->
+<xsl:template match="oai:OAI-PMH/*/oai:record" mode="researcher">
+    <xsl:apply-templates select=".//oai:metadata" mode="researcher"/>
+</xsl:template>
+ 
+    <xsl:template match="oai:metadata" mode="researcher">
+        <researcher>
+            <xsl:if test="(.//*/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:name/gco:CharacterString='ORCID')">
+            <key>
+                <xsl:value-of select=".//*/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+            </key>
+            </xsl:if>
+            <source>
+                <xsl:value-of select="$source"/>
+            </source>
+            <local_id>
+                <xsl:value-of select=".//*/gmd:contact/gmd:CI_ResponsibleParty/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+            </local_id>
+            <last_updated>
+                <xsl:value-of select=".//oai:datestamp"/>
+            </last_updated>
+            <url>
+                <xsl:value-of select=".//*/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+            </url>
+            <full_name>
+                <xsl:value-of select="//*/gmd:contact/gmd:CI_ResponsibleParty/gmd:indivualName/gmd:CI_CharacterString"/>
+            </full_name>
+            <orcid>
+                <xsl:value-of select=".//*/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+            </orcid>
+        </researcher>
+    
+    </xsl:template>
+
+<!-- =========================================== -->
+<!-- Publication Template                            -->
+<!-- =========================================== -->
+<xsl:template match="oai:OAI-PMH/*/oai:record" mode="publication">
+    <xsl:apply-templates select=".//oai:metadata" mode="publication"/>
+</xsl:template>
+
+<xsl:template match="oai:metadata" mode="publication">
+    <publication>
+        <xsl:if test="(.//*/gmd:online/gmd:CI_OnlineResource/gmd:description/gco:CharacterString='Paper describing data')">
+            <key>
+                <xsl:value-of select=".//*/gmd:online/gmd:CI_OnlineResource/gmd:linkage/gmd:linkage"/>
+        </key>
+        </xsl:if>
+        <source>
+            <xsl:value-of select="$source"/>
+        </source>
+        <local_id>
+            <xsl:value-of select=".//*/gmd:online/gmd:CI_OnlineResource/gmd:linkage/gmd:linkage"/>
+        </local_id>
+        <last_updated>
+            <xsl:value-of select=".//oai:datestamp"/>
+        </last_updated>
+        <url>
+            <xsl:value-of select=".//*/gmd:online/gmd:CI_OnlineResource/gmd:linkage/gmd:linkage"/>
+        </url>
+        <title>
+            <xsl:value-of select="//*/gmd:online/gmd:CI_OnlineResource/gmd:name"/>
+        </title>
+        <authors_list>
+            <xsl:value-of select="//*/gmd:online/gmd:CI_OnlineResource/gmd:name"/>
+        </authors_list>
+        <doi>
+             <xsl:value-of select="//*/gmd:online/gmd:CI_OnlineResource/gmd:linkage"/>
+        </doi>   
+    </publication>
+  
+</xsl:template>
+    
+    <!-- =========================================== -->
+    <!-- Relation Template                            -->
+    <!-- =========================================== -->
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relation">
+        <xsl:apply-templates select=".//oai:metadata" mode="relation"/>
+    </xsl:template>
+    
+    <xsl:template match="oai:metadata" mode="relation">
+        <xsl:param name="local_id">
+                <xsl:value-of select=".//*/gmd:fileIdentifier/gco:CharacterString"/>
+            </xsl:param>
+        <relation>       
+            <from_key>
+                <xsl:value-of select="concat('researchgraph.org/nci/',$local_id)"/>
+            </from_key>
+            <xsl:if test="(.//*/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:name/gco:CharacterString='ORCID')">
+                <to_url>
+                    <xsl:value-of select=".//*/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+                </to_url>
+            </xsl:if>
+        </relation>        
+    </xsl:template>
+    
 </xsl:stylesheet>
