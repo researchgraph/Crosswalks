@@ -57,7 +57,7 @@
         </xsl:param>
         <dataset>
             <key>
-                <xsl:value-of select="concat('researchgraph.org/',$local_id)"/>
+                <xsl:value-of select="concat('researchgraph.org/nci/',$local_id)"/>
             </key>
             <source>
                 <xsl:value-of select="$source"/>
