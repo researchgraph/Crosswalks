@@ -27,7 +27,7 @@
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
             </datasets>
             -->
-            <xsl:if test=".//gmd:MD_Metadata/gmd:contact/gmd:CI_ResponsibleParty/gmd:role/gmd:CI_RoleCode[@codeListValue='Point of Contact']">
+            <xsl:if test=".//gmd:MD_Metadata/gmd:contact/gmd:CI_ResponsibleParty/gmd:role/gmd:CI_RoleCode[@codeListValue='Point of Contact'][1]">
                 <researchers>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="researcher"/>
                 </researchers>
