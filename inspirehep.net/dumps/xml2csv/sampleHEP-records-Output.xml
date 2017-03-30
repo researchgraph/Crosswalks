@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <publications>
+      <publication>
+         <key>researchgraph.org/inspirehep/Wong:1961af</key>
+         <source>inspirehep.net</source>
+         <local_id>Wong:1961af</local_id>
+         <last_updated>20161209113154.0</last_updated>
+         <url>https://inspirehep.net/record/Wong:1961af</url>
+         <title>Isoclinic N planes in Euclidean 2N space, Clifford parallels in elliptic
+        (2N-1) space, and the Hurwitz matrix equations</title>
+         <authors_list>Wong. Yung-Chow</authors_list>
+         <doi>10.1090/memo/0041</doi>
+      </publication>
+      <publication>
+         <key>researchgraph.org/inspirehep/Breymayer:1963bh</key>
+         <source>inspirehep.net</source>
+         <local_id>Breymayer:1963bh</local_id>
+         <last_updated>20160404111619.0</last_updated>
+         <url>https://inspirehep.net/record/Breymayer:1963bh</url>
+         <title>SYSTEM INTERCONNECTION AND PROTECTION OF THE MODULATOR</title>
+         <authors_list>Breymayer. K.E. , Mallory. Kenneth B.</authors_list>
+      </publication>
+      <publication>
+         <key>researchgraph.org/inspirehep/Johnston:1977saa</key>
+         <source>inspirehep.net</source>
+         <local_id>Johnston:1977saa</local_id>
+         <last_updated>20140813111316.0</last_updated>
+         <url>https://inspirehep.net/record/Johnston:1977saa</url>
+         <title>A target beam monitor using secondary electron emission</title>
+         <authors_list>Johnston. Lawrence II. , Murray. Joseph J. , Gearhart. Roger A. , Hauser. Todd , Klein. Paul R.</authors_list>
+      </publication>
+      <publication>
+         <key>researchgraph.org/inspirehep/Muray:1963bp</key>
+         <source>inspirehep.net</source>
+         <local_id>Muray:1963bp</local_id>
+         <last_updated>20160404111619.0</last_updated>
+         <url>https://inspirehep.net/record/Muray:1963bp</url>
+         <title>IRRADIATION OF A CERIUM - CONTAINING SILICATE GLASS</title>
+         <authors_list>Muray. J.J.</authors_list>
+      </publication>
+      <publication>
+         <key>researchgraph.org/inspirehep/Mozley:1963bw</key>
+         <source>inspirehep.net</source>
+         <local_id>Mozley:1963bw</local_id>
+         <last_updated>20160404111620.0</last_updated>
+         <url>https://inspirehep.net/record/Mozley:1963bw</url>
+         <title>PROPOSAL FOR A LARGE SOLID ANGLE PHOTON AND ELECTRON INTERACTION
+        DETECTOR</title>
+         <authors_list>Mozley. Robert F.</authors_list>
+      </publication>
+      <publication>
+         <key>researchgraph.org/inspirehep/Vakhrushin:1977bz</key>
+         <source>inspirehep.net</source>
+         <local_id>Vakhrushin:1977bz</local_id>
+         <last_updated>20140813154923.0</last_updated>
+         <url>https://inspirehep.net/record/Vakhrushin:1977bz</url>
+         <title>Study of electron Induced Desorption from the Surface of Metals</title>
+         <authors_list>Vakhrushin. Yu.P. , Ryabov. V.V.</authors_list>
+      </publication>
+      <publication>
+         <key>researchgraph.org/inspirehep/Miller:1963cb</key>
+         <source>inspirehep.net</source>
+         <local_id>Miller:1963cb</local_id>
+         <last_updated>20160404111620.0</last_updated>
+         <url>https://inspirehep.net/record/Miller:1963cb</url>
+         <title>PROPOSED BUNCH MONITOR</title>
+         <authors_list>Miller. Roger H.</authors_list>
+      </publication>
+      <publication>
+         <key>researchgraph.org/inspirehep/Helm:1963ci</key>
+         <source>inspirehep.net</source>
+         <local_id>Helm:1963ci</local_id>
+         <last_updated>20160404111620.0</last_updated>
+         <url>https://inspirehep.net/record/Helm:1963ci</url>
+         <title>CALCULATIONS ON CYLINDRICAL METAL VACUUM CHAMBERS IN PULSED MAGNETIC
+        FIELDS</title>
+         <authors_list>Helm. Richard H.</authors_list>
+      </publication>
+   </publications>
+   <researchers>
+      <researcher>
+         <key>researchgraph.org/inspirehep/1041777</key>
+         <source>inspirehep.net</source>
+         <local_id>1041777</local_id>
+         <last_updated>20140813154923.0</last_updated>
+         <full_name>Ryabov, V.V.</full_name>
+         <first_name>Ryabov</first_name>
+         <last_name>V.V.</last_name>
+      </researcher>
+      <researcher>
+         <key>researchgraph.org/inspirehep/1019152</key>
+         <source>inspirehep.net</source>
+         <local_id>1019152</local_id>
+         <last_updated>20160404111620.0</last_updated>
+         <full_name>Miller, Roger H.</full_name>
+         <first_name>Miller</first_name>
+         <last_name>Roger H.</last_name>
+      </researcher>
+   </researchers>
+   <relations>
+      <relation>
+         <from_key>researchgraph.org/inspirehep/Vakhrushin:1977bz</from_key>
+         <to_uri>researchgraph.org/inspirehep/1041777</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchgraph.org/inspirehep/Miller:1963cb</from_key>
+         <to_uri>researchgraph.org/inspirehep/1019152</to_uri>
+         <label>relatedTo</label>
+      </relation>
+   </relations>
+</registryObjects>
