@@ -1,0 +1,3 @@
+load csv with headers from "file:///home/seiya/Desktop/Crosswalks/inspirehep.net/dumps/xml2csv/converted_versions/publication/HEP-records1051.csv" as line
+merge (n:Publication{key:line.key})
+on create set n.source = line.source, n.local_id = line.local_id, n.last_updated = line.last_updated, n.url = line.url, n.title = line.title, n.authors_list = line.authors_list, n.doi = line.doi, n.publication_year = line.publication_year;
