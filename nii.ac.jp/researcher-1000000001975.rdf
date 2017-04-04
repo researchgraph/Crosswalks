@@ -1,0 +1,54 @@
+<?xml version="1.0" ?><rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:kaken="http://kaken.nii.ac.jp/ns#"
+	xmlns:rns="http://rns.nii.ac.jp/ns#"
+	xml:base="http://rns.nii.ac.jp/ns"
+>
+	<rns:Researcher rdf:about="http://rns.nii.ac.jp/nr/1000000001975">
+		<dcterms:abstract>
+			<rns:Document dcterms:title="Researcher Name Resolver - 奥野洋明 (1000000001975)">
+				<dcterms:hasFormat rdf:resource="http://rns.nii.ac.jp/d/nr/1000000001975.rdf"/>
+			</rns:Document>
+		</dcterms:abstract>
+
+		<foaf:lastName xml:lang="ja">奥野</foaf:lastName>
+		<foaf:firstName xml:lang="ja">洋明</foaf:firstName>
+		<rns:lastNameYomi xml:lang="ja"></rns:lastNameYomi>
+		<rns:firstNameYomi xml:lang="ja"></rns:firstNameYomi>
+		<foaf:lastName xml:lang="en"></foaf:lastName>
+		<foaf:firstName xml:lang="en"></foaf:firstName>
+
+	<rns:institution xml:lang="ja">通産省工業技術院</rns:institution>
+		<rns:department xml:lang="ja">化学技術研究所・天然有機・化学部</rns:department>
+		<rns:title xml:lang="ja">第一課長</rns:title>
+		<rns:researcherNumber>1000000001975</rns:researcherNumber>
+		<kaken:researcherNumber>00001975</kaken:researcherNumber>
+
+		<!-- Direct links to researcher pages of scholarly databases (KAKEN, CiNii, researchmap, J-Global, researchmap, ResearcherID, ORCID, campus directories, etc.) -->
+	<owl:sameAs rdf:resource="https://kaken.nii.ac.jp/search/?qm=00001975" />
+	<owl:sameAs rdf:resource="http://ci.nii.ac.jp/nrid/1000000001975" />
+	<owl:sameAs rdf:resource="http://jairo.nii.ac.jp/nr/1000000001975" />
+	<!-- Search links -->
+		<rdfs:seeAlso rdf:resource="http://www.google.com/search?q=%E5%A5%A5%E9%87%8E%E6%B4%8B%E6%98%8E+%E9%80%9A%E7%94%A3%E7%9C%81%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E9%99%A2" rdfs:label="Google Search (by Name and Affiliation in Japanese)" />
+		<rdfs:seeAlso rdf:resource="http://ci.nii.ac.jp/opensearch/search?author=%2F%E5%A5%A5%E9%87%8E%E6%B4%8B%E6%98%8E%2F" rdfs:label="CiNii Search (by Name in Japanese)"/>
+		<rdfs:seeAlso rdf:resource="http://jairo.nii.ac.jp/opensearch/search?q=%E5%A5%A5%E9%87%8E%E6%B4%8B%E6%98%8E" rdfs:label="JAIRO Search (by Name in Japanese)"/>
+		<rdfs:seeAlso rdf:resource="http://webcatplus-equal.nii.ac.jp/libportal/EqualFromForm?txt_author=%E5%A5%A5%E9%87%8E%E6%B4%8B%E6%98%8E" rdfs:label="Webcat Plus Search (by Name in Japanese)"/>
+		<rdfs:seeAlso rdf:resource="http://researchmap.jp/?active_center=snsview_view_main_search_basicitem&amp;item_id=4&amp;lang=japanese&amp;content=%E5%A5%A5%E9%87%8E%E6%B4%8B%E6%98%8E" rdfs:label="researchmap (by Name in Japanese)" />
+		<rdfs:seeAlso rdf:resource="http://jglobal.jst.go.jp/search.php?t=1&amp;q=%E5%A5%A5%E9%87%8E%E6%B4%8B%E6%98%8E" rdfs:label="J-Global (by Name in Japanese)" />
+		<rdfs:seeAlso rdf:resource="http://scholar.google.com/scholar?q=author:%E5%A5%A5%E9%87%8E%E6%B4%8B%E6%98%8E" rdfs:label="Google Scholar Search (by Name in Japanese)" />
+		<rdfs:seeAlso rdf:resource="http://www.google.com/search?q=%E5%A5%A5%E9%87%8E%E6%B4%8B%E6%98%8E" rdfs:label="Google Search (by Name in Japanese)" />
+		<rdfs:seeAlso rdf:resource="https://orcid.org/orcid-search/quick-search?searchQuery=%E5%A5%A5%E9%87%8E%20%E6%B4%8B%E6%98%8E" rdfs:label="ORCID Search (by Name in Japanese)" />
+		<rdfs:seeAlso rdf:resource="http://ci.nii.ac.jp/opensearch/search?author=%2F+%2F" rdfs:label="CiNii Search (by Name in English)"/>
+		<rdfs:seeAlso rdf:resource="http://jairo.nii.ac.jp/opensearch/search?q=%20" rdfs:label="JAIRO Search (by Name in English)"/>
+		<rdfs:seeAlso rdf:resource="http://webcatplus-equal.nii.ac.jp/libportal/EqualFromForm?txt_author=+" rdfs:label="Webcat Plus Search (by Name in English)" />
+		<rdfs:seeAlso rdf:resource="http://researchmap.jp/?active_center=snsview_view_main_search_basicitem&amp;item_id=4&amp;lang=english&amp;content=%20" rdfs:label="researchmap (by Name in English)" />
+		<rdfs:seeAlso rdf:resource="http://jglobal.jst.go.jp/search.php?t=1&amp;q=+" rdfs:label="J-Global (by Name in English)" />
+		<rdfs:seeAlso rdf:resource="http://scholar.google.com/scholar?q=author%3A%22+%22" rdfs:label="Google Scholar Search (by Name in English)" />
+		<rdfs:seeAlso rdf:resource="http://www.google.com/search?q=+" rdfs:label="Google Search (by Name in English)" />
+		<rdfs:seeAlso rdf:resource="https://orcid.org/orcid-search/quick-search?searchQuery=%20" rdfs:label="ORCID Search (by Name in English)" />
+	</rns:Researcher>
+</rdf:RDF>

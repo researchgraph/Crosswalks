@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:con="http://www.w3.org/2000/10/swap/pim/contact#" xmlns:cinii="http://ci.nii.ac.jp/ns/1.0/" xmlns:bibo="http://purl.org/ontology/bibo/">
+<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/10001613107#article">
+<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+<foaf:isPrimaryTopicOf rdf:resource="http://ci.nii.ac.jp/naid/10001613107.rdf" />
+<dc:title>3次元形状計測の最近の動向</dc:title>
+<dc:creator>井口 征士</dc:creator>
+<dc:publisher>計測自動制御学会</dc:publisher>
+<prism:publicationName>計測と制御 = Journal of the Society of Instrument and Control Engineers</prism:publicationName>
+<prism:issn>04534662</prism:issn>
+<prism:volume>34</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>429</prism:startingPage>
+<prism:endingPage>434</prism:endingPage>
+<prism:publicationDate>1995-06-10</prism:publicationDate>
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/3%E6%AC%A1%E5%85%83%E8%A8%88%E6%B8%AC" dc:title="3次元計測" />
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%80" dc:title="レンジファインダ" />
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%82%B9%E3%83%86%E3%83%AC%E3%82%AA" dc:title="アクティブステレオ" />
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/%E9%A3%9B%E8%A1%8C%E6%99%82%E9%96%93%E8%A8%88%E6%B8%AC" dc:title="飛行時間計測" />
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/%E8%B7%9D%E9%9B%A2%E7%94%BB%E5%83%8F" dc:title="距離画像" />
+<dc:date>1995-06-10</dc:date>
+<cinii:naid>10001613107</cinii:naid>
+<cinii:ncid>AN00072406</cinii:ncid>
+<cinii:ndljpi>3607899</cinii:ndljpi>
+<dc:language>JPN</dc:language>
+<dc:source>CJP</dc:source>
+<dc:source>CJPref</dc:source>
+<dc:source>NDL</dc:source>
+<cinii:fulltext>0</cinii:fulltext>
+<cinii:references>26</cinii:references>
+<cinii:citedBy>8</cinii:citedBy>
+<dcterms:isPartOf rdf:resource="http://ci.nii.ac.jp/ncid/AN00072406#entity" dc:title="計測と制御 = Journal of the Society of Instrument and Control Engineers" />
+<rdfs:seeAlso rdf:resource="http://id.ndl.go.jp/bib/3607899" dc:title="NDL-OPAC" />
+</rdf:Description>
+<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/10001613107#article" xml:lang="en">
+<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/3D+measurement" dc:title="3D measurement" />
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/range+finder" dc:title="range finder" />
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/active+stereo" dc:title="active stereo" />
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/time-of-flight" dc:title="time-of-flight" />
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/range+image" dc:title="range image" />
+</rdf:Description>
+<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/10001613107#article">
+<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/1000009838021#me">
+<foaf:name>井口 征士</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/%E5%A4%A7%E9%98%AA%E5%A4%A7%E5%AD%A6%E5%9F%BA%E7%A4%8E%E5%B7%A5%E5%AD%A6%E9%83%A8">
+<foaf:name>大阪大学基礎工学部</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+</rdf:Description>
+</rdf:RDF>

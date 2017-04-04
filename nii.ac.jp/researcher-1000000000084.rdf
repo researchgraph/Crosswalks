@@ -1,0 +1,54 @@
+<?xml version="1.0" ?><rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:kaken="http://kaken.nii.ac.jp/ns#"
+	xmlns:rns="http://rns.nii.ac.jp/ns#"
+	xml:base="http://rns.nii.ac.jp/ns"
+>
+	<rns:Researcher rdf:about="http://rns.nii.ac.jp/nr/1000000000084">
+		<dcterms:abstract>
+			<rns:Document dcterms:title="Researcher Name Resolver - Kato, Yukitsugu | 加藤幸次 (1000000000084)">
+				<dcterms:hasFormat rdf:resource="http://rns.nii.ac.jp/d/nr/1000000000084.rdf"/>
+			</rns:Document>
+		</dcterms:abstract>
+
+		<foaf:lastName xml:lang="ja">加藤</foaf:lastName>
+		<foaf:firstName xml:lang="ja">幸次</foaf:firstName>
+		<rns:lastNameYomi xml:lang="ja">カトウ</rns:lastNameYomi>
+		<rns:firstNameYomi xml:lang="ja">ユキツグ</rns:firstNameYomi>
+		<foaf:lastName xml:lang="en">Kato</foaf:lastName>
+		<foaf:firstName xml:lang="en">Yukitsugu</foaf:firstName>
+
+	<rns:institution xml:lang="ja">上智大学</rns:institution>
+		<rns:department xml:lang="ja">文学部</rns:department>
+		<rns:title xml:lang="ja">教授</rns:title>
+		<rns:researcherNumber>1000000000084</rns:researcherNumber>
+		<kaken:researcherNumber>00000084</kaken:researcherNumber>
+
+		<!-- Direct links to researcher pages of scholarly databases (KAKEN, CiNii, researchmap, J-Global, researchmap, ResearcherID, ORCID, campus directories, etc.) -->
+	<owl:sameAs rdf:resource="https://kaken.nii.ac.jp/search/?qm=00000084" />
+	<owl:sameAs rdf:resource="http://ci.nii.ac.jp/nrid/1000000000084" />
+	<owl:sameAs rdf:resource="http://jairo.nii.ac.jp/nr/1000000000084" />
+	<!-- Search links -->
+		<rdfs:seeAlso rdf:resource="http://www.google.com/search?q=%E5%8A%A0%E8%97%A4%E5%B9%B8%E6%AC%A1+%E4%B8%8A%E6%99%BA%E5%A4%A7%E5%AD%A6" rdfs:label="Google Search (by Name and Affiliation in Japanese)" />
+		<rdfs:seeAlso rdf:resource="http://ci.nii.ac.jp/opensearch/search?author=%2F%E5%8A%A0%E8%97%A4%E5%B9%B8%E6%AC%A1%2F" rdfs:label="CiNii Search (by Name in Japanese)"/>
+		<rdfs:seeAlso rdf:resource="http://jairo.nii.ac.jp/opensearch/search?q=%E5%8A%A0%E8%97%A4%E5%B9%B8%E6%AC%A1" rdfs:label="JAIRO Search (by Name in Japanese)"/>
+		<rdfs:seeAlso rdf:resource="http://webcatplus-equal.nii.ac.jp/libportal/EqualFromForm?txt_author=%E5%8A%A0%E8%97%A4%E5%B9%B8%E6%AC%A1" rdfs:label="Webcat Plus Search (by Name in Japanese)"/>
+		<rdfs:seeAlso rdf:resource="http://researchmap.jp/?active_center=snsview_view_main_search_basicitem&amp;item_id=4&amp;lang=japanese&amp;content=%E5%8A%A0%E8%97%A4%E5%B9%B8%E6%AC%A1" rdfs:label="researchmap (by Name in Japanese)" />
+		<rdfs:seeAlso rdf:resource="http://jglobal.jst.go.jp/search.php?t=1&amp;q=%E5%8A%A0%E8%97%A4%E5%B9%B8%E6%AC%A1" rdfs:label="J-Global (by Name in Japanese)" />
+		<rdfs:seeAlso rdf:resource="http://scholar.google.com/scholar?q=author:%E5%8A%A0%E8%97%A4%E5%B9%B8%E6%AC%A1" rdfs:label="Google Scholar Search (by Name in Japanese)" />
+		<rdfs:seeAlso rdf:resource="http://www.google.com/search?q=%E5%8A%A0%E8%97%A4%E5%B9%B8%E6%AC%A1" rdfs:label="Google Search (by Name in Japanese)" />
+		<rdfs:seeAlso rdf:resource="https://orcid.org/orcid-search/quick-search?searchQuery=%E5%8A%A0%E8%97%A4%20%E5%B9%B8%E6%AC%A1" rdfs:label="ORCID Search (by Name in Japanese)" />
+		<rdfs:seeAlso rdf:resource="http://ci.nii.ac.jp/opensearch/search?author=%2FKato+Yukitsugu%2F" rdfs:label="CiNii Search (by Name in English)"/>
+		<rdfs:seeAlso rdf:resource="http://jairo.nii.ac.jp/opensearch/search?q=Kato%20Yukitsugu" rdfs:label="JAIRO Search (by Name in English)"/>
+		<rdfs:seeAlso rdf:resource="http://webcatplus-equal.nii.ac.jp/libportal/EqualFromForm?txt_author=Kato+Yukitsugu" rdfs:label="Webcat Plus Search (by Name in English)" />
+		<rdfs:seeAlso rdf:resource="http://researchmap.jp/?active_center=snsview_view_main_search_basicitem&amp;item_id=4&amp;lang=english&amp;content=Kato%20Yukitsugu" rdfs:label="researchmap (by Name in English)" />
+		<rdfs:seeAlso rdf:resource="http://jglobal.jst.go.jp/search.php?t=1&amp;q=Kato+Yukitsugu" rdfs:label="J-Global (by Name in English)" />
+		<rdfs:seeAlso rdf:resource="http://scholar.google.com/scholar?q=author%3A%22Kato+Yukitsugu%22" rdfs:label="Google Scholar Search (by Name in English)" />
+		<rdfs:seeAlso rdf:resource="http://www.google.com/search?q=Kato+Yukitsugu" rdfs:label="Google Search (by Name in English)" />
+		<rdfs:seeAlso rdf:resource="https://orcid.org/orcid-search/quick-search?searchQuery=Kato%20Yukitsugu" rdfs:label="ORCID Search (by Name in English)" />
+	</rns:Researcher>
+</rdf:RDF>
