@@ -1,0 +1,8 @@
+from_key,to_uri,label
+"researchgraph.org/inspirehep/Becker:1974em","researchgraph.org/inspirehep/1016987","relatedTo"
+"researchgraph.org/inspirehep/Becker:1974em","researchgraph.org/inspirehep/1049430","relatedTo"
+"researchgraph.org/inspirehep/Becker:1974en","researchgraph.org/inspirehep/1016987","relatedTo"
+"researchgraph.org/inspirehep/Becker:1974en","researchgraph.org/inspirehep/1049430","relatedTo"
+"researchgraph.org/inspirehep/Landau:1974eq","researchgraph.org/inspirehep/1001170","relatedTo"
+"researchgraph.org/inspirehep/Landau:1974eq","researchgraph.org/inspirehep/986904","relatedTo"
+"researchgraph.org/inspirehep/Caro:1974es","researchgraph.org/inspirehep/994830","relatedTo"
