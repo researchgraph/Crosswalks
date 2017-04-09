@@ -1,32 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:con="http://www.w3.org/2000/10/swap/pim/contact#" xmlns:cinii="http://ci.nii.ac.jp/ns/1.0/" xmlns:bibo="http://purl.org/ontology/bibo/">
-<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/10000000002#article">
-<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
-<foaf:isPrimaryTopicOf rdf:resource="http://ci.nii.ac.jp/naid/10000000002.rdf" />
-<dc:title>Active vision</dc:title>
-<dc:creator>ALOIMONOS J. Y.</dc:creator>
-<prism:publicationName>Proc. 1st Int. Conf. on Computer Vision</prism:publicationName>
-<prism:startingPage>35</prism:startingPage>
-<prism:endingPage>54</prism:endingPage>
-<prism:publicationDate>1987</prism:publicationDate>
-<dc:date>1987</dc:date>
-<cinii:naid>10000000002</cinii:naid>
-<dc:source>CJPref</dc:source>
-<cinii:fulltext>0</cinii:fulltext>
-<cinii:citedBy>3</cinii:citedBy>
-</rdf:Description>
-<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/10000000002#article" xml:lang="en">
-<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
-<dc:title>Active vision</dc:title>
-<dc:creator>ALOIMONOS J. Y.</dc:creator>
-<prism:publicationName>Proc. 1st Int. Conf. on Computer Vision</prism:publicationName>
-</rdf:Description>
-<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/10000000002#article">
-<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
-<foaf:maker>
-<foaf:Person>
-<foaf:name xml:lang="en">ALOIMONOS J. Y.</foaf:name>
-</foaf:Person>
-</foaf:maker>
-</rdf:Description>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+    xmlns:con="http://www.w3.org/2000/10/swap/pim/contact#"
+    xmlns:cinii="http://ci.nii.ac.jp/ns/1.0/" xmlns:bibo="http://purl.org/ontology/bibo/">
+    <rdf:Description rdf:about="http://ci.nii.ac.jp/naid/10000000002#article">
+        <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+        <foaf:isPrimaryTopicOf rdf:resource="http://ci.nii.ac.jp/naid/10000000002.rdf"/>
+        <dc:title>Active vision</dc:title>
+        <dc:creator>ALOIMONOS J. Y.</dc:creator>
+        <prism:publicationName>Proc. 1st Int. Conf. on Computer Vision</prism:publicationName>
+        <prism:startingPage>35</prism:startingPage>
+        <prism:endingPage>54</prism:endingPage>
+        <prism:publicationDate>1987</prism:publicationDate>
+        <dc:date>1987</dc:date>
+        <cinii:naid>10000000002</cinii:naid>
+        <dc:source>CJPref</dc:source>
+        <cinii:fulltext>0</cinii:fulltext>
+        <cinii:citedBy>3</cinii:citedBy>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ci.nii.ac.jp/naid/10000000002#article" xml:lang="en">
+        <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+        <dc:title>Active vision</dc:title>
+        <dc:creator>ALOIMONOS J. Y.</dc:creator>
+        <prism:publicationName>Proc. 1st Int. Conf. on Computer Vision</prism:publicationName>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ci.nii.ac.jp/naid/10000000002#article">
+        <rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+        <foaf:maker>
+            <foaf:Person>
+                <foaf:name xml:lang="en">ALOIMONOS J. Y.</foaf:name>
+            </foaf:Person>
+        </foaf:maker>
+    </rdf:Description>
 </rdf:RDF>
