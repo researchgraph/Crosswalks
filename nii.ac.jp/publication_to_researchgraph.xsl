@@ -54,14 +54,14 @@
             <title>
                 <xsl:value-of select=".//dc:title"/>
             </title>
-            <author>
+            <authors_list>
                 <xsl:for-each select=".//rdf:Description[1]/dc:creator">
                     <xsl:value-of select="."/>
                     <xsl:if test="position()!=last()">
                         <xsl:text> , </xsl:text>
                     </xsl:if>
                 </xsl:for-each>
-            </author>
+            </authors_list>
             <publication_year>
                 <xsl:value-of select=".//prism:publicationDate"/>
             </publication_year>
