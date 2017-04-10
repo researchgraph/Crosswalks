@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <publications>
+      <publication>
+         <key>researchgraph.org/nii/10001613107</key>
+         <source>ci.nii.ac.jp</source>
+         <local_id>10001613107</local_id>
+         <url>http://ci.nii.ac.jp/naid/10001613107#article</url>
+         <title>3次元形状計測の最近の動向</title>
+         <author>井口 征士</author>
+         <publication_year>1995-06-10</publication_year>
+      </publication>
+   </publications>
+</registryObjects>
