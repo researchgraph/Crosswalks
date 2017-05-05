@@ -18,7 +18,7 @@ if not os.path.exists('converted_versions/relation'):
 
 for input_file in os.listdir('.'):
 	if input_file.endswith(".xml"):
-
+		print("Converting " + input_file)
 		tree = et.parse(input_file)
 		root = tree.getroot()
 		if root.findall('{http://researchgraph.org/schema/v2.0/xml/nodes}datasets'): 
