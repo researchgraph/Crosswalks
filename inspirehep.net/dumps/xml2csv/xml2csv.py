@@ -15,10 +15,17 @@ if not os.path.exists('converted_versions/researcher'):
 	os.makedirs('converted_versions/researcher')
 if not os.path.exists('converted_versions/relation'):
 	os.makedirs('converted_versions/relation')
-
+	
+numberOfFiles = 0
+numberOfFilesProcessed = 0
+for xmlfile in os.listdir('.'):
+	if xmlfile.endswith(".xml"):
+		numberOfFiles += 1
+	
 for input_file in os.listdir('.'):
 	if input_file.endswith(".xml"):
-		print("Converting " + input_file)
+		numberOfFilesProcessed += 1
+		print("Converting " + input_file + " " + str(numberOfFilesProcessed) + " files out of " + str(numberOfFiles) + " completed")
 		tree = et.parse(input_file)
 		root = tree.getroot()
 		if root.findall('{http://researchgraph.org/schema/v2.0/xml/nodes}datasets'): 
