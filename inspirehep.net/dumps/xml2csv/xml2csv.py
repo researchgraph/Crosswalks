@@ -36,21 +36,21 @@ for input_file in os.listdir('.'):
 		tree = et.parse(input_file)
 		root = tree.getroot()
 		if root.findall('{http://researchgraph.org/schema/v2.0/xml/nodes}datasets'): 
-			converter = xml2csv(input_file,"./converted_versions/dataset/" + input_file.split('.xml')[0] + ".csv",noheader=NoHeader)
-			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}dataset")
+			converter = xml2csv(input_file,"./converted_versions/dataset/" + input_file.split('.xml')[0] + ".csv")
+			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}dataset",noheader=NoHeader)
 
 		if root.findall('{http://researchgraph.org/schema/v2.0/xml/nodes}grants'): 
-			converter = xml2csv(input_file,"./converted_versions/grant/" + input_file.split('.xml')[0] + ".csv",noheader=NoHeader)
-			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}grant")
+			converter = xml2csv(input_file,"./converted_versions/grant/" + input_file.split('.xml')[0] + ".csv")
+			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}grant",noheader=NoHeader)
 
 		if root.findall('{http://researchgraph.org/schema/v2.0/xml/nodes}publications'): 
-			converter = xml2csv(input_file,"./converted_versions/publication/" + input_file.split('.xml')[0] + ".csv",noheader=NoHeader)
-			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}publication")
+			converter = xml2csv(input_file,"./converted_versions/publication/" + input_file.split('.xml')[0] + ".csv")
+			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}publication",noheader=NoHeader)
 
 		if root.findall('{http://researchgraph.org/schema/v2.0/xml/nodes}researchers'): 	
-			converter = xml2csv(input_file,"./converted_versions/researcher/" + input_file.split('.xml')[0] + ".csv",noheader=NoHeader)
-			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}researcher")
+			converter = xml2csv(input_file,"./converted_versions/researcher/" + input_file.split('.xml')[0] + ".csv")
+			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}researcher",noheader=NoHeader)
 
 		if root.findall('{http://researchgraph.org/schema/v2.0/xml/nodes}relations'): 
-			converter = xml2csv(input_file,"./converted_versions/relation/" + input_file.split('.xml')[0] + ".csv",noheader=NoHeader)
-			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}relation")
+			converter = xml2csv(input_file,"./converted_versions/relation/" + input_file.split('.xml')[0] + ".csv")
+			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}relation",noheader=NoHeader)
