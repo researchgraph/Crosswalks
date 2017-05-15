@@ -45,12 +45,12 @@ for input_file in os.listdir('.'):
 
 		if root.findall('{http://researchgraph.org/schema/v2.0/xml/nodes}publications'): 
 			converter = xml2csv(input_file,"./converted_versions/publication/" + input_file.split('.xml')[0] + ".csv")
-			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}publication",noheader=NoHeader)
+			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}publication",noheader=NoHeader,recordType="publication")
 
 		if root.findall('{http://researchgraph.org/schema/v2.0/xml/nodes}researchers'): 	
 			converter = xml2csv(input_file,"./converted_versions/researcher/" + input_file.split('.xml')[0] + ".csv")
-			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}researcher",noheader=NoHeader)
+			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}researcher",noheader=NoHeader,recordType="researcher")
 
 		if root.findall('{http://researchgraph.org/schema/v2.0/xml/nodes}relations'): 
 			converter = xml2csv(input_file,"./converted_versions/relation/" + input_file.split('.xml')[0] + ".csv")
-			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}relation",noheader=NoHeader)
+			converter.convert(tag="{http://researchgraph.org/schema/v2.0/xml/nodes}relation",noheader=NoHeader,recordType="relation")
