@@ -23,19 +23,13 @@
         <registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes
             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
-            <!--<datasets>
+            <datasets>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
             </datasets>
-            -->
-            <xsl:if test=".//gmd:MD_Metadata/gmd:contact/gmd:CI_ResponsibleParty/gmd:role/gmd:CI_RoleCode[@codeListValue='Point of Contact'][1]">
-                <researchers>
+            
+            <researchers>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="researcher"/>
-                </researchers>
-            </xsl:if>
-           
-<!--                or .//gmd:identification/gmd:MD_DataIdentification/gmd:citation/gmd:citedResponsibleParty/gmd:CI_ResponsibleParty/gmd:role[@codeListValue=' ']-->
-                
-                
+            </researchers>
             <!--<publications>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
             </publications>           
@@ -48,7 +42,7 @@
     <!-- =========================================== -->
     <!-- Dataset Template                            -->
     <!-- =========================================== -->
-    <!--<xsl:template match="oai:OAI-PMH/*/oai:record" mode="dataset">
+    <xsl:template match="oai:OAI-PMH/*/oai:record" mode="dataset">
         <xsl:param name="date-stamp">
             <xsl:value-of select=".//oai:datestamp"/>
         </xsl:param>
@@ -90,7 +84,7 @@
                 <xsl:value-of select="year-from-date(.//*/gmd:CI_Date/gmd:date/gco:Date)"/>
             </publication_year>
         </dataset>
-    </xsl:template>-->
+    </xsl:template>
 
 
 <!-- =========================================== -->
@@ -107,36 +101,61 @@
     
     <xsl:template match="oai:metadata" mode="researcher">
         <xsl:param name="date-stamp"/>
-        <xsl:for-each select=".//gmd:MD_Metadata/gmd:contact/gmd:CI_ResponsibleParty/gmd:role/gmd:CI_RoleCode[@codeListValue='Point of Contact']">
+        <xsl:for-each select=".//gmd:MD_Metadata">
+            <xsl:for-each select="gmd:contact/gmd:CI_ResponsibleParty/gmd:individualName">
+                <researcher>
+                    <key>
+                        <xsl:value-of select="../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+                    </key>
+                    <source>
+                        <xsl:value-of select="$source"/>
+                    </source>
+                    <local_id>
+                        <xsl:value-of select="../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+                    </local_id>
+                    <last_updated>
+                        <xsl:value-of select="$date-stamp"/>
+                    </last_updated>
+                    <url>
+                        <xsl:value-of select="../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+                    </url>
+                    <full_name> 
+                        <xsl:value-of select="normalize-space(.)"/>
+                    </full_name>
+                    <xsl:if test="(../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:name/gco:CharacterString='ORCID')">
+                        <orcid>
+                            <xsl:value-of select="../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+                        </orcid>
+                    </xsl:if>
+                </researcher>
+            </xsl:for-each>
             
-        <researcher>
-            <!--<xsl:if test="(.//*/gmd:MD_Metadata/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:name/gco:CharacterString='ORCID')">
-            <key>
-                <xsl:value-of select=".//*/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
-            </key>
-            </xsl:if>
-            <source
-                <xsl:value-of select="$source"/>
-            </source>
-            <local_id>
-                <xsl:value-of select=".//*/gmd:contact/gmd:CI_ResponsibleParty/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
-            </local_id>
-            <last_updated>
-                <xsl:value-of select="$date-stamp"/>
-            </last_updated>-->
-            <url>
-                <xsl:value-of select=".//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:citedResponsibleParty/gmd:CI_ResponsibleParty/gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
-            </url>
-            <full_name>
-                <xsl:value-of select="//gmd:MD_Metadata/gmd:contact/gmd:CI_ResponsibleParty/gmd:individualName/gco:CharacterString"/>
-            </full_name>
-            <!--<orcid>
-                <xsl:value-of select=".//*/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
-            </orcid>-->
-        </researcher>
+            <xsl:for-each select="gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:citedResponsibleParty/gmd:CI_ResponsibleParty/gmd:individualName">
+       		<researcher>
+       		    <key>
+       		        <xsl:value-of select="../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+       		    </key>
+       		    <source>
+       		        <xsl:value-of select="$source"/>
+       		    </source>
+       		    <local_id>
+       		        <xsl:value-of select="../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+       		    </local_id>
+       		    <last_updated>
+       		        <xsl:value-of select="$date-stamp"/>
+       		    </last_updated>
+       		    <url>
+       		        <xsl:value-of select="../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+       		    </url>
+        		<full_name> 
+                	<xsl:value-of select="normalize-space(.)"/>
+        		</full_name>
+      		</researcher>
+       	    </xsl:for-each>
         </xsl:for-each>
     </xsl:template>
-
+    
+   
 <!-- =========================================== -->
 <!-- Publication Template                            -->
 <!-- =========================================== -->
