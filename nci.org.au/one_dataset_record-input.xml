@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2017-03-22T11:49:23Z</responseDate>
+  <request metadataPrefix="iso19139" set="datasets" verb="ListRecords">http://localhost:8080/geonetwork/srv/en/oaipmh</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>f3796_1023_1524_2726</identifier>
+        <datestamp>2016-11-14T16:43:28Z</datestamp>
+        <setSpec>datasets</setSpec>
+      </header>
+      <metadata>        
+        <gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gss="http://www.isotc211.org/2005/gss" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:geonet="http://www.fao.org/geonetwork" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:schemalocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd http://www.isotc211.org/2005/srv http://schemas.opengis.net/iso/19139/20060504/srv/srv.xsd">
+  <gmd:fileIdentifier>
+    <gco:CharacterString>f3796_1023_1524_2726</gco:CharacterString>
+  </gmd:fileIdentifier>
+  <gmd:parentIdentifier>
+    <gco:CharacterString>f3322_5441_1266_5761</gco:CharacterString>
+  </gmd:parentIdentifier>
+  <gmd:contact>
+    <gmd:CI_ResponsibleParty>
+      <gmd:individualName>
+        <gco:CharacterString>Jingbo Wang</gco:CharacterString>
+      </gmd:individualName>
+      <gmd:organisationName gco:nilReason="missing">
+        <gco:CharacterString />
+      </gmd:organisationName>
+      <gmd:positionName gco:nilReason="missing">
+        <gco:CharacterString />
+      </gmd:positionName>
+      <gmd:contactInfo>
+        <gmd:CI_Contact>
+          <gmd:phone>
+            <gmd:CI_Telephone>
+              <gmd:voice>
+                <gco:CharacterString>+61 0293859393</gco:CharacterString>
+              </gmd:voice>
+              <gmd:facsimile gco:nilReason="missing">
+                <gco:CharacterString />
+              </gmd:facsimile>
+            </gmd:CI_Telephone>
+          </gmd:phone>
+          <gmd:address>
+            <gmd:CI_Address>
+              <gmd:deliveryPoint>
+                <gco:CharacterString>Level 4, room 459, Mathews Building, UNSW</gco:CharacterString>
+              </gmd:deliveryPoint>
+              <gmd:city>
+                <gco:CharacterString>Sydney</gco:CharacterString>
+              </gmd:city>
+              <gmd:postalCode>
+                <gco:CharacterString>2052</gco:CharacterString>
+              </gmd:postalCode>
+              <gmd:country>
+                <gco:CharacterString>Australia</gco:CharacterString>
+              </gmd:country>
+              <gmd:electronicMailAddress gco:nilReason="missing">
+                <gco:CharacterString />
+              </gmd:electronicMailAddress>
+            </gmd:CI_Address>
+          </gmd:address>
+          <gmd:onlineResource>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>http://orcid.org/0000-0003-3443-0992</gmd:URL>
+              </gmd:linkage>
+              <gmd:name>
+                <gco:CharacterString>ORCID</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>Research Data Australia party record</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onlineResource>
+          <gmd:onlineResource>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>https://www.climatescience.org.au/</gmd:URL>
+              </gmd:linkage>
+              <gmd:name>
+                <gco:CharacterString>Organisation website</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>Organisation website</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onlineResource>
+        </gmd:CI_Contact>
+      </gmd:contactInfo>
+      <gmd:role>
+        <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="owner">owner</gmd:CI_RoleCode>
+      </gmd:role>
+    </gmd:CI_ResponsibleParty>
+    <gmd:CI_ResponsibleParty>
+      <gmd:organisationName>
+        <gco:CharacterString>ARC Centre of Excellence for Climate System Science (ARCCSS)</gco:CharacterString>
+      </gmd:organisationName>
+      <gmd:contactInfo>
+        <gmd:CI_Contact>
+          <gmd:phone>
+            <gmd:CI_Telephone>
+              <gmd:voice gco:nilReason="missing">
+                <gco:CharacterString />
+              </gmd:voice>
+            </gmd:CI_Telephone>
+          </gmd:phone>
+          <gmd:address>
+            <gmd:CI_Address>
+              <gmd:deliveryPoint gco:nilReason="missing">
+                <gco:CharacterString />
+              </gmd:deliveryPoint>
+              <gmd:city gco:nilReason="missing">
+                <gco:CharacterString />
+              </gmd:city>
+              <gmd:postalCode gco:nilReason="missing">
+                <gco:CharacterString />
+              </gmd:postalCode>
+              <gmd:country>
+                <gco:CharacterString>Australia</gco:CharacterString>
+              </gmd:country>
+              <gmd:electronicMailAddress gco:nilReason="missing">
+                <gco:CharacterString />
+              </gmd:electronicMailAddress>
+            </gmd:CI_Address>
+          </gmd:address>
+          <gmd:onlineResource>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>http://orcid.org/0000-0002-3594-1893</gmd:URL>
+              </gmd:linkage>
+              <gmd:name>
+                <gco:CharacterString>ANDS RDA record</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>Research Data Australia party record</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onlineResource>
+          <gmd:onlineResource>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>https://www.climatescience.org.au/</gmd:URL>
+              </gmd:linkage>
+              <gmd:name>
+                <gco:CharacterString>Organisation website</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>Organisation website</gco:CharacterString>
+              </gmd:description>
+            </gmd:CI_OnlineResource>
+          </gmd:onlineResource>
+        </gmd:CI_Contact>
+      </gmd:contactInfo>
+    </gmd:CI_ResponsibleParty>
+  </gmd:contact>
+  <gmd:dateStamp>
+    <gco:Date />
+  </gmd:dateStamp>
+  <gmd:dataSetURI>
+    <gco:CharacterString>http://dx.doi.org/10.4225/41/56A1C2A495361</gco:CharacterString>
+  </gmd:dataSetURI>
+  <gmd:identificationInfo>
+    <gmd:MD_DataIdentification>
+      <gmd:citation>
+        <gmd:CI_Citation>
+          <gmd:title>
+            <gco:CharacterString>WRF model outputs from the 2-km resolution Sydney experiment (v1.0)</gco:CharacterString>
+          </gmd:title>
+          <gmd:alternateTitle>
+            <gco:CharacterString>WRF_Sydney2k_v1.0</gco:CharacterString>
+          </gmd:alternateTitle>
+          <gmd:date>
+            <gmd:CI_Date>
+              <gmd:date>
+                <gco:Date>2015-06-30</gco:Date>
+              </gmd:date>
+              <gmd:dateType>
+                <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
+              </gmd:dateType>
+            </gmd:CI_Date>
+          </gmd:date>
+          <gmd:identifier>
+            <gmd:MD_Identifier>
+              <gmd:code>
+                <gco:CharacterString>ua8</gco:CharacterString>
+              </gmd:code>
+            </gmd:MD_Identifier>
+          </gmd:identifier>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Paola Petrelli</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName gco:nilReason="missing">
+                <gco:CharacterString />
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString>ARCCSS climate data support officer based at IMAS UTAS</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString>+61 0362266674</gco:CharacterString>
+                      </gmd:voice>
+                      <gmd:facsimile gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:facsimile>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString>IMAS UTAS Private Bag 129</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString>Hobart</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:postalCode>
+                        <gco:CharacterString>7001</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                      </gmd:country>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>paola.petrelli@utas.edu.au</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://researchdata.ands.org.au/arc-centre-excellence-science-manager/260149</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>RDA record</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Research Data Australia party record</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://www.climatescience.org.au/staff/profile/ppetrelli</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>Personal webpage</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Organisation staff profile</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="custodian">custodian</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:organisationName>
+                <gco:CharacterString>ARC Centre of Excellence for Climate System Science (ARCCSS)</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:voice>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:deliveryPoint>
+                      <gmd:city gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:city>
+                      <gmd:postalCode gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                      </gmd:country>
+                      <gmd:electronicMailAddress gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://www.climatescience.org.au/</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>Organisation Website</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Organisation Website</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://researchdata.ands.org.au/arc-centre-of-excellence-for-climate-system-science/17722</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>ANDS RDA record</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Research Data Australia party record</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Daniel Argueso1</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName gco:nilReason="missing">
+                <gco:CharacterString />
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString>research fellow with the ARC Centre of Excellence for Climate System Science ARCCSS</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString>+61 0293859393</gco:CharacterString>
+                      </gmd:voice>
+                      <gmd:facsimile gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:facsimile>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString>Level 4, room 459, Mathews Building, UNSW</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString>Sydney</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:postalCode>
+                        <gco:CharacterString>2052</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                      </gmd:country>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>d.argueso1@unsw.edu.au</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://researchdata.ands.org.au/dr-daniel-argeso/460898</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>ANDS RDA record</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Research Data Australia party record</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>http://orcid.org/0000-0002-4792-162X</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>ORCID</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>unique researcher identifier</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://www.climatescience.org.au/staff/profile/dargueso</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>Personal webpage</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Organisation staff profile</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="principalInvestigator">principalInvestigator</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:organisationName>
+                <gco:CharacterString>ARC Centre of Excellence for Climate System Science (ARCCSS)</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:voice>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:deliveryPoint>
+                      <gmd:city gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:city>
+                      <gmd:postalCode gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                      </gmd:country>
+                      <gmd:electronicMailAddress gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://researchdata.ands.org.au/arc-centre-of-excellence-for-climate-system-science/17722</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>ANDS RDA record</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Research Data Australia party record</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://www.climatescience.org.au/</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>Organisation Website</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Organisation Website</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Daniel Argueso2</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName gco:nilReason="missing">
+                <gco:CharacterString />
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString>research fellow with the ARC Centre of Excellence for Climate System Science ARCCSS</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString>+61 0293859393</gco:CharacterString>
+                      </gmd:voice>
+                      <gmd:facsimile gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:facsimile>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString>Level 4, room 459, Mathews Building, UNSW</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString>Sydney</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:postalCode>
+                        <gco:CharacterString>2052</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                      </gmd:country>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>d.argueso2@unsw.edu.au</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://researchdata.ands.org.au/dr-daniel-argeso/460898</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>ANDS RDA record</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Research Data Australia party record</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>http://orcid.org/0000-0002-4792-162Y</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>ORCID</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>unique researcher identifier</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://www.climatescience.org.au/staff/profile/dargueso</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>Personal webpage</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Organisation staff profile</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="contentexpert">contentexpert</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:organisationName>
+                <gco:CharacterString>ARC Centre of Excellence for Climate System Science (ARCCSS)</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:voice>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:deliveryPoint>
+                      <gmd:city gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:city>
+                      <gmd:postalCode gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                      </gmd:country>
+                      <gmd:electronicMailAddress gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://www.climatescience.org.au/</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>Organisation Website</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Organisation Website</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://researchdata.ands.org.au/arc-centre-of-excellence-for-climate-system-science/17722</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>ANDS RDA record</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Research Data Australia party record</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Alvin Stone</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName gco:nilReason="missing">
+                <gco:CharacterString />
+              </gmd:organisationName>
+              <gmd:positionName>
+                <gco:CharacterString>ARCCSS communications officer based at CCRC UNSW</gco:CharacterString>
+              </gmd:positionName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice>
+                        <gco:CharacterString>+61 0293858953</gco:CharacterString>
+                      </gmd:voice>
+                      <gmd:facsimile gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:facsimile>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint>
+                        <gco:CharacterString>Level 4, room 459, Mathews Building, UNSW</gco:CharacterString>
+                      </gmd:deliveryPoint>
+                      <gmd:city>
+                        <gco:CharacterString>Sydney</gco:CharacterString>
+                      </gmd:city>
+                      <gmd:postalCode>
+                        <gco:CharacterString>2052</gco:CharacterString>
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                      </gmd:country>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>alvin.stone@unsw.edu.au</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://www.climatescience.org.au/staff/profile/astone</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>Personal webpage</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Organisation staff profile</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#CI_RoleCode" codeListValue="media">media</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:organisationName>
+                <gco:CharacterString>ARC Centre of Excellence for Climate System Science (ARCCSS)</gco:CharacterString>
+              </gmd:organisationName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:phone>
+                    <gmd:CI_Telephone>
+                      <gmd:voice gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:voice>
+                    </gmd:CI_Telephone>
+                  </gmd:phone>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:deliveryPoint gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:deliveryPoint>
+                      <gmd:city gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:city>
+                      <gmd:postalCode gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:postalCode>
+                      <gmd:country>
+                        <gco:CharacterString>Australia</gco:CharacterString>
+                      </gmd:country>
+                      <gmd:electronicMailAddress gco:nilReason="missing">
+                        <gco:CharacterString />
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://www.climatescience.org.au/</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>Organisation Website</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Organisation Website</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                  <gmd:onlineResource>
+                    <gmd:CI_OnlineResource>
+                      <gmd:linkage>
+                        <gmd:URL>https://researchdata.ands.org.au/arc-centre-of-excellence-for-climate-system-science/17722</gmd:URL>
+                      </gmd:linkage>
+                      <gmd:name>
+                        <gco:CharacterString>ANDS RDA record</gco:CharacterString>
+                      </gmd:name>
+                      <gmd:description>
+                        <gco:CharacterString>Research Data Australia party record</gco:CharacterString>
+                      </gmd:description>
+                    </gmd:CI_OnlineResource>
+                  </gmd:onlineResource>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+        </gmd:CI_Citation>
+      </gmd:citation>
+      <gmd:abstract>
+        <gco:CharacterString>Weather Research and Forecasting (WRF) model outputs from high-resolution (2-km) climate simulations over Sydney performed by Dr Daniel Argueso from the ARC Centre of Excellence for Climate System Science (ARCCSS). The WRF model is a regional climate model used to simulate the climate over a limited region at high spatial resolution. It was used to simulate the climate of Sydney under present (1990-2009) and future climate conditions (2040-2059) using land cover information from the New South Wales (NSW) Office of Environment and Heritage (OEH). An additional future simulation was performed with future projected expansion of urban areas in Sydney. All three simulations were completed to study the combined impact of urban expansion and climate change on temperature, vapor pressure and heat stress at local scales. Version 1.0 of this dataset includes daily maximum and minimum values of simplified wet-bulb globe temperature (W), as well as the temperature and vapor pressure used to calculate such daily extremes of W.\r\nWeather Research and Forecasting model website: http://www.wrf-model.org/index.php\r\nARCCSS CMS wiki: http://climate-cms.unsw.wikispaces.net/ARCCSS+published+datasets\r\n</gco:CharacterString>
+      </gmd:abstract>
+      <gmd:purpose>
+        <gco:CharacterString>The purpose of this dataset is to provide current and future simulation of Sydney climate using detailed land cover information as an input. One simulation was performed with future projected expansion of urban areas in Sydney</gco:CharacterString>
+      </gmd:purpose>
+      <gmd:status>
+        <gmd:MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
+      </gmd:status>
+      <gmd:resourceMaintenance>
+        <gmd:MD_MaintenanceInformation>
+          <gmd:maintenanceAndUpdateFrequency>
+            <gmd:MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="irregular">irregular</gmd:MD_MaintenanceFrequencyCode>
+          </gmd:maintenanceAndUpdateFrequency>
+          <gmd:maintenanceNote>
+            <gco:CharacterString>Dataset is archived on NCI tape system (ua8 project) and on the CCRC/UNSW servers</gco:CharacterString>
+          </gmd:maintenanceNote>
+        </gmd:MD_MaintenanceInformation>
+      </gmd:resourceMaintenance>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gco:CharacterString>Climate Change Processes</gco:CharacterString>
+          </gmd:keyword>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gco:CharacterString>Surface Processes</gco:CharacterString>
+          </gmd:keyword>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gco:CharacterString>Climatology</gco:CharacterString>
+          </gmd:keyword>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gco:CharacterString>National Computational Infrastructure (NCI)</gco:CharacterString>
+          </gmd:keyword>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword gco:nilReason="missing">
+            <gco:CharacterString />
+          </gmd:keyword>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:resourceConstraints>
+        <gmd:MD_LegalConstraints>
+          <gmd:useLimitation>
+            <gco:CharacterString>Dataset cannot be used commercially, see license details</gco:CharacterString>
+          </gmd:useLimitation>
+          <gmd:accessConstraints>
+            <gmd:MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode" codeListValue="license">license</gmd:MD_RestrictionCode>
+          </gmd:accessConstraints>
+          <gmd:otherConstraints>
+            <gco:CharacterString>http://dapds00.nci.org.au/thredds/fileServer/licenses/ua8_licence.txt</gco:CharacterString>
+          </gmd:otherConstraints>
+        </gmd:MD_LegalConstraints>
+      </gmd:resourceConstraints>
+      <gmd:resourceConstraints>
+        <gmd:MD_LegalConstraints>
+          <gmd:useConstraints>
+            <gmd:MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode" codeListValue="license">license</gmd:MD_RestrictionCode>
+          </gmd:useConstraints>
+          <gmd:otherConstraints gco:nilReason="missing">
+            <gco:CharacterString />
+          </gmd:otherConstraints>
+        </gmd:MD_LegalConstraints>
+      </gmd:resourceConstraints>
+      <gmd:resourceConstraints>
+        <gmd:MD_SecurityConstraints>
+          <gmd:classification>
+            <gmd:MD_ClassificationCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_ClassificationCode" codeListValue="unclassified">unclassified</gmd:MD_ClassificationCode>
+          </gmd:classification>
+        </gmd:MD_SecurityConstraints>
+      </gmd:resourceConstraints>
+      <gmd:language gco:nilReason="missing">
+        <gco:CharacterString />
+      </gmd:language>
+      <gmd:characterSet>
+        <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="" />
+      </gmd:characterSet>
+      <gmd:topicCategory>
+        <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+      </gmd:topicCategory>
+      <gmd:environmentDescription>
+        <gco:CharacterString>NetCDF libraries, various scientific packages and climate operators, as well as model codes that are already available at the NCI node</gco:CharacterString>
+      </gmd:environmentDescription>
+      <gmd:environmentDescription>
+        <gco:CharacterString>NetCDF libraries, various scientific packages and climate operators, as well as model codes that are already available at the NCI node</gco:CharacterString>
+      </gmd:environmentDescription>
+      <gmd:extent>
+        <gmd:EX_Extent>
+          <gmd:geographicElement>
+            <gmd:EX_GeographicBoundingBox>
+              <gmd:westBoundLongitude>
+                <gco:Decimal>149.06</gco:Decimal>
+              </gmd:westBoundLongitude>
+              <gmd:eastBoundLongitude>
+                <gco:Decimal>152.19</gco:Decimal>
+              </gmd:eastBoundLongitude>
+              <gmd:southBoundLatitude>
+                <gco:Decimal>-35.13</gco:Decimal>
+              </gmd:southBoundLatitude>
+              <gmd:northBoundLatitude>
+                <gco:Decimal>-32.62</gco:Decimal>
+              </gmd:northBoundLatitude>
+            </gmd:EX_GeographicBoundingBox>
+          </gmd:geographicElement>
+        </gmd:EX_Extent>
+      </gmd:extent>
+      <gmd:extent>
+        <gmd:EX_Extent>
+          <gmd:temporalElement>
+            <gmd:EX_TemporalExtent id="temporalExtent">
+              <gmd:extent>
+                <gml:TimePeriod gml:id="boundingTemporalExtentPeriod">
+                  <gml:beginPosition>1990-01-01</gml:beginPosition>
+                  <gml:endPosition>2059-12-31</gml:endPosition>
+                </gml:TimePeriod>
+              </gmd:extent>
+            </gmd:EX_TemporalExtent>
+          </gmd:temporalElement>
+        </gmd:EX_Extent>
+      </gmd:extent>
+      <gmd:supplementalInformation>
+        <gco:CharacterString>Given the common format and the extent of the data, other researchers could easily use it for different purposes, across different platforms</gco:CharacterString>
+      </gmd:supplementalInformation>
+    </gmd:MD_DataIdentification>
+  </gmd:identificationInfo>
+  <gmd:distributionInfo>
+    <gmd:MD_Distribution>
+      <gmd:distributionFormat>
+        <gmd:MD_Format>
+          <gmd:name>
+            <gco:CharacterString>NetCDF</gco:CharacterString>
+          </gmd:name>
+          <gmd:version>
+            <gco:CharacterString>4, CF 1.6 - ACDD1.3 compliant</gco:CharacterString>
+          </gmd:version>
+        </gmd:MD_Format>
+      </gmd:distributionFormat>
+      <gmd:distributionFormat>
+        <gmd:MD_Format>
+          <gmd:name gco:nilReason="missing">
+            <gco:CharacterString />
+          </gmd:name>
+          <gmd:version gco:nilReason="missing">
+            <gco:CharacterString />
+          </gmd:version>
+        </gmd:MD_Format>
+      </gmd:distributionFormat>
+      <gmd:distributionFormat>
+        <gmd:MD_Format>
+          <gmd:name gco:nilReason="missing">
+            <gco:CharacterString />
+          </gmd:name>
+          <gmd:version gco:nilReason="missing">
+            <gco:CharacterString />
+          </gmd:version>
+        </gmd:MD_Format>
+      </gmd:distributionFormat>
+      <gmd:distributionFormat>
+        <gmd:MD_Format>
+          <gmd:name gco:nilReason="missing">
+            <gco:CharacterString />
+          </gmd:name>
+          <gmd:version gco:nilReason="missing">
+            <gco:CharacterString />
+          </gmd:version>
+        </gmd:MD_Format>
+      </gmd:distributionFormat>
+      <gmd:distributionFormat>
+        <gmd:MD_Format>
+          <gmd:name gco:nilReason="missing">
+            <gco:CharacterString />
+          </gmd:name>
+          <gmd:version gco:nilReason="missing">
+            <gco:CharacterString />
+          </gmd:version>
+        </gmd:MD_Format>
+      </gmd:distributionFormat>
+      <gmd:transferOptions>
+        <gmd:MD_DigitalTransferOptions>
+          <gmd:transferSize gco:nilReason="missing">
+            <gco:CharacterString />
+          </gmd:transferSize>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>http://dapds00.nci.org.au/thredds/catalog/ua8/ARCCSS_Data-7/v1-0/catalog.html</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gmd:CharacterString />
+              </gmd:protocol>
+              <gmd:name>
+                <gmd:CharacterString>OpenDAP: OpenDAP</gmd:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gmd:CharacterString>OPeNDAP at NCI</gmd:CharacterString>
+              </gmd:description>
+              <gmd:function>
+                <gmd:CharacterString>Information</gmd:CharacterString>
+              </gmd:function>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>https://researchdata.ands.org.au/weather-research-forecasting-version-10/461001</gmd:URL>
+              </gmd:linkage>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL />
+              </gmd:linkage>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL />
+              </gmd:linkage>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+          <gmd:onLine>
+            <gmd:CI_OnlineResource>
+              <gmd:linkage>
+                <gmd:URL>htttp://dx.doi.org/10.1371/journal.pone.0117066.</gmd:URL>
+              </gmd:linkage>
+              <gmd:protocol>
+                <gco:CharacterString>doi</gco:CharacterString>
+              </gmd:protocol>
+              <gmd:name>
+                <gco:CharacterString>Argueso D, Evans JP, Pitman AJ, Di Luca A. Effects of City Expansion on Heat Stress under Climate Change Conditions. Ebi KL, ed. PLoS ONE. 2015;10(2):e0117066.</gco:CharacterString>
+              </gmd:name>
+              <gmd:description>
+                <gco:CharacterString>Paper describing data</gco:CharacterString>
+              </gmd:description>
+              <gmd:function>
+                <gmd:CI_OnLineFunctionCode codeList="http://asdd.ga.gov.au/asdd/profileinfo/gmxCodelists.xml#CI_OnLineFunctionCode" codeListValue="" />
+              </gmd:function>
+            </gmd:CI_OnlineResource>
+          </gmd:onLine>
+        </gmd:MD_DigitalTransferOptions>
+      </gmd:transferOptions>
+    </gmd:MD_Distribution>
+  </gmd:distributionInfo>
+  <gmd:dataQualityInfo>
+    <gmd:DQ_DataQuality>
+      <gmd:scope>
+        <gmd:DQ_Scope>
+          <gmd:level>
+            <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="series">series</gmd:MD_ScopeCode>
+          </gmd:level>
+        </gmd:DQ_Scope>
+      </gmd:scope>
+      <gmd:lineage>
+        <gmd:LI_Lineage>
+          <gmd:statement gco:nilReason="missing">
+            <gco:CharacterString />
+          </gmd:statement>
+          <gmd:processStep>
+            <gmd:LI_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Data files are CF 1.6 and ACDD 1.3 compliant and have a md5 checksum for the main variables stored as attribute in the files.  Routine checks for corruption will be performed regularly</gco:CharacterString>
+              </gmd:description>
+              <gmd:rationale>
+                <gco:CharacterString>/g/data1/ua8/ARCCSS_Data/WRF_Sydney2k/v1-0</gco:CharacterString>
+              </gmd:rationale>
+            </gmd:LI_ProcessStep>
+          </gmd:processStep>
+          <gmd:source>
+            <gmd:LI_Source>
+              <gmd:description>
+                <gco:CharacterString>http://dapds00.nci.org.au/thredds/catalog/ua8/ARCCSS_Data-1/WRF_Sydney2k/catalog.html?dataset=ua8-1/WRF_Sydney2k/readme.txt\r\nReadme file in /g/data1/ua8/ARCCSS_Data/WRF_Sydney2k/readme.txt\r\nPublication describing data: Argueso D, Evans JP, Pitman AJ, Di Luca A. Effects of City Expansion on Heat Stress under Climate Change Conditions. Ebi KL, ed. PLoS ONE. 2015;10(2):e0117066. doi:10.1371/journal.pone.0117066</gco:CharacterString>
+              </gmd:description>
+            </gmd:LI_Source>
+          </gmd:source>
+        </gmd:LI_Lineage>
+      </gmd:lineage>
+    </gmd:DQ_DataQuality>
+  </gmd:dataQualityInfo>
+</gmd:MD_Metadata>
+      </metadata>
+    </record>
+    </ListRecords>
+</OAI-PMH>
+
