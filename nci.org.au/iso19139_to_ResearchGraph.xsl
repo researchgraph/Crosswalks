@@ -26,15 +26,14 @@
             <datasets>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
             </datasets>
-<<<<<<< HEAD
-            
+
             <researchers>
-=======
-            -->
-            <xsl:if test=".//gmd:MD_Metadata/gmd:contact/gmd:CI_ResponsibleParty/gmd:role/gmd:CI_RoleCode[@codeListValue='Point of Contact']">
-                <researchers>
->>>>>>> 75af86f83bb568a69d76e49d4f8aaa3afe512cc2
-                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="researcher"/>
+                <xsl:if test=".//gmd:MD_Metadata/gmd:contact/gmd:CI_ResponsibleParty/gmd:role/gmd:CI_RoleCode[@codeListValue='owner'] or
+                    .//gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:citedResponsibleParty/gmd:CI_ResponsibleParty/gmd:role/gmd:CI_RoleCode[@codeListValue='custodian']">
+                    
+                        <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="researcher"/>
+                    
+                </xsl:if>
             </researchers>
             <!--<publications>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
@@ -107,9 +106,8 @@
     
     <xsl:template match="oai:metadata" mode="researcher">
         <xsl:param name="date-stamp"/>
-<<<<<<< HEAD
-        <xsl:for-each select=".//gmd:MD_Metadata">
-            <xsl:for-each select="gmd:contact/gmd:CI_ResponsibleParty/gmd:individualName">
+        <xsl:for-each select=".//gmd:MD_Metadata">     
+       <xsl:for-each select="gmd:contact/gmd:CI_ResponsibleParty/gmd:individualName">
                 <researcher>
                     <key>
                         <xsl:value-of select="../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
@@ -135,8 +133,9 @@
                         </orcid>
                     </xsl:if>
                 </researcher>
-            </xsl:for-each>
-            
+            </xsl:for-each>  
+        
+        
             <xsl:for-each select="gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:citedResponsibleParty/gmd:CI_ResponsibleParty/gmd:individualName">
        		<researcher>
        		    <key>
@@ -159,35 +158,6 @@
         		</full_name>
       		</researcher>
        	    </xsl:for-each>
-=======
-        <xsl:for-each select=".//gmd:MD_Metadata/gmd:contact/gmd:CI_ResponsibleParty/gmd:role/gmd:CI_RoleCode[@codeListValue='Point of Contact'][1]">
-            
-        <researcher>
-            <!--<xsl:if test="(.//*/gmd:MD_Metadata/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:name/gco:CharacterString='ORCID')">
-            <key>
-                <xsl:value-of select=".//*/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
-            </key>
-            </xsl:if>
-            <source
-                <xsl:value-of select="$source"/>
-            </source>
-            <local_id>
-                <xsl:value-of select=".//*/gmd:contact/gmd:CI_ResponsibleParty/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
-            </local_id>
-            <last_updated>
-                <xsl:value-of select="$date-stamp"/>
-            </last_updated>-->
-            <url>
-                <xsl:value-of select=".//gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:citedResponsibleParty/gmd:CI_ResponsibleParty/gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
-            </url>
-            <full_name>
-                <xsl:value-of select=".//gmd:MD_Metadata/gmd:contact/gmd:CI_ResponsibleParty/gmd:individualName/gco:CharacterString"/>
-            </full_name>
-            <!--<orcid>
-                <xsl:value-of select=".//*/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
-            </orcid>-->
-        </researcher>
->>>>>>> 75af86f83bb568a69d76e49d4f8aaa3afe512cc2
         </xsl:for-each>
     </xsl:template>
     
