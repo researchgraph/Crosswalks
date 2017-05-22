@@ -22,27 +22,30 @@
             xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes
             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
            <xsl:if test=".//oai:setSpec='class:activity'">
-               <grants>
-                   <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="grant"/>
-               </grants>
+               <xsl:if test=".//rif:activity/@type = 'grant' or .//rif:activity/@type = 'award' ">
+                   <grants>
+                       <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="grant"/>
+                   </grants>
+               </xsl:if>                   
            </xsl:if>
             <xsl:if test=".//oai:setSpec='class:collection'">
-                <xsl:if test=".//rif:collection/@type != 'publication' or
-                    .//rif:collection/@type != 'software' ">
+                <xsl:if test=".//rif:collection/@type != 'publication' or .//rif:collection/@type != 'software' ">
                     <datasets>
                         <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="dataset"/>
                     </datasets>
                 </xsl:if>
-                <xsl:if test=".//rif:collection/@type = 'publication' ">
+                <xsl:if test=".//rif:collection/@type = 'publication'">
                     <publications>
                         <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
                     </publications>
                 </xsl:if>
             </xsl:if>
             <xsl:if test=".//oai:setSpec='class:party'">
-                <researchers>
-                    <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="researcher"/>
-                </researchers>
+                <xsl:if test=".//rif:party/@type = 'person' ">
+                    <researchers>
+                        <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="researcher"/>
+                    </researchers>
+                </xsl:if>
             </xsl:if>
             <relations>
                 <xsl:if test=".//rif:relatedObject">
@@ -62,10 +65,16 @@
     <!-- Grant Template                              -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="grant">
-        <xsl:apply-templates select=".//oai:metadata" mode="grant"/>
+        <xsl:param name="date-stamp">
+            <xsl:value-of select=".//oai:datestamp"/>
+        </xsl:param>
+        <xsl:if test=".//rif:activity/@type = 'grant' or .//rif:activity/@type = 'award' ">
+                <xsl:apply-templates select=".//oai:metadata" mode="grant"/>
+        </xsl:if>
     </xsl:template>
     
     <xsl:template match="oai:metadata" mode="grant">
+        <xsl:param name="date-stamp"/>
         <xsl:variable name="forCode" select="substring-after(., ':')"/>
         <xsl:variable name="groupName" select=".//rif:registryObject/@group"/>
         <xsl:variable name="groupSource" select="$andsGroupList/root/row[group = $groupName]/source"/>
@@ -80,7 +89,7 @@
                 <xsl:value-of select=".//rif:registryObject/rif:key[1]"/>
             </local_id>
             <last_updated>
-                <xsl:value-of select="..//oai:datestamp"/>
+                <xsl:value-of select="$date-stamp"/>
             </last_updated>
             <xsl:if test=".//rif:electronic[@type='url']">
                 <url>

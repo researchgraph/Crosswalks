@@ -75,16 +75,31 @@
                         </xsl:if>
                     </xsl:for-each>
                 </authors_list>
-                <xsl:if test=".//datafield[@tag='024'][@ind1='7']">
-                    <doi>
-                        <xsl:value-of select=".//datafield[@tag='024'][@ind1='7']/subfield[@code='a']"/>
-                    </doi>
-                </xsl:if>
-                <xsl:if test=".//datafield[@tag='260']/subfield[@code='c']">
-                    <publication_year>
-                        <xsl:value-of select=".//datafield[@tag='260']/subfield[@code='c']"/>
-                    </publication_year>
-                </xsl:if>
+                <xsl:choose>
+                    <xsl:when test=".//datafield[@tag='024'][@ind1='7']">
+                        <doi>
+                            <xsl:value-of select=".//datafield[@tag='024'][@ind1='7']/subfield[@code='a']"/>
+                        </doi>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <doi>
+                            <xsl:value-of select="'unknown'"/>
+                        </doi>
+                    </xsl:otherwise>
+                </xsl:choose>
+                
+                <xsl:choose>
+                    <xsl:when test=".//datafield[@tag='260']/subfield[@code='c']">
+                        <publication_year>
+                            <xsl:value-of select=".//datafield[@tag='260']/subfield[@code='c']"/>
+                        </publication_year>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <publication_year>
+                            <xsl:value-of select="'unknown'"/>
+                        </publication_year>
+                    </xsl:otherwise>
+                </xsl:choose>
             </publication>
         </xsl:if>
     </xsl:template>
@@ -117,11 +132,18 @@
                 <last_name>
                     <xsl:value-of select="substring-after(.//subfield[@code='a'],', ')"/>
                 </last_name>
-                <xsl:if test=".//subfield[@code='j']">
-                    <orcid>
-                        <xsl:value-of select="subfield[@code='j']"/>
-                    </orcid>
-                </xsl:if>
+                <xsl:choose>
+                    <xsl:when test=".//subfield[@code='j']">
+                        <orcid>
+                            <xsl:value-of select="subfield[@code='j']"/>
+                        </orcid>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <orcid>
+                            <xsl:value-of select="'unknown'"/>
+                        </orcid>
+                    </xsl:otherwise>
+                </xsl:choose>
             </researcher>
         </xsl:for-each>
     </xsl:template>
