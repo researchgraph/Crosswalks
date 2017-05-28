@@ -6,7 +6,7 @@
     xmlns:xdt="http://www.w3.org/2005/02/xpath-datatypes"
     xmlns:fo="http://www.w3.org/1999/XSL/Format"
     exclude-result-prefixes="xs xsl fn xdt fo"
-    version="2.0">
+    version="1.0">
     
     <!-- =========================================== -->
     <!-- Configuration                               -->
