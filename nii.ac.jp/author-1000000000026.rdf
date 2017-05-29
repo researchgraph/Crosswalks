@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:foaf="http://xmlns.com/foaf/0.1/">
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/1000000000026#me">
+<foaf:isPrimaryTopicOf rdf:resource="http://ci.nii.ac.jp/nrid/1000000000026.rdf" />
+<foaf:name>新堀 通也</foaf:name>
+<foaf:name xml:lang="en">Shinbori Michiya</foaf:name>
+<rdfs:seeAlso rdf:resource="http://rns.nii.ac.jp/d/nr/1000000000026" dc:title="研究者リゾルバー"/>
+<rdfs:seeAlso rdf:resource="http://jglobal.jst.go.jp/search.php?t=1&amp;q=%E6%96%B0%E5%A0%80+%E9%80%9A%E4%B9%9F" dc:title="J-GLOBAL" />
+<rdfs:seeAlso rdf:resource="http://researchmap.jp/?active_center=snsview_view_main_search_basicitem&amp;item_id=4&amp;content=%E6%96%B0%E5%A0%80+%E9%80%9A%E4%B9%9F" dc:title="researchmap" />
+<rdfs:seeAlso rdf:resource="http://scholar.google.co.jp/scholar?q=%E6%96%B0%E5%A0%80+%E9%80%9A%E4%B9%9F&amp;hl=ja&amp;btnG=%E6%A4%9C%E7%B4%A2&amp;lr=" dc:title="Google Scholar" />
+<rdfs:seeAlso rdf:resource="http://academic.research.microsoft.com/Search?query=author%3A%28%E6%96%B0%E5%A0%80+%E9%80%9A%E4%B9%9F%29" dc:title="Microsoft Academic Search" />
+<rdfs:seeAlso rdf:resource="http://www.google.co.jp/search?hl=ja&amp;q=%E6%96%B0%E5%A0%80+%E9%80%9A%E4%B9%9F&amp;btnG=%E6%A4%9C%E7%B4%A2&amp;lr=" dc:title="Google" />
+<rdfs:seeAlso rdf:resource="http://search.yahoo.co.jp/search?p=%E6%96%B0%E5%A0%80+%E9%80%9A%E4%B9%9F&amp;search.x=1&amp;fr=top_ga1_sa&amp;tid=top_ga1_sa&amp;ei=UTF-8&amp;aq=&amp;oq=" dc:title="Yahoo! JAPAN" />
+</foaf:Person>
+</rdf:RDF>
