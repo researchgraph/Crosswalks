@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <researchers>
+      <researcher>
+         <key>researchgraph.org/orcid/0000-0002-4259-9774</key>
+         <source>orcid.org</source>
+         <local_id>0000-0002-4259-9774</local_id>
+         <last_updated>2015-10-02T01:36:09.654</last_updated>
+         <url>http://people.anu.edu.au/amir.aryani/ https://twitter.com/amir_at_ands</url>
+         <full_name>Amir Aryani</full_name>
+         <first_name>Amir</first_name>
+         <last_name>Aryani</last_name>
+         <orcid>0000-0002-4259-9774</orcid>
+         <scopus_author_id>35068996400</scopus_author_id>
+      </researcher>
+   </researchers>
+   <grants>
+      <grant>
+         <key>researchgraph.org/orcid/0000-0002-4259-9774</key>
+         <source>orcid.org</source>
+         <local_id>0000-0002-4259-9774</local_id>
+         <last_updated>2014-07-20T13:29:04.233</last_updated>
+         <url>http://orcid.org/0000-0002-4259-9774</url>
+         <title>Project Manager</title>
+         <start_year>2012</start_year>
+         <funder>ands.org.au</funder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/orcid/0000-0002-4259-9774</key>
+         <source>orcid.org</source>
+         <local_id>0000-0002-4259-9774</local_id>
+         <last_updated>2014-07-20T13:29:04.233</last_updated>
+         <url>http://orcid.org/0000-0002-4259-9774</url>
+         <title>PhD in computer science</title>
+         <start_year>2007</start_year>
+         <end_year>2012</end_year>
+         <funder>rmit.edu.au</funder>
+      </grant>
+   </grants>
+   <publications>
+      <publication>
+         <key>researchgraph.org/10.3233/978-1-61499-468-8-125</key>
+         <source>orcid.org</source>
+         <local_id>10.3233/978-1-61499-468-8-125</local_id>
+         <last_updated>2015-10-02T01:19:18.505</last_updated>
+         <url>http://ebooks.iospress.nl/publication/38447</url>
+         <title>Open-Access Grant Data: Towards Meta-Research Innovation</title>
+         <authors_list/>
+         <publication_year>2014</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.1007/978-3-319-24129-6_28</key>
+         <source>orcid.org</source>
+         <local_id>10.1007/978-3-319-24129-6_28</local_id>
+         <last_updated>2015-10-01T22:47:19.382</last_updated>
+         <title>On Bridging Data Centers and Publishers: The Data-Literature
+                  Interlinking Service</title>
+         <authors_list>Adrian BurtonHylke KoersPaolo ManghiSandro La BruzzoAmir AryaniMichael DiepenbroekUwe Schindler</authors_list>
+         <publication_year>2015</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.1002/smr.1598</key>
+         <source>orcid.org</source>
+         <local_id>10.1002/smr.1598 2047-7473</local_id>
+         <last_updated>2015-07-21T15:28:59.233</last_updated>
+         <title>Predicting dependences using domain-based coupling</title>
+         <authors_list>Aryani, Amir and Perin, Fabrizio and Lungu, Mircea and Mahmood, Abdun Naser
+                and Nierstrasz, Oscar</authors_list>
+         <publication_year>2014</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.6084/M9.FIGSHARE.907482</key>
+         <source>orcid.org</source>
+         <local_id>10.6084/M9.FIGSHARE.907482</local_id>
+         <last_updated>2015-07-21T15:28:58.975</last_updated>
+         <title>Towards identifier-aware cyberinfrastructure for data and
+                  researchers - See more at:
+                  http://www.dcc.ac.uk/events/idcc14/posters#sthash.sV3wa5FE.dpuf</title>
+         <authors_list>Todd Vision; John Kaye; Amir Aryani; </authors_list>
+         <publication_year>2014</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.6084/M9.FIGSHARE.956086</key>
+         <source>orcid.org</source>
+         <local_id>10.6084/M9.FIGSHARE.956086</local_id>
+         <last_updated>2015-07-21T15:28:58.844</last_updated>
+         <title>Research Data and the Future of Software Engineering</title>
+         <authors_list>Amir Aryani; Heinz Schmidt; </authors_list>
+         <publication_year>2014</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.6084/M9.FIGSHARE.1045389</key>
+         <source>orcid.org</source>
+         <local_id>10.6084/M9.FIGSHARE.1045389</local_id>
+         <last_updated>2015-07-22T14:45:35.771</last_updated>
+         <title>ANDS is building the Australian Research Data Commons</title>
+         <authors_list>Amir Aryani; </authors_list>
+         <publication_year>2014</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/0000-0002-4259-9774</key>
+         <source>orcid.org</source>
+         <local_id>0000-0002-4259-9774</local_id>
+         <last_updated>2015-07-09T06:18:35.62</last_updated>
+         <title>Predicting Dependencies Using Domain-based Coupling</title>
+         <authors_list/>
+         <publication_year>2013</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.6084/M9.FIGSHARE.799755</key>
+         <source>orcid.org</source>
+         <local_id>10.6084/M9.FIGSHARE.799755</local_id>
+         <last_updated>2015-07-21T15:28:58.935</last_updated>
+         <title>ORCID integration: A case study from ANDS and international
+                  development</title>
+         <authors_list>Adrian Burton; Amir Aryani; </authors_list>
+         <publication_year>2013</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.6084/M9.FIGSHARE.155650</key>
+         <source>orcid.org</source>
+         <local_id>10.6084/M9.FIGSHARE.155650</local_id>
+         <last_updated>2015-07-21T15:28:58.895</last_updated>
+         <title>Identity Awareness: Toward an Invisible e-Infrastructure for
+                  Identifying Data and Authors</title>
+         <authors_list>Amir Aryani, Adrian Burton; </authors_list>
+         <publication_year>2013</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.6084/M9.FIGSHARE.824316</key>
+         <source>orcid.org</source>
+         <local_id>10.6084/M9.FIGSHARE.824316</local_id>
+         <last_updated>2015-07-21T15:28:59.015</last_updated>
+         <title>D6.1 International validation of D3.1, D3.2, D4.1 and D5.1</title>
+         <authors_list>ODIN Consortium; Amir Aryani; Todd Vision; Simeon Warner; </authors_list>
+         <publication_year>2013</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.1109/SCAM.2012.27</key>
+         <source>orcid.org</source>
+         <local_id>10.1109/SCAM.2012.27</local_id>
+         <last_updated>2015-07-17T17:40:24.518</last_updated>
+         <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84872294567&amp;partnerID=MN8TOARS</url>
+         <title>Combining conceptual and domain-based couplings to detect database
+                  and code dependencies</title>
+         <authors_list>Gethers, M. and Aryani, A. and Poshyvanyk, D.</authors_list>
+         <scopus_eid>2-s2.0-84872294567&amp;partnerID=MN8TOARS</scopus_eid>
+         <publication_year>2012</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/0000-0002-4259-9774</key>
+         <source>orcid.org</source>
+         <local_id>0000-0002-4259-9774</local_id>
+         <last_updated>2015-07-08T16:58:25.961</last_updated>
+         <title>Data Capture from High-Performance Computing Facilities: A Case
+                  Study</title>
+         <authors_list/>
+         <publication_year>2011</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.1109/ICSM.2010.5609743</key>
+         <source>orcid.org</source>
+         <local_id>10.1109/ICSM.2010.5609743</local_id>
+         <last_updated>2015-07-17T17:40:24.481</last_updated>
+         <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-78650110447&amp;partnerID=MN8TOARS</url>
+         <title>Domain-based change propagation analysis: An enterprise system
+                  case study</title>
+         <authors_list>Aryani, A. and Peake, I.D.
+                and Hamilton, M.</authors_list>
+         <scopus_eid>2-s2.0-78650110447&amp;partnerID=MN8TOARS</scopus_eid>
+         <publication_year>2010</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.1109/icse.2013.6606694</key>
+         <source>orcid.org</source>
+         <local_id>10.1109/icse.2013.6606694 978-1-4673-3076-3</local_id>
+         <last_updated>2015-07-30T22:15:32.721</last_updated>
+         <title>On the relationships between domain-based coupling and code
+                  clones: An exploratory study</title>
+         <authors_list>Rahman, Md Saidur and Aryani, Amir and Roy, Chanchal K.
+                and Perin, Fabrizio</authors_list>
+         <publication_year>2014</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.1109/istas.2013.6613101</key>
+         <source>orcid.org</source>
+         <local_id>10.1109/istas.2013.6613101 978-1-4799-0929-2</local_id>
+         <last_updated>2015-07-30T22:24:21.058</last_updated>
+         <title>Identity awareness and re-use of research data in veillance and
+                  social computing</title>
+         <authors_list>Hayes, Alexander
+                and Mann, Steve and Aryani, Amir and Sabine, Susannah and Blackall, Leigh and Waugh,
+                Pia and Ridgway, Stephan</authors_list>
+         <publication_year>2014</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/0000-0002-4259-9774</key>
+         <source>orcid.org</source>
+         <local_id>0000-0002-4259-9774</local_id>
+         <last_updated>2015-07-24T03:08:56.206</last_updated>
+         <title>https://docs.google.com/presentation/d/1TR6vMnwwQvu44shenJXr09Ily-3CbpOGvzPMdqFags0/edit#slide=id.g61e1acd0b_170</title>
+         <authors_list/>
+         <publication_year>2015</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.1109/icsm.2010.5609743</key>
+         <source>orcid.org</source>
+         <local_id>10.1109/icsm.2010.5609743 978-1-4244-8630-4</local_id>
+         <last_updated>2015-07-30T22:07:04.207</last_updated>
+         <title>Domain-based change propagation analysis: An enterprise system
+                  case study</title>
+         <authors_list>Aryani, Amir and Peake, Ian D. and Hamilton,
+                Margaret</authors_list>
+         <publication_year>2014</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.1109/aswec.2009.31</key>
+         <source>orcid.org</source>
+         <local_id>10.1109/aswec.2009.31 978-0-7695-3599-9</local_id>
+         <last_updated>2015-07-30T22:26:22.081</last_updated>
+         <title>Change Propagation Analysis Using Domain Information</title>
+         <authors_list>Aryani, Amir and Peake, Ian D. and Hamilton, Margaret and Schmidt, Heinz and
+                Winikoff, Michael</authors_list>
+         <publication_year>2014</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/10.1109/wcre.2011.17</key>
+         <source>orcid.org</source>
+         <local_id>10.1109/wcre.2011.17 978-1-4577-1948-6</local_id>
+         <last_updated>2015-07-30T22:03:47.054</last_updated>
+         <title>Can We Predict Dependencies Using Domain information?</title>
+         <authors_list>Aryani, Amir and Perin, Fabrizio and Lungu, Mircea and Mahmood, Abdun Naser
+                and Nierstrasz, Oscar</authors_list>
+         <publication_year>2014</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/0000-0003-3054-0131</key>
+         <source>orcid.org</source>
+         <local_id>0000-0003-3054-0131</local_id>
+         <last_updated>2015-07-07T14:05:22.153</last_updated>
+         <url>http://researchdata.ands.org.au/adempiere-case-study-code-dependencies</url>
+         <title>ADempiere Case Study: Combining Conceptual and Domain-Based
+                  Couplings to Detect Database and Code Dependencies</title>
+         <authors_list/>
+         <publication_year>2013</publication_year>
+      </publication>
+   </publications>
+</registryObjects>

@@ -10,5 +10,5 @@ for file in os.listdir("."):
 		xml = dicttoxml.dicttoxml(jsonData)
 
 		xml_file = open(file.rsplit(".json",1)[0] + '.xml',"w")
-		xml_file.write(xml)
+		xml_file.write(xml.decode())
 		xml_file.close()
