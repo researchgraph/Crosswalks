@@ -79,30 +79,42 @@ researchgraph:PurlUrl
         vitro:prohibitedFromUpdateBelowRoleLevelAnnot
                 <http://vitro.mannlib.cornell.edu/ns/vitro/role#curator> .
 
+researchgraph:LastUpdated
+        a                        owl:Class ;
+        rdfs:label               "Last updated"@en-US ;
+        rdfs:subClassOf          core:DateTimeValue ;
+        obo:IAO_0000112          "Date/time of last update" ;
+        obo:IAO_0000115          "Date/time of last update" ;
+        vitro:descriptionAnnot   "Date/time of last update" ;
+        vitro:displayLimitAnnot  "-1"^^xsd:int ;
+        vitro:displayRankAnnot   "-1"^^xsd:int ;
+        vitro:hiddenFromDisplayBelowRoleLevelAnnot
+                <http://vitro.mannlib.cornell.edu/ns/vitro/role#public> ;
+        vitro:hiddenFromPublishBelowRoleLevelAnnot
+                <http://vitro.mannlib.cornell.edu/ns/vitro/role#public> ;
+        vitro:prohibitedFromUpdateBelowRoleLevelAnnot
+                <http://vitro.mannlib.cornell.edu/ns/vitro/role#curator> .
+
 <http://my.domain.edu/ontlogy/researchgraph>
         a                          owl:Ontology ;
         rdfs:label                 "Research Graph"@en-US ;
         vitro:ontologyPrefixAnnot  "researchgraph" .
 
 researchgraph:lastUpdated
-        a                              owl:FunctionalProperty , owl:ObjectProperty ;
-        rdfs:label                     "Date and time last updated"@en-US ;
-        rdfs:range                     core:DateTimeValue ;
-        rdfs:subPropertyOf             core:dateTimeValue ;
-        obo:IAO_0000112                "Date and time last updated" ;
-        vitro:descriptionAnnot         "Date and time last updated" ;
+        a                             owl:FunctionalProperty , owl:DatatypeProperty ;
+        rdfs:domain                   owl:Thing ;
+        rdfs:label                    "Last Updated"@en-US ;
+        rdfs:range                    xsd:dateTime ;
+        obo:IAO_0000112               "Date/time when this entity was last updated" ;
+        vitro:descriptionAnnot        "Date/time when this entity was last updated" ;
         vitro:hiddenFromDisplayBelowRoleLevelAnnot
                 <http://vitro.mannlib.cornell.edu/ns/vitro/role#public> ;
         vitro:hiddenFromPublishBelowRoleLevelAnnot
                 <http://vitro.mannlib.cornell.edu/ns/vitro/role#public> ;
-        vitro:inPropertyGroupAnnot     <http://vivoweb.org/ontology#vitroPropertyGrouptime> ;
-        vitro:offerCreateNewOptionAnnot
-                true ;
+        vitro:inPropertyGroupAnnot    <http://vivoweb.org/ontology#vitroPropertyGroupoverview> ;
         vitro:prohibitedFromUpdateBelowRoleLevelAnnot
-                <http://vitro.mannlib.cornell.edu/ns/vitro/role#curator> ;
-        vitro:publicDescriptionAnnot   "Date and time last updated" ;
-        vitro:selectFromExistingAnnot  true ;
-        owl:inverseOf                  researchgraph:lastUpdatedDateFor .
+                <http://vitro.mannlib.cornell.edu/ns/vitro/role#public> ;
+        vitro:publicDescriptionAnnot  "Date/time when this entity was last updated" .
 
 researchgraph:SourceUrl
         a                        owl:Class ;
@@ -122,6 +134,7 @@ researchgraph:SourceUrl
                 <http://vitro.mannlib.cornell.edu/ns/vitro/role#curator> .
 
 researchgraph:rgKey  a                owl:FunctionalProperty , owl:DatatypeProperty ;
+        rdfs:domain                   owl:Thing ;
         rdfs:label                    "Research Graph Key"@en-US ;
         rdfs:range                    xsd:anyURI ;
         obo:IAO_0000112               "The URI of the entity in the Research Graph system" ;
@@ -167,17 +180,9 @@ researchgraph:scopusEid
                 <http://vitro.mannlib.cornell.edu/ns/vitro/role#curator> ;
         vitro:publicDescriptionAnnot  "Scopus EID" .
 
-researchgraph:lastUpdatedDateFor
-        a                        owl:ObjectProperty ;
-        rdfs:domain              core:DateTimeValue ;
-        rdfs:label               "Last updated date and time for"@en-US ;
-        obo:IAO_0000112          "Date and time last updated" ;
-        vitro:descriptionAnnot   "Date and time last updated" ;
-        vitro:displayLimitAnnot  "-1"^^xsd:int ;
-        owl:inverseOf            researchgraph:lastUpdated .
-
 researchgraph:localId
         a                             owl:FunctionalProperty , owl:DatatypeProperty ;
+        rdfs:domain                   owl:Thing ;
         rdfs:label                    "Local ID"@en-US ;
         rdfs:range                    xsd:string ;
         obo:IAO_0000112               "The identifier of the entity in the local system" ;
@@ -258,6 +263,7 @@ researchgraph:FunderUrl
                 <http://vitro.mannlib.cornell.edu/ns/vitro/role#curator> .
 
 researchgraph:toUri  a                owl:DatatypeProperty , owl:FunctionalProperty ;
+        rdfs:domain                   core:Relationship ;
         rdfs:label                    "To URI"@en-US ;
         rdfs:range                    xsd:anyURI ;
         obo:IAO_0000112               "The URI of the entity external to Research Graph" ;
