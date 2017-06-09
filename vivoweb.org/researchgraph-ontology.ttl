@@ -79,22 +79,6 @@ researchgraph:PurlUrl
         vitro:prohibitedFromUpdateBelowRoleLevelAnnot
                 <http://vitro.mannlib.cornell.edu/ns/vitro/role#curator> .
 
-researchgraph:LastUpdated
-        a                        owl:Class ;
-        rdfs:label               "Last updated"@en-US ;
-        rdfs:subClassOf          core:DateTimeValue ;
-        obo:IAO_0000112          "Date/time of last update" ;
-        obo:IAO_0000115          "Date/time of last update" ;
-        vitro:descriptionAnnot   "Date/time of last update" ;
-        vitro:displayLimitAnnot  "-1"^^xsd:int ;
-        vitro:displayRankAnnot   "-1"^^xsd:int ;
-        vitro:hiddenFromDisplayBelowRoleLevelAnnot
-                <http://vitro.mannlib.cornell.edu/ns/vitro/role#public> ;
-        vitro:hiddenFromPublishBelowRoleLevelAnnot
-                <http://vitro.mannlib.cornell.edu/ns/vitro/role#public> ;
-        vitro:prohibitedFromUpdateBelowRoleLevelAnnot
-                <http://vitro.mannlib.cornell.edu/ns/vitro/role#curator> .
-
 <http://my.domain.edu/ontlogy/researchgraph>
         a                          owl:Ontology ;
         rdfs:label                 "Research Graph"@en-US ;

@@ -9,7 +9,7 @@ The following entities will be created for the ResearchGraph Ontology:
 * researchgraph:rgkey is the key used internally in Research Graph to represent entities. It is a data property containing a URI.
 * researchgraph:SourceURL is a sub-class of vcard:URL that indicates a vcard URL is a SourceURL.
 * researchgraph:localId is a data property that associates an entity with an identifier string used at the entity’s institution to identify the entity.
-* researchgraph:lastUpdated is an object property that associates an entity with a date time object to indicate the date of last update of the entity in Research Graph.
+* researchgraph:lastUpdated is a data property that associates a datetime value of last update for the entity
 * researchgraph:toUri is a data property for an external Uri referred to by a relation.
 * researchgraph:LicenseURL is a sub-class of vcard:URL to indicate that a URL points at a license on the web.
 * researchgraph:megabyte is a data property used to associate the decimal value of the dataset size in megabytes with the dataset entity.

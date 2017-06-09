@@ -1,0 +1,35 @@
+# Queries to retrieve triples for ResearchGraph entities
+
+
+# Construct entity triples
+
+CONSTRUCT  { ?s ?p ?o }
+WHERE {
+  GRAPH ?g {
+  {?s a vivo:Dataset . } UNION {?s a foaf:Person .} UNION {?s a vivo:Grant .} UNION {?s a bibo:Article . } UNION {?s a vivo:Relationship . }
+  ?s ?p ?o .
+  }}
+ORDER BY ?s ?p ?o
+
+# Construct triples at path length 2 from the entity
+
+CONSTRUCT  { ?s ?p ?o }
+WHERE {
+  GRAPH ?g {
+  {?s1 a vivo:Dataset . } UNION {?s1 a foaf:Person .} UNION {?s1 a vivo:Grant .} UNION {?s1 a bibo:Article . }
+    {?s1 obo:ARG_2000028 ?s . } UNION { ?s1 vivo:dateTimeInterval ?s . } UNION { ?s1 vivo:dateTimeValue ?s . }
+    ?s ?p ?o .
+  }}
+ORDER BY ?s ?p ?o
+
+# Construct triples at path length 3 from the entity
+
+CONSTRUCT  { ?s ?p ?o }
+WHERE {
+  GRAPH ?g {
+  {?s2 a vivo:Dataset . } UNION {?s2 a foaf:Person .} UNION {?s2 a vivo:Grant .} UNION {?s2 a bibo:Article . }
+    {?s2 obo:ARG_2000028 ?s1 . } UNION { ?s2 vivo:dateTimeInterval ?s1 . } UNION { ?s2 vivo:dateTimeValue ?s1 . }
+    ?s1 ?p1 ?s .
+    ?s ?p ?o .
+  }}
+ORDER BY ?s ?p ?o
