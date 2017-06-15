@@ -144,7 +144,8 @@
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-01-01T00:00:00</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
-      <bibo:doi>doi.org/10.1371/journal.pone.0008619<ns2:ARG_2000028>
+         <bibo:doi>doi.org/10.1371/journal.pone.0008619</bibo:doi>
+         <ns2:ARG_2000028>
             <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/9695">
                <vcard:hasURL>
                   <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/6155">
@@ -167,7 +168,6 @@
          <ns1:rgKey rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">researchgraph.org/figshare/10.1371/journal.pone.0008619</ns1:rgKey>
          <ns1:localId>10.1371/journal.pone.0008619</ns1:localId>
          <ns1:lastUpdated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-01-08T01:24:55Z</ns1:lastUpdated>
-      </bibo:doi>
    </ns0:Dataset>
    
       <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n4100">
