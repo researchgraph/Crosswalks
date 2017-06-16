@@ -272,7 +272,8 @@
             
             <bibo:doi>
                 <xsl:value-of select=".//rg:doi"/>
-                <ns2:ARG_2000028>
+            </bibo:doi>
+            <ns2:ARG_2000028>
                     <vcard:Kind rdf:about="{concat($source,string(floor(math:random()*9999) mod 9999) + 1)}">
                         <vcard:hasURL>
                             <vcard:URL rdf:about="{concat($source,string(floor(math:random()*9999) mod 9999) + 1)}">
@@ -298,16 +299,15 @@
                         <ns2:ARG_2000029 rdf:resource="{concat($source,.//rg:local_id)}"/>
                     </vcard:Kind>
                 </ns2:ARG_2000028>
-                <ns1:rgKey rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
-                    <xsl:value-of select=".//rg:key"/>
-                </ns1:rgKey>
-                <ns1:localId>
-                    <xsl:value-of select=".//rg:local_id"/>
-                </ns1:localId>
-                <ns1:lastUpdated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+            <ns1:rgKey rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
+                <xsl:value-of select=".//rg:key"/>
+            </ns1:rgKey>
+            <ns1:localId>
+                <xsl:value-of select=".//rg:local_id"/>
+            </ns1:localId>
+            <ns1:lastUpdated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                     <xsl:value-of select=".//rg:last_updated"/>
                 </ns1:lastUpdated>
-            </bibo:doi>
         </ns0:Dataset>
     </xsl:template>
     

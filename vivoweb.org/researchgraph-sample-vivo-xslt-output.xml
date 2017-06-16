@@ -13,15 +13,15 @@
       <rdfs:label>British Empire and the Natural World: the Environmental History of the British Empire and Commonwealth</rdfs:label>
       <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Grant"/>
       <ns0:dateTimeInterval>
-         <ns0:DateTimeInterval rdf:about="http://vivo.mydomain.edu/individual/5511">
+         <ns0:DateTimeInterval rdf:about="http://vivo.mydomain.edu/individual/5640">
             <ns0:start>
-               <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/8997">
+               <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/195">
                   <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
                   <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2006-01-01T00:00:00</ns0:dateTime>
                </ns0:DateTimeValue>
             </ns0:start>
             <ns0:end>
-               <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/1102">
+               <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/9867">
                   <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
                   <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-01-01T00:00:00</ns0:dateTime>
                </ns0:DateTimeValue>
@@ -33,16 +33,16 @@
       <ns1:localId>DP0667253</ns1:localId>
       <ns1:lastUpdated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-08-13T17:12:23Z</ns1:lastUpdated>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/7670">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/6996">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/1232">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/2896">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://researchdata.ands.org.au/british-empire-natural-1600-2000/61903</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/8260">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/3565">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://arc.gov.au</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -50,7 +50,7 @@
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/8273">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/4993">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://purl.org/au-research/grants/arc/DP0667253</vcard:url>
                   <rdfs:label>PURL</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#PurlUrl"/>
@@ -58,7 +58,7 @@
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/1759">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/9722">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://arc.gov.au</vcard:url>
                   <rdfs:label>Funder</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#FunderUrl"/>
@@ -79,16 +79,16 @@
       </ns0:orcidId>
       <ns0:scopusId>35068996400</ns0:scopusId>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/7026">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/8968">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/7731">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/4856">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://figshare.com/authors/ANDY_TSENG/1163885</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/9120">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/6785">
                   <vcard:givenName>ANDY</vcard:givenName>
                   <vcard:familyName>TSENG</vcard:familyName>
                </vcard:Name>
@@ -104,23 +104,23 @@
       <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/10.4225/49/552b658019d34">
       <rdfs:label>Research Cloud Data Communities</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/6309">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/2386">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2015-01-01T00:00:00</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>doi.org/10.4225/49/552b658019d34</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/3394">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/3843">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/1207">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/1156">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://figshare.com/articles/testShare/2000066</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/9430">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/5747">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -139,35 +139,35 @@
       <ns0:Dataset rdf:about="http://vivo.mydomain.edu/individual/10.1371/journal.pone.0008619">
       <rdfs:label>A Modular BAM Complex in the Outer Membrane of the α-Proteobacterium</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/2881">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/9458">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-01-01T00:00:00</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
-      <bibo:doi>doi.org/10.1371/journal.pone.0008619<ns2:ARG_2000028>
-            <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/9695">
-               <vcard:hasURL>
-                  <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/6155">
-                     <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
-                     <rdfs:label>Source</rdfs:label>
-                     <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
-                     <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</ns0:rank>
-                  </vcard:URL>
-               </vcard:hasURL>
-               <vcard:hasURL>
-                  <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/6956">
-                     <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088</vcard:url>
-                     <rdfs:label>URL</rdfs:label>
-                     <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
-                  </vcard:URL>
-               </vcard:hasURL>
-               <ns2:ARG_2000029 rdf:resource="http://vivo.mydomain.edu/individual/10.1371/journal.pone.0008619"/>
-            </vcard:Kind>
-         </ns2:ARG_2000028>
-         <ns1:rgKey rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">researchgraph.org/figshare/10.1371/journal.pone.0008619</ns1:rgKey>
-         <ns1:localId>10.1371/journal.pone.0008619</ns1:localId>
-         <ns1:lastUpdated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-01-08T01:24:55Z</ns1:lastUpdated>
-      </bibo:doi>
+      <bibo:doi>doi.org/10.1371/journal.pone.0008619</bibo:doi>
+      <ns2:ARG_2000028>
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/4100">
+            <vcard:hasURL>
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/335">
+                  <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
+                  <rdfs:label>Source</rdfs:label>
+                  <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
+                  <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</ns0:rank>
+               </vcard:URL>
+            </vcard:hasURL>
+            <vcard:hasURL>
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/2218">
+                  <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://figshare.com/articles/A_Modular_BAM_Complex_in_the_Outer_Membrane_of_the_Proteobacterium_em_Caulobacter_crescentus_em_/145088</vcard:url>
+                  <rdfs:label>URL</rdfs:label>
+                  <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
+               </vcard:URL>
+            </vcard:hasURL>
+            <ns2:ARG_2000029 rdf:resource="http://vivo.mydomain.edu/individual/10.1371/journal.pone.0008619"/>
+         </vcard:Kind>
+      </ns2:ARG_2000028>
+      <ns1:rgKey rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">researchgraph.org/figshare/10.1371/journal.pone.0008619</ns1:rgKey>
+      <ns1:localId>10.1371/journal.pone.0008619</ns1:localId>
+      <ns1:lastUpdated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-01-08T01:24:55Z</ns1:lastUpdated>
    </ns0:Dataset>
    
       <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n4100">
