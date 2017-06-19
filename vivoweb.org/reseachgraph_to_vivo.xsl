@@ -20,7 +20,7 @@
     <!-- Configuration             					 -->
     <!-- =========================================== -->
     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" />
-    <xsl:variable name="source" select="'http://vivo.mydomain.edu/individual/'"/>
+    <xsl:variable name="source" select="'http://vivo.mydomain.edu/individual/n'"/>
     <!-- =========================================== -->
     <!-- root Template                                                                            -->
     <!-- =========================================== -->
@@ -52,7 +52,7 @@
              </rdfs:label>
              <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Grant"/>
              <ns0:dateTimeInterval>
-                 <ns0:DateTimeInterval rdf:about="{concat($source,string(floor(math:random()*9999) mod 9999) + 1)}">
+                 <ns0:DateTimeInterval rdf:about="{concat($source,string(floor(math:random()*9998) mod 9998 + 1))}">
                      <ns0:start>
                          <ns0:DateTimeValue rdf:about="{concat($source,string(floor(math:random()*9999) mod 9999) + 1)}">
                              <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
