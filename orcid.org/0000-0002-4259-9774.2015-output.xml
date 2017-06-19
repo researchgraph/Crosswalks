@@ -39,15 +39,6 @@
    </grants>
    <publications>
       <publication>
-         <key>researchgraph.org/10.3233/978-1-61499-468-8-125</key>
-         <source>orcid.org</source>
-         <local_id>10.3233/978-1-61499-468-8-125</local_id>
-         <last_updated>2015-10-02T01:19:18.505Z</last_updated>
-         <title>Open-Access Grant Data: Towards Meta-Research Innovation</title>
-         <authors_list>Null</authors_list>
-         <publication_year>2014</publication_year>
-      </publication>
-      <publication>
          <key>researchgraph.org/10.1007/978-3-319-24129-6_28</key>
          <source>orcid.org</source>
          <local_id>10.1007/978-3-319-24129-6_28</local_id>
@@ -91,15 +82,6 @@
          <title>ANDS is building the Australian Research Data Commons</title>
          <authors_list>Amir Aryani; </authors_list>
          <publication_year>2014</publication_year>
-      </publication>
-      <publication>
-         <key>researchgraph.org/8631618</key>
-         <source>orcid.org</source>
-         <local_id>8631618</local_id>
-         <last_updated>2015-07-09T06:18:35.620Z</last_updated>
-         <title>Predicting Dependencies Using Domain-based Coupling</title>
-         <authors_list>Null</authors_list>
-         <publication_year>2013</publication_year>
       </publication>
       <publication>
          <key>researchgraph.org/10.6084/M9.FIGSHARE.799755</key>
@@ -164,7 +146,6 @@
          <last_updated>2015-07-30T22:15:32.721Z</last_updated>
          <title>On the relationships between domain-based coupling and code clones: An exploratory study</title>
          <authors_list>Rahman, Md Saidur and Aryani, Amir and Roy, Chanchal K. and Perin, Fabrizio</authors_list>
-         <publication_year>Null</publication_year>
       </publication>
       <publication>
          <key>researchgraph.org/10.1109/istas.2013.6613101</key>
@@ -173,16 +154,6 @@
          <last_updated>2015-07-30T22:24:21.058Z</last_updated>
          <title>Identity awareness and re-use of research data in veillance and social computing</title>
          <authors_list>Hayes, Alexander and Mann, Steve and Aryani, Amir and Sabine, Susannah and Blackall, Leigh and Waugh, Pia and Ridgway, Stephan</authors_list>
-         <publication_year>Null</publication_year>
-      </publication>
-      <publication>
-         <key>researchgraph.org/15202962</key>
-         <source>orcid.org</source>
-         <local_id>15202962</local_id>
-         <last_updated>2015-07-24T03:08:56.206Z</last_updated>
-         <title>https://docs.google.com/presentation/d/1TR6vMnwwQvu44shenJXr09Ily-3CbpOGvzPMdqFags0/edit#slide=id.g61e1acd0b_170</title>
-         <authors_list>Null</authors_list>
-         <publication_year>Null</publication_year>
       </publication>
       <publication>
          <key>researchgraph.org/10.1109/icsm.2010.5609743</key>
@@ -191,7 +162,6 @@
          <last_updated>2015-07-30T22:07:04.207Z</last_updated>
          <title>Domain-based change propagation analysis: An enterprise system case study</title>
          <authors_list>Aryani, Amir and Peake, Ian D. and Hamilton, Margaret</authors_list>
-         <publication_year>Null</publication_year>
       </publication>
       <publication>
          <key>researchgraph.org/10.1109/aswec.2009.31</key>
@@ -200,7 +170,6 @@
          <last_updated>2015-07-30T22:26:22.081Z</last_updated>
          <title>Change Propagation Analysis Using Domain Information</title>
          <authors_list>Aryani, Amir and Peake, Ian D. and Hamilton, Margaret and Schmidt, Heinz and Winikoff, Michael</authors_list>
-         <publication_year>Null</publication_year>
       </publication>
       <publication>
          <key>researchgraph.org/10.1109/wcre.2011.17</key>
@@ -209,16 +178,6 @@
          <last_updated>2015-07-30T22:03:47.054Z</last_updated>
          <title>Can We Predict Dependencies Using Domain information?</title>
          <authors_list>Aryani, Amir and Perin, Fabrizio and Lungu, Mircea and Mahmood, Abdun Naser and Nierstrasz, Oscar</authors_list>
-         <publication_year>Null</publication_year>
-      </publication>
-      <publication>
-         <key>researchgraph.org/10091556</key>
-         <source>orcid.org</source>
-         <local_id>10091556</local_id>
-         <last_updated>2015-07-07T14:05:22.153Z</last_updated>
-         <title>ADempiere Case Study: Combining Conceptual and Domain-Based Couplings to Detect Database and Code Dependencies</title>
-         <authors_list>Null</authors_list>
-         <publication_year>Null</publication_year>
       </publication>
    </publications>
 </registryObjects>
