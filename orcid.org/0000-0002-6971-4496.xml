@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orcid-message xmlns="http://www.orcid.org/ns/orcid">
+    <message-version>1.2</message-version>
+    <orcid-profile type="user">
+        <orcid-identifier>
+            <uri>http://orcid.org/0000-0002-6971-4496</uri>
+            <path>0000-0002-6971-4496</path>
+            <host>orcid.org</host>
+        </orcid-identifier>
+        <orcid-preferences>
+            <locale>zh_CN</locale>
+        </orcid-preferences>
+        <orcid-history>
+            <creation-method>Member-referred</creation-method>
+            <submission-date>2014-03-27T06:05:06.957Z</submission-date>
+            <last-modified-date>2016-06-14T22:52:25.037Z</last-modified-date>
+            <claimed>true</claimed>
+            <verified-email>true</verified-email>
+            <verified-primary-email>true</verified-primary-email>
+        </orcid-history>
+        <orcid-bio>
+            <personal-details>
+                <given-names>wenhua</given-names>
+                <family-name>jia</family-name>
+            </personal-details>
+            <biography visibility="public">Wenhua Jia received the ph.D degrees in mechanical engineering from Jiangsu University of Technology, Nanjing. She is currently a Associate Professor in Nanjing Institute of Technology. Her initial research focused mainly on valve flow characteristics and cavitation analysis.</biography>
+        </orcid-bio>
+        <orcid-activities>
+            <affiliations>
+                <affiliation visibility="public" put-code="192843">
+                    <type>employment</type>
+                    <department-name>School of Mechanical Engineering</department-name>
+                    <start-date>
+                        <year>2011</year>
+                        <month>07</month>
+                        <day>01</day>
+                    </start-date>
+                    <organization>
+                        <name>Nanjing Institute of Technology</name>
+                        <address>
+                            <city>Nanjing</city>
+                            <country>CN</country>
+                        </address>
+                    </organization>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-6971-4496</uri>
+                            <path>0000-0002-6971-4496</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>wenhua jia</source-name>
+                        <source-date>2014-03-27T06:16:30.755Z</source-date>
+                    </source>
+                    <created-date>2014-03-27T06:16:30.755Z</created-date>
+                    <last-modified-date>2014-03-27T06:16:30.755Z</last-modified-date>
+                </affiliation>
+                <affiliation visibility="public" put-code="192838">
+                    <type>education</type>
+                    <department-name> School of Mechanical and Power Engineering</department-name>
+                    <role-title>Ph.D</role-title>
+                    <start-date>
+                        <year>2006</year>
+                        <month>09</month>
+                        <day>01</day>
+                    </start-date>
+                    <end-date>
+                        <year>2011</year>
+                        <month>06</month>
+                        <day>30</day>
+                    </end-date>
+                    <organization>
+                        <name>Nanjing University of Technology</name>
+                        <address>
+                            <city>Nanjing</city>
+                            <country>CN</country>
+                        </address>
+                    </organization>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-6971-4496</uri>
+                            <path>0000-0002-6971-4496</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>wenhua jia</source-name>
+                        <source-date>2014-03-27T06:14:31.152Z</source-date>
+                    </source>
+                    <created-date>2014-03-27T06:14:31.152Z</created-date>
+                    <last-modified-date>2016-02-29T06:08:38.782Z</last-modified-date>
+                </affiliation>
+            </affiliations>
+            <orcid-works>
+                <orcid-work put-code="22595421" visibility="public">
+                    <work-title>
+                        <title>基于AMESim/MATLAB的液压换向阀的优化设计</title>
+                    </work-title>
+                    <journal-title>机床与液压</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article{AL:jcyyy201315048,title={基于AMESim/MATLAB的液压换向阀的优化设计},journal={机床与液压},year={2013},pages={182-183},number={2013年 15期},author={贾文华;南京工程学院机械工程学院;贾文华;殷晨波;曹东辉;南京工程学院机械工程学院,江苏南京211167;南京工业大学车辆与工程机械研究所,江苏南京210009;三一重机有限公司,江苏昆山215300;南京工业大学车辆与工程机械研究所,江苏南京,210009;三一重机有限公司,江苏昆山,215300}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>other-id</work-external-identifier-type>
+                            <work-external-identifier-id>AL:jcyyy201315048</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.airitilibrary.com/Publication/Index/jcyyy201315048</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">贾文华</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">南京工程学院机械工程学院</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">贾文华</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">殷晨波</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">曹东辉</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">南京工程学院机械工程学院,江苏南京211167</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">南京工业大学车辆与工程机械研究所,江苏南京210009</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">三一重机有限公司,江苏昆山215300</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">南京工业大学车辆与工程机械研究所,江苏南京,210009</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">三一重机有限公司,江苏昆山,215300</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-7369-7692</uri>
+                            <path>0000-0002-7369-7692</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>Airiti</source-name>
+                        <source-date>2016-02-29T08:27:31.980Z</source-date>
+                    </source>
+                    <created-date>2016-02-29T08:27:31.980Z</created-date>
+                    <last-modified-date>2016-02-29T08:27:31.980Z</last-modified-date>
+                    <country visibility="public">TW</country>
+                </orcid-work>
+                <orcid-work put-code="22595420" visibility="public">
+                    <work-title>
+                        <title>基于AMESim的21 t液压挖掘机液压管路系统压力损失计算</title>
+                    </work-title>
+                    <journal-title>液压与气动</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article{AL:yyyqd201303025,title={基于AMESim的21 t液压挖掘机液压管路系统压力损失计算},journal={液压与气动},year={2013},pages={79-82},number={2013年 03期},author={李萍;殷晨波;叶仪;贾文华;南京工业大学车辆与工程机械研究所,江苏南京,211816;南京工程学院,江苏南京,211167}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>other-id</work-external-identifier-type>
+                            <work-external-identifier-id>AL:yyyqd201303025</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.airitilibrary.com/Publication/Index/yyyqd201303025</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">李萍</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">殷晨波</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">叶仪</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">贾文华</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">南京工业大学车辆与工程机械研究所,江苏南京,211816</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">南京工程学院,江苏南京,211167</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-7369-7692</uri>
+                            <path>0000-0002-7369-7692</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>Airiti</source-name>
+                        <source-date>2016-02-29T08:27:31.975Z</source-date>
+                    </source>
+                    <created-date>2016-02-29T08:27:31.975Z</created-date>
+                    <last-modified-date>2016-02-29T08:27:31.975Z</last-modified-date>
+                    <country visibility="public">TW</country>
+                </orcid-work>
+                <orcid-work put-code="22595422" visibility="public">
+                    <work-title>
+                        <title>挖掘机动臂顶升优先功能的协调性分析</title>
+                    </work-title>
+                    <journal-title>煤矿机械</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article{AL:mkjx201305054,title={挖掘机动臂顶升优先功能的协调性分析},journal={煤矿机械},year={2013},pages={123-124},number={2013年 05期},author={贾文华;南京工程学院机械工程学院;贾文华;殷晨波;曹东辉;南京工程学院机械工程学院,南京211167;南京工业大学车辆与工程机械研究所,南京210009;三一重机有限公司,江苏昆山215300;南京工业大学车辆与工程机械研究所,南京,210009;三一重机有限公司,江苏昆山,215300}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>other-id</work-external-identifier-type>
+                            <work-external-identifier-id>AL:mkjx201305054</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.airitilibrary.com/Publication/Index/mkjx201305054</url>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">贾文华</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">南京工程学院机械工程学院</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">贾文华</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">殷晨波</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">曹东辉</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">南京工程学院机械工程学院,南京211167</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">南京工业大学车辆与工程机械研究所,南京210009</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">三一重机有限公司,江苏昆山215300</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">南京工业大学车辆与工程机械研究所,南京,210009</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">三一重机有限公司,江苏昆山,215300</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-7369-7692</uri>
+                            <path>0000-0002-7369-7692</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>Airiti</source-name>
+                        <source-date>2016-02-29T08:27:31.983Z</source-date>
+                    </source>
+                    <created-date>2016-02-29T08:27:31.983Z</created-date>
+                    <last-modified-date>2016-02-29T08:27:31.983Z</last-modified-date>
+                    <country visibility="public">TW</country>
+                </orcid-work>
+            </orcid-works>
+            <funding-list>
+                <funding put-code="5713" visibility="public">
+                    <funding-type>award</funding-type>
+                    <organization-defined-type>default</organization-defined-type>
+                    <funding-title>
+                        <title>The National Natural Science Fund of China</title>
+                        <translated-title language-code="zh_CN">江苏省自然科学青年基金</translated-title>
+                    </funding-title>
+                    <url></url>
+                    <start-date>
+                        <year>2016</year>
+                        <month>01</month>
+                    </start-date>
+                    <end-date>
+                        <year>2018</year>
+                        <month>12</month>
+                    </end-date>
+                    <funding-external-identifiers>
+                        <funding-external-identifier>
+                            <funding-external-identifier-type>grant_number</funding-external-identifier-type>
+                            <funding-external-identifier-value>51505211</funding-external-identifier-value>
+                        </funding-external-identifier>
+                    </funding-external-identifiers>
+                    <organization>
+                        <name>The National Natural Science Foundation</name>
+                        <address>
+                            <city>Nanjing</city>
+                            <country>CN</country>
+                        </address>
+                    </organization>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-6971-4496</uri>
+                            <path>0000-0002-6971-4496</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>wenhua jia</source-name>
+                        <source-date>2014-03-27T06:31:04.121Z</source-date>
+                    </source>
+                    <created-date>2014-03-27T06:31:04.121Z</created-date>
+                    <last-modified-date>2016-02-29T06:12:12.042Z</last-modified-date>
+                </funding>
+                <funding put-code="5714" visibility="public">
+                    <funding-type>award</funding-type>
+                    <organization-defined-type>default</organization-defined-type>
+                    <funding-title>
+                        <title>Jiangsu Natural Science Foundation</title>
+                        <translated-title language-code="zh_CN">江苏省高校自然科学基金</translated-title>
+                    </funding-title>
+                    <url></url>
+                    <start-date>
+                        <year>2013</year>
+                        <month>08</month>
+                    </start-date>
+                    <end-date>
+                        <year>2016</year>
+                        <month>11</month>
+                    </end-date>
+                    <funding-external-identifiers>
+                        <funding-external-identifier>
+                            <funding-external-identifier-type>grant_number</funding-external-identifier-type>
+                            <funding-external-identifier-value>BK20130741</funding-external-identifier-value>
+                        </funding-external-identifier>
+                    </funding-external-identifiers>
+                    <funding-contributors>
+                        <funding-contributor>
+                            <funding-contributor-attributes>
+                                <funding-contributor-role>lead</funding-contributor-role>
+                            </funding-contributor-attributes>
+                        </funding-contributor>
+                    </funding-contributors>
+                    <organization>
+                        <name>Science and Technology Department of Jiangsu Province</name>
+                        <address>
+                            <city>Nanjing</city>
+                            <country>CN</country>
+                        </address>
+                    </organization>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-6971-4496</uri>
+                            <path>0000-0002-6971-4496</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>wenhua jia</source-name>
+                        <source-date>2014-03-27T06:34:58.371Z</source-date>
+                    </source>
+                    <created-date>2014-03-27T06:34:58.371Z</created-date>
+                    <last-modified-date>2016-02-29T06:14:15.051Z</last-modified-date>
+                </funding>
+            </funding-list>
+        </orcid-activities>
+    </orcid-profile>
+</orcid-message>
