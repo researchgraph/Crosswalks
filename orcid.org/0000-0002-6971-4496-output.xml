@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <researchers>
+      <researcher>
+         <key>researchgraph.org/orcid/0000-0002-6971-4496</key>
+         <source>orcid.org</source>
+         <local_id>0000-0002-6971-4496</local_id>
+         <last_updated>2016-06-14T22:52:25.037Z</last_updated>
+         <url/>
+         <full_name>wenhua jia</full_name>
+         <first_name>wenhua</first_name>
+         <last_name>jia</last_name>
+         <orcid>0000-0002-6971-4496</orcid>
+      </researcher>
+   </researchers>
+   <grants>
+      <grant>
+         <key>researchgraph.org/orcid/51505211</key>
+         <source>orcid.org</source>
+         <local_id>51505211</local_id>
+         <last_updated>2016-02-29T06:12:12.042Z</last_updated>
+         <url>http://orcid.org/0000-0002-6971-4496</url>
+         <title>The National Natural Science Fund of China</title>
+         <start_year>2016</start_year>
+         <funder>The National Natural Science Foundation</funder>
+      </grant>
+      <grant>
+         <key>researchgraph.org/orcid/BK20130741</key>
+         <source>orcid.org</source>
+         <local_id>BK20130741</local_id>
+         <last_updated>2016-02-29T06:14:15.051Z</last_updated>
+         <url>http://orcid.org/0000-0002-6971-4496</url>
+         <title>Jiangsu Natural Science Foundation</title>
+         <start_year>2013</start_year>
+         <funder>Science and Technology Department of Jiangsu Province</funder>
+      </grant>
+   </grants>
+   <publications>
+      <publication>
+         <key>researchgraph.org/22595421</key>
+         <source>orcid.org</source>
+         <local_id>22595421</local_id>
+         <last_updated>2016-02-29T08:27:31.980Z</last_updated>
+         <url>http://www.airitilibrary.com/Publication/Index/jcyyy201315048</url>
+         <title>基于AMESim/MATLAB的液压换向阀的优化设计</title>
+         <authors_list>贾文华;南京工程学院机械工程学院;贾文华;殷晨波;曹东辉;南京工程学院机械工程学院,江苏南京211167;南京工业大学车辆与工程机械研究所,江苏南京210009;三一重机有限公司,江苏昆山215300;南京工业大学车辆与工程机械研究所,江苏南京,210009;三一重机有限公司,江苏昆山,215300</authors_list>
+         <publication_year>2013</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/22595420</key>
+         <source>orcid.org</source>
+         <local_id>22595420</local_id>
+         <last_updated>2016-02-29T08:27:31.975Z</last_updated>
+         <url>http://www.airitilibrary.com/Publication/Index/yyyqd201303025</url>
+         <title>基于AMESim的21 t液压挖掘机液压管路系统压力损失计算</title>
+         <authors_list>李萍;殷晨波;叶仪;贾文华;南京工业大学车辆与工程机械研究所,江苏南京,211816;南京工程学院,江苏南京,211167</authors_list>
+         <publication_year>2013</publication_year>
+      </publication>
+      <publication>
+         <key>researchgraph.org/22595422</key>
+         <source>orcid.org</source>
+         <local_id>22595422</local_id>
+         <last_updated>2016-02-29T08:27:31.983Z</last_updated>
+         <url>http://www.airitilibrary.com/Publication/Index/mkjx201305054</url>
+         <title>挖掘机动臂顶升优先功能的协调性分析</title>
+         <authors_list>贾文华;南京工程学院机械工程学院;贾文华;殷晨波;曹东辉;南京工程学院机械工程学院,南京211167;南京工业大学车辆与工程机械研究所,南京210009;三一重机有限公司,江苏昆山215300;南京工业大学车辆与工程机械研究所,南京,210009;三一重机有限公司,江苏昆山,215300</authors_list>
+         <publication_year>2013</publication_year>
+      </publication>
+   </publications>
+</registryObjects>

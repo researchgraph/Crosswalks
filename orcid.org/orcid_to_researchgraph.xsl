@@ -28,9 +28,9 @@
             <researchers>
                 <xsl:apply-templates select=".//or:orcid-bio" mode="researcher"/>
             </researchers>
-            <xsl:if test=".//or:orcid-activities">
+            <xsl:if test=".//or:funding-list">
                 <grants>
-                    <xsl:apply-templates select=".//or:affiliations/or:affiliation" mode="grant"/>
+                    <xsl:apply-templates select=".//or:funding-list/or:funding" mode="grant"/>
                 </grants>
             </xsl:if>
             <xsl:if test=".//or:orcid-works/or:orcid-work">
@@ -87,19 +87,19 @@
     <!-- Grant Template                                                                         -->    
     <!-- =========================================== -->
     
-    <xsl:template match="or:affiliation" mode="grant">
+    <xsl:template match="or:funding" mode="grant">
         <xsl:variable name="groupName" select=".//or:organization/or:name"/>
         <xsl:variable name="groupSource" select="$andsGroupList/root/row[group = $groupName]/source"/>
         <xsl:variable name="timestamp" select=".//or:last-modified-date"/>
         <grant>
             <key>
-                <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:source-orcid/or:path)"/>
+                <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:funding-external-identifier[or:funding-external-identifier-type='grant_number']/or:funding-external-identifier-value)"/>
             </key>
             <source>
                 <xsl:value-of select="$source"/>
             </source>
             <local_id>
-                <xsl:value-of select=".//or:source-orcid/or:path"/>
+                <xsl:value-of select=".//or:funding-external-identifier[or:funding-external-identifier-type='grant_number']/or:funding-external-identifier-value"/>
             </local_id>
             <last_updated>
                 <xsl:value-of select="$timestamp"/>
@@ -108,7 +108,7 @@
                 <xsl:value-of select=".//or:source-orcid/or:uri"/>
             </url>
             <title>
-                <xsl:value-of select=".//or:role-title"/>
+                <xsl:value-of select=".//or:funding-title/or:title"/>
             </title>
             <xsl:if test=".//or:start-date/or:year">
                 <start_year>
@@ -121,7 +121,7 @@
                 </end_year>
             </xsl:if>
             <funder>
-                <xsl:value-of select="$groupSource"/>
+                <xsl:value-of select=".//or:organization/or:name"/>
             </funder>
         </grant>
     </xsl:template>
@@ -159,9 +159,9 @@
                 <last_updated>
                     <xsl:value-of select="$timestamp"/>
                 </last_updated>
-                <xsl:if test=".//or:url/or:value">
+                <xsl:if test=".//or:url">
                     <url>
-                        <xsl:value-of select=".//or:url/or:value"/>
+                        <xsl:value-of select=".//or:url"/>
                     </url>
                 </xsl:if>
                 <title>
