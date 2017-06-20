@@ -28,16 +28,19 @@
             <researchers>
                 <xsl:apply-templates select=".//or:orcid-bio" mode="researcher"/>
             </researchers>
+            <xsl:if  test=".//or:orcid-work[or:work-type='data-set']">
+                <datasets>
+                    <xsl:apply-templates select=".//or:orcid-work[or:work-type='data-set']" mode="dataset"/>
+                </datasets>
+            </xsl:if>
             <xsl:if test=".//or:funding-list">
                 <grants>
                     <xsl:apply-templates select=".//or:funding-list/or:funding" mode="grant"/>
                 </grants>
             </xsl:if>
-            <xsl:if test=".//or:orcid-works/or:orcid-work">
-                <publications>
-                    <xsl:apply-templates select=".//or:orcid-work" mode="publication"/>
-                </publications>
-            </xsl:if>
+            <publications>
+                <xsl:apply-templates select=".//or:orcid-work[.//or:work-type!='data-set']" mode="publication"/>
+            </publications>
             <relations>
                 <xsl:apply-templates select=".//or:orcid-work" mode="relation"/>
                 <xsl:apply-templates select=".//or:funding" mode="relation"/>
@@ -88,6 +91,61 @@
         </researcher>
     </xsl:template>
     <!-- =========================================== -->
+    <!-- Dataset Template                                                                     -->    
+    <!-- =========================================== -->
+    <xsl:template match="or:orcid-work[.//or:work-type='data-set']" mode="dataset">
+        <xsl:variable name="timestamp" select=".//or:last-modified-date"/>
+        <dataset>
+            <key>
+                <xsl:choose>
+                    <xsl:when test=".//or:work-external-identifier[or:work-external-identifier-type='doi']">
+                        <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:work-external-identifier[or:work-external-identifier-type='doi']/or:work-external-identifier-id)"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="concat('researchgraph.org/orcid/',./@put-code)"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </key>
+            <source>
+                <xsl:value-of select="$source"/>
+            </source>
+            <local_id>
+                <xsl:choose>
+                    <xsl:when test=".//or:work-external-identifier[or:work-external-identifier-type='doi']">
+                        <xsl:value-of select=".//or:work-external-identifier[or:work-external-identifier-type='doi']/or:work-external-identifier-id"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="./@put-code"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </local_id>
+            <last_updated>
+                <xsl:value-of select="$timestamp"/>
+            </last_updated>
+            <xsl:if test=".//or:url">
+                <url>
+                    <xsl:value-of select=".//or:url"/>
+                </url>
+            </xsl:if>
+            <title>
+                <xsl:value-of select=".//or:work-title/or:title"/>
+            </title>
+            <xsl:if test=".//or:work-external-identifier[or:work-external-identifier-type='doi']">
+                <doi>
+                    <xsl:value-of select=".//or:work-external-identifier[or:work-external-identifier-type='doi']/or:work-external-identifier-id"/>
+                </doi>
+            </xsl:if>
+            <xsl:choose>
+                <xsl:when test=".//or:publication-date/or:year">
+                    <publication_year>
+                        <xsl:value-of select=".//or:publication-date/or:year"/>
+                    </publication_year>
+                </xsl:when>
+            </xsl:choose>
+        </dataset>
+    </xsl:template>
+    
+    <!-- =========================================== -->
     <!-- Grant Template                                                                         -->    
     <!-- =========================================== -->
     
@@ -133,7 +191,7 @@
     <!-- =========================================== -->
     <!-- Publication Template                                                               -->
     <!-- =========================================== -->
-    <xsl:template match="or:orcid-work" mode="publication">
+    <xsl:template match="or:orcid-work[.//or:work-type!='data-set']" mode="publication">
         <xsl:if test=".[//or:work-contributors/or:contributor/or:item[.//or:contributor-role='AUTHOR']] | .[boolean(contains(.//or:citation,'author'))]">
             <xsl:variable name="timestamp" select=".//or:last-modified-date"/>
             <publication>

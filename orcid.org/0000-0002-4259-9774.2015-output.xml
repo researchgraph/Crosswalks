@@ -15,6 +15,17 @@
          <orcid>0000-0002-4259-9774</orcid>
       </researcher>
    </researchers>
+   <datasets>
+      <dataset>
+         <key>researchgraph.org/orcid/10.6084/M9.FIGSHARE.1045389</key>
+         <source>orcid.org</source>
+         <local_id>10.6084/M9.FIGSHARE.1045389</local_id>
+         <last_updated>2015-07-22T14:45:35.771Z</last_updated>
+         <title>ANDS is building the Australian Research Data Commons</title>
+         <doi>10.6084/M9.FIGSHARE.1045389</doi>
+         <publication_year>2014</publication_year>
+      </dataset>
+   </datasets>
    <publications>
       <publication>
          <key>researchgraph.org/orcid/10.1007/978-3-319-24129-6_28</key>
@@ -50,15 +61,6 @@
          <last_updated>2015-07-21T15:28:58.844Z</last_updated>
          <title>Research Data and the Future of Software Engineering</title>
          <authors_list>Amir Aryani; Heinz Schmidt; </authors_list>
-         <publication_year>2014</publication_year>
-      </publication>
-      <publication>
-         <key>researchgraph.org/orcid/10.6084/M9.FIGSHARE.1045389</key>
-         <source>orcid.org</source>
-         <local_id>10.6084/M9.FIGSHARE.1045389</local_id>
-         <last_updated>2015-07-22T14:45:35.771Z</last_updated>
-         <title>ANDS is building the Australian Research Data Commons</title>
-         <authors_list>Amir Aryani; </authors_list>
          <publication_year>2014</publication_year>
       </publication>
       <publication>
