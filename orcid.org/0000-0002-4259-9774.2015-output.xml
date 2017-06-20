@@ -15,31 +15,9 @@
          <orcid>0000-0002-4259-9774</orcid>
       </researcher>
    </researchers>
-   <grants>
-      <grant>
-         <key>researchgraph.org/orcid/0000-0002-4259-9774</key>
-         <source>orcid.org</source>
-         <local_id>0000-0002-4259-9774</local_id>
-         <last_updated>2014-07-20T13:29:04.233Z</last_updated>
-         <url>http://orcid.org/0000-0002-4259-9774</url>
-         <title>Project Manager</title>
-         <start_year>2012</start_year>
-         <funder>ands.org.au</funder>
-      </grant>
-      <grant>
-         <key>researchgraph.org/orcid/0000-0002-4259-9774</key>
-         <source>orcid.org</source>
-         <local_id>0000-0002-4259-9774</local_id>
-         <last_updated>2014-07-20T13:29:04.233Z</last_updated>
-         <url>http://orcid.org/0000-0002-4259-9774</url>
-         <title>PhD in computer science</title>
-         <start_year>2007</start_year>
-         <funder>rmit.edu.au</funder>
-      </grant>
-   </grants>
    <publications>
       <publication>
-         <key>researchgraph.org/10.1007/978-3-319-24129-6_28</key>
+         <key>researchgraph.org/orcid/10.1007/978-3-319-24129-6_28</key>
          <source>orcid.org</source>
          <local_id>10.1007/978-3-319-24129-6_28</local_id>
          <last_updated>2015-10-01T22:47:19.382Z</last_updated>
@@ -48,7 +26,7 @@
          <publication_year>2015</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/10.1002/smr.1598</key>
+         <key>researchgraph.org/orcid/10.1002/smr.1598</key>
          <source>orcid.org</source>
          <local_id>10.1002/smr.1598</local_id>
          <last_updated>2015-07-21T15:28:59.233Z</last_updated>
@@ -57,7 +35,7 @@
          <publication_year>2014</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/10.6084/M9.FIGSHARE.907482</key>
+         <key>researchgraph.org/orcid/10.6084/M9.FIGSHARE.907482</key>
          <source>orcid.org</source>
          <local_id>10.6084/M9.FIGSHARE.907482</local_id>
          <last_updated>2015-07-21T15:28:58.975Z</last_updated>
@@ -66,7 +44,7 @@
          <publication_year>2014</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/10.6084/M9.FIGSHARE.956086</key>
+         <key>researchgraph.org/orcid/10.6084/M9.FIGSHARE.956086</key>
          <source>orcid.org</source>
          <local_id>10.6084/M9.FIGSHARE.956086</local_id>
          <last_updated>2015-07-21T15:28:58.844Z</last_updated>
@@ -75,7 +53,7 @@
          <publication_year>2014</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/10.6084/M9.FIGSHARE.1045389</key>
+         <key>researchgraph.org/orcid/10.6084/M9.FIGSHARE.1045389</key>
          <source>orcid.org</source>
          <local_id>10.6084/M9.FIGSHARE.1045389</local_id>
          <last_updated>2015-07-22T14:45:35.771Z</last_updated>
@@ -84,7 +62,7 @@
          <publication_year>2014</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/10.6084/M9.FIGSHARE.799755</key>
+         <key>researchgraph.org/orcid/10.6084/M9.FIGSHARE.799755</key>
          <source>orcid.org</source>
          <local_id>10.6084/M9.FIGSHARE.799755</local_id>
          <last_updated>2015-07-21T15:28:58.935Z</last_updated>
@@ -93,7 +71,7 @@
          <publication_year>2013</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/10.6084/M9.FIGSHARE.155650</key>
+         <key>researchgraph.org/orcid/10.6084/M9.FIGSHARE.155650</key>
          <source>orcid.org</source>
          <local_id>10.6084/M9.FIGSHARE.155650</local_id>
          <last_updated>2015-07-21T15:28:58.895Z</last_updated>
@@ -102,7 +80,7 @@
          <publication_year>2013</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/10.6084/M9.FIGSHARE.824316</key>
+         <key>researchgraph.org/orcid/10.6084/M9.FIGSHARE.824316</key>
          <source>orcid.org</source>
          <local_id>10.6084/M9.FIGSHARE.824316</local_id>
          <last_updated>2015-07-21T15:28:59.015Z</last_updated>
@@ -111,17 +89,18 @@
          <publication_year>2013</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/10.1109/SCAM.2012.27</key>
+         <key>researchgraph.org/orcid/10.1109/SCAM.2012.27</key>
          <source>orcid.org</source>
          <local_id>10.1109/SCAM.2012.27</local_id>
          <last_updated>2015-07-17T17:40:24.518Z</last_updated>
+         <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84872294567&amp;partnerID=MN8TOARS</url>
          <title>Combining conceptual and domain-based couplings to detect database and code dependencies</title>
          <authors_list>Gethers, M. and Aryani, A. and Poshyvanyk, D.</authors_list>
          <scopus_eid>2-s2.0-84872294567&amp;partnerID=MN8TOARS</scopus_eid>
          <publication_year>2012</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/8631613</key>
+         <key>researchgraph.org/orcid/8631613</key>
          <source>orcid.org</source>
          <local_id>8631613</local_id>
          <last_updated>2015-07-08T16:58:25.961Z</last_updated>
@@ -130,17 +109,18 @@
          <publication_year>2011</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/10.1109/ICSM.2010.5609743</key>
+         <key>researchgraph.org/orcid/10.1109/ICSM.2010.5609743</key>
          <source>orcid.org</source>
          <local_id>10.1109/ICSM.2010.5609743</local_id>
          <last_updated>2015-07-17T17:40:24.481Z</last_updated>
+         <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-78650110447&amp;partnerID=MN8TOARS</url>
          <title>Domain-based change propagation analysis: An enterprise system case study</title>
          <authors_list>Aryani, A. and Peake, I.D. and Hamilton, M.</authors_list>
          <scopus_eid>2-s2.0-78650110447&amp;partnerID=MN8TOARS</scopus_eid>
          <publication_year>2010</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/10.1109/icse.2013.6606694</key>
+         <key>researchgraph.org/orcid/10.1109/icse.2013.6606694</key>
          <source>orcid.org</source>
          <local_id>10.1109/icse.2013.6606694</local_id>
          <last_updated>2015-07-30T22:15:32.721Z</last_updated>
@@ -148,7 +128,7 @@
          <authors_list>Rahman, Md Saidur and Aryani, Amir and Roy, Chanchal K. and Perin, Fabrizio</authors_list>
       </publication>
       <publication>
-         <key>researchgraph.org/10.1109/istas.2013.6613101</key>
+         <key>researchgraph.org/orcid/10.1109/istas.2013.6613101</key>
          <source>orcid.org</source>
          <local_id>10.1109/istas.2013.6613101</local_id>
          <last_updated>2015-07-30T22:24:21.058Z</last_updated>
@@ -156,7 +136,7 @@
          <authors_list>Hayes, Alexander and Mann, Steve and Aryani, Amir and Sabine, Susannah and Blackall, Leigh and Waugh, Pia and Ridgway, Stephan</authors_list>
       </publication>
       <publication>
-         <key>researchgraph.org/10.1109/icsm.2010.5609743</key>
+         <key>researchgraph.org/orcid/10.1109/icsm.2010.5609743</key>
          <source>orcid.org</source>
          <local_id>10.1109/icsm.2010.5609743</local_id>
          <last_updated>2015-07-30T22:07:04.207Z</last_updated>
@@ -164,7 +144,7 @@
          <authors_list>Aryani, Amir and Peake, Ian D. and Hamilton, Margaret</authors_list>
       </publication>
       <publication>
-         <key>researchgraph.org/10.1109/aswec.2009.31</key>
+         <key>researchgraph.org/orcid/10.1109/aswec.2009.31</key>
          <source>orcid.org</source>
          <local_id>10.1109/aswec.2009.31</local_id>
          <last_updated>2015-07-30T22:26:22.081Z</last_updated>
@@ -172,7 +152,7 @@
          <authors_list>Aryani, Amir and Peake, Ian D. and Hamilton, Margaret and Schmidt, Heinz and Winikoff, Michael</authors_list>
       </publication>
       <publication>
-         <key>researchgraph.org/10.1109/wcre.2011.17</key>
+         <key>researchgraph.org/orcid/10.1109/wcre.2011.17</key>
          <source>orcid.org</source>
          <local_id>10.1109/wcre.2011.17</local_id>
          <last_updated>2015-07-30T22:03:47.054Z</last_updated>
@@ -180,4 +160,106 @@
          <authors_list>Aryani, Amir and Perin, Fabrizio and Lungu, Mircea and Mahmood, Abdun Naser and Nierstrasz, Oscar</authors_list>
       </publication>
    </publications>
+   <relations>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.3233/978-1-61499-468-8-125</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.1007/978-3-319-24129-6_28</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.1002/smr.1598</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.6084/M9.FIGSHARE.907482</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.6084/M9.FIGSHARE.956086</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.6084/M9.FIGSHARE.1045389</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/8631618</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.6084/M9.FIGSHARE.799755</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.6084/M9.FIGSHARE.155650</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.6084/M9.FIGSHARE.824316</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.1109/SCAM.2012.27</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/8631613</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.1109/ICSM.2010.5609743</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.1109/icse.2013.6606694</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.1109/istas.2013.6613101</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/15202962</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.1109/icsm.2010.5609743</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.1109/aswec.2009.31</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10.1109/wcre.2011.17</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-4259-9774</from_key>
+         <to_uri>researchgraph.org/orcid/10091556</to_uri>
+         <label>relatedTo</label>
+      </relation>
+   </relations>
 </registryObjects>

@@ -39,7 +39,7 @@
    </grants>
    <publications>
       <publication>
-         <key>researchgraph.org/22595421</key>
+         <key>researchgraph.org/orcid/22595421</key>
          <source>orcid.org</source>
          <local_id>22595421</local_id>
          <last_updated>2016-02-29T08:27:31.980Z</last_updated>
@@ -49,7 +49,7 @@
          <publication_year>2013</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/22595420</key>
+         <key>researchgraph.org/orcid/22595420</key>
          <source>orcid.org</source>
          <local_id>22595420</local_id>
          <last_updated>2016-02-29T08:27:31.975Z</last_updated>
@@ -59,7 +59,7 @@
          <publication_year>2013</publication_year>
       </publication>
       <publication>
-         <key>researchgraph.org/22595422</key>
+         <key>researchgraph.org/orcid/22595422</key>
          <source>orcid.org</source>
          <local_id>22595422</local_id>
          <last_updated>2016-02-29T08:27:31.983Z</last_updated>
@@ -69,4 +69,21 @@
          <publication_year>2013</publication_year>
       </publication>
    </publications>
+   <relations>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-6971-4496</from_key>
+         <to_uri>researchgraph.org/orcid/22595421</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-6971-4496</from_key>
+         <to_uri>researchgraph.org/orcid/22595420</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-6971-4496</from_key>
+         <to_uri>researchgraph.org/orcid/22595422</to_uri>
+         <label>relatedTo</label>
+      </relation>
+   </relations>
 </registryObjects>

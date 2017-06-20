@@ -38,6 +38,9 @@
                     <xsl:apply-templates select=".//or:orcid-work" mode="publication"/>
                 </publications>
             </xsl:if>
+            <relations>
+                <xsl:apply-templates select=".//or:orcid-work" mode="relation"/>
+            </relations>
         </registryObjects>
     </xsl:template>
     
@@ -136,10 +139,10 @@
                 <key>
                     <xsl:choose>
                         <xsl:when test=".//or:work-external-identifier[or:work-external-identifier-type='doi']">
-                            <xsl:value-of select="concat('researchgraph.org/',.//or:work-external-identifier[or:work-external-identifier-type='doi']/or:work-external-identifier-id)"/>
+                            <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:work-external-identifier[or:work-external-identifier-type='doi']/or:work-external-identifier-id)"/>
                         </xsl:when>
                         <xsl:otherwise>
-                            <xsl:value-of select="concat('researchgraph.org/',./@put-code)"/>
+                            <xsl:value-of select="concat('researchgraph.org/orcid/',./@put-code)"/>
                         </xsl:otherwise>
                     </xsl:choose>
                 </key>
@@ -193,5 +196,32 @@
                 </xsl:choose>
             </publication>
         </xsl:if>
+    </xsl:template>
+    
+    
+    <!-- =========================================== -->
+    <!-- Relation Template                                                                    -->
+    <!-- =========================================== -->
+    <xsl:template match="or:orcid-work" mode="relation">
+            <relation>
+                <from_key>
+                    <xsl:value-of select="concat('researchergraph.org/orcid/',ancestor::or:orcid-profile//or:orcid-identifier/or:path)"/>
+                </from_key>
+                <xsl:choose>
+                    <xsl:when test=".//or:work-external-identifier[or:work-external-identifier-type='doi']">
+                       <to_uri>
+                           <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:work-external-identifier[or:work-external-identifier-type='doi']/or:work-external-identifier-id)"/>
+                       </to_uri>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <to_uri>
+                            <xsl:value-of select="concat('researchgraph.org/orcid/',./@put-code)"/>
+                        </to_uri>
+                    </xsl:otherwise>
+                </xsl:choose>
+                <label>
+                    <xsl:value-of select="'relatedTo'"/>
+                </label>
+            </relation>
     </xsl:template>
 </xsl:stylesheet>
