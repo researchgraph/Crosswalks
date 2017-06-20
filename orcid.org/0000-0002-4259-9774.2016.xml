@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orcid-message xmlns="http://www.orcid.org/ns/orcid">
+    <message-version>1.2</message-version>
+    <orcid-profile type="user">
+        <orcid-identifier>
+            <uri>http://orcid.org/0000-0002-4259-9774</uri>
+            <path>0000-0002-4259-9774</path>
+            <host>orcid.org</host>
+        </orcid-identifier>
+        <orcid-preferences>
+            <locale>en</locale>
+        </orcid-preferences>
+        <orcid-history>
+            <creation-method>website</creation-method>
+            <completion-date>2012-10-17T00:50:22.537Z</completion-date>
+            <submission-date>2012-10-16T23:47:54.065Z</submission-date>
+            <last-modified-date>2016-09-20T23:44:02.887Z</last-modified-date>
+            <claimed>true</claimed>
+            <verified-email>true</verified-email>
+            <verified-primary-email>true</verified-primary-email>
+        </orcid-history>
+        <orcid-bio>
+            <personal-details>
+                <given-names>Amir</given-names>
+                <family-name>Aryani</family-name>
+            </personal-details>
+            <biography visibility="public">Amir Aryani has peer-reviewed publications in the following research areas: Software Engineering, Software Evolution/Maintenance, Domain-Based System Analysis, eResearch/eScience, Identity Awareness of Research Data, Data Mining and Coupling Analysis.</biography>
+            <researcher-urls visibility="public">
+                <researcher-url>
+                    <url-name>ANU Homepage</url-name>
+                    <url>http://people.anu.edu.au/amir.aryani/</url>
+                </researcher-url>
+                <researcher-url>
+                    <url-name>Twitter (amir_at_ands)</url-name>
+                    <url>https://twitter.com/amir_at_ands</url>
+                </researcher-url>
+            </researcher-urls>
+            <external-identifiers visibility="public">
+                <external-identifier>
+                    <external-id-common-name>ResearcherID</external-id-common-name>
+                    <external-id-reference>B-1498-2013</external-id-reference>
+                    <external-id-url>http://www.researcherid.com/rid/B-1498-2013</external-id-url>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0001-7707-4137</uri>
+                            <path>0000-0001-7707-4137</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-date>2015-01-05T07:39:21.462Z</source-date>
+                    </source>
+                </external-identifier>
+                <external-identifier>
+                    <external-id-common-name>Scopus Author ID</external-id-common-name>
+                    <external-id-reference>35068996400</external-id-reference>
+                    <external-id-url>http://www.scopus.com/inward/authorDetails.url?authorID=35068996400&amp;partnerID=MN8TOARS</external-id-url>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                            <path>0000-0002-5982-8983</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>Scopus to ORCID</source-name>
+                        <source-date>2013-09-24T03:30:38.079Z</source-date>
+                    </source>
+                </external-identifier>
+            </external-identifiers>
+        </orcid-bio>
+        <orcid-activities>
+            <affiliations>
+                <affiliation visibility="public" put-code="214374">
+                    <type>employment</type>
+                    <role-title>Project Manager</role-title>
+                    <start-date>
+                        <year>2012</year>
+                    </start-date>
+                    <organization>
+                        <name>Australian National Data Service (ANDS)</name>
+                        <address>
+                            <city>Canberra</city>
+                            <region>ACT</region>
+                            <country>AU</country>
+                        </address>
+                    </organization>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-4259-9774</uri>
+                            <path>0000-0002-4259-9774</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>Amir Aryani</source-name>
+                        <source-date>2014-04-05T06:58:07.480Z</source-date>
+                    </source>
+                    <created-date>2014-04-05T06:58:07.480Z</created-date>
+                    <last-modified-date>2014-07-20T13:29:04.233Z</last-modified-date>
+                </affiliation>
+                <affiliation visibility="public" put-code="214373">
+                    <type>education</type>
+                    <department-name>Computer Science and IT</department-name>
+                    <role-title>PhD in computer science</role-title>
+                    <start-date>
+                        <year>2007</year>
+                    </start-date>
+                    <end-date>
+                        <year>2012</year>
+                    </end-date>
+                    <organization>
+                        <name>RMIT University</name>
+                        <address>
+                            <city>Melbourne</city>
+                            <region>Victoria</region>
+                            <country>AU</country>
+                        </address>
+                    </organization>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-4259-9774</uri>
+                            <path>0000-0002-4259-9774</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>Amir Aryani</source-name>
+                        <source-date>2014-04-05T06:57:12.337Z</source-date>
+                    </source>
+                    <created-date>2014-04-05T06:57:12.337Z</created-date>
+                    <last-modified-date>2014-07-20T13:29:04.233Z</last-modified-date>
+                </affiliation>
+            </affiliations>
+            <orcid-works>
+                <orcid-work put-code="18887634" visibility="public">
+                    <work-title>
+                        <title>Open-Access Grant Data: Towards Meta-Research Innovation</title>
+                    </work-title>
+                    <journal-title>27th International Conference on Legal Knowledge and Information Systems (JURIX 2014)</journal-title>
+                    <work-type>conference-paper</work-type>
+                    <publication-date>
+                        <year>2014</year>
+                        <month>12</month>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.3233/978-1-61499-468-8-125</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://ebooks.iospress.nl/publication/38447</url>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-4259-9774</uri>
+                            <path>0000-0002-4259-9774</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>Amir Aryani</source-name>
+                        <source-date>2015-10-02T01:19:18.505Z</source-date>
+                    </source>
+                    <created-date>2015-10-02T01:19:18.505Z</created-date>
+                    <last-modified-date>2015-10-02T01:19:18.505Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="18886768" visibility="public">
+                    <work-title>
+                        <title>On Bridging Data Centers and Publishers: The Data-Literature Interlinking Service</title>
+                    </work-title>
+                    <journal-title>Metadata and Semantics Research</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@incollection{Burton_2015,doi = {10.1007/978-3-319-24129-6_28},url = {http://dx.doi.org/10.1007/978-3-319-24129-6_28},year = 2015,publisher = {Springer Science $\mathplus$ Business Media},pages = {324--335},author = {Adrian Burton and Hylke Koers and Paolo Manghi and Sandro La Bruzzo and Amir Aryani and Michael Diepenbroek and Uwe Schindler},title = {On Bridging Data Centers and Publishers: The Data-Literature Interlinking Service},booktitle = {Communications in Computer and Information Science}}</citation>
+                    </work-citation>
+                    <work-type>other</work-type>
+                    <publication-date>
+                        <year>2015</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1007/978-3-319-24129-6_28</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <work-contributors>
+                        <contributor>
+                            <credit-name visibility="public">Adrian Burton</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Hylke Koers</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Paolo Manghi</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Sandro La Bruzzo</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Amir Aryani</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Michael Diepenbroek</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                        <contributor>
+                            <credit-name visibility="public">Uwe Schindler</credit-name>
+                            <contributor-attributes>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-3054-1567</uri>
+                            <path>0000-0002-3054-1567</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>CrossRef Metadata Search</source-name>
+                        <source-date>2015-10-01T22:47:19.382Z</source-date>
+                    </source>
+                    <created-date>2015-10-01T22:47:19.382Z</created-date>
+                    <last-modified-date>2015-10-01T22:47:19.382Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="12277011" visibility="public">
+                    <work-title>
+                        <title>Predicting dependences using domain-based coupling</title>
+                        <subtitle>Predicting Dependencies Using Domain-Based Coupling</subtitle>
+                    </work-title>
+                    <journal-title>J. Softw. Evol. and Proc.</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation> @article{Aryani_2014, title={Predicting dependences using domain-based coupling}, volume={26}, ISSN={2047-7473}, url={http://dx.doi.org/10.1002/smr.1598}, DOI={10.1002/smr.1598}, number={1}, journal={Journal of Software: Evolution and Process}, publisher={Wiley-Blackwell}, author={Aryani, Amir and Perin, Fabrizio and Lungu, Mircea and Mahmood, Abdun Naser and Nierstrasz, Oscar}, year={2014}, month={Jan}, pages={50â76}}</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2014</year>
+                        <month>01</month>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1002/smr.1598</work-external-identifier-id>
+                        </work-external-identifier>
+                        <work-external-identifier>
+                            <work-external-identifier-type>issn</work-external-identifier-type>
+                            <work-external-identifier-id>2047-7473</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-3054-1567</uri>
+                            <path>0000-0002-3054-1567</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>CrossRef Metadata Search</source-name>
+                        <source-date>2014-04-05T06:44:22.345Z</source-date>
+                    </source>
+                    <created-date>2014-04-05T06:44:22.345Z</created-date>
+                    <last-modified-date>2015-07-21T15:28:59.233Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="13046112" visibility="public">
+                    <work-title>
+                        <title>ANDS is building the Australian Research Data Commons</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@misc{datacitec2c90fb1-e860-4e91-90f0-e621d94d013b,
+  doi = {10.6084/M9.FIGSHARE.1045389},
+  url = {http://dx.doi.org/10.6084/M9.FIGSHARE.1045389},
+  author = {Amir Aryani; },
+  publisher = {Figshare},
+  title = {ANDS is building the Australian Research Data Commons},
+  year = {2014}
+}</citation>
+                    </work-citation>
+                    <work-type>data-set</work-type>
+                    <publication-date>
+                        <year>2014</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.6084/M9.FIGSHARE.1045389</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0001-8099-6984</uri>
+                            <path>0000-0001-8099-6984</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>DataCite</source-name>
+                        <source-date>2014-07-02T08:33:52.369Z</source-date>
+                    </source>
+                    <created-date>2014-07-02T08:33:52.369Z</created-date>
+                    <last-modified-date>2015-07-22T14:45:35.771Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="12277003" visibility="public">
+                    <work-title>
+                        <title>Research Data and the Future of Software Engineering</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@misc{datacited5a9f05d-e664-4f31-840f-4f87c2c50ac3,
+  doi = {10.6084/M9.FIGSHARE.956086},
+  url = {http://dx.doi.org/10.6084/M9.FIGSHARE.956086},
+  author = {Amir Aryani; Heinz Schmidt; },
+  publisher = {Figshare},
+  title = {Research Data and the Future of Software Engineering},
+  year = {2014}
+}</citation>
+                    </work-citation>
+                    <work-type>other</work-type>
+                    <publication-date>
+                        <year>2014</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.6084/M9.FIGSHARE.956086</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0001-8099-6984</uri>
+                            <path>0000-0001-8099-6984</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>DataCite</source-name>
+                        <source-date>2014-04-05T06:38:02.500Z</source-date>
+                    </source>
+                    <created-date>2014-04-05T06:38:02.500Z</created-date>
+                    <last-modified-date>2015-07-21T15:28:58.844Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="12277006" visibility="public">
+                    <work-title>
+                        <title>Towards identifier-aware cyberinfrastructure for data and researchers - See more at: http://www.dcc.ac.uk/events/idcc14/posters#sthash.sV3wa5FE.dpuf</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@misc{datacite48714670-eada-4e0a-a1f2-b7e9f7b7d689,
+  doi = {10.6084/M9.FIGSHARE.907482},
+  url = {http://dx.doi.org/10.6084/M9.FIGSHARE.907482},
+  author = {Todd Vision; John Kaye; Amir Aryani; },
+  publisher = {Figshare},
+  title = {Towards identifier-aware cyberinfrastructure for data and researchers - See more at: http://www.dcc.ac.uk/events/idcc14/posters#sthash.sV3wa5FE.dpuf},
+  year = {2014}
+}</citation>
+                    </work-citation>
+                    <work-type>other</work-type>
+                    <publication-date>
+                        <year>2014</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.6084/M9.FIGSHARE.907482</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0001-8099-6984</uri>
+                            <path>0000-0001-8099-6984</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>DataCite</source-name>
+                        <source-date>2014-04-05T06:38:40.344Z</source-date>
+                    </source>
+                    <created-date>2014-04-05T06:38:40.344Z</created-date>
+                    <last-modified-date>2015-07-21T15:28:58.975Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="12277007" visibility="public">
+                    <work-title>
+                        <title>D6.1 International validation of D3.1, D3.2, D4.1 and D5.1</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@misc{datacitedbacd9d9-5eb2-415f-89a6-83087e035ce5,
+  doi = {10.6084/M9.FIGSHARE.824316},
+  url = {http://dx.doi.org/10.6084/M9.FIGSHARE.824316},
+  author = {ODIN Consortium; Amir Aryani; Todd Vision; Simeon Warner; },
+  publisher = {Figshare},
+  title = {D6.1 International validation of D3.1, D3.2, D4.1 and D5.1},
+  year = {2013}
+}</citation>
+                    </work-citation>
+                    <work-type>other</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.6084/M9.FIGSHARE.824316</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0001-8099-6984</uri>
+                            <path>0000-0001-8099-6984</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>DataCite</source-name>
+                        <source-date>2014-04-05T06:38:52.949Z</source-date>
+                    </source>
+                    <created-date>2014-04-05T06:38:52.949Z</created-date>
+                    <last-modified-date>2015-07-21T15:28:59.015Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="12277004" visibility="public">
+                    <work-title>
+                        <title>Identity Awareness: Toward an Invisible e-Infrastructure for Identifying Data and Authors</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@misc{datacite3c794f5b-4d05-4d8f-be08-dc1035f8abc7,
+  doi = {10.6084/M9.FIGSHARE.155650},
+  url = {http://dx.doi.org/10.6084/M9.FIGSHARE.155650},
+  author = {Amir Aryani, Adrian Burton; },
+  publisher = {Figshare},
+  title = {Identity Awareness: Toward an Invisible e-Infrastructure for Identifying Data and Authors},
+  year = {2013}
+}</citation>
+                    </work-citation>
+                    <work-type>other</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.6084/M9.FIGSHARE.155650</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0001-8099-6984</uri>
+                            <path>0000-0001-8099-6984</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>DataCite</source-name>
+                        <source-date>2014-04-05T06:38:18.415Z</source-date>
+                    </source>
+                    <created-date>2014-04-05T06:38:18.415Z</created-date>
+                    <last-modified-date>2015-07-21T15:28:58.895Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="12277005" visibility="public">
+                    <work-title>
+                        <title>ORCID integration: A case study from ANDS and international development</title>
+                    </work-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@misc{datacite59938ca0-7e40-4dfb-b4e6-2e4e938ec47f,
+  doi = {10.6084/M9.FIGSHARE.799755},
+  url = {http://dx.doi.org/10.6084/M9.FIGSHARE.799755},
+  author = {Adrian Burton; Amir Aryani; },
+  publisher = {Figshare},
+  title = {ORCID integration: A case study from ANDS and international development},
+  year = {2013}
+}</citation>
+                    </work-citation>
+                    <work-type>other</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.6084/M9.FIGSHARE.799755</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0001-8099-6984</uri>
+                            <path>0000-0001-8099-6984</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>DataCite</source-name>
+                        <source-date>2014-04-05T06:38:32.007Z</source-date>
+                    </source>
+                    <created-date>2014-04-05T06:38:32.007Z</created-date>
+                    <last-modified-date>2015-07-21T15:28:58.935Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="8631618" visibility="public">
+                    <work-title>
+                        <title>Predicting Dependencies Using Domain-based Coupling</title>
+                    </work-title>
+                    <short-description>Amir Aryani, Fabrizio Perin, Mircea Lungu, Abdun Naser Mahmood, Oscar Nierstrasz. Journal of Software Maintenance and Evolution (JSME), 2013 (under review)</short-description>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2013</year>
+                    </publication-date>
+                    <work-contributors>
+                        <contributor>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-4259-9774</uri>
+                            <path>0000-0002-4259-9774</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>Amir Aryani</source-name>
+                        <source-date>2013-04-18T01:11:47.184Z</source-date>
+                    </source>
+                    <created-date>2013-04-18T01:11:47.184Z</created-date>
+                    <last-modified-date>2015-07-09T06:18:35.620Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="8631614" visibility="public">
+                    <work-title>
+                        <title>Combining conceptual and domain-based couplings to detect database and code dependencies</title>
+                    </work-title>
+                    <journal-title>Proceedings - 2012 IEEE 12th International Working Conference on Source Code Analysis and Manipulation, SCAM 2012</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { aryani2012,
+	title = {Combining conceptual and domain-based couplings to detect database and code dependencies},
+	journal = {Proceedings - 2012 IEEE 12th International Working Conference on Source Code Analysis and Manipulation, SCAM 2012},
+	year = {2012},
+	pages = {144-153},
+	author = {Gethers, M. and Aryani, A. and Poshyvanyk, D.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2012</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1109/SCAM.2012.27</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-84872294567&amp;partnerID=MN8TOARS</url>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                            <path>0000-0002-5982-8983</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>Scopus to ORCID</source-name>
+                        <source-date>2013-04-18T01:11:47.165Z</source-date>
+                    </source>
+                    <created-date>2013-04-18T01:11:47.165Z</created-date>
+                    <last-modified-date>2015-07-17T17:40:24.518Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="8631613" visibility="public">
+                    <work-title>
+                        <title>Data Capture from High-Performance Computing Facilities: A Case Study</title>
+                    </work-title>
+                    <short-description>Venki Balasubramanian and Amir Aryani and Ian Thomas and Heinz Schmidt. eResearch Australasia 2011, Melbourne, Australia</short-description>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@CONFERENCE{balasubramanian2011data,
+  author = {Venki Balasubramanian and Amir Aryani and Ian Thomas and Heinz Schmidt},
+  title = {Data Capture from High-Performance Computing Facilities: A Case Study},
+  booktitle = {eResearch Australasia},
+  year = {2011},
+  month = {November}
+}</citation>
+                    </work-citation>
+                    <work-type>conference-paper</work-type>
+                    <publication-date>
+                        <year>2011</year>
+                        <month>11</month>
+                    </publication-date>
+                    <work-contributors>
+                        <contributor>
+                            <contributor-attributes>
+                                <contributor-sequence>first</contributor-sequence>
+                                <contributor-role>author</contributor-role>
+                            </contributor-attributes>
+                        </contributor>
+                    </work-contributors>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-4259-9774</uri>
+                            <path>0000-0002-4259-9774</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>Amir Aryani</source-name>
+                        <source-date>2013-04-18T01:11:47.160Z</source-date>
+                    </source>
+                    <created-date>2013-04-18T01:11:47.160Z</created-date>
+                    <last-modified-date>2015-07-08T16:58:25.961Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="8631612" visibility="public">
+                    <work-title>
+                        <title>Domain-based change propagation analysis: An enterprise system case study</title>
+                    </work-title>
+                    <journal-title>IEEE International Conference on Software Maintenance, ICSM</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation>@article { aryani2010,
+	title = {Domain-based change propagation analysis: An enterprise system case study},
+	journal = {IEEE International Conference on Software Maintenance, ICSM},
+	year = {2010},
+	author = {Aryani, A. and Peake, I.D. and Hamilton, M.}
+}
+
+</citation>
+                    </work-citation>
+                    <work-type>journal-article</work-type>
+                    <publication-date>
+                        <year>2010</year>
+                    </publication-date>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1109/ICSM.2010.5609743</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <url>http://www.scopus.com/inward/record.url?eid=2-s2.0-78650110447&amp;partnerID=MN8TOARS</url>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-5982-8983</uri>
+                            <path>0000-0002-5982-8983</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>Scopus to ORCID</source-name>
+                        <source-date>2013-04-18T01:11:47.156Z</source-date>
+                    </source>
+                    <created-date>2013-04-18T01:11:47.156Z</created-date>
+                    <last-modified-date>2015-07-17T17:40:24.481Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="10091556" visibility="public">
+                    <work-title>
+                        <title>ADempiere Case Study: Combining Conceptual and Domain-Based Couplings to Detect Database and Code Dependencies</title>
+                    </work-title>
+                    <short-description>Knowledge of software dependencies plays an important role in program comprehension and other software maintenance activities. Traditionally, dependencies are derived by source code analysis; however, such an approach can be difficult to use in multi-tier hybrid software systems, or legacy applications where conventional code analysis tools simply do not work as is. In this work, we demonstrated a hybrid approach to detecting software dependencies by combining conceptual and domain-based coupling metrics. In recent years, a great deal of research focused on deriving various coupling metrics from these sources of information with the aim of assisting software maintainers. Conceptual metrics specify underlying relationships encoded by developers in identifiers and comments of source code classes whereas domain metrics exploit coupling manifested in domain-level information of software components and it is independent from software implementation. The proposed approach is independent from programming language, as such it can be used in multi-tier hybrid systems or legacy applications. This dataset is the result of an empirical case study on ADempiere, a large-scale enterprise system, where we demonstrated that the combined approach is able to detect database and source code dependencies with higher precision and recall as compared to its standalone constituents.</short-description>
+                    <work-citation>
+                        <work-citation-type>formatted-unspecified</work-citation-type>
+                        <citation>Malcom Gethers, Amir Aryani, Denys Poshyvanyk, Combining Conceptual and Domain-Based Couplings to Detect Database and Code Dependencies; 12th International Working Conference on Source Code Analysis and Manipulation, IEEE, Trento, Italy, September, 2012</citation>
+                    </work-citation>
+                    <work-type>other</work-type>
+                    <url>http://researchdata.ands.org.au/adempiere-case-study-code-dependencies</url>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0003-3054-0131</uri>
+                            <path>0000-0003-3054-0131</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>Australian National Data Service (ANDS) Registry</source-name>
+                        <source-date>2013-09-24T03:30:38.061Z</source-date>
+                    </source>
+                    <created-date>2013-09-24T03:30:38.061Z</created-date>
+                    <last-modified-date>2015-07-07T14:05:22.153Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="12277009" visibility="public">
+                    <work-title>
+                        <title>Can We Predict Dependencies Using Domain information?</title>
+                    </work-title>
+                    <journal-title>2011 18th Working Conference on Reverse Engineering</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation> @article{Aryani, title={Can We Predict Dependencies Using Domain information?}, ISBN={http://id.crossref.org/isbn/978-1-4577-1948-6}, url={http://dx.doi.org/10.1109/wcre.2011.17}, DOI={10.1109/wcre.2011.17}, journal={2011 18th Working Conference on Reverse Engineering}, publisher={IEEE}, author={Aryani, Amir and Perin, Fabrizio and Lungu, Mircea and Mahmood, Abdun Naser and Nierstrasz, Oscar}}</citation>
+                    </work-citation>
+                    <work-type>conference-paper</work-type>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1109/wcre.2011.17</work-external-identifier-id>
+                        </work-external-identifier>
+                        <work-external-identifier>
+                            <work-external-identifier-type>isbn</work-external-identifier-type>
+                            <work-external-identifier-id>978-1-4577-1948-6</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-3054-1567</uri>
+                            <path>0000-0002-3054-1567</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>CrossRef Metadata Search</source-name>
+                        <source-date>2014-04-05T06:44:06.062Z</source-date>
+                    </source>
+                    <created-date>2014-04-05T06:44:06.062Z</created-date>
+                    <last-modified-date>2015-07-30T22:03:47.054Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="12277008" visibility="public">
+                    <work-title>
+                        <title>Change Propagation Analysis Using Domain Information</title>
+                    </work-title>
+                    <journal-title>2009 Australian Software Engineering Conference</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation> @article{Aryani, title={Change Propagation Analysis Using Domain Information}, ISBN={http://id.crossref.org/isbn/978-0-7695-3599-9}, url={http://dx.doi.org/10.1109/aswec.2009.31}, DOI={10.1109/aswec.2009.31}, journal={2009 Australian Software Engineering Conference}, publisher={IEEE}, author={Aryani, Amir and Peake, Ian D. and Hamilton, Margaret and Schmidt, Heinz and Winikoff, Michael}}</citation>
+                    </work-citation>
+                    <work-type>conference-paper</work-type>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1109/aswec.2009.31</work-external-identifier-id>
+                        </work-external-identifier>
+                        <work-external-identifier>
+                            <work-external-identifier-type>isbn</work-external-identifier-type>
+                            <work-external-identifier-id>978-0-7695-3599-9</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-3054-1567</uri>
+                            <path>0000-0002-3054-1567</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>CrossRef Metadata Search</source-name>
+                        <source-date>2014-04-05T06:44:00.378Z</source-date>
+                    </source>
+                    <created-date>2014-04-05T06:44:00.378Z</created-date>
+                    <last-modified-date>2015-07-30T22:26:22.081Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="12277010" visibility="public">
+                    <work-title>
+                        <title>Domain-based change propagation analysis: An enterprise system case study</title>
+                    </work-title>
+                    <journal-title>2010 IEEE International Conference on Software Maintenance</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation> @article{Aryani, title={Domain-based change propagation analysis: An enterprise system case study}, ISBN={http://id.crossref.org/isbn/978-1-4244-8630-4}, url={http://dx.doi.org/10.1109/icsm.2010.5609743}, DOI={10.1109/icsm.2010.5609743}, journal={2010 IEEE International Conference on Software Maintenance}, publisher={IEEE}, author={Aryani, Amir and Peake, Ian D. and Hamilton, Margaret}}</citation>
+                    </work-citation>
+                    <work-type>conference-paper</work-type>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1109/icsm.2010.5609743</work-external-identifier-id>
+                        </work-external-identifier>
+                        <work-external-identifier>
+                            <work-external-identifier-type>isbn</work-external-identifier-type>
+                            <work-external-identifier-id>978-1-4244-8630-4</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-3054-1567</uri>
+                            <path>0000-0002-3054-1567</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>CrossRef Metadata Search</source-name>
+                        <source-date>2014-04-05T06:44:14.417Z</source-date>
+                    </source>
+                    <created-date>2014-04-05T06:44:14.417Z</created-date>
+                    <last-modified-date>2015-07-30T22:07:04.207Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="12277014" visibility="public">
+                    <work-title>
+                        <title>Identity awareness and re-use of research data in veillance and social computing</title>
+                    </work-title>
+                    <journal-title>2013 IEEE International Symposium on Technology and Society (ISTAS): Social Implications of Wearable Computing and Augmediated Reality in Everyday Life</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation> @article{Hayes, title={Identity awareness and re-use of research data in veillance and social computing}, ISBN={http://id.crossref.org/isbn/978-1-4799-1242-1}, url={http://dx.doi.org/10.1109/istas.2013.6613101}, DOI={10.1109/istas.2013.6613101}, journal={2013 IEEE International Symposium on Technology and Society (ISTAS): Social Implications of Wearable Computing and Augmediated Reality in Everyday Life}, publisher={IEEE}, author={Hayes, Alexander and Mann, Steve and Aryani, Amir and Sabine, Susannah and Blackall, Leigh and Waugh, Pia and Ridgway, Stephan}}</citation>
+                    </work-citation>
+                    <work-type>conference-paper</work-type>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1109/istas.2013.6613101</work-external-identifier-id>
+                        </work-external-identifier>
+                        <work-external-identifier>
+                            <work-external-identifier-type>isbn</work-external-identifier-type>
+                            <work-external-identifier-id>978-1-4799-0929-2</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-3054-1567</uri>
+                            <path>0000-0002-3054-1567</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>CrossRef Metadata Search</source-name>
+                        <source-date>2014-04-05T06:45:18.520Z</source-date>
+                    </source>
+                    <created-date>2014-04-05T06:45:18.520Z</created-date>
+                    <last-modified-date>2015-07-30T22:24:21.058Z</last-modified-date>
+                </orcid-work>
+                <orcid-work put-code="12277013" visibility="public">
+                    <work-title>
+                        <title>On the relationships between domain-based coupling and code clones: An exploratory study</title>
+                    </work-title>
+                    <journal-title>2013 35th International Conference on Software Engineering (ICSE)</journal-title>
+                    <work-citation>
+                        <work-citation-type>bibtex</work-citation-type>
+                        <citation> @article{Rahman, title={On the relationships between domain-based coupling and code clones: An exploratory study}, ISBN={http://id.crossref.org/isbn/978-1-4673-3073-2}, url={http://dx.doi.org/10.1109/icse.2013.6606694}, DOI={10.1109/icse.2013.6606694}, journal={2013 35th International Conference on Software Engineering (ICSE)}, publisher={IEEE}, author={Rahman, Md Saidur and Aryani, Amir and Roy, Chanchal K. and Perin, Fabrizio}}</citation>
+                    </work-citation>
+                    <work-type>conference-paper</work-type>
+                    <work-external-identifiers>
+                        <work-external-identifier>
+                            <work-external-identifier-type>doi</work-external-identifier-type>
+                            <work-external-identifier-id>10.1109/icse.2013.6606694</work-external-identifier-id>
+                        </work-external-identifier>
+                        <work-external-identifier>
+                            <work-external-identifier-type>isbn</work-external-identifier-type>
+                            <work-external-identifier-id>978-1-4673-3076-3</work-external-identifier-id>
+                        </work-external-identifier>
+                    </work-external-identifiers>
+                    <source>
+                        <source-orcid>
+                            <uri>http://orcid.org/0000-0002-3054-1567</uri>
+                            <path>0000-0002-3054-1567</path>
+                            <host>orcid.org</host>
+                        </source-orcid>
+                        <source-name>CrossRef Metadata Search</source-name>
+                        <source-date>2014-04-05T06:44:49.444Z</source-date>
+                    </source>
+                    <created-date>2014-04-05T06:44:49.444Z</created-date>
+                    <last-modified-date>2015-07-30T22:15:32.721Z</last-modified-date>
+                </orcid-work>
+            </orcid-works>
+        </orcid-activities>
+    </orcid-profile>
+</orcid-message>
