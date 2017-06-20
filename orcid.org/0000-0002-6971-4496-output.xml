@@ -85,5 +85,15 @@
          <to_uri>researchgraph.org/orcid/22595422</to_uri>
          <label>relatedTo</label>
       </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-6971-4496</from_key>
+         <to_uri>researchgraph.org/orcid/51505211</to_uri>
+         <label>relatedTo</label>
+      </relation>
+      <relation>
+         <from_key>researchergraph.org/orcid/0000-0002-6971-4496</from_key>
+         <to_uri>researchgraph.org/orcid/BK20130741</to_uri>
+         <label>relatedTo</label>
+      </relation>
    </relations>
 </registryObjects>

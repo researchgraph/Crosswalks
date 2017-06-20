@@ -40,6 +40,7 @@
             </xsl:if>
             <relations>
                 <xsl:apply-templates select=".//or:orcid-work" mode="relation"/>
+                <xsl:apply-templates select=".//or:funding" mode="relation"/>
             </relations>
         </registryObjects>
     </xsl:template>
@@ -223,5 +224,19 @@
                     <xsl:value-of select="'relatedTo'"/>
                 </label>
             </relation>
+    </xsl:template>
+    
+    <xsl:template match="or:funding" mode="relation">
+        <relation>
+            <from_key>
+                <xsl:value-of select="concat('researchergraph.org/orcid/',ancestor::or:orcid-profile//or:orcid-identifier/or:path)"/>
+            </from_key>
+            <to_uri>
+                <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:funding-external-identifier[or:funding-external-identifier-type='grant_number']/or:funding-external-identifier-value)"/>
+            </to_uri>
+            <label>
+                <xsl:value-of select="'relatedTo'"/>
+            </label>
+        </relation>
     </xsl:template>
 </xsl:stylesheet>
