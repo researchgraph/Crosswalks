@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <researchers>
+      <researcher>
+         <key>researchergraph.org/nii/researcher/1000000000084</key>
+         <source>rns.nii.ac.jp</source>
+         <local_id>1000000000084</local_id>
+         <url>http://rns.nii.ac.jp/nr/1000000000084</url>
+         <full_name>Yukitsugu Kato</full_name>
+         <first_name>Yukitsugu</first_name>
+         <last_name>Kato</last_name>
+      </researcher>
+   </researchers>
+</registryObjects>

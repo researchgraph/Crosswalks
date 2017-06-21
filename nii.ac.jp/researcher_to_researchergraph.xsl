@@ -30,7 +30,7 @@
     <xsl:template match="rdf:RDF" mode="researcher">
         <researcher>
             <key>
-                <xsl:value-of select="concat('researchergraph.org/nii/',.//rns:researcherNumber)"/>
+                <xsl:value-of select="concat('researchergraph.org/nii/researcher/',.//rns:researcherNumber)"/>
             </key>
             <source>
                 <xsl:value-of select="'rns.nii.ac.jp'"/>

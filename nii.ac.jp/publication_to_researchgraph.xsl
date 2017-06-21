@@ -37,7 +37,7 @@
     <xsl:template match="rdf:RDF" mode="publication">
         <publication>
             <key>
-                <xsl:value-of  select="concat('researchgraph.org/nii/',.//cinii:naid)"/>
+                <xsl:value-of  select="concat('researchgraph.org/nii/publication/',.//cinii:naid)"/>
             </key>
             <source>
                 <xsl:value-of select="'ci.nii.ac.jp'"/>

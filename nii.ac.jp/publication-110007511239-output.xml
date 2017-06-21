@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <publications>
+      <publication>
+         <key>researchgraph.org/nii/publication/110007511239</key>
+         <source>ci.nii.ac.jp</source>
+         <local_id>110007511239</local_id>
+         <url>http://ci.nii.ac.jp/naid/110007511239#article</url>
+         <title>PE-454 Cell Line-dependent Differentiation of Mouse Induced-pluripotent Stem Cells into Cardiomyocytes(PE076,Regeneration (M),Poster Session (English),The 73rd Annual Scientific Meeting of the Japanese Circulation Society)</title>
+         <authors_list>Kaichi Shinji , Hasegawa Kouji , Takaya Tomohide , Yokoo Noritaka , Kawamura Teruhisa , Morimoto Tatsuya , Ono Kou , Baba Shiro , Yamanaka Shinya , Nakahata Tatsutoshi , Heike Toshio</authors_list>
+         <publication_year>2009-03-01</publication_year>
+      </publication>
+   </publications>
+</registryObjects>
