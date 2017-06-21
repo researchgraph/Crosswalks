@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:con="http://www.w3.org/2000/10/swap/pim/contact#" xmlns:cinii="http://ci.nii.ac.jp/ns/1.0/" xmlns:bibo="http://purl.org/ontology/bibo/">
+<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/110007511239#article">
+<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+<foaf:isPrimaryTopicOf rdf:resource="http://ci.nii.ac.jp/naid/110007511239.rdf" />
+<dc:title>PE-454 Cell Line-dependent Differentiation of Mouse Induced-pluripotent Stem Cells into Cardiomyocytes(PE076,Regeneration (M),Poster Session (English),The 73rd Annual Scientific Meeting of the Japanese Circulation Society)</dc:title>
+<dc:creator>Kaichi Shinji</dc:creator>
+<dc:creator>Hasegawa Kouji</dc:creator>
+<dc:creator>Takaya Tomohide</dc:creator>
+<dc:creator>Yokoo Noritaka</dc:creator>
+<dc:creator>Kawamura Teruhisa</dc:creator>
+<dc:creator>Morimoto Tatsuya</dc:creator>
+<dc:creator>Ono Kou</dc:creator>
+<dc:creator>Baba Shiro</dc:creator>
+<dc:creator>Yamanaka Shinya</dc:creator>
+<dc:creator>Nakahata Tatsutoshi</dc:creator>
+<dc:creator>Heike Toshio</dc:creator>
+<dc:publisher>社団法人日本循環器学会</dc:publisher>
+<prism:publicationName>Circulation journal : official journal of the Japanese Circulation Society</prism:publicationName>
+<prism:issn>13469843</prism:issn>
+<prism:volume>73</prism:volume>
+<prism:number>0</prism:number>
+<prism:pageRange>514</prism:pageRange>
+<prism:publicationDate>2009-03-01</prism:publicationDate>
+<dc:date>2009-03-01</dc:date>
+<cinii:naid>110007511239</cinii:naid>
+<cinii:ncid>AA11591968</cinii:ncid>
+<dc:language>ENG</dc:language>
+<dc:source>NII-ELS</dc:source>
+<dcterms:isPartOf rdf:resource="http://ci.nii.ac.jp/ncid/AA11591968#entity" dc:title="Circulation journal : official journal of the Japanese Circulation Society" />
+</rdf:Description>
+<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/110007511239#article" xml:lang="en">
+<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+<dc:title>PE-454 Cell Line-dependent Differentiation of Mouse Induced-pluripotent Stem Cells into Cardiomyocytes(PE076,Regeneration (M),Poster Session (English),The 73rd Annual Scientific Meeting of the Japanese Circulation Society)</dc:title>
+<dc:creator>Kaichi Shinji</dc:creator>
+<dc:creator>Hasegawa Kouji</dc:creator>
+<dc:creator>Takaya Tomohide</dc:creator>
+<dc:creator>Yokoo Noritaka</dc:creator>
+<dc:creator>Kawamura Teruhisa</dc:creator>
+<dc:creator>Morimoto Tatsuya</dc:creator>
+<dc:creator>Ono Kou</dc:creator>
+<dc:creator>Baba Shiro</dc:creator>
+<dc:creator>Yamanaka Shinya</dc:creator>
+<dc:creator>Nakahata Tatsutoshi</dc:creator>
+<dc:creator>Heike Toshio</dc:creator>
+<dc:publisher>Japanese Circulation Society</dc:publisher>
+<prism:publicationName>Circulation journal : official journal of the Japanese Circulation Society</prism:publicationName>
+</rdf:Description>
+<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/110007511239#article">
+<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000006520045#me">
+<foaf:name xml:lang="en">Kaichi Shinji</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/Department_of_Pediatrics%252C_Graduate_School_of_Medicine%252C_Kyoto_University">
+<foaf:name xml:lang="en">Department of Pediatrics, Graduate School of Medicine, Kyoto University</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/1000000216706#me">
+<foaf:name xml:lang="en">Hasegawa Kouji</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/Division_of_Translational_Research%252C_Kyoto_Medical_Center%252C_National_Hospital_Organization">
+<foaf:name xml:lang="en">Division of Translational Research, Kyoto Medical Center, National Hospital Organization</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000006273902#me">
+<foaf:name xml:lang="en">Takaya Tomohide</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/Division_of_Translational_Research%252C_Kyoto_Medical_Center%252C_National_Hospital_Organization">
+<foaf:name xml:lang="en">Division of Translational Research, Kyoto Medical Center, National Hospital Organization</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000014679565#me">
+<foaf:name xml:lang="en">Yokoo Noritaka</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/Department_of_Pediatrics%252C_Graduate_School_of_Medicine%252C_Kyoto_University">
+<foaf:name xml:lang="en">Department of Pediatrics, Graduate School of Medicine, Kyoto University</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000004080094#me">
+<foaf:name xml:lang="en">Kawamura Teruhisa</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/Division_of_Translational_Research%252C_Kyoto_Medical_Center%252C_National_Hospital_Organization">
+<foaf:name xml:lang="en">Division of Translational Research, Kyoto Medical Center, National Hospital Organization</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000003882717#me">
+<foaf:name xml:lang="en">Morimoto Tatsuya</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/Division_of_Translational_Research%252C_Kyoto_Medical_Center%252C_National_Hospital_Organization">
+<foaf:name xml:lang="en">Division of Translational Research, Kyoto Medical Center, National Hospital Organization</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000003872760#me">
+<foaf:name xml:lang="en">Ono Kou</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/Department_of_Cardiovascular_Medicine%252C_and_Department_of_Pediatrics%252C_Graduate_School_of_Medicine%252C_Kyoto_University">
+<foaf:name xml:lang="en">Department of Cardiovascular Medicine, and Department of Pediatrics, Graduate School of Medicine, Kyoto University</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000006536993#me">
+<foaf:name xml:lang="en">Baba Shiro</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/Department_of_Pediatrics%252C_Graduate_School_of_Medicine%252C_Kyoto_University">
+<foaf:name xml:lang="en">Department of Pediatrics, Graduate School of Medicine, Kyoto University</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/1000010295694#me">
+<foaf:name xml:lang="en">Yamanaka Shinya</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/Department_of_Stem_Cell_Biology%252C_Institute_for_Frontier_Medical_Sciences%252C_Kyoto_University">
+<foaf:name xml:lang="en">Department of Stem Cell Biology, Institute for Frontier Medical Sciences, Kyoto University</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000004078894#me">
+<foaf:name xml:lang="en">Nakahata Tatsutoshi</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/Department_of_Pediatrics%252C_Graduate_School_of_Medicine%252C_Kyoto_University">
+<foaf:name xml:lang="en">Department of Pediatrics, Graduate School of Medicine, Kyoto University</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000004078893#me">
+<foaf:name xml:lang="en">Heike Toshio</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/Department_of_Pediatrics%252C_Graduate_School_of_Medicine%252C_Kyoto_University">
+<foaf:name xml:lang="en">Department of Pediatrics, Graduate School of Medicine, Kyoto University</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+</rdf:Description>
+</rdf:RDF>
