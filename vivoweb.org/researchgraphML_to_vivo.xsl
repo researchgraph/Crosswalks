@@ -19,7 +19,7 @@
     <!-- Configuration             					 -->
     <!-- =========================================== -->
     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" />
-    <xsl:variable name="source" select="'http://vivo.mydomain.edu/individual/n'"/>
+    <xsl:variable name="source" select="'http://vivo.mydomain.edu/individual/'"/>
     
     <!-- =========================================== -->
     <!-- root Template                                                                            -->
@@ -38,7 +38,7 @@
             <xsl:apply-templates select=".//gml:node[gml:data[@key='type']='researcher']" mode="researcher"/>
             <xsl:apply-templates select=".//gml:node[gml:data[@key='type']='publication']" mode="publication"/>
             <xsl:apply-templates select=".//gml:node[gml:data[@key='type']='dataset']" mode="dataset"/>
-<!--            <xsl:apply-templates select=".//rg:relations" mode="relationship"/>-->
+            <xsl:apply-templates select=".//gml:edge" mode="relation"/>
         </rdf:RDF>
     </xsl:template>
     
@@ -342,5 +342,18 @@
                 <xsl:value-of select=".//gml:data[@key='last_updated']"/>
             </ns1:lastUpdated>
         </ns0:Dataset>
+    </xsl:template>
+    
+    <!-- =========================================== -->
+    <!-- Relationship Template                                                            -->
+    <!-- =========================================== -->
+    <xsl:template match="gml:edge" mode="relation">
+        <ns0:Relationship rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+            <rdfs:label>
+                <xsl:value-of select=".//gml:edge/gml:data"/>
+            </rdfs:label>
+            <ns0:relates rdf:resource="{concat($source,./@source)}"/>
+            <ns0:relates rdf:resource="{concat($source,./@target)}"/>
+        </ns0:Relationship>
     </xsl:template>
 </xsl:stylesheet>
