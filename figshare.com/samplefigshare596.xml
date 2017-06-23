@@ -1,0 +1,603 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="/v2/static/oai2.xsl"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2017-06-22T08:56:50Z</responseDate>
+  <request resumptionToken="dmVyYj1MaXN0UmVjb3JkcyZzZXQ9cG9ydGFsXzIxJmV4cGlyYXRpb249MjAxNy0wNi0yMiUyMDA5JTNBNTYlM0E1MCZzY3JvbGxUb2tlbj1jWFZsY25sVWFHVnVSbVYwWTJnN016c3lORGN4T1RBd09uRnFVM0YwUTJWcFVWTXlha1JXYjFkaWNWRlpSR2M3TVRRMU9UY3dNRE02TW5wTVpHbHhhRXBUYURKTE0yRTJOa2RqY0VkeVp6c3lORGN4T1RBeE9uRnFVM0YwUTJWcFVWTXlha1JXYjFkaWNWRlpSR2M3TURzJTNEJm1ldGFkYXRhUHJlZml4PXJkZiZwYWdlPTU5Nw==" verb="ListRecords">https://api.figshare.com/v2/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/4683577</identifier>
+        <datestamp>2017-02-22T23:15:52Z</datestamp>
+        <setSpec>category_2</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_02_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/The_intracellular_localisation_of_ATP13A2_and_its_possible_role_in_cholesterol_and_manganese_transport/4683577">
+            <bibo:doi>10.4225/03/58ae1bb2f19b0</bibo:doi>
+            <rdfs:label>The intracellular localisation of ATP13A2 and its possible role in cholesterol and manganese transport</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <bibo:abstract>The pathogenesis of neurodegenerative diseases remains to be fully elucidated and abnormal accumulations of specific metals and macromolecules such as lipid is known to be a factor contributing to it. Recent discovery of loss-of- function mutations in the ATP13A2 gene, which encodes a novel P-type ATPase, has been linked to causing familial Parkinson’s disease. Although the substrate for ATP13A2 is still unclear, it has been reported that expression of ATP13A2 in a Parkinson’s disease model rescues dopaminergic neuron loss caused by α-synuclein over-expression, and also protect yeast from Manganese (Mn) toxicity. On the other hand, Atp13a2 knockout mouse studies showed accumulation of lipofuscin deposits, which may be a result of damaged mitochondria or lysosomes, in these mice. Consistent with that, preliminary experiments from our laboratory showed that an isoform of ATP13A2, interacts with the cholesterol-binding protein NPC2. 
+
+This present study focuses on gaining more insight on the intracellular localisation of the ATP13A2 and demonstrates its effects on lipids and metals in vivo and in vitro. 
+
+Chapter 3 demonstrates for the first time that endogenous ATP13A2 is localised in organelles involving in endocytic and exocytotic pathways. It was observed that they are predominantly found in various organelles involved in cholesterol and Mn trafficking. This includes the lysosomes, golgi apparatus, the ER, and mitochondria. 
+
+Chapter 4 provides a first insight into ATP13A2 functions at an in vivo level using Atp13a2 knockout mice. Findings from this study showed that Atp13a2 knockoutmice had higher level of apoptosis in the cortical regions of the brain. It was also suggested that Atp13a2 can affect intracellular cholesterol and Mn levels in the brain. 
+
+Similar effects of Atp13a2 on lipid and Mn were also observed in Chapter 5 where its effects on lipid and Mn were examined in greater detail with cell culture. Results indicate that ATP13A2 may facilitate the movement of free cholesterol out of organelles into the cytoplasm and the movement of Mn into mitochondria.
+
+In summary, this thesis reveals a possibility that ATP13A2 functions as a transporter for both Mn and cholesterol between organelles involving endocytic and exocytotic pathways. By contributing to the maintenance of correct intracellular distribution and homeostasis of cholesterol and Mn, ATP13A2 could potentially prevent the development of certain neurological disorders.</bibo:abstract>
+            <bibo:freetextKeyword>parkinson's</bibo:freetextKeyword>
+            <bibo:freetextKeyword>1959.1/980369</bibo:freetextKeyword>
+            <bibo:freetextKeyword>thesis(doctorate)</bibo:freetextKeyword>
+            <bibo:freetextKeyword>ethesis-20140824-113017</bibo:freetextKeyword>
+            <bibo:freetextKeyword>atp13a2</bibo:freetextKeyword>
+            <bibo:freetextKeyword>manganese</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash:130684</bibo:freetextKeyword>
+            <bibo:freetextKeyword>open access</bibo:freetextKeyword>
+            <bibo:freetextKeyword>cholesterol</bibo:freetextKeyword>
+            <bibo:freetextKeyword>2014</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_intracellular_localisation_of_ATP13A2_and_its_possible_role_in_cholesterol_and_manganese_transport/4683577-authorship-3773212">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/3773212-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/3773212-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_intracellular_localisation_of_ATP13A2_and_its_possible_role_in_cholesterol_and_manganese_transport/4683577"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/3773212-name">
+            <vcard:givenName>Jianxiong</vcard:givenName>
+            <vcard:familyName>Chan</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/4683574</identifier>
+        <datestamp>2017-02-22T23:15:34Z</datestamp>
+        <setSpec>category_2</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_02_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/Low-intensity_conditioning_for_the_induction_of_allogeneic_tolerance_in_aged_recipients/4683574">
+            <bibo:doi>10.4225/03/58ae1b989b32a</bibo:doi>
+            <rdfs:label>Low-intensity conditioning for the induction of allogeneic tolerance in aged recipients</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <bibo:abstract>Organ transplantation is the curative technique for end-stage organ failure. However, the success of this technique is opposed by the immunological rejection of the transplanted tissue. Traditionally strategies to combat allogeneic rejection have been based on life-long immunosuppression, which leads to high levels of morbidity stemming from opportunistic infections and malignancy. This can be overcome via the induction of allogeneic tolerance, where bone marrow transplant (BMT) induced allogeneic mixed chimerism can produce a permanent state of donor-specific tolerance, to both skin and solid organ grafts, across major histocompatibility complex (MHC) barriers. The clinical translation of such protocols has been hampered by the toxicities associated with recipient preconditioning, involving lethal or sub-lethal doses of irradiation and/or chemotherapy and a concern for the development of graft versus host disease (GvHD). To reduce conditioning-mediated toxicities, non-myeloablative conditioning regimes have been widely explored. However, despite the success of these protocols in small animal models and nonhuman primates translation to clinical trials has been limited. Age-related thymic involution is often overlooked when trying to induce allogeneic tolerance via BMT. This could pose a significant barrier, considering previous reports demonstrate that to maintain stable allogeneic tolerance in mixed chimeras, there is an absolute requirement for donor antigen-dependent, intrathymic deletion of alloreactive T cells and therefore a functioning thymus. Thymic involution begins at the onset of puberty/sex steroid production and is characterised by a marked disorganisation of the microenvironment, the replacement of lymphoid tissue by adipocytes and a significant decrease in T cell output, leaving the thymus functioning at only 5 % capacity by 10-12 months in the mouse and 40 years in humans. This may be particularly important in a clinical setting, as the majority of transplant recipients are well into adulthood. 
+
+This thesis aimed to investigate the ability to induce allogeneic tolerance, via a low-intensity
+conditioning regime in aged mice. This was achieved by (1) investigating the effects of the chemotherapeutic drug busulfan on the bone marrow (BM), spleen and thymus of both young and
+aged mice, (2) assessing the level of engraftment achieved when busulfan-treated mice receive both
+low and high-dose HSCT or allogeneic BMT, (3) investigating the role of sex steroid ablation (SSA) in boosting donor-cell engraftment and hematopoietic chimerism in both young and aged
+mice and finally (4) designing a thymus-sparing, low-intensity conditioning protocol that allowed
+the induction of allogeneic tolerance via mixed chimerism.
+
+Consistent with previous reports, low-dose busulfan was myeloablative, allowing transplanted cells
+to engraft in the BM, but not immunosuppressive, having only mild effects on the thymus and
+peripheral lymphoid compartment. Additionally, SSA coupled to chemotherapy increased both
+thymic cellularity and the number of donor-derived thymocytes following both high and low-dose
+HSCT. Indicating that SSA could be coupled to non-myeloablative HSCT to boost T cell output.
+Importantly, low-dose busulfan could be used in conjunction with T cell depleting antibodies and
+short-term sirolimus immunosuppression to induce mixed chimerism and allogeneic tolerance
+following the transplantation of both whole BM (WBM) or purified progenitor cells. Surprisingly,
+the tolerance generated from BMT was not dependent on the presence of a thymus, but instead the
+induction of T regulatory cells.
+
+The BM of aged mice was more resistant to chemotherapy than young BM and this lead to a
+decrease in donor cell engraftment and chimerism following congeneic HSCT. Sensitivity to
+chemotherapy could be restored by activating BM-progenitor cells with granulocyte colony
+stimulating factor (G-CSF), however, G-CSF prior to low-dose busulfan and HSCT did not boost
+engraftment of congeneic progenitor cells. Because the engraftment of progenitor cells was poor
+and allogeneic T cells can promote donor cell engraftment, the ability for WBM to engraft, promote
+mixed chimerism and induce allogeneic tolerance in aged mice conditioned with T cell depleting
+antibodies, sirolimus immunosuppression and low-dose busulfan was investigated. Utilising this
+protocol robust mixed chimerism and allogeneic tolerance could be achieved in aged mice.
+To our knowledge, this is the first study to examine mixed chimerism induced allogenic tolerance in aged mice. In this model age-related thymic involution does not impede the ability to induce donor-specific tolerance. This is an important finding for the clinical application of protocols designed to induce tolerance, considering most transplant recipients are aged individuals, who have experienced significant thymic involution and other signs of immunosenescence.</bibo:abstract>
+            <bibo:freetextKeyword>allogeneic</bibo:freetextKeyword>
+            <bibo:freetextKeyword>immunosuppression</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash:130413</bibo:freetextKeyword>
+            <bibo:freetextKeyword>bone marrow</bibo:freetextKeyword>
+            <bibo:freetextKeyword>thymus</bibo:freetextKeyword>
+            <bibo:freetextKeyword>ethesis-20140729-151458</bibo:freetextKeyword>
+            <bibo:freetextKeyword>immune modulation</bibo:freetextKeyword>
+            <bibo:freetextKeyword>open access</bibo:freetextKeyword>
+            <bibo:freetextKeyword>2014</bibo:freetextKeyword>
+            <bibo:freetextKeyword>hematopoietic stem cell transplantation</bibo:freetextKeyword>
+            <bibo:freetextKeyword>1959.1/978017</bibo:freetextKeyword>
+            <bibo:freetextKeyword>thesis(doctorate)</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Low-intensity_conditioning_for_the_induction_of_allogeneic_tolerance_in_aged_recipients/4683574-authorship-3773209">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/3773209-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/3773209-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Low-intensity_conditioning_for_the_induction_of_allogeneic_tolerance_in_aged_recipients/4683574"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/3773209-name">
+            <vcard:givenName>Jessica Kate</vcard:givenName>
+            <vcard:familyName>Morison</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/4683571</identifier>
+        <datestamp>2017-02-22T23:15:18Z</datestamp>
+        <setSpec>category_2</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_02_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/Self-leadership_and_mature_adults_pursuing_tertiary_education_Five_Singaporean_case_studies/4683571">
+            <bibo:doi>10.4225/03/58ae1b87b3637</bibo:doi>
+            <rdfs:label>Self-leadership and mature adults pursuing tertiary education: Five Singaporean case studies</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <bibo:abstract>This research is focused on the concept of self-leadership, and the way its influence over career successful mature Singaporean adults has resulted in their pursuit of a first tertiary qualification.
+
+Singapore's historical past includes being a British Crown colony, being ruled by the Japanese during the Second World War, being merged to form what is Malaysia today and finally, becoming an independent country for the last five decades. This post-colonial setting has become the basis of my research.
+
+Framed in post-colonial theory, this thesis was inspired by Chen's (2010) work, Asia as Method and is guided by his argument about seeking cultural and psychological identities for formerly colonised people. This theoretical frame has outlined my thinking and it is through this lens that I analysed the data.
+ 
+Through a qualitative approach, this research was able to attain in-depth understandings of how a culturally varied concept like self-leadership is understood and interpreted by mature Singaporeans. What does the self-leadership concept mean to them and how it is being defined? Within an interpretive framwork, this research generated five csse studies which were based on semi-structured interviews and artefact analysis. A total of four stands bring together aspects of self-leadership in Singapore: the importance of leading and motivating, an emphasis on goal striving, narratives about the search for the self, and the idea of self-leadership in uniquely Singapore, supported by cultural insights on the self-leadership questionnaire. New findings on the construct self-leadership emerged as a result of this study in which eight Singapore-centric self-leadership qualities were identified through the interpretation of the data.
+
+The study integrates the literature of four related topics, namely culture and education from a Singaporean perspective, the concept of self-leadership, self and identity and adult learning, thus providing a fresh perspective on self-leadership. Second, the research confirms the importance of the cultural context when self-leadership is examined in Singapore and contributes a new cultural perspective in the research of self-leadership.
+
+This thesis therefore argues that the self-leadership theory as proposed by Western authors be re-framed to suit discussion in an Asian and in particular, a Singaporean context. This thesis also argues that the self-leadership concept need not be limited to or explained exclusively by a Western outlook. This study proposes that self-leadership qualities articulated directly or indirectly by the participants through their interpretation of the concept under a Singapore cultural context can be used in the reframing of self-leaderrship dimensions. This process involves adding categories to a self-leadership questionnaire or RSLQ (Houghton &amp; Neck, 2002) in order to support the development of a Singaporean specific cultural extension to the RSLQ.</bibo:abstract>
+            <bibo:freetextKeyword>singapore</bibo:freetextKeyword>
+            <bibo:freetextKeyword>thesis(doctorate)</bibo:freetextKeyword>
+            <bibo:freetextKeyword>post-colonialism</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash:153316</bibo:freetextKeyword>
+            <bibo:freetextKeyword>culture</bibo:freetextKeyword>
+            <bibo:freetextKeyword>open access</bibo:freetextKeyword>
+            <bibo:freetextKeyword>ethesis-20141210-181243</bibo:freetextKeyword>
+            <bibo:freetextKeyword>2014</bibo:freetextKeyword>
+            <bibo:freetextKeyword>1959.1/1158795</bibo:freetextKeyword>
+            <bibo:freetextKeyword>self-leadership</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Self-leadership_and_mature_adults_pursuing_tertiary_education_Five_Singaporean_case_studies/4683571-authorship-3773206">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/3773206-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/3773206-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Self-leadership_and_mature_adults_pursuing_tertiary_education_Five_Singaporean_case_studies/4683571"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/3773206-name">
+            <vcard:givenName>Boo Hor Robert</vcard:givenName>
+            <vcard:familyName>Khoo</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/4683568</identifier>
+        <datestamp>2017-02-22T23:14:48Z</datestamp>
+        <setSpec>category_2</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_02_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/Cell_type_specific_mechanisms_of_mineralocorticoid_receptor_mediated_renal_injury/4683568">
+            <bibo:doi>10.4225/03/58ae1b6a879f5</bibo:doi>
+            <rdfs:label>Cell type specific mechanisms of mineralocorticoid receptor mediated renal injury</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <bibo:abstract>The mineralocorticoid receptor (MR) has been found to exhibit both physiological roles in epithelial cells, and pathological roles in non epithelial kidney cells such as macrophages, podocytes and fibroblasts. Recent evidence has shown that activation of MR in these cells promotes inflammation, apoptosis and fibrosis – key pathological processes that contribute to declining renal function, albuminuria and progression of kidney disease. Antagonists of MR have been available for clinical use for decades; however their utility in renal patients has been impeded by hyperkalaemia due to tubular MR blockade. Therefore, an understanding of what cells mediate pathological effects of MR during kidney disease may allow targeted MR blockade, thus avoiding complications of salt disturbance.
+
+In order to assess the cell specific effects of MR signalling in kidney disease, we examined renal cells that express MR, such as renal fibroblasts, macrophages and podocytes. Initially, the role of MR activation on renal fibroblast proliferation was examined in vitro (Chapter 2). Rat renal fibroblasts, as well as primary mouse renal fibroblasts harvested from a kidney undergoing fibrosis, were exposed to aldosterone in serum free conditions. Increased proliferation and cell counts were observed in both cell types in a dose-dependent manner. Mechanistic experiments revealed MR activation leading to transactivation of growth factor receptors and subsequent activation of mitogen-activated protein kinases, to increase fibroblast proliferation. These results suggest that aldosterone-induced fibroblast proliferation may be another mechanism by which MR contributes to renal fibrosis.
+
+Secondly, we investigated the role of macrophages MR signalling in models of acute glomerulonephritis and diabetic nephropathy. In the glomerulonephritis model (Chapter 3), mice with selective MR deletions in macrophages had reduced overall renal injury as determined by kidney inflammatory infiltrates, glomerular and interstitial fibrosis and preservation of renal function. The degree of renal protection from targeted macrophage MR inhibition was similar to, and often superior to that of systemic MR antagonism. Thus, our findings demonstrate an important role of macrophage MR in the pathogenesis of acute glomerulonephritis, and may be a potential target for targeted MR blockade.
+
+Mice were then subjected to streptozotocin induced type 1 diabetes in a model of diabetic nephropathy (Chapter 4). Selective macrophage MR deletion markedly attenuated evidence of glomerular hyperfiltration, with reductions in glomerulomegaly and hypercellularity during diabetic nephropathy. Furthermore, glomerular macrophage infiltration and tubulointerstitial apoptosis were also attenuated in the knock-out mice. Despite these changes, renal function and albuminuria were not affected by macrophage MR deletion, suggesting a limited role for myeloid MR during early diabetic nephropathy.
+
+Lastly, we examined the relative importance of podocyte MR signalling in a model of glomerulonephritis (Chapter 3). Mice with selective MR deletions in podocytes developed severe renal injury comparable to wild-type mice, with no protection seen in albuminuria, renal dysfunction or renal fibrosis. These results suggest that podocyte MR signalling plays a limited role in renal injury during acute glomerulonephritis; contrasting to that of myeloid MR signalling.
+
+In conclusion, this series of experiments have increased our knowledge of the pathological role of MR activation in non-epithelial renal cells. Our results are unique, in that for the first time, we were able to delineate the effects of MR activation in selective cells, during kidney disease. An understanding of cell specific MR signalling may lead to cell selective MR inhibition, or its downstream signalling pathways, and avoid unwanted adverse effects such as hyperkalaemia. Not only will this improve treatment of patients with kidney disease, it may also have implications for the treatment of cardiovascular and cerebrovascular diseases.</bibo:abstract>
+            <bibo:freetextKeyword>1959.1/918850</bibo:freetextKeyword>
+            <bibo:freetextKeyword>glomerulonephritis</bibo:freetextKeyword>
+            <bibo:freetextKeyword>cell selective mr deletion</bibo:freetextKeyword>
+            <bibo:freetextKeyword>renal fibroblast</bibo:freetextKeyword>
+            <bibo:freetextKeyword>thesis(doctorate)</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash:120547</bibo:freetextKeyword>
+            <bibo:freetextKeyword>diabetic nephropathy</bibo:freetextKeyword>
+            <bibo:freetextKeyword>podocyte</bibo:freetextKeyword>
+            <bibo:freetextKeyword>2014</bibo:freetextKeyword>
+            <bibo:freetextKeyword>open access</bibo:freetextKeyword>
+            <bibo:freetextKeyword>ethesis-20140115-21382</bibo:freetextKeyword>
+            <bibo:freetextKeyword>macrophage</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Cell_type_specific_mechanisms_of_mineralocorticoid_receptor_mediated_renal_injury/4683568-authorship-3773203">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/3773203-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/3773203-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Cell_type_specific_mechanisms_of_mineralocorticoid_receptor_mediated_renal_injury/4683568"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/3773203-name">
+            <vcard:givenName>Louis Li Hsing</vcard:givenName>
+            <vcard:familyName>Huang</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/4683562</identifier>
+        <datestamp>2017-02-22T23:14:32Z</datestamp>
+        <setSpec>category_2</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_02_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/Top_management_team_TMT_antecedents_and_financial_performance_outcomes_of_firm_internationalisation_The_mediating_effect_of_the_competence_of_the_TMT/4683562">
+            <bibo:doi>10.4225/03/58ae1b59e5c8e</bibo:doi>
+            <rdfs:label>Top management team (TMT) antecedents and financial performance outcomes of firm internationalisation: The mediating effect of the competence of the TMT</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <bibo:abstract>Identifying the antecedents of firm internationalisation is a central topic of interest within the international business (IB) field. One set of potential antecedents is the characteristics of the top management teams (TMTs) that drive their firms’ international outcomes. Interestingly, research into the role of TMTs in this context remains relatively rare. Drawing predominantly on upper echelons theory, the primary aim of this study was to examine the relationships between TMT characteristics and firm internationalisation and the mediating role of the competence of the TMT on these relationships. Then, because financial performance is typically assumed to be the ultimate objective for international businesses, the secondary aim of this study was to examine whether the competence of the TMT or firm internationalisation are associated with firm financial performance. Data were collected from a survey of 152 top executives from Australian firms who undertake international operations. Results of structural equation modelling show that TMT nationality diversity, the proportion of TMT members with a tertiary education, and TMT behavioural integration were positively related to firm internationalisation, with these relationships fully mediated by competence of the TMT. In comparison, the proportion of TMT members with international experience had a direct (unmediated) positive relationship with firm internationalisation. The geographic scope of TMT international experience and TMT relationships (intra-firm, intra-industry, and extra-industry) were not found to have direct, or indirect, effects on firm internationalisation. Lastly, the competence of the TMT was positively related to firm financial performance, while firm internationalisation was not linearly related to firm financial performance. Ad hoc analysis, however, detected a negative quadratic (inverted U-shaped) relationship between firm internationalisation and financial performance, whereby firm internationalisation is beneficial to firm financial performance up to a certain point, after which additional internationalisation becomes detrimental to financial performance. This study makes the following theoretical contributions to current understanding of the role of TMTs in driving firm internationalisation and firm financial performance. First, the competence of the TMT is shown to be a central construct underpinning the mechanism by which TMT characteristics impact firm internationalisation. This sheds some light on the black box problem that has plagued upper echelons literature. Second, the competence of the TMT is revealed to be a valuable resource which allows firms to maximise their financial performance and calibrate the pressures of under- and over-internationalising, so as to ensure that an optimal degree of internationalisation is maintained.</bibo:abstract>
+            <bibo:freetextKeyword>firm internationalisation</bibo:freetextKeyword>
+            <bibo:freetextKeyword>thesis(doctorate)</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash:120723</bibo:freetextKeyword>
+            <bibo:freetextKeyword>financial performance</bibo:freetextKeyword>
+            <bibo:freetextKeyword>open access</bibo:freetextKeyword>
+            <bibo:freetextKeyword>top management team</bibo:freetextKeyword>
+            <bibo:freetextKeyword>2014</bibo:freetextKeyword>
+            <bibo:freetextKeyword>ethesis-20140406-154436</bibo:freetextKeyword>
+            <bibo:freetextKeyword>1959.1/928221</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Top_management_team_TMT_antecedents_and_financial_performance_outcomes_of_firm_internationalisation_The_mediating_effect_of_the_competence_of_the_TMT/4683562-authorship-3773200">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/3773200-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/3773200-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Top_management_team_TMT_antecedents_and_financial_performance_outcomes_of_firm_internationalisation_The_mediating_effect_of_the_competence_of_the_TMT/4683562"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/3773200-name">
+            <vcard:givenName>Ryan</vcard:givenName>
+            <vcard:familyName>Trudgen</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/4680583</identifier>
+        <datestamp>2017-02-22T23:04:29Z</datestamp>
+        <setSpec>category_2</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_02_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/Could_and_Should_the_European_Union_Integrate_Member_States_Income_Taxation_Systems_/4680583">
+            <bibo:doi>10.4225/03/58ad1cdf47c41</bibo:doi>
+            <rdfs:label>Could and Should the European Union Integrate Member States’ Income Taxation Systems?</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <bibo:abstract>Since its
+foundation to date, the EU constitutional powers and supranational politics on
+integration of a wide-range of national policy regimes have undergone an
+unprecedented transformation to create EU-level rules. Yet, income taxation is
+a policy area where a significant integrational gap still exists in the EU.
+This gap primarily stems from a challenge of dual character: one, unspoken tax
+powers in the constitution and, secondly, taxation – a symbol of sovereignty –
+is seated deep in the national politics. Against that backdrop, the thesis
+examines EU law and politics with a view to explore prospects for integration
+of national tax systems on the way to institution of a single European market. &lt;br&gt;
+    &lt;br&gt;
+   In dissecting legal dimensions of EU tax integration, the
+study adopts an evolutionary approach. It follows a legal evolution model where
+EU-level legislative powers remain “mobile” in the quest of attaining a single
+market pursuant to fundamental freedoms and constitutional prohibitions. The
+analysis builds on a process of “communautairization” of national policy
+regimes wherein relational framework between the Member States gradually evolve
+and transform from the one based on the international legal model to an EU
+legal order. On the other hand, in examining the European tax politics, the
+study relies heavily on neofunctional model that theorizes creation of EU (tax)
+rules alongside and beyond the policymaking based truly on national
+decision-making. The political dimension also takes into account the
+transnational pushes generated by the rise of recent anti-avoidance tide around
+the globe, and the way EU-level tax politics may possibly capitalize on it and
+transpose it into European tax order. &lt;br&gt;
+    &lt;br&gt;
+   The study finds that consistent with growing competences in
+other policy areas, EU legislative powers in tax domain also expand. The study
+posits that this premise holds more relevance to the post-Lisbon era. In the
+same vein, based on a temporal analysis, the study also suggests that tax
+policymaking is not immune to supranational politics. If viewed through a
+larger picture paradigm, the pooling of tax authority continues from national
+level to the EU. The legal and political analysis of the recent application of
+state aid rules to income taxes suggests that the tax-aid activity, in
+prospect, might pave a way towards tax measures in the pursuit of a
+“one-European-voice” in tax deals with the non-EU jurisdictions. Likewise, the
+developments post-relaunch of the CCCTB plan indicate that it is likely that a
+recent shift in EU approach may result in some real progress on common tax base
+rules for companies first the time in the European history. The thesis finally
+concludes that the EU could, and indeed should, move on to integrate national
+tax systems to address challenges to the establishment of a real, efficient and
+sustainable single market.</bibo:abstract>
+            <bibo:freetextKeyword>eu tax integration</bibo:freetextKeyword>
+            <bibo:freetextKeyword>direct taxation in eu</bibo:freetextKeyword>
+            <bibo:freetextKeyword>tax harmonization</bibo:freetextKeyword>
+            <bibo:freetextKeyword>corporate taxes in eu</bibo:freetextKeyword>
+            <bibo:freetextKeyword>european integration</bibo:freetextKeyword>
+            <bibo:freetextKeyword>european legal evolution</bibo:freetextKeyword>
+            <bibo:freetextKeyword>neofunctional integration in eu</bibo:freetextKeyword>
+            <dc:rights>CC BY-NC</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Could_and_Should_the_European_Union_Integrate_Member_States_Income_Taxation_Systems_/4680583-authorship-3771583">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/3771583-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/3771583-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Could_and_Should_the_European_Union_Integrate_Member_States_Income_Taxation_Systems_/4680583"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/3771583-name">
+            <vcard:givenName>Shafi Ullah</vcard:givenName>
+            <vcard:familyName>Khan</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/4669213</identifier>
+        <datestamp>2017-02-22T22:53:59Z</datestamp>
+        <setSpec>category_2</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_02_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/A_Wiradjuri_Ngurambang_Cultural_Chronicle_and_Ontology_Ways_of_Being_and_Dhurinya_Ways_to_Continue_to_Be_-_cultural_maintenance_and_a_context_for_mapping_cultural_history/4669213">
+            <bibo:doi>10.4225/03/58ae168998d30</bibo:doi>
+            <rdfs:label>A Wiradjuri Ngurambang Cultural Chronicle and Ontology: Ways of Being and Dhurinya, Ways to Continue to Be - cultural maintenance and a context for mapping cultural history</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <bibo:abstract>This thesis brings together textual and visual research work. Natural history and Indigenous connection to Country are presented and discussed in cultural and educational terms. As a Wiradjuri narrative, the work chronicles community arts’ initiatives in practical and theoretical terms, making the connection between the two dimensions by documenting and illustrating processes and relationships. The arts items&lt;br&gt;are discussed in their genesis and their realisation as expressions of cultural sovereignty, but also as elements supporting and feeding into economic sustainability.&lt;br&gt;&lt;br&gt;  The thesis is framed and saturated through oral history and social commentaries presenting a background to Australian Indigenous art history, placing it in the context of the story of a living culture, reaching back into times immemorial, but also establishing a firm present-day basis for a confident and sustainable future. The work thus attempts to &lt;i&gt;decolonise&lt;/i&gt; art theory and history as well as decolonise the community arts' dialogue. The interconnections between ancient philosophy and ancestral knowledge link land, kinship and spirit and find expression in cultural and artistic work.&lt;br&gt;&lt;br&gt;  Finally, the dissertation examines the concept of story as an expression of the connection to Country which is realised and supported through an Indigenous &lt;i&gt;place pedagogy&lt;/i&gt;. Throughout the work a context is established within which research protocols and ethics are firmly and consistently based on cultural guidelines and imperatives of Respect, Responsibility and Reciprocity.  &lt;br&gt;&lt;br&gt;  Throughout, the argument of the thesis is supported by illustrations from my own studio work, by photos from Australian Indigenous history and relevant Australian art, both Indigenous and non-Indigenous. The work concludes with a set of recommended approaches which undergird the above cultural guidelines.&lt;br&gt;&lt;br&gt;  Lexicon: Aboriginal, Indigenous, Koori and Wiradjuri are all terms used in this thesis to discuss Australian Indigenous person, with whom I identify. &lt;br&gt;</bibo:abstract>
+            <bibo:freetextKeyword>culture</bibo:freetextKeyword>
+            <bibo:freetextKeyword>wiradjuri</bibo:freetextKeyword>
+            <bibo:freetextKeyword>place</bibo:freetextKeyword>
+            <bibo:freetextKeyword>art</bibo:freetextKeyword>
+            <bibo:freetextKeyword>indigenous</bibo:freetextKeyword>
+            <bibo:freetextKeyword>country</bibo:freetextKeyword>
+            <bibo:freetextKeyword>sovereignty</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Wiradjuri_Ngurambang_Cultural_Chronicle_and_Ontology_Ways_of_Being_and_Dhurinya_Ways_to_Continue_to_Be_-_cultural_maintenance_and_a_context_for_mapping_cultural_history/4669213-authorship-3759064">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/3759064-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/3759064-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Wiradjuri_Ngurambang_Cultural_Chronicle_and_Ontology_Ways_of_Being_and_Dhurinya_Ways_to_Continue_to_Be_-_cultural_maintenance_and_a_context_for_mapping_cultural_history/4669213"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/3759064-name">
+            <vcard:givenName>Robyn Frances</vcard:givenName>
+            <vcard:familyName>Heckenberg</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/4680604</identifier>
+        <datestamp>2017-02-22T05:50:27Z</datestamp>
+        <setSpec>category_2</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_02_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/A_Model_for_a_State_Income_Tax_in_Australia_Historical_Considerations_Key_Design_Issues_and_Recommendations/4680604">
+            <bibo:doi>10.4225/03/58ad25bde496c</bibo:doi>
+            <rdfs:label>A Model for a State Income Tax in Australia: Historical Considerations, Key Design Issues and Recommendations</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <bibo:abstract>This thesis addresses
+the question, would the reintroduction of income taxation at the State level in
+Australia be feasible at the present time? The States levied income taxes from
+the late nineteenth century until 1942, when the Commonwealth unilaterally
+enacted legislation for its ‘uniform tax’ scheme for centralised income
+taxation which made it effectively impossible for State income taxation to
+continue. As the States also face a significant constitutional restrictions on
+their ability to levy major forms of indirect taxation, the Australian
+federation is characterised by a very high degree of vertical fiscal imbalance
+and the payment by the Commonwealth of very significant amounts of grants to
+the States to enable them to meet their major spending responsibilities, with
+associated efficiency and governmental accountability costs. &lt;br&gt;
+    &lt;br&gt;
+   As a matter of law, however, the States retain the
+constitutional power to impose income taxation, and the possibility of
+resumption of income taxation by the States has been a focus of political and
+tax policy discussion on many occasions. In this context, Australia’s
+historical experience with State income taxation from its first introduction in
+Tasmania in 1880 to 1942 is examined in depth to determine whether there may
+have been administrative problems in the Australian experience of State income
+taxation, or ongoing practical or political factors in the country's economy or
+system of government, which may make reintroduction of State income taxation
+impracticable. The contrast on this issue with the Canadian experience is also
+relevant, where provincial income taxation was centralised during the War but
+resumed in the years thereafter. &lt;br&gt;
+    &lt;br&gt;
+   As part of this historical study, the thesis also looks to
+the developments outside the specific sphere of taxation which have occurred
+since Federation to limit the direct constitutional powers of the Commonwealth
+government to exercise macroeconomic management and control over the Australian
+economy. The thesis concludes that centralisation of financial resources at the
+Commonwealth level since Federation was important as an alternative means of
+facilitating central management of the economy by the Commonwealth, and
+accordingly that on balance reintroduction of State income taxation would be
+feasible and is not precluded by administrative or practical considerations. &lt;br&gt;
+    &lt;br&gt;
+   In conclusion, the thesis considers the key design issues
+which a State income tax in the present day would need to resolve, particularly
+in relation to the allocation of income of multi-State businesses between the
+States for tax purposes, and makes recommendations on these issues in order to
+develop a model for a State income tax. Australia’s experience with the
+allocation of income issue is reviewed, along with the current practice in the
+US and Canada under their subnational income taxes and the current reform debate
+in the European Union and internationally. The thesis concludes in favour of a
+system of formula apportionment over separate accounting as the recommended
+method of allocation of income. &lt;br&gt;
+    &lt;br&gt;
+   The research in this thesis is current to 24 September 2016.</bibo:abstract>
+            <bibo:freetextKeyword>income taxation</bibo:freetextKeyword>
+            <bibo:freetextKeyword>fiscal federalism</bibo:freetextKeyword>
+            <bibo:freetextKeyword>australian public finance</bibo:freetextKeyword>
+            <bibo:freetextKeyword>state income tax history</bibo:freetextKeyword>
+            <bibo:freetextKeyword>business income allocation</bibo:freetextKeyword>
+            <bibo:freetextKeyword>formula apportionment</bibo:freetextKeyword>
+            <dc:rights>CC BY-NC</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_Model_for_a_State_Income_Tax_in_Australia_Historical_Considerations_Key_Design_Issues_and_Recommendations/4680604-authorship-3771604">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/3771604-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/3771604-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_Model_for_a_State_Income_Tax_in_Australia_Historical_Considerations_Key_Design_Issues_and_Recommendations/4680604"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/3771604-name">
+            <vcard:givenName>Peter Warren</vcard:givenName>
+            <vcard:familyName>Mellor</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/4680607</identifier>
+        <datestamp>2017-02-22T05:46:16Z</datestamp>
+        <setSpec>category_98</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_7</setSpec>
+        <setSpec>month_year_02_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Slideshow rdf:about="https://figshare.com/articles/weneedtotalkaboutzinespresentation_pptx/4680607">
+            <bibo:doi>10.4225/03/58ad25a9ed757</bibo:doi>
+            <rdfs:label>weneedtotalkaboutzinespresentation.pptx</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <bibo:abstract>Presentation at the 2016 BSANZ Conference in Hamilton, NZ.&lt;br&gt;</bibo:abstract>
+            <bibo:freetextKeyword>zine</bibo:freetextKeyword>
+            <bibo:freetextKeyword>zines</bibo:freetextKeyword>
+            <bibo:freetextKeyword>bsanz</bibo:freetextKeyword>
+            <bibo:freetextKeyword>presentation</bibo:freetextKeyword>
+            <bibo:freetextKeyword>conference</bibo:freetextKeyword>
+            <bibo:freetextKeyword>academic library</bibo:freetextKeyword>
+            <bibo:freetextKeyword>university library</bibo:freetextKeyword>
+            <dc:rights>CC BY</dc:rights>
+          </bibo:Slideshow>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/weneedtotalkaboutzinespresentation_pptx/4680607-authorship-2483224">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/Daniel_Wee/2483224-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/Daniel_Wee/2483224-name"/>
+                <obo:ARG_2000029>
+                  <foaf:Person rdf:about="https://figshare.com/authors/Daniel_Wee/2483224">
+                    <vivo:orcidId rdf:resource="http://orcid.org/0000-0001-6694-0204"/>
+                    <rdfs:label>Daniel Wee</rdfs:label>
+                  </foaf:Person>
+                </obo:ARG_2000029>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/weneedtotalkaboutzinespresentation_pptx/4680607"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/Daniel_Wee/2483224-name">
+            <vcard:givenName>Daniel</vcard:givenName>
+            <vcard:familyName>Wee</vcard:familyName>
+          </vcard:Name>
+          <vivo:Thing rdf:about="http://orcid.org/0000-0001-6694-0204"/>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/4680598</identifier>
+        <datestamp>2017-02-22T05:07:43Z</datestamp>
+        <setSpec>category_2</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_02_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/Eye_of_desire_an_elaboration_of_sculpture_space_and_its_emotion/4680598">
+            <bibo:doi>10.4225/03/58ad1ca16b96f</bibo:doi>
+            <rdfs:label>Eye of desire: an elaboration of sculpture, space and its emotion</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-02-22"/>
+            <bibo:abstract>This research paper investigates the language of desire and its relationship to my sculptural practice. My studio research has been engaged in sculptural outcomes through video, performance and objects; core to this, is the relationship between vision and desire. My paper charts the evolution of this and how I consider these factors when making art. My process stems from my engagement with the metaphor of the eye and of how I see, the condition of a tactile gaze as analogous to desire.
+My studio research — videos, manufactured work, performance — has been a personal pursuit in an attempt to understand both the intervention within a gallery setting and to uncover my personal motivations for why I create the work that I do. The thesis charts the evolution of my process into the body and performance and its reclamation through manipulated video loops. These interventions act as spatial engagement with landscape and body, explored through a number of strategies using the eye as the mechanical and metaphoric device</bibo:abstract>
+            <bibo:freetextKeyword>desire</bibo:freetextKeyword>
+            <bibo:freetextKeyword>spatial practice</bibo:freetextKeyword>
+            <bibo:freetextKeyword>thesis(doctorate)</bibo:freetextKeyword>
+            <bibo:freetextKeyword>1959.1/1144107</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash:151097</bibo:freetextKeyword>
+            <bibo:freetextKeyword>2015</bibo:freetextKeyword>
+            <bibo:freetextKeyword>ethesis-20150216-150047</bibo:freetextKeyword>
+            <bibo:freetextKeyword>restricted access</bibo:freetextKeyword>
+            <bibo:freetextKeyword>sculpture</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Eye_of_desire_an_elaboration_of_sculpture_space_and_its_emotion/4680598-authorship-3771592">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/3771592-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/3771592-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Eye_of_desire_an_elaboration_of_sculpture_space_and_its_emotion/4680598"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/3771592-name">
+            <vcard:givenName>Catherine Rebecca</vcard:givenName>
+            <vcard:familyName>Consandine</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2017-06-22T09:56:50Z">dmVyYj1MaXN0UmVjb3JkcyZzZXQ9cG9ydGFsXzIxJmV4cGlyYXRpb249MjAxNy0wNi0yMiUyMDA5JTNBNTYlM0E1MCZzY3JvbGxUb2tlbj1jWFZsY25sVWFHVnVSbVYwWTJnN016c3lORGN4T1RBd09uRnFVM0YwUTJWcFVWTXlha1JXYjFkaWNWRlpSR2M3TVRRMU9UY3dNRE02TW5wTVpHbHhhRXBUYURKTE0yRTJOa2RqY0VkeVp6c3lORGN4T1RBeE9uRnFVM0YwUTJWcFVWTXlha1JXYjFkaWNWRlpSR2M3TURzJTNEJm1ldGFkYXRhUHJlZml4PXJkZiZwYWdlPTU5OA==</resumptionToken>
+  </ListRecords>
+</OAI-PMH>
