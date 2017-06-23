@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+	<graph id="G" edgedefault="directed">
+		<key id="funder" for="node" attr.name="funder" attr.type="string"/>
+		<key id="last_updated" for="node" attr.name="last_updated" attr.type="string"/>
+		<key id="local_id" for="node" attr.name="local_id" attr.type="string"/>
+		<key id="start_year" for="node" attr.name="start_year" attr.type="int"/>
+		<key id="last_name" for="node" attr.name="last_name" attr.type="string"/>
+		<key id="orcid" for="node" attr.name="orcid" attr.type="string"/>
+		<key id="source" for="node" attr.name="source" attr.type="string"/>
+		<key id="purl" for="node" attr.name="purl" attr.type="string"/>
+		<key id="title" for="node" attr.name="title" attr.type="string"/>
+		<key id="type" for="node" attr.name="type" attr.type="string"/>
+		<key id="url" for="node" attr.name="url" attr.type="string"/>
+		<key id="full_name" for="node" attr.name="full_name" attr.type="string"/>
+		<key id="end_year" for="node" attr.name="end_year" attr.type="int"/>
+		<key id="first_name" for="node" attr.name="first_name" attr.type="string"/>
+		<key id="key" for="node" attr.name="key" attr.type="string"/>
+		<key id="participants" for="node" attr.name="participants" attr.type="string"/>
+		<key id="doi" for="node" attr.name="doi" attr.type="string"/>
+		<node id="n57142" labels=":ANDS:grant">
+			<data key="labels">:ANDS:grant</data>
+			<data key="url">australianwaterrecycling.com.au/projects/optimal-technology-intergration</data>
+			<data key="title">Optimal Technology Integration</data>
+			<data key="source">ANDS</data>
+			<data key="end_year">2015</data>
+			<data key="local_id">http://purl.org/au-research/grants/nuwdp/awrce/1-8</data>
+			<data key="type">grant</data>
+			<data key="key">researchgraph.org/ands/http://purl.org/au-research/grants/nuwdp/awrce/1-8</data>
+			<data key="purl">purl.org/au-research/grants/nuwdp/awrce/1-8</data>
+			<data key="start_year">2012</data>
+			<data key="participants">&amp;lt;p&amp;gt;Dr Shihu Hu&amp;lt;/p&amp;gt;</data>
+		</node>
+		<node id="n103761" labels=":ANDS:grant:nhmrc.gov.au">
+			<data key="labels">:ANDS:grant:nhmrc.gov.au</data>
+			<data key="type">grant</data>
+			<data key="title">Control of Parathyroid Hormone and Parathyroid Hormone related Protein secretion</data>
+			<data key="local_id">http://purl.org/au-research/grants/nhmrc/950129</data>
+			<data key="end_year">1997</data>
+			<data key="source">nhmrc.gov.au</data>
+			<data key="key">researchgraph.org/ands/http://purl.org/au-research/grants/nhmrc/950129</data>
+			<data key="participants">Dr Arthur D Conigrave</data>
+			<data key="start_year">1995</data>
+			<data key="purl">purl.org/au-research/grants/nhmrc/950129</data>
+			<data key="funder">nhmrc.gov.au</data>
+		</node>
+		<node id="n166630" labels=":ANDS:researcher:scu.edu.au">
+			<data key="labels">:ANDS:researcher:scu.edu.au</data>
+			<data key="type">researcher</data>
+			<data key="local_id">epubs.scu.edu.au/Anstoetz,Manuela</data>
+			<data key="last_updated">2017-04-24T05:03:39Z</data>
+			<data key="key">researchgraph.org/ands/epubs.scu.edu.au/Anstoetz,Manuela</data>
+			<data key="full_name"> </data>
+			<data key="source">scu.edu.au</data>
+		</node>
+		<node id="n166632" labels=":ANDS:grant:scu.edu.au">
+			<data key="labels">:ANDS:grant:scu.edu.au</data>
+			<data key="title">Grain Research &amp; Development Corporation (GRDC) Project No. 51426</data>
+			<data key="type">grant</data>
+			<data key="url">projects.grdc.com.au/projects.php?action=view_project&amp;project_id=2125</data>
+			<data key="local_id">epubs.scu.edu.au/GrainResearch&amp;DevelopmentCorporation(GRDC)ProjectNo.51426</data>
+			<data key="end_year">2014</data>
+			<data key="source">scu.edu.au</data>
+			<data key="key">researchgraph.org/ands/epubs.scu.edu.au/GrainResearch&amp;DevelopmentCorporation(GRDC)ProjectNo.51426</data>
+			<data key="start_year">2013</data>
+			<data key="funder">scu.edu.au</data>
+		</node>
+		<node id="n187203" labels=":ANDS:dataset:uq.edu.au">
+			<data key="labels">:ANDS:dataset:uq.edu.au</data>
+			<data key="url">dx.doi.org/10.14264/uql.2016.551</data>
+			<data key="title">Phase 1 results of ASWROTI project</data>
+			<data key="type">dataset</data>
+			<data key="local_id">espace.library.uq.edu.au/view/UQ:400819</data>
+			<data key="source">uq.edu.au</data>
+			<data key="last_updated">2017-03-13T13:45:53Z</data>
+			<data key="key">researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:400819</data>
+			<data key="doi">10.14264/uql.2016.551</data>
+		</node>
+		<node id="n187204" labels=":ANDS:dataset:uq.edu.au">
+			<data key="labels">:ANDS:dataset:uq.edu.au</data>
+			<data key="url">dx.doi.org/10.14264/uql.2016.606</data>
+			<data key="title">Phase 2 results of ASWROTI project</data>
+			<data key="type">dataset</data>
+			<data key="local_id">espace.library.uq.edu.au/view/UQ:400820</data>
+			<data key="source">uq.edu.au</data>
+			<data key="last_updated">2017-03-13T13:45:53Z</data>
+			<data key="key">researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:400820</data>
+			<data key="doi">10.14264/uql.2016.606</data>
+		</node>
+		<node id="n187205" labels=":ANDS:dataset:uq.edu.au">
+			<data key="labels">:ANDS:dataset:uq.edu.au</data>
+			<data key="url">dx.doi.org/10.14264/uql.2016.605</data>
+			<data key="title">Phase 3 results of ASWROTI project</data>
+			<data key="type">dataset</data>
+			<data key="local_id">espace.library.uq.edu.au/view/UQ:400821</data>
+			<data key="source">uq.edu.au</data>
+			<data key="last_updated">2017-03-13T13:45:53Z</data>
+			<data key="key">researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:400821</data>
+			<data key="doi">10.14264/uql.2016.605</data>
+		</node>
+		<node id="n187206" labels=":ANDS:dataset:uq.edu.au">
+			<data key="labels">:ANDS:dataset:uq.edu.au</data>
+			<data key="url">dx.doi.org/10.14264/uql.2016.604</data>
+			<data key="title">Phase 4 results of ASWROTI project</data>
+			<data key="type">dataset</data>
+			<data key="local_id">espace.library.uq.edu.au/view/UQ:400822</data>
+			<data key="source">uq.edu.au</data>
+			<data key="last_updated">2017-03-13T13:45:53Z</data>
+			<data key="key">researchgraph.org/ands/espace.library.uq.edu.au/view/UQ:400822</data>
+			<data key="doi">10.14264/uql.2016.604</data>
+		</node>
+		<node id="n187912" labels=":ANDS:researcher:unsw.edu.au">
+			<data key="labels">:ANDS:researcher:unsw.edu.au</data>
+			<data key="type">researcher</data>
+			<data key="last_name">Wilkins</data>
+			<data key="source">unsw.edu.au</data>
+			<data key="local_id">hdl:1959.4/resource/party/resdatap_654/1</data>
+			<data key="first_name">Marc</data>
+			<data key="last_updated">2015-10-06T23:25:42Z</data>
+			<data key="key">researchgraph.org/ands/hdl:1959.4/resource/party/resdatap_654/1</data>
+			<data key="full_name">Prof Marc Wilkins</data>
+		</node>
+		<node id="n187913" labels=":ANDS:researcher:unsw.edu.au">
+			<data key="labels">:ANDS:researcher:unsw.edu.au</data>
+			<data key="first_name">Susan</data>
+			<data key="type">researcher</data>
+			<data key="last_name">Corley</data>
+			<data key="local_id">hdl:1959.4/resource/party/resdatap_1562/1</data>
+			<data key="source">unsw.edu.au</data>
+			<data key="last_updated">2015-09-30T01:54:21Z</data>
+			<data key="key">researchgraph.org/ands/hdl:1959.4/resource/party/resdatap_1562/1</data>
+			<data key="full_name">Dr Susan Corley</data>
+		</node>
+		<node id="n187918" labels=":ANDS:grant:unsw.edu.au">
+			<data key="labels">:ANDS:grant:unsw.edu.au</data>
+			<data key="type">grant</data>
+			<data key="title">Bioinformatic analyses</data>
+			<data key="local_id">hdl:1959.4/resource/activity/resdataa_312909/1</data>
+			<data key="end_year">2020</data>
+			<data key="source">unsw.edu.au</data>
+			<data key="key">researchgraph.org/ands/hdl:1959.4/resource/activity/resdataa_312909/1</data>
+			<data key="start_year">2015</data>
+			<data key="funder">unsw.edu.au</data>
+		</node>
+		<node id="n187975" labels=":ANDS:dataset:unsw.edu.au">
+			<data key="labels">:ANDS:dataset:unsw.edu.au</data>
+			<data key="type">dataset</data>
+			<data key="title">SCZ</data>
+			<data key="last_updated">2015-09-29T06:34:57Z</data>
+			<data key="key">researchgraph.org/ands/hdl:1959.4/resource/collection/resdatac_54/1</data>
+			<data key="local_id">hdl:1959.4/resource/collection/resdatac_54/1</data>
+			<data key="source">unsw.edu.au</data>
+		</node>
+		<node id="n188126" labels=":ANDS:researcher:sydney.edu.au">
+			<data key="labels">:ANDS:researcher:sydney.edu.au</data>
+			<data key="first_name">Arthur</data>
+			<data key="type">researcher</data>
+			<data key="last_name">Conigrave</data>
+			<data key="local_id">sydney.edu.au/stc/PTY/0042</data>
+			<data key="full_name">Professor Arthur Conigrave</data>
+			<data key="last_updated">2012-09-20T00:53:59Z</data>
+			<data key="key">researchgraph.org/ands/sydney.edu.au/stc/PTY/0042</data>
+			<data key="source">sydney.edu.au</data>
+			<data key="url">sydney.edu.au/science/molecular_bioscience/people/profiles/arthurc.php</data>
+		</node>
+		<node id="n188186" labels=":ANDS:dataset:sydney.edu.au">
+			<data key="labels">:ANDS:dataset:sydney.edu.au</data>
+			<data key="title">The John Anderson Archive</data>
+			<data key="type">dataset</data>
+			<data key="local_id">sydney.edu.au/stc/COL/0001</data>
+			<data key="last_updated">2012-01-11T03:44:53Z</data>
+			<data key="key">researchgraph.org/ands/sydney.edu.au/stc/COL/0001</data>
+			<data key="source">sydney.edu.au</data>
+			<data key="url">adc.library.usyd.edu.au/index.jsp?database=anderson&amp;amp;page=home</data>
+		</node>
+		<node id="n188203" labels=":ANDS:sydney.edu.au:grant">
+			<data key="labels">:ANDS:sydney.edu.au:grant</data>
+			<data key="url">adc.library.usyd.edu.au/index.jsp?database=anderson&amp;amp;content=collections/anderson/text/sandy.jsp</data>
+			<data key="title">The Alexander John Anderson Bequest</data>
+			<data key="local_id">sydney.edu.au/stc/ACT/0001</data>
+			<data key="source">sydney.edu.au</data>
+			<data key="end_year">1997</data>
+			<data key="type">grant</data>
+			<data key="key">researchgraph.org/ands/sydney.edu.au/stc/ACT/0001</data>
+			<data key="start_year">1997</data>
+			<data key="funder">sydney.edu.au</data>
+		</node>
+		<node id="n189005" labels=":ANDS:researcher:utas.edu.au">
+			<data key="labels">:ANDS:researcher:utas.edu.au</data>
+			<data key="type">researcher</data>
+			<data key="local_id">UTAS/Read, Martin </data>
+			<data key="last_updated">2017-04-26T23:01:45Z</data>
+			<data key="key">researchgraph.org/ands/UTAS/Read, Martin </data>
+			<data key="full_name"> </data>
+			<data key="source">utas.edu.au</data>
+		</node>
+		<node id="n189056" labels=":ANDS:researcher:utas.edu.au">
+			<data key="labels">:ANDS:researcher:utas.edu.au</data>
+			<data key="type">researcher</data>
+			<data key="local_id">UTAS/Terblanche, Nico </data>
+			<data key="last_updated">2017-04-26T23:01:45Z</data>
+			<data key="key">researchgraph.org/ands/UTAS/Terblanche, Nico </data>
+			<data key="full_name"> </data>
+			<data key="source">utas.edu.au</data>
+		</node>
+		<node id="n189240" labels=":ANDS:researcher:utas.edu.au">
+			<data key="labels">:ANDS:researcher:utas.edu.au</data>
+			<data key="source">utas.edu.au</data>
+			<data key="type">researcher</data>
+			<data key="local_id">UTAS/Sharman, James</data>
+			<data key="last_updated">2017-04-26T23:01:47Z</data>
+			<data key="orcid">0000-0003-2792-0811</data>
+			<data key="key">researchgraph.org/ands/UTAS/Sharman, James</data>
+			<data key="full_name"> </data>
+		</node>
+		<node id="n189318" labels=":ANDS:researcher:utas.edu.au">
+			<data key="labels">:ANDS:researcher:utas.edu.au</data>
+			<data key="source">utas.edu.au</data>
+			<data key="type">researcher</data>
+			<data key="local_id">UTAS/Barmuta, Leon</data>
+			<data key="last_updated">2017-04-26T23:01:47Z</data>
+			<data key="orcid">0000-0002-8946-3727</data>
+			<data key="key">researchgraph.org/ands/UTAS/Barmuta, Leon</data>
+			<data key="full_name"> </data>
+		</node>
+		<node id="n189337" labels=":ANDS:researcher:utas.edu.au">
+			<data key="labels">:ANDS:researcher:utas.edu.au</data>
+			<data key="type">researcher</data>
+			<data key="local_id">UTAS/Davies, Peter</data>
+			<data key="last_updated">2017-04-26T23:01:48Z</data>
+			<data key="key">researchgraph.org/ands/UTAS/Davies, Peter</data>
+			<data key="full_name"> </data>
+			<data key="source">utas.edu.au</data>
+		</node>
+		<node id="n189720" labels=":ANDS:grant:utas.edu.au">
+			<data key="labels">:ANDS:grant:utas.edu.au</data>
+			<data key="type">grant</data>
+			<data key="source">utas.edu.au</data>
+			<data key="title">A Pilot Study of the Clinical and Haemodynamic Effects of 5IU versus 3 IU of Oxytocin Infusion During Elective Caesarean Section</data>
+			<data key="funder">utas.edu.au</data>
+			<data key="key">researchgraph.org/ands/UTAS/http://vivo.utas.edu.au/vivo/individual/n25115</data>
+			<data key="local_id">UTAS/http://vivo.utas.edu.au/vivo/individual/n25115</data>
+		</node>
+		<node id="n189721" labels=":ANDS:grant:utas.edu.au">
+			<data key="labels">:ANDS:grant:utas.edu.au</data>
+			<data key="type">grant</data>
+			<data key="source">utas.edu.au</data>
+			<data key="title">Joining the dots: Integrating climate and hydrological models to manage risks and develop options for conserving freshwater biodiversity</data>
+			<data key="funder">utas.edu.au</data>
+			<data key="key">researchgraph.org/ands/UTAS/http://vivo.utas.edu.au/vivo/individual/n15448</data>
+			<data key="local_id">UTAS/http://vivo.utas.edu.au/vivo/individual/n15448</data>
+		</node>
+		<node id="n189722" labels=":ANDS:grant:utas.edu.au">
+			<data key="labels">:ANDS:grant:utas.edu.au</data>
+			<data key="title">Colloid interactions and extraction in sustainable, water efficient paper manufacture</data>
+			<data key="source">utas.edu.au</data>
+			<data key="local_id">UTAS/http://vivo.utas.edu.au/vivo/individual/n25054</data>
+			<data key="type">grant</data>
+			<data key="key">researchgraph.org/ands/UTAS/http://vivo.utas.edu.au/vivo/individual/n25054</data>
+			<data key="purl">purl.org/au-research/grants/arc/LP120200241</data>
+			<data key="funder">utas.edu.au</data>
+		</node>
+		<node id="n189794" labels=":ANDS:dataset:utas.edu.au">
+			<data key="labels">:ANDS:dataset:utas.edu.au</data>
+			<data key="type">dataset</data>
+			<data key="title">Results of  a  study of the fouling of printing and papermaking surfaces by softwood extractives produced during paper manufacture</data>
+			<data key="last_updated">2017-04-26T23:01:51Z</data>
+			<data key="key">researchgraph.org/ands/UTAS/http://vivo.utas.edu.au/vivo/individual/n15186</data>
+			<data key="local_id">UTAS/http://vivo.utas.edu.au/vivo/individual/n15186</data>
+			<data key="source">utas.edu.au</data>
+		</node>
+		<node id="n189799" labels=":ANDS:dataset:utas.edu.au">
+			<data key="labels">:ANDS:dataset:utas.edu.au</data>
+			<data key="type">dataset</data>
+			<data key="title">Interaction between wood extractives and fibres</data>
+			<data key="last_updated">2017-04-26T23:01:51Z</data>
+			<data key="key">researchgraph.org/ands/UTAS/http://vivo.utas.edu.au/vivo/individual/n28379</data>
+			<data key="local_id">UTAS/http://vivo.utas.edu.au/vivo/individual/n28379</data>
+			<data key="source">utas.edu.au</data>
+		</node>
+		<node id="n189811" labels=":ANDS:dataset:utas.edu.au">
+			<data key="labels">:ANDS:dataset:utas.edu.au</data>
+			<data key="type">dataset</data>
+			<data key="title">Lower dose  Oxytocin and caesarean delivery</data>
+			<data key="last_updated">2017-04-26T23:01:51Z</data>
+			<data key="key">researchgraph.org/ands/UTAS/http://vivo.utas.edu.au/vivo/individual/n1633170765</data>
+			<data key="local_id">UTAS/http://vivo.utas.edu.au/vivo/individual/n1633170765</data>
+			<data key="source">utas.edu.au</data>
+		</node>
+		<node id="n189821" labels=":ANDS:dataset:utas.edu.au">
+			<data key="labels">:ANDS:dataset:utas.edu.au</data>
+			<data key="type">dataset</data>
+			<data key="title">Hydrological variables for Tasmanian rivers under climate change scenarios</data>
+			<data key="last_updated">2017-04-26T23:01:51Z</data>
+			<data key="key">researchgraph.org/ands/UTAS/http://vivo.utas.edu.au/vivo/individual/n2681</data>
+			<data key="local_id">UTAS/http://vivo.utas.edu.au/vivo/individual/n2681</data>
+			<data key="source">utas.edu.au</data>
+		</node>
+		<node id="n189827" labels=":ANDS:dataset:utas.edu.au">
+			<data key="labels">:ANDS:dataset:utas.edu.au</data>
+			<data key="type">dataset</data>
+			<data key="title">Adsorption of wood extractives from pinus radiata onto bentonite</data>
+			<data key="last_updated">2017-04-26T23:01:52Z</data>
+			<data key="key">researchgraph.org/ands/UTAS/http://vivo.utas.edu.au/vivo/individual/n32586</data>
+			<data key="local_id">UTAS/http://vivo.utas.edu.au/vivo/individual/n32586</data>
+			<data key="source">utas.edu.au</data>
+		</node>
+		<edge id="e87949" source="n166632" target="n166630" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e97641" source="n187918" target="n187975" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e97642" source="n187918" target="n187913" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e97643" source="n187918" target="n187912" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e98067" source="n188203" target="n188186" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e99070" source="n189720" target="n189240" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e99071" source="n189720" target="n189056" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e99072" source="n189721" target="n189337" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e99073" source="n189721" target="n189005" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e99074" source="n189721" target="n189318" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e116718" source="n57142" target="n187203" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e116719" source="n57142" target="n187204" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e116720" source="n57142" target="n187205" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e116721" source="n57142" target="n187206" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e135538" source="n103761" target="n188126" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e165806" source="n189720" target="n189811" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e165807" source="n189721" target="n189821" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e165808" source="n189722" target="n189827" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e165809" source="n189722" target="n189794" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e165810" source="n189722" target="n189799" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+	</graph>
+</graphml>
