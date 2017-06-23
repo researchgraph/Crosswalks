@@ -46,15 +46,15 @@
     <!-- Description (grants) Template                                               -->
     <!-- =========================================== -->
     <xsl:template match="gml:node[gml:data[@key='type']='grant']" mode="grant">
-        <rdf:Description rdf:about="{concat($source,.//gml:data[@key='local_id'])}">
+        <rdf:Description rdf:about="{concat($source,./@id)}">
             <rdfs:label>
                 <xsl:value-of select=".//gml:data[@key='title']"/>
             </rdfs:label>
             <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Grant"/>
             <ns0:dateTimeInterval>
-                <ns0:DateTimeInterval rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                <ns0:DateTimeInterval rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                     <ns0:start>
-                        <ns0:DateTimeValue rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                        <ns0:DateTimeValue rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
                             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                 <xsl:value-of select=".//gml:data[@key='start_year']"/>
@@ -63,7 +63,7 @@
                     </ns0:start>
                     
                     <ns0:end>
-                        <ns0:DateTimeValue rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                        <ns0:DateTimeValue rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
                             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                                 <xsl:value-of select=".//gml:data[@key='end_year']"/>
@@ -87,9 +87,9 @@
                 <xsl:value-of select=".//gml:data[@key='last_updated']"/>
             </ns1:lastUpdated>
             <ns2:ARG_2000028>
-                <vcard:Kind rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                <vcard:Kind rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                     <vcard:hasURL>
-                        <vcard:URL rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                        <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                             <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
                                 <xsl:value-of select=".//gml:data[@key='url']"/>
                             </vcard:url>
@@ -99,7 +99,7 @@
                     </vcard:hasURL>
                     
                     <vcard:hasURL>
-                        <vcard:URL rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                        <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                             <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
                                 <xsl:value-of select="concat('http://',.//gml:data[@key='source'])"/>
                             </vcard:url>
@@ -110,7 +110,7 @@
                     </vcard:hasURL>
                     
                     <vcard:hasURL>
-                        <vcard:URL rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                        <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                             <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
                                 <xsl:value-of select="concat('http://',.//gml:data[@key='purl'])"/>
                             </vcard:url>
@@ -123,7 +123,7 @@
                     <xsl:choose>
                         <xsl:when test=".//gml:data[@key='funder']">
                             <vcard:hasURL>
-                                <vcard:URL rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                                <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                                     <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
                                         <xsl:value-of select="concat('http://',.//gml:data[@key='funder'])"/>
                                     </vcard:url>
@@ -135,7 +135,7 @@
                         </xsl:when>
                         <xsl:otherwise>
                             <vcard:hasURL>
-                                <vcard:URL rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                                <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                                     <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
                                         <xsl:value-of select="'funder'"/>
                                     </vcard:url>
@@ -157,7 +157,7 @@
     <!-- Person (researcher) Template                                              -->
     <!-- =========================================== -->
     <xsl:template match="gml:node[gml:data[@key='type']='researcher']" mode="researcher">
-        <foaf:Person rdf:about="{concat($source,.//gml:data[@key='local_id'])}">
+        <foaf:Person rdf:about="{concat($source,./@id)}">
             <rdfs:label>
                 <xsl:value-of select="concat(.//gml:data[@key='first_name'],', ',.//gml:data[@key='first_name'])"/>
             </rdfs:label>
@@ -180,9 +180,9 @@
                 <xsl:value-of select=".//rg:scopus_author_id"/>
             </ns0:scopusId>-->
             <ns2:ARG_2000028>
-                <vcard:Kind rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                <vcard:Kind rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                     <vcard:hasURL>
-                        <vcard:URL rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                        <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                             <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
                                 <xsl:value-of select=".//gml:data[@key='url']"/>
                             </vcard:url>
@@ -192,7 +192,7 @@
                     </vcard:hasURL>
                     
                     <vcard:hasName>
-                        <vcard:Name rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                        <vcard:Name rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                             <vcard:givenName>
                                 <xsl:value-of select=".//gml:data[@key='first_name']"/>
                             </vcard:givenName>
@@ -220,12 +220,12 @@
     <!-- Article (publication) Template                                                 -->
     <!-- =========================================== -->
     <xsl:template match="gml:node[gml:data[@key='type']='publication']" mode="publication">
-        <bibo:Article rdf:about="{concat($source,.//gml:data[@key='local_id'])}">
+        <bibo:Article rdf:about="{concat($source,./@id)}">
             <rdfs:label>
                 <xsl:value-of select=".//gml:data[@key='title']"/>
             </rdfs:label>
             <ns0:dateTimeValue>
-                <ns0:DateTimeValue rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                <ns0:DateTimeValue rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                     <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
                     <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                         <xsl:value-of select=".//gml:data[@key='publication_year']"/>
@@ -237,9 +237,9 @@
                 <xsl:value-of select=".//.//gml:data[@key='doi']"/>
             </bibo:doi>
             <ns2:ARG_2000028>
-                <vcard:Kind rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                <vcard:Kind rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                     <vcard:hasURL>
-                        <vcard:URL rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                        <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                             <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
                                 <xsl:value-of select="concat('https://www.doi.org/',.//gml:data[@key='doi'])"/>
                             </vcard:url>
@@ -249,7 +249,7 @@
                     </vcard:hasURL>
                     
                     <vcard:hasURL>
-                        <vcard:URL rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                        <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                             <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
                                 <xsl:value-of select="concat('http://',.//gml:data[@key='source'])"/>
                             </vcard:url>
@@ -282,12 +282,12 @@
     <!-- Dataset Template                                                                     -->
     <!-- =========================================== -->
     <xsl:template match="gml:node[gml:data[@key='type']='dataset']" mode="dataset">
-        <ns0:Dataset rdf:about="{concat($source,.//gml:data[@key='local_id'])}">
+        <ns0:Dataset rdf:about="{concat($source,./@id)}">
             <rdfs:label>
                 <xsl:value-of select=".//gml:data[@key='title']"/>
             </rdfs:label>
             <ns0:dateTimeValue>
-                <ns0:DateTimeValue rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                <ns0:DateTimeValue rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                     <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
                     <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
                         <xsl:value-of select="'publication_year'"/>
@@ -307,9 +307,9 @@
                 </xsl:otherwise>
             </xsl:choose>
             <ns2:ARG_2000028>
-                <vcard:Kind rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                <vcard:Kind rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                     <vcard:hasURL>
-                        <vcard:URL rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                        <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                             <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
                                 <xsl:value-of select="concat('http://',.//gml:data[@key='source'])"/>
                             </vcard:url>
@@ -320,7 +320,7 @@
                     </vcard:hasURL>
                     
                     <vcard:hasURL>
-                        <vcard:URL rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                        <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                             <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
                                 <xsl:value-of select=".//gml:data[@key='url']"/>
                             </vcard:url>
@@ -348,7 +348,7 @@
     <!-- Relationship Template                                                            -->
     <!-- =========================================== -->
     <xsl:template match="gml:edge" mode="relation">
-        <ns0:Relationship rdf:about="{concat($source,string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+        <ns0:Relationship rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
             <rdfs:label>
                 <xsl:value-of select=".//gml:edge/gml:data"/>
             </rdfs:label>
