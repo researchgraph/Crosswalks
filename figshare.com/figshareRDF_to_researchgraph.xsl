@@ -110,10 +110,10 @@
                 <xsl:value-of select="..//oai:datestamp"/>
             </last_updated>
             <url>
-                <xsl:value-of select=".//vivo:ConferencePaper/@rdf:about"/>
+                <xsl:value-of select="concat('doi.org/',.//bibo:doi)"/>
             </url>
             <title>
-                <xsl:value-of select=".//rdfs:label"/>
+                <xsl:value-of select=".//rdfs:label[preceding-sibling::bibo:doi]"/>
             </title>
             <authors_list>
                 <xsl:for-each select=".//vcard:Name">
@@ -133,7 +133,7 @@
     </xsl:template>
     
     <!-- =========================================== -->
-    <!-- Researcher Template                         -->
+    <!-- Researcher Template                                                             -->
     <!-- =========================================== -->
     <xsl:template match="oai:OAI-PMH/*/oai:record" mode="researcher">
         <xsl:apply-templates select=".//oai:metadata" mode="researcher"/>
