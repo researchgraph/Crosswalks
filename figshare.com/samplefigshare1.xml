@@ -1,0 +1,451 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="/v2/static/oai2.xsl"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2017-06-22T08:54:34Z</responseDate>
+  <request resumptionToken="c2V0PXBvcnRhbF8yMSZzY3JvbGxUb2tlbj1jWFZsY25sVWFHVnVSbVYwWTJnN016c3lORGN4T1RBd09uRnFVM0YwUTJWcFVWTXlha1JXYjFkaWNWRlpSR2M3TVRRMU9UY3dNRE02TW5wTVpHbHhhRXBUYURKTE0yRTJOa2RqY0VkeVp6c3lORGN4T1RBeE9uRnFVM0YwUTJWcFVWTXlha1JXYjFkaWNWRlpSR2M3TURzJTNEJm1ldGFkYXRhUHJlZml4PXJkZiZ2ZXJiPUxpc3RSZWNvcmRzJmV4cGlyYXRpb249MjAxNy0wNi0yMiUyMDA5JTNBNTQlM0EzMyZwYWdlPTI=" verb="ListRecords">https://api.figshare.com/v2/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/5131804</identifier>
+        <datestamp>2017-06-21T00:27:13Z</datestamp>
+        <setSpec>category_99</setSpec>
+        <setSpec>category_1193</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_06_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/Celebrity_and_Komunitas_The_Rise_and_Fall_of_the_Jogja_Hip_Hop_Foundation/5131804">
+            <bibo:doi>10.4225/03/5949bd62cf2db</bibo:doi>
+            <rdfs:label>Celebrity and Komunitas: The Rise and Fall of the Jogja Hip Hop Foundation</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-06-21"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-06-21"/>
+            <bibo:abstract>This research is a study of an Indonesian music group, the Jogja Hip Hop Foundation (JHF). The group is analysed as an example of an Indonesian social form for cultural production, komunitas. By researching the rise to celebrity of Mohammad Marzuki, the principal figure of the JHF, the research found that komunitas is incompatible with elements of commercialised media culture in Indonesia. In addition, the study explores how the Yogyakarta Sultanate obtains political legitimacy from cultural practice. The JHF’s hip hop versions of Javanese cultural forms stimulated public memory and approval of the Sultanate’s history and legitimacy.</bibo:abstract>
+            <bibo:freetextKeyword>javaneseness</bibo:freetextKeyword>
+            <bibo:freetextKeyword>celebrity</bibo:freetextKeyword>
+            <bibo:freetextKeyword>komunitas</bibo:freetextKeyword>
+            <bibo:freetextKeyword>remix</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Celebrity_and_Komunitas_The_Rise_and_Fall_of_the_Jogja_Hip_Hop_Foundation/5131804-authorship-4162990">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/4162990-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/4162990-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Celebrity_and_Komunitas_The_Rise_and_Fall_of_the_Jogja_Hip_Hop_Foundation/5131804"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/4162990-name">
+            <vcard:givenName>EDI DWI</vcard:givenName>
+            <vcard:familyName>RIYANTO</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/5120323</identifier>
+        <datestamp>2017-06-21T00:22:10Z</datestamp>
+        <setSpec>category_129</setSpec>
+        <setSpec>category_173</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_06_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/Empathy_and_Mentalization_among_Australian_Primary_Teachers/5120323">
+            <bibo:doi>10.4225/03/5949bc3478823</bibo:doi>
+            <rdfs:label>Empathy and Mentalization among Australian Primary Teachers</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-06-21"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-06-21"/>
+            <bibo:abstract>This study analyses how six Australian primary teachers draw on mentalizing and empathy to support students. Empathy involves recognising a student’s mental state and responding with care. Participants were surveyed to assess perceptions of classroom environment and relational goals. Observers assessed lessons and filmed classroom practice of empathy interaction for emotional support. A phenomenological approach was used to explore experience. Teachers were highly motivated to connect with students, took a personal interest in students, displayed high levels of social and emotional support, and regulated teaching to meet students’ needs. An Empathy Assessment Instrument is proposed to enhance empathic engagement skills.</bibo:abstract>
+            <bibo:freetextKeyword>empathy, mentalization, phenomenology</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Empathy_and_Mentalization_among_Australian_Primary_Teachers/5120323-authorship-4118368">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/4118368-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/4118368-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Empathy_and_Mentalization_among_Australian_Primary_Teachers/5120323"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/4118368-name">
+            <vcard:givenName>PAUL ANTHONY</vcard:givenName>
+            <vcard:familyName>SWAN</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/5120314</identifier>
+        <datestamp>2017-06-21T00:15:09Z</datestamp>
+        <setSpec>category_8</setSpec>
+        <setSpec>category_13</setSpec>
+        <setSpec>category_29</setSpec>
+        <setSpec>category_31</setSpec>
+        <setSpec>category_39</setSpec>
+        <setSpec>category_54</setSpec>
+        <setSpec>category_59</setSpec>
+        <setSpec>category_212</setSpec>
+        <setSpec>category_492</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_06_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/On_the_colonisation_and_alteration_of_stony_meteorites_by_microorganisms_from_the_Nullarbor_Plain_Australia_Applications_for_future_astrobiology_exploration_on_Mars/5120314">
+            <bibo:doi>10.4225/03/5949ba8f3c8e3</bibo:doi>
+            <rdfs:label>On the colonisation and alteration of stony meteorites by microorganisms from the Nullarbor Plain, Australia: Applications for future astrobiology exploration on Mars</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-06-21"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-06-21"/>
+            <bibo:abstract>Meteorites have very narrow chemical and isotopic ranges, which make them ideal ‘standards’ with which to remove ambiguity associated with finding positive biosignatures in complex and incompletely understood environmental settings, such as the surface of Mars. This thesis examines meteorites from the Nullarbor Plain, Australia, to see whether they can be colonised and altered by microorganisms from the soil in a detectable way. This technique could be used to explore for life on Mars, where meteorites have already been found.</bibo:abstract>
+            <bibo:freetextKeyword>astrobiology</bibo:freetextKeyword>
+            <bibo:freetextKeyword>mars</bibo:freetextKeyword>
+            <bibo:freetextKeyword>meteorites</bibo:freetextKeyword>
+            <bibo:freetextKeyword>nullarbor plain</bibo:freetextKeyword>
+            <bibo:freetextKeyword>isotope</bibo:freetextKeyword>
+            <bibo:freetextKeyword>sulfur</bibo:freetextKeyword>
+            <bibo:freetextKeyword>16s</bibo:freetextKeyword>
+            <bibo:freetextKeyword>biosignatures</bibo:freetextKeyword>
+            <bibo:freetextKeyword>environmental geochemistry</bibo:freetextKeyword>
+            <bibo:freetextKeyword>planetary science</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/On_the_colonisation_and_alteration_of_stony_meteorites_by_microorganisms_from_the_Nullarbor_Plain_Australia_Applications_for_future_astrobiology_exploration_on_Mars/5120314-authorship-4118365">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/4118365-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/4118365-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/On_the_colonisation_and_alteration_of_stony_meteorites_by_microorganisms_from_the_Nullarbor_Plain_Australia_Applications_for_future_astrobiology_exploration_on_Mars/5120314"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/4118365-name">
+            <vcard:givenName>ALASTAIR WILLIAM</vcard:givenName>
+            <vcard:familyName>TAIT</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/5120089</identifier>
+        <datestamp>2017-06-20T23:24:11Z</datestamp>
+        <setSpec>category_1143</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_06_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/The_Effect_of_Cognitive_Style_and_Balanced_Scorecard_Information_on_Managerial_Learning_and_Performance/5120089">
+            <bibo:doi>10.4225/03/5949ae9d81f81</bibo:doi>
+            <rdfs:label>The Effect of Cognitive Style and Balanced Scorecard Information on Managerial Learning and Performance</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <bibo:abstract>This thesis investigates the influence of cognitive style (field dependent/field independent dimension) on managerial learning and performance when using a balanced scorecard.  Given the design logic of the balanced scorecard, it is necessary for managers to use and process all causally linked performance measures to maximize their learning, and enable better decision making to improve performance.  Prior research has shown that managers do not always use the balanced scorecard as intended. Hence, this thesis aims to gain a better understanding of how managers use balanced scorecard information as this can further the explanation why the balanced scorecard may not always achieve its potential.</bibo:abstract>
+            <bibo:freetextKeyword>balanced scorecard</bibo:freetextKeyword>
+            <bibo:freetextKeyword>cognitive style</bibo:freetextKeyword>
+            <bibo:freetextKeyword>learning</bibo:freetextKeyword>
+            <bibo:freetextKeyword>performance</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/The_Effect_of_Cognitive_Style_and_Balanced_Scorecard_Information_on_Managerial_Learning_and_Performance/5120089-authorship-4118107">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/4118107-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/4118107-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/The_Effect_of_Cognitive_Style_and_Balanced_Scorecard_Information_on_Managerial_Learning_and_Performance/5120089"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/4118107-name">
+            <vcard:givenName>ANNA</vcard:givenName>
+            <vcard:familyName>GERAKARIS-STAMATELATOS</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/5121112</identifier>
+        <datestamp>2017-06-20T07:36:43Z</datestamp>
+        <setSpec>category_2</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_8</setSpec>
+        <setSpec>month_year_06_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:Thesis rdf:about="https://figshare.com/articles/A_critical_analysis_of_BHP_inventory_policy/5121112">
+            <bibo:doi>10.4225/03/5948d08d85b7a</bibo:doi>
+            <rdfs:label>A critical analysis of BHP inventory policy</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <bibo:abstract>The Broken Hill Proprietary Company Limited and its subsidiaries are the sole producers of iron and crude steel in Australia. Being a monopoly with some social conscience, and having been threatened in the past with nationalisation, the Company is very sensitive to its position in this key growth industry. Failures to meet the demand for steel in Australia have occurred a number of times in the post-war period despite the Company policy of planning productive capacity to be at least ten percent ahead of forecast steel demand.&lt;br&gt;&lt;br&gt;A failure by a Company to meet demand means of course a loss of potential profit. A failure by a company which is the sole supplier however has more serious implications since users have no alternative internal source of supply, and when this failure is in a key industry such as the steel industry the repercussions are felt throughout the economy. In order to avoid such failures a suggestion was made to plan productive capacity fifteen percent ahead of demand forecasts.&lt;br&gt;&lt;br&gt;This study arose then from simulations to determine the situations which would arise if the Broken Hill Proprietary Company planned productive capacity to be fifteen percent ahead of total steel demand. A study such as this must necessarily be undertaken on a highly aggregative basis. The Company can produce an almost infinite number of steel products and naturally some aggregation would be necessary no matter what the demand study. An idea of the main categories of total steel demand may be gained from Diagram 2. Even this degree of dissemination is too complex a problem and thus only the total of the demand in these categories is taken as the variable: total steel demand.&lt;br&gt;&lt;br&gt;As would be expected, the simulations consistently lead to substantial excess capacity and therefore, since BHP has a policy of not holding stocks of finished goods, producing only to firm orders, to regularly idle or slowed down plant. Running such plant at less than full capacity means increased costs of production and it was this that lead me to investigate the possibilities of alternative markets for steel. Access to all alternative markets seemed to be reliant to a large degree upon the rapid availability of the required steel. The export market, and the great advantages in meeting demand as it arises in this area is the ideal example.&lt;br&gt;&lt;br&gt;At present BHP has a firm policy not to hold inventories of iron or steel. There are good financial reasons for this decision. For example, holding costs are incurred by their customers rather than by the company and these costs are considerable. However this study shows that if BHP were to hold inventory the costs are substantially outweighed by attendant gains since the very valid reasons for any firm maintaining inventory must hold also for BHP, both in the competitive sphere and especially in the area of production efficiency.&lt;br&gt;&lt;br&gt;This paper then first looks at the simulations, the patterns of demand arising from them and their implications for BHP. The major part of the paper then follows in which the costs and likely gains for BHP holding inventory are investigated. The conclusion is that there is an a priori case for the holding of such inventory and that such a policy would warrant intensive investigation.</bibo:abstract>
+            <bibo:freetextKeyword>broken hill proprietary company limited</bibo:freetextKeyword>
+            <bibo:freetextKeyword>australian iron indusry</bibo:freetextKeyword>
+            <bibo:freetextKeyword>australian steel industry</bibo:freetextKeyword>
+            <bibo:freetextKeyword>iron</bibo:freetextKeyword>
+            <bibo:freetextKeyword>steel</bibo:freetextKeyword>
+            <bibo:freetextKeyword>inventory policy</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:Thesis>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/A_critical_analysis_of_BHP_inventory_policy/5121112-authorship-4126177">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors/_/4126177-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors/_/4126177-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/A_critical_analysis_of_BHP_inventory_policy/5121112"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors/_/4126177-name">
+            <vcard:givenName>John S.</vcard:givenName>
+            <vcard:familyName>McDonnell</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/5064577</identifier>
+        <datestamp>2017-06-20T06:39:29Z</datestamp>
+        <setSpec>category_99</setSpec>
+        <setSpec>category_160</setSpec>
+        <setSpec>category_165</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_2</setSpec>
+        <setSpec>month_year_06_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:AudioVisualDocument rdf:about="https://figshare.com/articles/Kruang_Sai_Pi_Nai_Kaek_Tao/5064577">
+            <bibo:doi>10.4225/03/5948c322dbd87</bibo:doi>
+            <rdfs:label>Kruang Sai, Pi Nai, Kaek, Tao</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <bibo:abstract>Recorded 29th September 1974. Prasarnmit Uni
+
+Copyright Margaret J. Kartomi</bibo:abstract>
+            <bibo:freetextKeyword>kartomi, margaret j.</bibo:freetextKeyword>
+            <bibo:freetextKeyword>bangkok, thailand</bibo:freetextKeyword>
+            <bibo:freetextKeyword>1959.1/1176870</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash:156004</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash university. faculty of arts. school of music-conservatorium</bibo:freetextKeyword>
+            <bibo:freetextKeyword>thailand</bibo:freetextKeyword>
+            <bibo:freetextKeyword>t 229 (kcm74/309)</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:AudioVisualDocument>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Kruang_Sai_Pi_Nai_Kaek_Tao/5064577-authorship-1225059">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors//1225059-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors//1225059-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Kruang_Sai_Pi_Nai_Kaek_Tao/5064577"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors//1225059-name">
+            <vcard:givenName>Margaret</vcard:givenName>
+            <vcard:familyName>Kartomi</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/5065090</identifier>
+        <datestamp>2017-06-20T06:38:43Z</datestamp>
+        <setSpec>category_99</setSpec>
+        <setSpec>category_160</setSpec>
+        <setSpec>category_165</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_2</setSpec>
+        <setSpec>month_year_06_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:AudioVisualDocument rdf:about="https://figshare.com/articles/Khaen_music_Songs/5065090">
+            <bibo:doi>10.4225/03/5948c2f55d516</bibo:doi>
+            <rdfs:label>Khaen music Songs</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <bibo:abstract>Recorded 15th October 1974. Meo (Hmong) Hill Tribe radio station
+
+Copyright Margaret J. Kartomi</bibo:abstract>
+            <bibo:freetextKeyword>kartomi, margaret j.</bibo:freetextKeyword>
+            <bibo:freetextKeyword>chiang mai, thailand</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash:155998</bibo:freetextKeyword>
+            <bibo:freetextKeyword>1959.1/1176885</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash university. faculty of arts. school of music-conservatorium</bibo:freetextKeyword>
+            <bibo:freetextKeyword>thailand</bibo:freetextKeyword>
+            <bibo:freetextKeyword>chiengmai, thailand</bibo:freetextKeyword>
+            <bibo:freetextKeyword>t 230 (kcm74/310)</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:AudioVisualDocument>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Khaen_music_Songs/5065090-authorship-1225059">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors//1225059-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors//1225059-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Khaen_music_Songs/5065090"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors//1225059-name">
+            <vcard:givenName>Margaret</vcard:givenName>
+            <vcard:familyName>Kartomi</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/5064604</identifier>
+        <datestamp>2017-06-20T06:37:59Z</datestamp>
+        <setSpec>category_99</setSpec>
+        <setSpec>category_160</setSpec>
+        <setSpec>category_165</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_2</setSpec>
+        <setSpec>month_year_06_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:AudioVisualDocument rdf:about="https://figshare.com/articles/Kacapi_Rice-stamping_Gesok-gesok_Suling/5064604">
+            <bibo:doi>10.4225/03/5948c2c887905</bibo:doi>
+            <rdfs:label>Kacapi, Rice-stamping, Gesok-gesok, Suling</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <bibo:abstract>Recorded 27th November 1974
+
+Copyright Margaret J. Kartomi</bibo:abstract>
+            <bibo:freetextKeyword>monash:155993</bibo:freetextKeyword>
+            <bibo:freetextKeyword>kartomi, margaret j.</bibo:freetextKeyword>
+            <bibo:freetextKeyword>sulawesi, indonesia</bibo:freetextKeyword>
+            <bibo:freetextKeyword>1959.1/1176658</bibo:freetextKeyword>
+            <bibo:freetextKeyword>indonesia</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash university. faculty of arts. school of music-conservatorium</bibo:freetextKeyword>
+            <bibo:freetextKeyword>t 192</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:AudioVisualDocument>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Kacapi_Rice-stamping_Gesok-gesok_Suling/5064604-authorship-1225059">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors//1225059-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors//1225059-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Kacapi_Rice-stamping_Gesok-gesok_Suling/5064604"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors//1225059-name">
+            <vcard:givenName>Margaret</vcard:givenName>
+            <vcard:familyName>Kartomi</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/5064532</identifier>
+        <datestamp>2017-06-20T06:37:29Z</datestamp>
+        <setSpec>category_99</setSpec>
+        <setSpec>category_160</setSpec>
+        <setSpec>category_165</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_2</setSpec>
+        <setSpec>month_year_06_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:AudioVisualDocument rdf:about="https://figshare.com/articles/Hang_Dong_-_Dances/5064532">
+            <bibo:doi>10.4225/03/5948c2ab1c424</bibo:doi>
+            <rdfs:label>Hang Dong - Dances</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <bibo:abstract>Recorded 14th October 1974. Domestic Art School
+
+Copyright Margaret J. Kartomi</bibo:abstract>
+            <bibo:freetextKeyword>kartomi, margaret j.</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash:155987</bibo:freetextKeyword>
+            <bibo:freetextKeyword>chiang mai, thailand</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash university. faculty of arts. school of music-conservatorium</bibo:freetextKeyword>
+            <bibo:freetextKeyword>1959.1/1176752</bibo:freetextKeyword>
+            <bibo:freetextKeyword>thailand</bibo:freetextKeyword>
+            <bibo:freetextKeyword>chiengmai, thailand</bibo:freetextKeyword>
+            <bibo:freetextKeyword>t 229 (kcm74/309)</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:AudioVisualDocument>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Hang_Dong_-_Dances/5064532-authorship-1225059">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors//1225059-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors//1225059-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Hang_Dong_-_Dances/5064532"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors//1225059-name">
+            <vcard:givenName>Margaret</vcard:givenName>
+            <vcard:familyName>Kartomi</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>oai:figshare.com:article/5064082</identifier>
+        <datestamp>2017-06-20T05:37:35Z</datestamp>
+        <setSpec>category_99</setSpec>
+        <setSpec>category_160</setSpec>
+        <setSpec>category_165</setSpec>
+        <setSpec>portal_21</setSpec>
+        <setSpec>item_type_2</setSpec>
+        <setSpec>month_year_06_2017</setSpec>
+      </header>
+      <metadata>
+        <rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:datacite="http://purl.org/spar/datacite/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:fabio="http://purl.org/spar/fabio/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:literal="http://www.essepuntato.it/2010/06/literalreification/" xmlns:obo="http://purl.obolibrary.org/obo/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:vcard="http://www.w3.org/2006/vcard/ns#" xmlns:vivo="http://vivoweb.org/ontology/core#">
+          <bibo:AudioVisualDocument rdf:about="https://figshare.com/articles/Sandiwara_Biasa_Penganten_Kuntianak_part_1/5064082">
+            <bibo:doi>10.4225/03/5948bcf0e9d4f</bibo:doi>
+            <rdfs:label>Sandiwara Biasa 'Penganten Kuntianak': part 1</rdfs:label>
+            <vivo:datePublished rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <vivo:dateModified rdf:resource="http://openvivo.org/a/date2017-06-20"/>
+            <bibo:abstract>Recorded 29th December 1969
+
+Copyright Margaret J. Kartomi&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Original format: 1 sound tape reel (0:48:19) : analog; 3¾ ips&lt;br&gt;&lt;/div&gt;</bibo:abstract>
+            <bibo:freetextKeyword>kartomi, margaret j.</bibo:freetextKeyword>
+            <bibo:freetextKeyword>indonesia</bibo:freetextKeyword>
+            <bibo:freetextKeyword>1959.1/1176930</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash:156044</bibo:freetextKeyword>
+            <bibo:freetextKeyword>west java, indonesia</bibo:freetextKeyword>
+            <bibo:freetextKeyword>monash university. faculty of arts. school of music-conservatorium</bibo:freetextKeyword>
+            <bibo:freetextKeyword>t 21 (21/70)</bibo:freetextKeyword>
+            <dc:rights>In Copyright</dc:rights>
+          </bibo:AudioVisualDocument>
+          <vivo:Authorship rdf:about="https://figshare.com/articles/Sandiwara_Biasa_Penganten_Kuntianak_part_1/5064082-authorship-1225059">
+            <vivo:relates>
+              <vcard:Individual rdf:about="https://figshare.com/authors//1225059-vcard">
+                <vcard:hasName rdf:resource="https://figshare.com/authors//1225059-name"/>
+              </vcard:Individual>
+            </vivo:relates>
+            <vivo:relates rdf:resource="https://figshare.com/articles/Sandiwara_Biasa_Penganten_Kuntianak_part_1/5064082"/>
+            <vivo:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</vivo:rank>
+          </vivo:Authorship>
+          <vcard:Name rdf:about="https://figshare.com/authors//1225059-name">
+            <vcard:givenName>Margaret</vcard:givenName>
+            <vcard:familyName>Kartomi</vcard:familyName>
+          </vcard:Name>
+        </rdf:RDF>
+      </metadata>
+    </record>
+    <resumptionToken expirationDate="2017-06-22T09:54:34Z">dmVyYj1MaXN0UmVjb3JkcyZzZXQ9cG9ydGFsXzIxJmV4cGlyYXRpb249MjAxNy0wNi0yMiUyMDA5JTNBNTQlM0EzNCZzY3JvbGxUb2tlbj1jWFZsY25sVWFHVnVSbVYwWTJnN016c3lORGN4T1RBd09uRnFVM0YwUTJWcFVWTXlha1JXYjFkaWNWRlpSR2M3TVRRMU9UY3dNRE02TW5wTVpHbHhhRXBUYURKTE0yRTJOa2RqY0VkeVp6c3lORGN4T1RBeE9uRnFVM0YwUTJWcFVWTXlha1JXYjFkaWNWRlpSR2M3TURzJTNEJm1ldGFkYXRhUHJlZml4PXJkZiZwYWdlPTM=</resumptionToken>
+  </ListRecords>
+</OAI-PMH>
