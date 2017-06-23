@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+	<graph id="G" edgedefault="directed">
+		<key id="last_updated" for="node" attr.name="last_updated" attr.type="string"/>
+		<key id="local_id" for="node" attr.name="local_id" attr.type="string"/>
+		<key id="authors_list" for="node" attr.name="authors_list" attr.type="string"/>
+		<key id="last_name" for="node" attr.name="last_name" attr.type="string"/>
+		<key id="source" for="node" attr.name="source" attr.type="string"/>
+		<key id="type" for="node" attr.name="type" attr.type="string"/>
+		<key id="title" for="node" attr.name="title" attr.type="string"/>
+		<key id="url" for="node" attr.name="url" attr.type="string"/>
+		<key id="publication_year" for="node" attr.name="publication_year" attr.type="int"/>
+		<key id="full_name" for="node" attr.name="full_name" attr.type="string"/>
+		<key id="first_name" for="node" attr.name="first_name" attr.type="string"/>
+		<key id="key" for="node" attr.name="key" attr.type="string"/>
+		<key id="doi" for="node" attr.name="doi" attr.type="string"/>
+		<node id="n0" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4165180</data>
+			<data key="type">researcher</data>
+			<data key="first_name">NICHOLAS JOHN</data>
+			<data key="local_id">_/4165180</data>
+			<data key="source">figshare.com</data>
+			<data key="full_name">NICHOLAS JOHN FERNS</data>
+			<data key="last_name">FERNS</data>
+			<data key="key">researchgraph.org/figshare/_/4165180</data>
+		</node>
+		<node id="n1" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4165171</data>
+			<data key="first_name">LAUREN CELESTE</data>
+			<data key="source">figshare.com</data>
+			<data key="type">researcher</data>
+			<data key="local_id">_/4165171</data>
+			<data key="last_name">WOLFRAM</data>
+			<data key="full_name">LAUREN CELESTE WOLFRAM</data>
+			<data key="key">researchgraph.org/figshare/_/4165171</data>
+		</node>
+		<node id="n2" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4165168</data>
+			<data key="type">researcher</data>
+			<data key="first_name">SUMITA</data>
+			<data key="last_name">ELENDRAN</data>
+			<data key="source">figshare.com</data>
+			<data key="full_name">SUMITA ELENDRAN</data>
+			<data key="local_id">_/4165168</data>
+			<data key="key">researchgraph.org/figshare/_/4165168</data>
+		</node>
+		<node id="n3" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4163155</data>
+			<data key="type">researcher</data>
+			<data key="first_name">JENNIFER</data>
+			<data key="last_name">KRAFCHEK</data>
+			<data key="source">figshare.com</data>
+			<data key="full_name">JENNIFER KRAFCHEK</data>
+			<data key="local_id">_/4163155</data>
+			<data key="key">researchgraph.org/figshare/_/4163155</data>
+		</node>
+		<node id="n4" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4032152</data>
+			<data key="type">researcher</data>
+			<data key="first_name">Adrian</data>
+			<data key="last_name">Martin</data>
+			<data key="source">figshare.com</data>
+			<data key="full_name">Adrian Martin</data>
+			<data key="local_id">_/4032152</data>
+			<data key="key">researchgraph.org/figshare/_/4032152</data>
+		</node>
+		<node id="n5" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4165177</data>
+			<data key="first_name">Margaret Sylvia</data>
+			<data key="source">figshare.com</data>
+			<data key="type">researcher</data>
+			<data key="local_id">_/4165177</data>
+			<data key="last_name">Barrett</data>
+			<data key="full_name">Margaret Sylvia Barrett</data>
+			<data key="key">researchgraph.org/figshare/_/4165177</data>
+		</node>
+		<node id="n6" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">orcid.org/0000-0001-6694-0204</data>
+			<data key="first_name">Daniel</data>
+			<data key="source">figshare.com</data>
+			<data key="type">researcher</data>
+			<data key="local_id">Daniel_Wee/2483224</data>
+			<data key="key">researchgraph.org/figshare/Daniel_Wee/2483224</data>
+			<data key="full_name">Daniel Wee</data>
+			<data key="last_name">Wee</data>
+		</node>
+		<node id="n7" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4163101</data>
+			<data key="type">researcher</data>
+			<data key="first_name">Carol Anne</data>
+			<data key="local_id">_/4163101</data>
+			<data key="source">figshare.com</data>
+			<data key="full_name">Carol Anne Vogt</data>
+			<data key="last_name">Vogt</data>
+			<data key="key">researchgraph.org/figshare/_/4163101</data>
+		</node>
+		<node id="n8" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4163089</data>
+			<data key="source">figshare.com</data>
+			<data key="type">researcher</data>
+			<data key="local_id">_/4163089</data>
+			<data key="last_name">Filippelli</data>
+			<data key="full_name">Tino Filippelli</data>
+			<data key="first_name">Tino</data>
+			<data key="key">researchgraph.org/figshare/_/4163089</data>
+		</node>
+		<node id="n9" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4163026</data>
+			<data key="first_name">Raymond Charles</data>
+			<data key="type">researcher</data>
+			<data key="local_id">_/4163026</data>
+			<data key="source">figshare.com</data>
+			<data key="full_name">Raymond Charles King</data>
+			<data key="last_name">King</data>
+			<data key="key">researchgraph.org/figshare/_/4163026</data>
+		</node>
+		<node id="n10" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="authors_list">NICHOLAS JOHN FERNS</data>
+			<data key="title">Beyond Colombo: Australian Colonial and Foreign Policy in the Age of International Development, 1945-1975</data>
+			<data key="last_updated">2017-06-22T05:07:44Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/594b50a19a4c1</data>
+			<data key="publication_year">2017</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/594b50a19a4c1</data>
+			<data key="doi">10.4225/03/594b50a19a4c1</data>
+		</node>
+		<node id="n11" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="authors_list">LAUREN CELESTE WOLFRAM</data>
+			<data key="title">Petrogenesis of migmatites and granites in the Sierra de Quilmes, NW Argentina:  Insights into crustal melting and the thermal history of the Famatinian Orogen</data>
+			<data key="last_updated">2017-06-22T05:01:17Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/594b4f1fef41b</data>
+			<data key="publication_year">2017</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/594b4f1fef41b</data>
+			<data key="doi">10.4225/03/594b4f1fef41b</data>
+		</node>
+		<node id="n12" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="authors_list">SUMITA ELENDRAN</data>
+			<data key="title">Physicochemical Properties, Permeability and Bioavailability of Geraniin and Geraniin-Phospholipid Complex</data>
+			<data key="last_updated">2017-06-22T04:49:37Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/594b4c641b5eb</data>
+			<data key="publication_year">2017</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/594b4c641b5eb</data>
+			<data key="doi">10.4225/03/594b4c641b5eb</data>
+		</node>
+		<node id="n13" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="authors_list">JENNIFER KRAFCHEK</data>
+			<data key="title">Stress and Coping in Academically High-Achieving Females Before the Onset of Disordered Eating: The Role of Academic Achievement</data>
+			<data key="last_updated">2017-06-22T04:39:47Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/594b51e0f38b2</data>
+			<data key="publication_year">2017</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/594b51e0f38b2</data>
+			<data key="doi">10.4225/03/594b51e0f38b2</data>
+		</node>
+		<node id="n14" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="authors_list">Adrian Martin</data>
+			<data key="title">Towards a synthetic analysis of film style</data>
+			<data key="last_updated">2017-06-22T03:23:31Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/594b383590763</data>
+			<data key="publication_year">2017</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/594b383590763</data>
+			<data key="doi">10.4225/03/594b383590763</data>
+		</node>
+		<node id="n15" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="authors_list">Margaret Sylvia Barrett</data>
+			<data key="title">Children's aesthetic decision-making: an analysis of children's musical discourse as composers</data>
+			<data key="last_updated">2017-06-22T02:39:43Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/594b2df28812a</data>
+			<data key="publication_year">2017</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/594b2df28812a</data>
+			<data key="doi">10.4225/03/594b2df28812a</data>
+		</node>
+		<node id="n16" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="publication_year">2017</data>
+			<data key="authors_list">Daniel Wee</data>
+			<data key="title">We need to talk about zines: Collecting zines in an Australian academic university library. Daniel Wee</data>
+			<data key="last_updated">2017-06-22T00:33:06Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/594b104435b71</data>
+			<data key="url">figshare.com/articles/We_need_to_talk_about_zines_Collecting_zines_in_an_Australian_academic_university_library_/4680610</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/594b104435b71</data>
+			<data key="doi">10.4225/03/594b104435b71</data>
+		</node>
+		<node id="n17" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="authors_list">Carol Anne Vogt</data>
+			<data key="title">Agricultural subsidies and farm income distribution: a case study of the Australian dairy industry</data>
+			<data key="last_updated">2017-06-21T05:46:41Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/594a0845aa02b</data>
+			<data key="publication_year">2017</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/594a0845aa02b</data>
+			<data key="doi">10.4225/03/594a0845aa02b</data>
+		</node>
+		<node id="n18" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="authors_list">Tino Filippelli</data>
+			<data key="title">Implications of taxation on specialisation, and introducing joint production to mesoeconomics</data>
+			<data key="last_updated">2017-06-21T04:42:54Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/5949f950dfd53</data>
+			<data key="publication_year">2017</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/5949f950dfd53</data>
+			<data key="doi">10.4225/03/5949f950dfd53</data>
+		</node>
+		<node id="n19" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="authors_list">Raymond Charles King</data>
+			<data key="title">Marketing research as a control medium in the new product marketing</data>
+			<data key="last_updated">2017-06-21T03:12:06Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/5949e408768ba</data>
+			<data key="publication_year">2017</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/5949e408768ba</data>
+			<data key="doi">10.4225/03/5949e408768ba</data>
+		</node>
+		<node id="n20" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4162990</data>
+			<data key="type">researcher</data>
+			<data key="first_name">EDI DWI</data>
+			<data key="last_name">RIYANTO</data>
+			<data key="source">figshare.com</data>
+			<data key="full_name">EDI DWI RIYANTO</data>
+			<data key="local_id">_/4162990</data>
+			<data key="key">researchgraph.org/figshare/_/4162990</data>
+		</node>
+		<node id="n21" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4118368</data>
+			<data key="type">researcher</data>
+			<data key="first_name">PAUL ANTHONY</data>
+			<data key="last_name">SWAN</data>
+			<data key="source">figshare.com</data>
+			<data key="full_name">PAUL ANTHONY SWAN</data>
+			<data key="local_id">_/4118368</data>
+			<data key="key">researchgraph.org/figshare/_/4118368</data>
+		</node>
+		<node id="n22" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4118365</data>
+			<data key="type">researcher</data>
+			<data key="first_name">ALASTAIR WILLIAM</data>
+			<data key="local_id">_/4118365</data>
+			<data key="source">figshare.com</data>
+			<data key="full_name">ALASTAIR WILLIAM TAIT</data>
+			<data key="last_name">TAIT</data>
+			<data key="key">researchgraph.org/figshare/_/4118365</data>
+		</node>
+		<node id="n23" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4118107</data>
+			<data key="type">researcher</data>
+			<data key="last_name">GERAKARIS-STAMATELATOS</data>
+			<data key="local_id">_/4118107</data>
+			<data key="source">figshare.com</data>
+			<data key="full_name">ANNA GERAKARIS-STAMATELATOS</data>
+			<data key="first_name">ANNA</data>
+			<data key="key">researchgraph.org/figshare/_/4118107</data>
+		</node>
+		<node id="n24" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4126177</data>
+			<data key="first_name">John S.</data>
+			<data key="source">figshare.com</data>
+			<data key="type">researcher</data>
+			<data key="local_id">_/4126177</data>
+			<data key="last_name">McDonnell</data>
+			<data key="full_name">John S. McDonnell</data>
+			<data key="key">researchgraph.org/figshare/_/4126177</data>
+		</node>
+		<node id="n25" labels=":monash:figshare.com:publication:dataset">
+			<data key="labels">:monash:figshare.com:publication:dataset</data>
+			<data key="publication_year">2017</data>
+			<data key="authors_list">EDI DWI RIYANTO</data>
+			<data key="title">Celebrity and Komunitas: The Rise and Fall of the Jogja Hip Hop Foundation</data>
+			<data key="last_updated">2017-06-21T00:27:13Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/5949bd62cf2db</data>
+			<data key="url">figshare.com/articles/Celebrity_and_Komunitas_The_Rise_and_Fall_of_the_Jogja_Hip_Hop_Foundation/5131804 https://figshare.com/articles/Celebrity_and_Komunitas_The_Rise_and_Fall_of_the_Jogja_Hip_Hop_Foundation/5131804-authorship-4162990 https://figshare.com/authors/_/4162990-vcard https://figshare.com/authors/_/4162990-name</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/5949bd62cf2db</data>
+			<data key="doi">10.4225/03/5949bd62cf2db</data>
+		</node>
+		<node id="n26" labels=":monash:figshare.com:publication:dataset">
+			<data key="labels">:monash:figshare.com:publication:dataset</data>
+			<data key="publication_year">2017</data>
+			<data key="authors_list">PAUL ANTHONY SWAN</data>
+			<data key="title">Empathy and Mentalization among Australian Primary Teachers</data>
+			<data key="last_updated">2017-06-21T00:22:10Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/5949bc3478823</data>
+			<data key="url">figshare.com/articles/Empathy_and_Mentalization_among_Australian_Primary_Teachers/5120323 https://figshare.com/articles/Empathy_and_Mentalization_among_Australian_Primary_Teachers/5120323-authorship-4118368 https://figshare.com/authors/_/4118368-vcard https://figshare.com/authors/_/4118368-name</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/5949bc3478823</data>
+			<data key="doi">10.4225/03/5949bc3478823</data>
+		</node>
+		<node id="n27" labels=":monash:figshare.com:publication:dataset">
+			<data key="labels">:monash:figshare.com:publication:dataset</data>
+			<data key="title">On the colonisation and alteration of stony meteorites by microorganisms from the Nullarbor Plain, Australia: Applications for future astrobiology exploration on Mars</data>
+			<data key="publication_year">2017</data>
+			<data key="authors_list">ALASTAIR WILLIAM TAIT</data>
+			<data key="last_updated">2017-06-21T00:15:09Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/5949ba8f3c8e3</data>
+			<data key="url">figshare.com/articles/On_the_colonisation_and_alteration_of_stony_meteorites_by_microorganisms_from_the_Nullarbor_Plain_Australia_Applications_for_future_astrobiology_exploration_on_Mars/5120314 https://figshare.com/articles/On_the_colonisation_and_alteration_of_stony_meteorites_by_microorganisms_from_the_Nullarbor_Plain_Australia_Applications_for_future_astrobiology_exploration_on_Mars/5120314-authorship-4118365 https://figshare.com/authors/_/4118365-vcard https://figshare.com/authors/_/4118365-name</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/5949ba8f3c8e3</data>
+			<data key="doi">10.4225/03/5949ba8f3c8e3</data>
+		</node>
+		<node id="n28" labels=":monash:figshare.com:publication:dataset">
+			<data key="labels">:monash:figshare.com:publication:dataset</data>
+			<data key="title">The Effect of Cognitive Style and Balanced Scorecard Information on Managerial Learning and Performance</data>
+			<data key="publication_year">2017</data>
+			<data key="authors_list">ANNA GERAKARIS-STAMATELATOS</data>
+			<data key="last_updated">2017-06-20T23:24:11Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/5949ae9d81f81</data>
+			<data key="url">figshare.com/articles/The_Effect_of_Cognitive_Style_and_Balanced_Scorecard_Information_on_Managerial_Learning_and_Performance/5120089 https://figshare.com/articles/The_Effect_of_Cognitive_Style_and_Balanced_Scorecard_Information_on_Managerial_Learning_and_Performance/5120089-authorship-4118107 https://figshare.com/authors/_/4118107-vcard https://figshare.com/authors/_/4118107-name</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/5949ae9d81f81</data>
+			<data key="doi">10.4225/03/5949ae9d81f81</data>
+		</node>
+		<node id="n29" labels=":monash:figshare.com:publication:dataset">
+			<data key="labels">:monash:figshare.com:publication:dataset</data>
+			<data key="title">A critical analysis of BHP inventory policy</data>
+			<data key="publication_year">2017</data>
+			<data key="authors_list">John S. McDonnell</data>
+			<data key="last_updated">2017-06-20T07:36:43Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/5948d08d85b7a</data>
+			<data key="url">figshare.com/articles/A_critical_analysis_of_BHP_inventory_policy/5121112 https://figshare.com/articles/A_critical_analysis_of_BHP_inventory_policy/5121112-authorship-4126177 https://figshare.com/authors/_/4126177-vcard https://figshare.com/authors/_/4126177-name</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/5948d08d85b7a</data>
+			<data key="doi">10.4225/03/5948d08d85b7a</data>
+		</node>
+		<node id="n35" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/4116019</data>
+			<data key="type">researcher</data>
+			<data key="first_name">Pankaj</data>
+			<data key="last_name">Deo</data>
+			<data key="source">figshare.com</data>
+			<data key="full_name">Pankaj Deo</data>
+			<data key="local_id">_/4116019</data>
+			<data key="key">researchgraph.org/figshare/_/4116019</data>
+		</node>
+		<node id="n36" labels=":monash:figshare.com:researcher">
+			<data key="labels">:monash:figshare.com:researcher</data>
+			<data key="url">figshare.com/authors/_/2627107</data>
+			<data key="first_name">Chetana</data>
+			<data key="source">figshare.com</data>
+			<data key="type">researcher</data>
+			<data key="local_id">_/2627107</data>
+			<data key="last_name">Gavankar</data>
+			<data key="full_name">Chetana Gavankar</data>
+			<data key="key">researchgraph.org/figshare/_/2627107</data>
+		</node>
+		<node id="n45" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="authors_list">Pankaj Deo</data>
+			<data key="title">Characterisation of Neisseria gonorrhoeae secreted outer membrane vesicles and their role in immune evasion</data>
+			<data key="last_updated">2017-06-19T04:33:14Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/59475d78aa7ca</data>
+			<data key="publication_year">2017</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/59475d78aa7ca</data>
+			<data key="doi">10.4225/03/59475d78aa7ca</data>
+		</node>
+		<node id="n46" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="authors_list">Chetana Gavankar</data>
+			<data key="title">Ontology Population and Concept Search across Ontologies: Challenges and Methodologies</data>
+			<data key="last_updated">2017-06-19T04:13:22Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/59474f646c296</data>
+			<data key="publication_year">2017</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/59474f646c296</data>
+			<data key="doi">10.4225/03/59474f646c296</data>
+		</node>
+		<node id="n2483" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="title">Artistic Tension</data>
+			<data key="publication_year">2017</data>
+			<data key="authors_list">Adrian Martin</data>
+			<data key="last_updated">2017-05-22T05:32:29Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/592277ef9104f</data>
+			<data key="url">figshare.com/articles/Artistic_Tension/5016566</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/592277ef9104f</data>
+			<data key="doi">10.4225/03/592277ef9104f</data>
+		</node>
+		<node id="n10244" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="authors_list">Daniel Wee</data>
+			<data key="title">weneedtotalkaboutzinespresentation.pptx Daniel Wee</data>
+			<data key="last_updated">2017-02-22T05:46:16Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/58ad25a9ed757</data>
+			<data key="publication_year">2017</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/58ad25a9ed757</data>
+			<data key="doi">10.4225/03/58ad25a9ed757</data>
+		</node>
+		<node id="n10891" labels=":monash:figshare.com:publication">
+			<data key="labels">:monash:figshare.com:publication</data>
+			<data key="authors_list">Ellen O'Hehir,Laura Honing,Daniel Wee,Michelle De Aizpurua</data>
+			<data key="title">Bringing it together, putting it online: A consistent, strategic and student centred approach to online orientation Ellen O'Hehir Daniel Wee Michelle De Aizpurua</data>
+			<data key="last_updated">2017-02-21T03:33:23Z</data>
+			<data key="source">figshare.com</data>
+			<data key="type">publication</data>
+			<data key="local_id">10.4225/03/58abb507759fa</data>
+			<data key="publication_year">2017</data>
+			<data key="key">researchgraph.org/figshare/10.4225/03/58abb507759fa</data>
+			<data key="doi">10.4225/03/58abb507759fa</data>
+		</node>
+		<edge id="e0" source="n10" target="n0" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e1" source="n11" target="n1" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e2" source="n12" target="n2" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e3" source="n13" target="n3" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e4" source="n14" target="n4" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e5" source="n15" target="n5" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e6" source="n16" target="n6" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e7" source="n17" target="n7" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e8" source="n18" target="n8" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e9" source="n19" target="n9" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e10" source="n25" target="n20" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e11" source="n26" target="n21" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e12" source="n27" target="n22" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e13" source="n28" target="n23" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e14" source="n29" target="n24" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e15" source="n45" target="n35" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e16" source="n46" target="n36" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e2174" source="n2483" target="n4" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e7287" source="n10244" target="n6" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+		<edge id="e7661" source="n10891" target="n6" label="relatedTo">
+			<data key="label">relatedTo</data>
+		</edge>
+	</graph>
+</graphml>
