@@ -75,10 +75,10 @@
                 <xsl:value-of select="..//oai:datestamp"/>
             </last_updated>
             <url>
-                <xsl:value-of select=".//@rdf:about[1]"/>
+                <xsl:value-of select="concat('doi.org/',.//bibo:doi)"/>
             </url>
             <title>
-                <xsl:value-of select=".//rdfs:label"/>
+                <xsl:value-of select=".//rdfs:label[preceding-sibling::bibo:doi]"/>
             </title>
             <doi>
                 <xsl:value-of select=".//bibo:doi"/>
