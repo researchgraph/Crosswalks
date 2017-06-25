@@ -199,7 +199,7 @@
                 <key>
                     <xsl:choose>
                         <xsl:when test=".//or:work-external-identifier[or:work-external-identifier-type='doi']">
-                            <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:work-external-identifier[or:work-external-identifier-type='doi']/or:work-external-identifier-id)"/>
+                            <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:work-external-identifier[1][or:work-external-identifier-type='doi']/or:work-external-identifier-id)"/>
                         </xsl:when>
                         <xsl:otherwise>
                             <xsl:value-of select="concat('researchgraph.org/orcid/',./@put-code)"/>
@@ -212,7 +212,7 @@
                 <local_id>
                     <xsl:choose>
                         <xsl:when test=".//or:work-external-identifier[or:work-external-identifier-type='doi']">
-                            <xsl:value-of select=".//or:work-external-identifier[or:work-external-identifier-type='doi']/or:work-external-identifier-id"/>
+                            <xsl:value-of select=".//or:work-external-identifier[1][or:work-external-identifier-type='doi']/or:work-external-identifier-id"/>
                         </xsl:when>
                         <xsl:otherwise>
                             <xsl:value-of select="./@put-code"/>
@@ -276,7 +276,7 @@
                 <xsl:choose>
                     <xsl:when test=".//or:work-external-identifier[or:work-external-identifier-type='doi']">
                        <to_uri>
-                           <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:work-external-identifier[or:work-external-identifier-type='doi']/or:work-external-identifier-id)"/>
+                           <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:work-external-identifier[1][or:work-external-identifier-type='doi']/or:work-external-identifier-id)"/>
                        </to_uri>
                     </xsl:when>
                     <xsl:otherwise>
