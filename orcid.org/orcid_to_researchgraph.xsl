@@ -231,14 +231,17 @@
                 </title>
                 <authors_list>
                     <xsl:choose>
-                        <xsl:when test=".//or:work-contributors/or:contributor/or:item[.//or:contributor-role='AUTHOR']">
-                            <xsl:for-each select=".//or:work-contributors/or:contributor/or:item[.//or:contributor-role='AUTHOR']">
-                                <xsl:value-of select=".//or:credit-name/or:value"/>
+                        <xsl:when test=".//or:work-contributors/or:contributor">
+                            <xsl:for-each select=".//or:work-contributors/or:contributor">
+                                <xsl:value-of select=".//or:credit-name"/>
+                                <xsl:if test="position() != last()">
+                                    <xsl:value-of select=" ', ' "/>
+                                </xsl:if>
                             </xsl:for-each>
                         </xsl:when>
                         <xsl:when test="boolean(contains(.//or:citation,'author'))">
                             <xsl:value-of select="substring-before(substring-after(substring-after(substring-after(.//or:work-citation/or:citation,'author'),'='),'{'),'}')"/>
-                        </xsl:when>
+                        </xsl:when>                        
                         <xsl:otherwise>
                             <xsl:value-of select=".//or:source/or:source-name"/>
                         </xsl:otherwise>    
