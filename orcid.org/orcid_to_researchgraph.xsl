@@ -192,7 +192,7 @@
     <!-- Publication Template                                                               -->
     <!-- =========================================== -->
     <xsl:template match="or:orcid-work[.//or:work-type!='data-set']" mode="publication">
-        <xsl:if test=".[//or:work-contributors/or:contributor/or:item[.//or:contributor-role='AUTHOR']] | .[boolean(contains(.//or:citation,'author'))]">
+<!--        <xsl:if test=".[//or:work-contributors/or:contributor/or:item[.//or:contributor-role='AUTHOR']] | .[boolean(contains(.//or:citation,'author'))]">-->
             <xsl:variable name="timestamp" select=".//or:last-modified-date"/>
             <publication>
                 <key>
@@ -239,6 +239,9 @@
                         <xsl:when test="boolean(contains(.//or:citation,'author'))">
                             <xsl:value-of select="substring-before(substring-after(substring-after(substring-after(.//or:work-citation/or:citation,'author'),'='),'{'),'}')"/>
                         </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select=".//or:source/or:source-name"/>
+                        </xsl:otherwise>    
                     </xsl:choose>
                 </authors_list>
                 <xsl:if test="contains(.//or:url,'eid')">
@@ -254,7 +257,7 @@
                     </xsl:when>
                 </xsl:choose>
             </publication>
-        </xsl:if>
+        <!--</xsl:if>-->
     </xsl:template>
     
     
