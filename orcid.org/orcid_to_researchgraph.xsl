@@ -270,7 +270,7 @@
     <xsl:template match="or:orcid-work" mode="relation">
             <relation>
                 <from_key>
-                    <xsl:value-of select="concat('researchergraph.org/orcid/',ancestor::or:orcid-profile//or:orcid-identifier/or:path)"/>
+                    <xsl:value-of select="concat('researchgraph.org/orcid/',ancestor::or:orcid-profile//or:orcid-identifier/or:path)"/>
                 </from_key>
                 <xsl:choose>
                     <xsl:when test=".//or:work-external-identifier[or:work-external-identifier-type='doi']">
@@ -293,7 +293,7 @@
     <xsl:template match="or:funding" mode="relation">
         <relation>
             <from_key>
-                <xsl:value-of select="concat('researchergraph.org/orcid/',ancestor::or:orcid-profile//or:orcid-identifier/or:path)"/>
+                <xsl:value-of select="concat('researchgraph.org/orcid/',ancestor::or:orcid-profile//or:orcid-identifier/or:path)"/>
             </from_key>
             <to_uri>
                 <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:funding-external-identifier[or:funding-external-identifier-type='grant_number']/or:funding-external-identifier-value)"/>
