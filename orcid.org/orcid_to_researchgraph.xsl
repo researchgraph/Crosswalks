@@ -153,15 +153,16 @@
         <xsl:variable name="groupName" select=".//or:organization/or:name"/>
         <xsl:variable name="groupSource" select="$andsGroupList/root/row[group = $groupName]/source"/>
         <xsl:variable name="timestamp" select=".//or:last-modified-date"/>
+        <xsl:variable name="local_id" select=".//or:funding-external-identifier[1][or:funding-external-identifier-type='grant_number']/or:funding-external-identifier-value"/>
         <grant>
             <key>
-                <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:funding-external-identifier[or:funding-external-identifier-type='grant_number']/or:funding-external-identifier-value)"/>
+                <xsl:value-of select="concat('researchgraph.org/orcid/',$local_id)"/>
             </key>
             <source>
                 <xsl:value-of select="$source"/>
             </source>
             <local_id>
-                <xsl:value-of select=".//or:funding-external-identifier[or:funding-external-identifier-type='grant_number']/or:funding-external-identifier-value"/>
+                <xsl:value-of select="$local_id"/>
             </local_id>
             <last_updated>
                 <xsl:value-of select="$timestamp"/>
@@ -296,7 +297,7 @@
                 <xsl:value-of select="concat('researchgraph.org/orcid/',ancestor::or:orcid-profile//or:orcid-identifier/or:path)"/>
             </from_key>
             <to_uri>
-                <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:funding-external-identifier[or:funding-external-identifier-type='grant_number']/or:funding-external-identifier-value)"/>
+                <xsl:value-of select="concat('researchgraph.org/orcid/',.//or:funding-external-identifier[1][or:funding-external-identifier-type='grant_number']/or:funding-external-identifier-value)"/>
             </to_uri>
             <label>
                 <xsl:value-of select="'relatedTo'"/>
