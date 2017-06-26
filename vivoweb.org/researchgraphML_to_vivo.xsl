@@ -379,7 +379,7 @@
     <xsl:template match="gml:edge" mode="relation">
         <ns0:Relationship rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
             <rdfs:label>
-                <xsl:value-of select=".//gml:edge/gml:data"/>
+                <xsl:value-of select="./gml:data"/>
             </rdfs:label>
             <xsl:variable name="rel1" select="substring(./@source,2,string-length(./@source)-1)"/>
             <xsl:variable name="rel2" select="substring(./@target,2,string-length(./@target)-1)"/>
