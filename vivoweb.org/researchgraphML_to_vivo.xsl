@@ -75,7 +75,7 @@
             </ns0:dateTimeInterval>
             
             <ns1:rgKey rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
-                <xsl:value-of select=".//gml:data[@key='key']"/>
+                <xsl:value-of select="concat('http://',.//gml:data[@key='key'])"/>
             </ns1:rgKey>
             <ns1:participantList>
                 <xsl:value-of select=".//gml:data[@key='participants']"/>
@@ -147,7 +147,7 @@
                         </xsl:otherwise>
                     </xsl:choose>
                     
-                    <ns2:ARG_2000029 rdf:resource="{concat($source,.//gml:data[@key='local_id'])}"/>
+                    <ns2:ARG_2000029 rdf:resource="{concat($source,'n', number($grantN)+1000)}"/>
                 </vcard:Kind>
             </ns2:ARG_2000028>
         </rdf:Description>
