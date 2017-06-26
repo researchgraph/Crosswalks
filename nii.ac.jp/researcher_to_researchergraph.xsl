@@ -7,7 +7,7 @@
     xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dcterms="http://purl.org/dc/terms/"
     xmlns:kaken="http://kaken.nii.ac.jp/ns#" xmlns:rns="http://rns.nii.ac.jp/ns#"
     exclude-result-prefixes="xs xsl rdf rdfs foaf owl dcterms kaken rns"
-    version="1.0">
+    version="2.0">
     
     <!-- =========================================== -->
     <!-- Configuration                                                                             -->
@@ -38,6 +38,9 @@
             <local_id>
                 <xsl:value-of select=".//rns:researcherNumber"/>
             </local_id>
+            <last_updated>
+                <xsl:value-of select="current-dateTime()"/>
+            </last_updated>
             <url>
                 <xsl:value-of select=".//rns:Researcher/@rdf:about"/>
             </url>
