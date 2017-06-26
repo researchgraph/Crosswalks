@@ -20,7 +20,6 @@
     <!-- =========================================== -->
     <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" />
     <xsl:variable name="source" select="'http://vivo.mydomain.edu/individual/'"/>
-    
     <!-- =========================================== -->
     <!-- root Template                                                                            -->
     <!-- =========================================== -->
@@ -46,7 +45,8 @@
     <!-- Description (grants) Template                                               -->
     <!-- =========================================== -->
     <xsl:template match="gml:node[gml:data[@key='type']='grant']" mode="grant">
-        <rdf:Description rdf:about="{concat($source,./@id)}">
+        <xsl:variable name="grantN" select="substring(./@id,2,string-length(./@id)-1)"/>
+        <rdf:Description rdf:about="{concat($source,'n', number($grantN)+1000)}">
             <rdfs:label>
                 <xsl:value-of select=".//gml:data[@key='title']"/>
             </rdfs:label>
@@ -157,7 +157,8 @@
     <!-- Person (researcher) Template                                              -->
     <!-- =========================================== -->
     <xsl:template match="gml:node[gml:data[@key='type']='researcher']" mode="researcher">
-        <foaf:Person rdf:about="{concat($source,./@id)}">
+        <xsl:variable name="personN" select="substring(./@id,2,string-length(./@id)-1)"/>
+        <foaf:Person rdf:about="{concat($source,'n',number($personN)+1000)}">
             <rdfs:label>
                 <xsl:value-of select="concat(.//gml:data[@key='first_name'],', ',.//gml:data[@key='first_name'])"/>
             </rdfs:label>
@@ -220,7 +221,8 @@
     <!-- Article (publication) Template                                                 -->
     <!-- =========================================== -->
     <xsl:template match="gml:node[gml:data[@key='type']='publication']" mode="publication">
-        <bibo:Article rdf:about="{concat($source,./@id)}">
+        <xsl:variable name="articleN" select="substring(./@id,2,string-length(./@id)-1)"/>
+        <bibo:Article rdf:about="{concat($source,'n',number($articleN)+1000)}">
             <rdfs:label>
                 <xsl:value-of select=".//gml:data[@key='title']"/>
             </rdfs:label>
@@ -282,7 +284,8 @@
     <!-- Dataset Template                                                                     -->
     <!-- =========================================== -->
     <xsl:template match="gml:node[gml:data[@key='type']='dataset']" mode="dataset">
-        <ns0:Dataset rdf:about="{concat($source,./@id)}">
+        <xsl:variable name="datasetN" select="substring(./@id,2,string-length(./@id)-1)"/>
+        <ns0:Dataset rdf:about="{concat($source,'n', number($datasetN)+1000)}">
             <rdfs:label>
                 <xsl:value-of select=".//gml:data[@key='title']"/>
             </rdfs:label>
@@ -352,8 +355,10 @@
             <rdfs:label>
                 <xsl:value-of select=".//gml:edge/gml:data"/>
             </rdfs:label>
-            <ns0:relates rdf:resource="{concat($source,./@source)}"/>
-            <ns0:relates rdf:resource="{concat($source,./@target)}"/>
+            <xsl:variable name="rel1" select="substring(./@source,2,string-length(./@source)-1)"/>
+            <xsl:variable name="rel2" select="substring(./@target,2,string-length(./@target)-1)"/>
+            <ns0:relates rdf:resource="{concat($source,number($rel1)+1000)}"/>
+            <ns0:relates rdf:resource="{concat($source,number($rel2)+1000)}"/>
         </ns0:Relationship>
     </xsl:template>
 </xsl:stylesheet>
