@@ -51,35 +51,42 @@
                 <xsl:value-of select=".//gml:data[@key='title']"/>
             </rdfs:label>
             <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Grant"/>
-            <ns0:dateTimeInterval>
-                <ns0:DateTimeInterval rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
-                    <ns0:start>
-                        <ns0:DateTimeValue rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
-                            <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
-                            <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                <xsl:value-of select=".//gml:data[@key='start_year']"/>
-                            </ns0:dateTime>
-                        </ns0:DateTimeValue>
-                    </ns0:start>
-                    
-                    <ns0:end>
-                        <ns0:DateTimeValue rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
-                            <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
-                            <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                                <xsl:value-of select=".//gml:data[@key='end_year']"/>
-                            </ns0:dateTime>
-                        </ns0:DateTimeValue>
-                    </ns0:end>
-                    
-                </ns0:DateTimeInterval>
-            </ns0:dateTimeInterval>
+            <xsl:if test=".//gml:data[@key='start_year'] | .//gml:data[@key='end_year']">
+                <ns0:dateTimeInterval>
+                    <ns0:DateTimeInterval rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                        <xsl:if test=".//gml:data[@key='start_year']">
+                            <ns0:start>
+                                <ns0:DateTimeValue rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                                    <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
+                                    <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                                        <xsl:value-of select=".//gml:data[@key='start_year']"/>
+                                    </ns0:dateTime>
+                                </ns0:DateTimeValue>
+                            </ns0:start>
+                        </xsl:if>
+                        <xsl:if test=".//gml:data[@key='end_year']">
+                            <ns0:end>
+                                <ns0:DateTimeValue rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                                    <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
+                                    <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                                        <xsl:value-of select=".//gml:data[@key='end_year']"/>
+                                    </ns0:dateTime>
+                                </ns0:DateTimeValue>
+                            </ns0:end>
+                        </xsl:if>
+                    </ns0:DateTimeInterval>
+                </ns0:dateTimeInterval>
+            </xsl:if>
+            
             
             <ns1:rgKey rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
                 <xsl:value-of select="concat('http://',.//gml:data[@key='key'])"/>
             </ns1:rgKey>
-            <ns1:participantList>
-                <xsl:value-of select=".//gml:data[@key='participants']"/>
-            </ns1:participantList>
+            <xsl:if test=".//gml:data[@key='participants']">
+                <ns1:participantList>
+                    <xsl:value-of select=".//gml:data[@key='participants']"/>
+                </ns1:participantList>
+            </xsl:if>
             <ns1:localId>
                 <xsl:value-of select=".//gml:data[@key='local_id']"/>
             </ns1:localId>
@@ -348,9 +355,7 @@
                     </bibo:doi>
                 </xsl:when>
                 <xsl:otherwise>
-                    <bibo:doi>
-                        <xsl:value-of select="'doi'"/>
-                    </bibo:doi>
+                    <xsl:value-of select="''"/>
                 </xsl:otherwise>
             </xsl:choose>
             <ns2:ARG_2000028>
