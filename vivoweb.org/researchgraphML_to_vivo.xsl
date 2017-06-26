@@ -162,20 +162,16 @@
             <rdfs:label>
                 <xsl:value-of select="concat(.//gml:data[@key='first_name'],', ',.//gml:data[@key='first_name'])"/>
             </rdfs:label>
-            <ns0:orcidId>
                 <xsl:choose>
                     <xsl:when test="contains(.//gml:data[@key='url'],'orcid.org')">
-                        <owl:Thing rdf:about="{concat('http://',.//gml:data[@key='url'])}">
-                            <ns0:confirmedOrcidId rdf:resource="{concat($source,.//gml:data[@key='local_id'])}"/>
-                        </owl:Thing>
+                        <ns0:orcidId>
+                            <owl:Thing rdf:about="{concat('http://',.//gml:data[@key='url'])}">
+                                <ns0:confirmedOrcidId rdf:resource="{concat($source,.//gml:data[@key='local_id'])}"/>
+                            </owl:Thing>
+                        </ns0:orcidId>
                     </xsl:when>
-                    <xsl:otherwise>
-                        <owl:Thing rdf:about="{'orcid'}">
-                            <ns0:confirmedOrcidId rdf:resource="{'orcid'}"/>
-                        </owl:Thing>
-                    </xsl:otherwise>
                 </xsl:choose>
-            </ns0:orcidId>
+            
             
            <!-- <ns0:scopusId>
                 <xsl:value-of select=".//rg:scopus_author_id"/>
