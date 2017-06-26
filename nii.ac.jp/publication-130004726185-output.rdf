@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns="http://researchgraph.org/schema/v2.0/xml/nodes"
+                 xsi:schemaLocation="http://researchgraph.org/schema/v2.0/xml/nodes             https://raw.githubusercontent.com/researchgraph/Schema/master/xsd/registryObjects.xsd">
+   <publications>
+      <publication>
+         <key>researchgraph.org/nii/publication/130004726185</key>
+         <source>ci.nii.ac.jp</source>
+         <local_id>130004726185</local_id>
+         <url>http://ci.nii.ac.jp/naid/130004726185#article</url>
+         <title>Privacy Enhancing Proxies in a Federation: Agent Approach and Cascade Approach</title>
+         <authors_list>Sato Hiroyuki , Okabe Yasuo , Nishimura Takeshi , Yamaji Kazutsuna , Nakamura Motonori</authors_list>
+         <doi>10.2197/ipsjjip.22.464</doi>
+         <publication_year>2014</publication_year>
+      </publication>
+   </publications>
+</registryObjects>

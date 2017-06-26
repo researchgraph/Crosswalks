@@ -62,6 +62,11 @@
                     </xsl:if>
                 </xsl:for-each>
             </authors_list>
+            <xsl:if test=".//prism:doi">
+                <doi>
+                    <xsl:value-of select=".//prism:doi"/>
+                </doi>
+            </xsl:if>
             <publication_year>
                 <xsl:value-of select=".//prism:publicationDate"/>
             </publication_year>
