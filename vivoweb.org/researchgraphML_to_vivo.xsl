@@ -303,14 +303,17 @@
             <rdfs:label>
                 <xsl:value-of select=".//gml:data[@key='title']"/>
             </rdfs:label>
-            <ns0:dateTimeValue>
-                <ns0:DateTimeValue rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
-                    <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
-                    <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                        <xsl:value-of select="'publication_year'"/>
-                    </ns0:dateTime>
-                </ns0:DateTimeValue>
-            </ns0:dateTimeValue>
+            <xsl:if test=".//gml:data[@key='publication_year']">
+                <ns0:dateTimeValue>
+                    <ns0:DateTimeValue rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                        <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
+                        <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                            <xsl:value-of select=".//gml:data[@key='publication_year']"/>
+                        </ns0:dateTime>
+                    </ns0:DateTimeValue>
+                </ns0:dateTimeValue>
+            </xsl:if>
+            
             <xsl:choose>
                 <xsl:when test=".//gml:data[@key='doi']">
                     <bibo:doi>
