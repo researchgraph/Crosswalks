@@ -353,7 +353,7 @@
                 </vcard:Kind>
             </ns2:ARG_2000028>
             <ns1:rgKey rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
-                <xsl:value-of select=".//gml:data[@key='key']"/>
+                <xsl:value-of select="concat('http://',.//gml:data[@key='key'])"/>
             </ns1:rgKey>
             <ns1:localId>
                 <xsl:value-of select=".//gml:data[@key='local_id']"/>
