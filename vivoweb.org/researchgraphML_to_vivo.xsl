@@ -357,8 +357,8 @@
             </rdfs:label>
             <xsl:variable name="rel1" select="substring(./@source,2,string-length(./@source)-1)"/>
             <xsl:variable name="rel2" select="substring(./@target,2,string-length(./@target)-1)"/>
-            <ns0:relates rdf:resource="{concat($source,number($rel1)+1000)}"/>
-            <ns0:relates rdf:resource="{concat($source,number($rel2)+1000)}"/>
+            <ns0:relates rdf:resource="{concat($source,'n',number($rel1)+1000)}"/>
+            <ns0:relates rdf:resource="{concat($source,'n',number($rel2)+1000)}"/>
         </ns0:Relationship>
     </xsl:template>
 </xsl:stylesheet>
