@@ -97,15 +97,24 @@
             </xsl:choose>
             <ns2:ARG_2000028>
                 <vcard:Kind rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
-                    <vcard:hasURL>
-                        <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
-                            <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
-                                <xsl:value-of select=".//gml:data[@key='url']"/>
-                            </vcard:url>
-                            <rdfs:label>URL</rdfs:label>
-                            <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</ns0:rank>
-                        </vcard:URL>
-                    </vcard:hasURL>
+                    <xsl:if test=".//gml:data[@key='url']">
+                        <vcard:hasURL>
+                            <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                                <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
+                                    <xsl:choose>
+                                        <xsl:when test="contains(.//gml:data[@key='url'],'http')">
+                                            <xsl:value-of select=".//gml:data[@key='url']"/>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="concat('http://',.//gml:data[@key='url'])"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </vcard:url>
+                                <rdfs:label>URL</rdfs:label>
+                                <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
+                            </vcard:URL>
+                        </vcard:hasURL>
+                    </xsl:if>
                     
                     <vcard:hasURL>
                         <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
@@ -187,15 +196,24 @@
             </ns0:scopusId>-->
             <ns2:ARG_2000028>
                 <vcard:Kind rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
-                    <vcard:hasURL>
-                        <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
-                            <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
-                                <xsl:value-of select=".//gml:data[@key='url']"/>
-                            </vcard:url>
-                            <rdfs:label>URL</rdfs:label>
-                            <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
-                        </vcard:URL>
-                    </vcard:hasURL>
+                    <xsl:if test=".//gml:data[@key='url']">
+                        <vcard:hasURL>
+                            <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                                <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
+                                    <xsl:choose>
+                                        <xsl:when test="contains(.//gml:data[@key='url'],'http')">
+                                            <xsl:value-of select=".//gml:data[@key='url']"/>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="concat('http://',.//gml:data[@key='url'])"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </vcard:url>
+                                <rdfs:label>URL</rdfs:label>
+                                <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
+                            </vcard:URL>
+                        </vcard:hasURL>
+                    </xsl:if>
                     
                     <vcard:hasName>
                         <vcard:Name rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
@@ -245,15 +263,24 @@
             </bibo:doi>
             <ns2:ARG_2000028>
                 <vcard:Kind rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
-                    <vcard:hasURL>
-                        <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
-                            <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
-                                <xsl:value-of select="concat('https://www.doi.org/',.//gml:data[@key='doi'])"/>
-                            </vcard:url>
-                            <rdfs:label>URL</rdfs:label>
-                            <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
-                        </vcard:URL>
-                    </vcard:hasURL>
+                    <xsl:if test=".//gml:data[@key='url']">
+                        <vcard:hasURL>
+                            <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                                <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
+                                    <xsl:choose>
+                                        <xsl:when test="contains(.//gml:data[@key='url'],'http')">
+                                            <xsl:value-of select=".//gml:data[@key='url']"/>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="concat('http://',.//gml:data[@key='url'])"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </vcard:url>
+                                <rdfs:label>URL</rdfs:label>
+                                <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
+                            </vcard:URL>
+                        </vcard:hasURL>
+                    </xsl:if>
                     
                     <vcard:hasURL>
                         <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
@@ -339,15 +366,24 @@
                         </vcard:URL>
                     </vcard:hasURL>
                     
-                    <vcard:hasURL>
-                        <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
-                            <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
-                                <xsl:value-of select=".//gml:data[@key='url']"/>
-                            </vcard:url>
-                            <rdfs:label>URL</rdfs:label>
-                            <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
-                        </vcard:URL>
-                    </vcard:hasURL>
+                    <xsl:if test=".//gml:data[@key='url']">
+                        <vcard:hasURL>
+                            <vcard:URL rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+                                <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">
+                                    <xsl:choose>
+                                        <xsl:when test="contains(.//gml:data[@key='url'],'http')">
+                                            <xsl:value-of select=".//gml:data[@key='url']"/>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                            <xsl:value-of select="concat('http://',.//gml:data[@key='url'])"/>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+                                </vcard:url>
+                                <rdfs:label>URL</rdfs:label>
+                                <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
+                            </vcard:URL>
+                        </vcard:hasURL>
+                    </xsl:if>
                     
                     <ns2:ARG_2000029 rdf:resource="{concat($source,.//gml:data[@key='local_id'])}"/>
                 </vcard:Kind>
