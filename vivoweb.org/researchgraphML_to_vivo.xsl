@@ -185,7 +185,7 @@
         <xsl:variable name="personN" select="substring(./@id,2,string-length(./@id)-1)"/>
         <foaf:Person rdf:about="{concat($source,'n',number($personN)+1000)}">
             <rdfs:label>
-                <xsl:value-of select="concat(.//gml:data[@key='first_name'],', ',.//gml:data[@key='first_name'])"/>
+                <xsl:value-of select="concat(.//gml:data[@key='last_name'],', ',.//gml:data[@key='first_name'])"/>
             </rdfs:label>
                 <xsl:choose>
                     <xsl:when test="contains(.//gml:data[@key='url'],'orcid.org')">
