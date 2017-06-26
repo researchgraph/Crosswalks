@@ -14,16 +14,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1000">
       <rdfs:label>NICHOLAS JOHN, NICHOLAS JOHN</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n56959153">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n38529160">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n40733055">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n54286366">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4165180</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n39698286">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n25577658">
                   <vcard:givenName>NICHOLAS JOHN</vcard:givenName>
                   <vcard:familyName>FERNS</vcard:familyName>
                </vcard:Name>
@@ -38,16 +38,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1001">
       <rdfs:label>LAUREN CELESTE, LAUREN CELESTE</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n36967525">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n91421367">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n23501539">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n58539802">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4165171</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n52726296">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n18871385">
                   <vcard:givenName>LAUREN CELESTE</vcard:givenName>
                   <vcard:familyName>WOLFRAM</vcard:familyName>
                </vcard:Name>
@@ -62,16 +62,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1002">
       <rdfs:label>SUMITA, SUMITA</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n14579281">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n94182261">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n51728881">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n44299406">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4165168</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n83752985">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n76081028">
                   <vcard:givenName>SUMITA</vcard:givenName>
                   <vcard:familyName>ELENDRAN</vcard:familyName>
                </vcard:Name>
@@ -86,16 +86,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1003">
       <rdfs:label>JENNIFER, JENNIFER</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n96596089">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n91151692">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n36934714">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n41711184">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4163155</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n42521137">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n36995496">
                   <vcard:givenName>JENNIFER</vcard:givenName>
                   <vcard:familyName>KRAFCHEK</vcard:familyName>
                </vcard:Name>
@@ -110,16 +110,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1004">
       <rdfs:label>Adrian, Adrian</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n18112040">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n63631319">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n51364423">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n90031053">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4032152</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n49923870">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n14143664">
                   <vcard:givenName>Adrian</vcard:givenName>
                   <vcard:familyName>Martin</vcard:familyName>
                </vcard:Name>
@@ -134,16 +134,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1005">
       <rdfs:label>Margaret Sylvia, Margaret Sylvia</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n64933274">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n50752182">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n83475418">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n53656513">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4165177</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n75964028">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n21782427">
                   <vcard:givenName>Margaret Sylvia</vcard:givenName>
                   <vcard:familyName>Barrett</vcard:familyName>
                </vcard:Name>
@@ -163,16 +163,16 @@
          </owl:Thing>
       </ns0:orcidId>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n27092373">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n92347447">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n13531123">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n75701412">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">orcid.org/0000-0001-6694-0204</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n47671655">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n60814063">
                   <vcard:givenName>Daniel</vcard:givenName>
                   <vcard:familyName>Wee</vcard:familyName>
                </vcard:Name>
@@ -187,16 +187,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1007">
       <rdfs:label>Carol Anne, Carol Anne</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n16136551">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n63204223">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n21918625">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n51261462">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4163101</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n10237960">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n45873075">
                   <vcard:givenName>Carol Anne</vcard:givenName>
                   <vcard:familyName>Vogt</vcard:familyName>
                </vcard:Name>
@@ -211,16 +211,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1008">
       <rdfs:label>Tino, Tino</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n54924564">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n33662560">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n44194977">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n68076227">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4163089</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n93623326">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n12648459">
                   <vcard:givenName>Tino</vcard:givenName>
                   <vcard:familyName>Filippelli</vcard:familyName>
                </vcard:Name>
@@ -235,16 +235,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1009">
       <rdfs:label>Raymond Charles, Raymond Charles</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n98841936">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n39694227">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n89132666">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n70406570">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4163026</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n14439053">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n87812859">
                   <vcard:givenName>Raymond Charles</vcard:givenName>
                   <vcard:familyName>King</vcard:familyName>
                </vcard:Name>
@@ -259,16 +259,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1020">
       <rdfs:label>EDI DWI, EDI DWI</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n17971464">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n88783932">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n40468343">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n49885924">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4162990</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n65419232">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n58653321">
                   <vcard:givenName>EDI DWI</vcard:givenName>
                   <vcard:familyName>RIYANTO</vcard:familyName>
                </vcard:Name>
@@ -283,16 +283,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1021">
       <rdfs:label>PAUL ANTHONY, PAUL ANTHONY</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n60925054">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n22429926">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n56088722">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n79551069">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4118368</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n69335295">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n50737066">
                   <vcard:givenName>PAUL ANTHONY</vcard:givenName>
                   <vcard:familyName>SWAN</vcard:familyName>
                </vcard:Name>
@@ -307,16 +307,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1022">
       <rdfs:label>ALASTAIR WILLIAM, ALASTAIR WILLIAM</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n86191150">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n23818266">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n70463618">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n42662550">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4118365</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n70606694">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n89606069">
                   <vcard:givenName>ALASTAIR WILLIAM</vcard:givenName>
                   <vcard:familyName>TAIT</vcard:familyName>
                </vcard:Name>
@@ -331,16 +331,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1023">
       <rdfs:label>ANNA, ANNA</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n94511821">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n16777179">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n42921211">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n95961087">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4118107</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n27451997">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n49736397">
                   <vcard:givenName>ANNA</vcard:givenName>
                   <vcard:familyName>GERAKARIS-STAMATELATOS</vcard:familyName>
                </vcard:Name>
@@ -355,16 +355,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1024">
       <rdfs:label>John S., John S.</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n41923821">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n78578588">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n96347945">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n70972541">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4126177</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n79129053">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n30097139">
                   <vcard:givenName>John S.</vcard:givenName>
                   <vcard:familyName>McDonnell</vcard:familyName>
                </vcard:Name>
@@ -379,16 +379,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1035">
       <rdfs:label>Pankaj, Pankaj</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n53399470">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n63067925">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n63361475">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n91148590">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/4116019</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n73064778">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n66322560">
                   <vcard:givenName>Pankaj</vcard:givenName>
                   <vcard:familyName>Deo</vcard:familyName>
                </vcard:Name>
@@ -403,16 +403,16 @@
    <foaf:Person rdf:about="http://vivo.mydomain.edu/individual/n1036">
       <rdfs:label>Chetana, Chetana</rdfs:label>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n56171383">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n39011933">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n28057243">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n52571766">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">figshare.com/authors/_/2627107</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasName>
-               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n58987105">
+               <vcard:Name rdf:about="http://vivo.mydomain.edu/individual/n39383426">
                   <vcard:givenName>Chetana</vcard:givenName>
                   <vcard:familyName>Gavankar</vcard:familyName>
                </vcard:Name>
@@ -427,23 +427,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1010">
       <rdfs:label>Beyond Colombo: Australian Colonial and Foreign Policy in the Age of International Development, 1945-1975</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n37094144">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n28985838">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/594b50a19a4c1</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n87527623">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n24428619">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n84526580">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n56205927">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/594b50a19a4c1</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n72038846">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n34555405">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -461,23 +461,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1011">
       <rdfs:label>Petrogenesis of migmatites and granites in the Sierra de Quilmes, NW Argentina:  Insights into crustal melting and the thermal history of the Famatinian Orogen</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n95791817">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n16717816">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/594b4f1fef41b</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n32557718">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n15191096">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n15651505">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n48957986">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/594b4f1fef41b</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n18168513">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n90781659">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -495,23 +495,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1012">
       <rdfs:label>Physicochemical Properties, Permeability and Bioavailability of Geraniin and Geraniin-Phospholipid Complex</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n76531871">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n71144415">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/594b4c641b5eb</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n65975180">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n48077698">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n63774826">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n54147923">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/594b4c641b5eb</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n31352395">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n47814572">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -529,23 +529,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1013">
       <rdfs:label>Stress and Coping in Academically High-Achieving Females Before the Onset of Disordered Eating: The Role of Academic Achievement</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n80562203">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n67258599">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/594b51e0f38b2</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n63931100">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n50503079">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n91468791">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n13225760">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/594b51e0f38b2</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n56521759">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n84832602">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -563,23 +563,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1014">
       <rdfs:label>Towards a synthetic analysis of film style</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n75963766">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n88579276">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/594b383590763</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n72581256">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n10078267">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n55124154">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n54864684">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/594b383590763</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n67067487">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n23247726">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -597,23 +597,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1015">
       <rdfs:label>Children's aesthetic decision-making: an analysis of children's musical discourse as composers</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n63878541">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n81834421">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/594b2df28812a</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n50468999">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n40771480">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n28933937">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n29682803">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/594b2df28812a</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n10875753">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n39938357">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -631,23 +631,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1016">
       <rdfs:label>We need to talk about zines: Collecting zines in an Australian academic university library. Daniel Wee</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n78193802">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n69282878">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/594b104435b71</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n10401073">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n80444690">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n51371703">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n11169201">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/594b104435b71</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n13444139">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n38912984">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -665,23 +665,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1017">
       <rdfs:label>Agricultural subsidies and farm income distribution: a case study of the Australian dairy industry</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n13272689">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n22471721">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/594a0845aa02b</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n32137020">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n79473542">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n91608583">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n19242472">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/594a0845aa02b</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n91541144">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n53191327">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -699,23 +699,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1018">
       <rdfs:label>Implications of taxation on specialisation, and introducing joint production to mesoeconomics</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n19423667">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n25788608">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/5949f950dfd53</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n21675378">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n65221590">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n57913909">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n47342365">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/5949f950dfd53</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n56016454">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n74336324">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -733,23 +733,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1019">
       <rdfs:label>Marketing research as a control medium in the new product marketing</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n11163871">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n83391035">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/5949e408768ba</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n58272276">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n92264447">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n95421658">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n18827742">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/5949e408768ba</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n16909929">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n31951706">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -767,23 +767,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1025">
       <rdfs:label>Celebrity and Komunitas: The Rise and Fall of the Jogja Hip Hop Foundation</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n97643891">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n48126891">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/5949bd62cf2db</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n95171635">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n12959871">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n45689590">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n64006486">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/5949bd62cf2db</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n49963687">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n70266454">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -801,23 +801,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1026">
       <rdfs:label>Empathy and Mentalization among Australian Primary Teachers</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n70434049">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n75553266">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/5949bc3478823</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n45041629">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n28126315">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n64852304">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n73745530">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/5949bc3478823</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n87724208">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n94309960">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -835,23 +835,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1027">
       <rdfs:label>On the colonisation and alteration of stony meteorites by microorganisms from the Nullarbor Plain, Australia: Applications for future astrobiology exploration on Mars</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n47924683">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n32302876">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/5949ba8f3c8e3</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n86194550">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n12914981">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n23304004">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n30521677">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/5949ba8f3c8e3</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n63597898">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n82608134">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -869,23 +869,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1028">
       <rdfs:label>The Effect of Cognitive Style and Balanced Scorecard Information on Managerial Learning and Performance</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n81655499">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n11421059">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/5949ae9d81f81</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n70601778">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n57066945">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n33401316">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n43036370">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/5949ae9d81f81</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n62613991">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n88961277">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -903,23 +903,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1029">
       <rdfs:label>A critical analysis of BHP inventory policy</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n73971511">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n34021736">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/5948d08d85b7a</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n49591972">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n64967358">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n78243875">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n65481078">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/5948d08d85b7a</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n97483214">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n80498997">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -937,23 +937,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1045">
       <rdfs:label>Characterisation of Neisseria gonorrhoeae secreted outer membrane vesicles and their role in immune evasion</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n91855623">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n40173262">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/59475d78aa7ca</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n58407200">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n24683276">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n38131030">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n17434450">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/59475d78aa7ca</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n33204148">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n84051977">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -971,23 +971,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n1046">
       <rdfs:label>Ontology Population and Concept Search across Ontologies: Challenges and Methodologies</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n86731392">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n97859567">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/59474f646c296</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n25596125">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n81125157">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n37327412">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n45092936">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/59474f646c296</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n28841678">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n38544834">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -1005,23 +1005,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n3483">
       <rdfs:label>Artistic Tension</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n55053986">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n83418516">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/592277ef9104f</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n98145942">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n13094573">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n58363698">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n90542987">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/592277ef9104f</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n10154442">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n75184930">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -1039,23 +1039,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n11244">
       <rdfs:label>weneedtotalkaboutzinespresentation.pptx Daniel Wee</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n99287922">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n11915893">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/58ad25a9ed757</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n98611209">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n18593159">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n96061300">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n59315543">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/58ad25a9ed757</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n31271723">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n73138357">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -1073,23 +1073,23 @@
    <bibo:Article rdf:about="http://vivo.mydomain.edu/individual/n11891">
       <rdfs:label>Bringing it together, putting it online: A consistent, strategic and student centred approach to online orientation Ellen O'Hehir Daniel Wee Michelle De Aizpurua</rdfs:label>
       <ns0:dateTimeValue>
-         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n74316575">
+         <ns0:DateTimeValue rdf:about="http://vivo.mydomain.edu/individual/n21137922">
             <ns0:dateTimePrecision rdf:resource="http://vivoweb.org/ontology/core#yearPrecision"/>
             <ns0:dateTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017</ns0:dateTime>
          </ns0:DateTimeValue>
       </ns0:dateTimeValue>
       <bibo:doi>10.4225/03/58abb507759fa</bibo:doi>
       <ns2:ARG_2000028>
-         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n54883258">
+         <vcard:Kind rdf:about="http://vivo.mydomain.edu/individual/n58721348">
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n48552343">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n12779959">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.doi.org/10.4225/03/58abb507759fa</vcard:url>
                   <rdfs:label>URL</rdfs:label>
                   <ns0:rank rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</ns0:rank>
                </vcard:URL>
             </vcard:hasURL>
             <vcard:hasURL>
-               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n89294661">
+               <vcard:URL rdf:about="http://vivo.mydomain.edu/individual/n62646929">
                   <vcard:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://figshare.com</vcard:url>
                   <rdfs:label>Source</rdfs:label>
                   <rdf:type rdf:resource="http://my.domain.edu/ontlogy/researchgraph#SourceUrl"/>
@@ -1104,102 +1104,102 @@
       <ns1:lastUpdated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-02-21T03:33:23Z</ns1:lastUpdated>
       <ns1:authorsList>Ellen O'Hehir,Laura Honing,Daniel Wee,Michelle De Aizpurua</ns1:authorsList>
    </bibo:Article>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n28651030">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n37607757">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1010"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1000"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n68984331">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n44529932">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1011"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1001"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n67528651">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n56085015">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1012"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1002"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n20047228">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n73006447">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1013"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1003"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n75602296">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n78086819">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1014"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1004"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n15757110">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n76617993">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1015"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1005"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n15226081">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n98009199">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1016"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1006"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n28468863">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n47707041">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1017"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1007"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n53991444">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n65205435">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1018"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1008"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n87332815">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n72547217">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1019"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1009"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n99962959">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n23235924">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1025"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1020"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n72613187">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n73791866">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1026"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1021"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n63086679">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n60659663">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1027"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1022"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n24767512">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n41425164">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1028"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1023"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n88073931">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n43491820">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1029"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1024"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n24253713">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n98045943">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1045"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1035"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n81719908">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n44483735">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1046"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1036"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n12206834">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n90726520">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n3483"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1004"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n13863008">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n58448792">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n11244"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1006"/>
    </ns0:Relationship>
-   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n74687964">
+   <ns0:Relationship rdf:about="http://vivo.mydomain.edu/individual/n26887450">
       <rdfs:label/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n11891"/>
       <ns0:relates rdf:resource="http://vivo.mydomain.edu/individual/n1006"/>
