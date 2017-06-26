@@ -204,7 +204,7 @@
                     </vcard:hasName>
                     
                     <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Individual"/>
-                    <ns2:ARG_2000029 rdf:resource="{concat($source,.//gml:data[@key='local_id'])}"/>
+                    <ns2:ARG_2000029 rdf:resource="{concat($source,'n',number($personN)+1000)}"/>
                 </vcard:Kind>
             </ns2:ARG_2000028>
             
