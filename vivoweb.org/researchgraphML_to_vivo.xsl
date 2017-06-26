@@ -83,9 +83,18 @@
             <ns1:localId>
                 <xsl:value-of select=".//gml:data[@key='local_id']"/>
             </ns1:localId>
-            <ns1:lastUpdated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                <xsl:value-of select=".//gml:data[@key='last_updated']"/>
-            </ns1:lastUpdated>
+            <xsl:choose>
+                <xsl:when test=".//gml:data[@key='last_updated']">
+                    <ns1:lastUpdated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                        <xsl:value-of select=".//gml:data[@key='last_updated']"/>
+                    </ns1:lastUpdated>
+                </xsl:when>
+                <xsl:otherwise>
+                    <ns1:lastUpdated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                        <xsl:value-of select="current-dateTime()"/>
+                    </ns1:lastUpdated>
+                </xsl:otherwise>
+            </xsl:choose>
             <ns2:ARG_2000028>
                 <vcard:Kind rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
                     <vcard:hasURL>
@@ -346,9 +355,18 @@
             <ns1:localId>
                 <xsl:value-of select=".//gml:data[@key='local_id']"/>
             </ns1:localId>
-            <ns1:lastUpdated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
-                <xsl:value-of select=".//gml:data[@key='last_updated']"/>
-            </ns1:lastUpdated>
+            <xsl:choose>
+                <xsl:when test=".//gml:data[@key='last_updated']">
+                    <ns1:lastUpdated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                        <xsl:value-of select=".//gml:data[@key='last_updated']"/>
+                    </ns1:lastUpdated>
+                </xsl:when>
+                <xsl:otherwise>
+                    <ns1:lastUpdated rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">
+                        <xsl:value-of select="current-dateTime()"/>
+                    </ns1:lastUpdated>
+                </xsl:otherwise>
+            </xsl:choose>
         </ns0:Dataset>
     </xsl:template>
     
