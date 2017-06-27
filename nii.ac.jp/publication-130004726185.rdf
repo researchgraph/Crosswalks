@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:con="http://www.w3.org/2000/10/swap/pim/contact#" xmlns:cinii="http://ci.nii.ac.jp/ns/1.0/" xmlns:bibo="http://purl.org/ontology/bibo/">
+<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/130004726185#article">
+<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+<foaf:isPrimaryTopicOf rdf:resource="http://ci.nii.ac.jp/naid/130004726185.rdf" />
+<dc:title>Privacy Enhancing Proxies in a Federation: Agent Approach and Cascade Approach</dc:title>
+<dc:creator>Sato Hiroyuki</dc:creator>
+<dc:creator>Okabe Yasuo</dc:creator>
+<dc:creator>Nishimura Takeshi</dc:creator>
+<dc:creator>Yamaji Kazutsuna</dc:creator>
+<dc:creator>Nakamura Motonori</dc:creator>
+<dc:publisher>Information Processing Society of Japan</dc:publisher>
+<prism:publicationName>Journal of Information Processing</prism:publicationName>
+<prism:issn>1882-6652</prism:issn>
+<prism:volume>22</prism:volume>
+<prism:number>3</prism:number>
+<prism:startingPage>464</prism:startingPage>
+<prism:endingPage>471</prism:endingPage>
+<prism:publicationDate>2014</prism:publicationDate>
+<dc:description>In the current network environment, access federations are proving very effective for building trustworthy and efficient service environment. However, operating federations causes some delicate problems regarding trust and security. Among the problems, privacy occupies an essential role in trust building for individual users. Conventionally, privacy aware technologies are concerned with providing anonymity. However, as privacy is understood as the right to control ones own information, and as better services are provided if some privacy information is provided, appropriate hiding and disclosing ones own information is considered more significant. Today, there are considered a wide variety of privacy usages for business, and because such scenarios have their own problems which must be separately solved, uniform &quot;privacy aware technologies&quot; are hard to conceive. They tend to be a collection of ad hoc technologies. In this paper, we consider a scenario of newspaper subscription with student discount. The proof that a subscriber is a student is sent to a newspaper provider from a university identity provider. We consider this scenario in order to extend the menu of services available in a university. Specifically, we explore technologies of proxies that include provision of anonymity and building of trust in a federation. We propose two solutions: SII-like agents, and cascading proxies to envision the privacy protection in this scenario. Their Web profiles are defined and implemented. Moreover, it is proved that both approaches effectively work to protect privacy.</dc:description>
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/privacy" dc:title="privacy" />
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/proxy+technologies" dc:title="proxy technologies" />
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/access+federation" dc:title="access federation" />
+<dc:date>2014</dc:date>
+<cinii:naid>130004726185</cinii:naid>
+<dc:language>EN</dc:language>
+<dc:source>J-STAGE</dc:source>
+<rdfs:seeAlso rdf:resource="https://jlc.jst.go.jp/DN/JALC/10037253928?from=CiNii" dc:title="J-STAGE" />
+<rdfs:seeAlso rdf:resource="http://dx.doi.org/10.2197/ipsjjip.22.464" dc:title="DOI" />
+<prism:doi>10.2197/ipsjjip.22.464</prism:doi></rdf:Description>
+<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/130004726185#article" xml:lang="en">
+<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+<dc:title>Privacy Enhancing Proxies in a Federation: Agent Approach and Cascade Approach</dc:title>
+<dc:creator>Sato Hiroyuki</dc:creator>
+<dc:creator>Okabe Yasuo</dc:creator>
+<dc:creator>Nishimura Takeshi</dc:creator>
+<dc:creator>Yamaji Kazutsuna</dc:creator>
+<dc:creator>Nakamura Motonori</dc:creator>
+<dc:publisher>Information Processing Society of Japan</dc:publisher>
+<prism:publicationName>Journal of Information Processing</prism:publicationName>
+<dc:description>In the current network environment, access federations are proving very effective for building trustworthy and efficient service environment. However, operating federations causes some delicate problems regarding trust and security. Among the problems, privacy occupies an essential role in trust building for individual users. Conventionally, privacy aware technologies are concerned with providing anonymity. However, as privacy is understood as the right to control ones own information, and as better services are provided if some privacy information is provided, appropriate hiding and disclosing ones own information is considered more significant. Today, there are considered a wide variety of privacy usages for business, and because such scenarios have their own problems which must be separately solved, uniform &quot;privacy aware technologies&quot; are hard to conceive. They tend to be a collection of ad hoc technologies. In this paper, we consider a scenario of newspaper subscription with student discount. The proof that a subscriber is a student is sent to a newspaper provider from a university identity provider. We consider this scenario in order to extend the menu of services available in a university. Specifically, we explore technologies of proxies that include provision of anonymity and building of trust in a federation. We propose two solutions: SII-like agents, and cascading proxies to envision the privacy protection in this scenario. Their Web profiles are defined and implemented. Moreover, it is proved that both approaches effectively work to protect privacy.</dc:description>
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/privacy" dc:title="privacy" />
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/proxy+technologies" dc:title="proxy technologies" />
+<foaf:topic rdf:resource="http://ci.nii.ac.jp/keyword/access+federation" dc:title="access federation" />
+</rdf:Description>
+<rdf:Description rdf:about="http://ci.nii.ac.jp/naid/130004726185#article">
+<rdf:type rdf:resource="http://purl.org/ontology/bibo/Article"/>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000283117660#me">
+<foaf:name xml:lang="en">Sato Hiroyuki</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/The_University_of_Tokyo">
+<foaf:name xml:lang="en">The University of Tokyo</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000283117661#me">
+<foaf:name xml:lang="en">Okabe Yasuo</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/Kyoto_University">
+<foaf:name xml:lang="en">Kyoto University</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000283117662#me">
+<foaf:name xml:lang="en">Nishimura Takeshi</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/National_Insititute_of_Informatics">
+<foaf:name xml:lang="en">National Insititute of Informatics</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000283117663#me">
+<foaf:name xml:lang="en">Yamaji Kazutsuna</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/National_Insititute_of_Informatics">
+<foaf:name xml:lang="en">National Insititute of Informatics</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+<foaf:maker>
+<foaf:Person rdf:about="http://ci.nii.ac.jp/nrid/9000283117664#me">
+<foaf:name xml:lang="en">Nakamura Motonori</foaf:name>
+<con:organization>
+<foaf:Organization rdf:about="http://ci.nii.ac.jp/org/National_Insititute_of_Informatics">
+<foaf:name xml:lang="en">National Insititute of Informatics</foaf:name>
+</foaf:Organization>
+</con:organization>
+</foaf:Person>
+</foaf:maker>
+</rdf:Description>
+</rdf:RDF>

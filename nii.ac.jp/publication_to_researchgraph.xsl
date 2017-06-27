@@ -10,7 +10,7 @@
     xmlns:cinii="http://ci.nii.ac.jp/ns/1.0/" xmlns:bibo="http://purl.org/ontology/bibo/"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     exclude-result-prefixes="xsl xs fn rdfs dc dcterms foaf prism con cinii bibo rdf"
-    version="1.0">
+    version="2.0">
     
     <!-- =========================================== -->
     <!-- Configuration                                                                             -->
@@ -45,9 +45,9 @@
             <local_id>
                 <xsl:value-of select=".//cinii:naid"/>
             </local_id>
-            <!--<last_updated>
-                
-            </last_updated>-->
+            <last_updated>
+                <xsl:value-of select="current-dateTime()"/>
+            </last_updated>
             <url>
                 <xsl:value-of select=".//rdf:Description/@rdf:about"/>
             </url>
@@ -62,6 +62,11 @@
                     </xsl:if>
                 </xsl:for-each>
             </authors_list>
+            <xsl:if test=".//prism:doi">
+                <doi>
+                    <xsl:value-of select=".//prism:doi"/>
+                </doi>
+            </xsl:if>
             <publication_year>
                 <xsl:value-of select=".//prism:publicationDate"/>
             </publication_year>

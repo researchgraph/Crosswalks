@@ -6,7 +6,7 @@ In what follows, the ResearchGraph ontology is represented by the prefix “rese
 
 The following entities will be created for the ResearchGraph Ontology:
 
-* researchgraph:rgkey is the key used internally in Research Graph to represent entities. It is a data property containing a URI.
+* researchgraph:graphKey is the key used internally in Research Graph to represent entities. It is a data property containing a URI.
 * researchgraph:SourceURL is a sub-class of vcard:URL that indicates a vcard URL is a SourceURL.
 * researchgraph:localId is a data property that associates an entity with an identifier string used at the entity’s institution to identify the entity.
 * researchgraph:lastUpdated is a data property that associates a datetime value of last update for the entity
