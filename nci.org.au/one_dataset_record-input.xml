@@ -55,8 +55,8 @@
                 <gco:CharacterString>Australia</gco:CharacterString>
               </gmd:country>
               <gmd:electronicMailAddress gco:nilReason="missing">
-                <gco:CharacterString />
-              </gmd:electronicMailAddress>
+                <gco:CharacterString>Jingbo.Wang@anu.edu.au</gco:CharacterString>
+                </gmd:electronicMailAddress>
             </gmd:CI_Address>
           </gmd:address>
           <gmd:onlineResource>
@@ -938,7 +938,7 @@
       <gmd:transferOptions>
         <gmd:MD_DigitalTransferOptions>
           <gmd:transferSize gco:nilReason="missing">
-            <gco:CharacterString />
+            <gco:CharacterString/>
           </gmd:transferSize>
           <gmd:onLine>
             <gmd:CI_OnlineResource>
@@ -946,7 +946,7 @@
                 <gmd:URL>http://dapds00.nci.org.au/thredds/catalog/ua8/ARCCSS_Data-7/v1-0/catalog.html</gmd:URL>
               </gmd:linkage>
               <gmd:protocol>
-                <gmd:CharacterString />
+                <gmd:CharacterString/>
               </gmd:protocol>
               <gmd:name>
                 <gmd:CharacterString>OpenDAP: OpenDAP</gmd:CharacterString>
