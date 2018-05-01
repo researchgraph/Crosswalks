@@ -185,7 +185,8 @@
         <xsl:variable name="personN" select="substring(./@id,2,string-length(./@id)-1)"/>
         <foaf:Person rdf:about="{concat($source,'n',number($personN)+1000)}">
             <rdfs:label>
-                <xsl:value-of select="concat(.//gml:data[@key='last_name'],', ',.//gml:data[@key='first_name'])"/>
+                <!--<xsl:value-of select="concat(.//gml:data[@key='last_name'],', ',.//gml:data[@key='first_name'])"/>-->
+                <xsl:value-of select=".//gml:data[@key='full_name']"/>
             </rdfs:label>
                 <xsl:choose>
                     <xsl:when test="contains(.//gml:data[@key='url'],'orcid.org')">
@@ -415,10 +416,11 @@
     </xsl:template>
     
     <!-- =========================================== -->
-    <!-- Relationship Template                                                            -->
+    <!-- Relationship Template                       -->
     <!-- =========================================== -->
     <xsl:template match="gml:edge" mode="relation">
         <ns0:Relationship rdf:about="{concat($source,'n',string(floor(math:random()*9998) mod 8998 + 1001),string(floor(math:random()*9998) mod 8998 + 1001))}">
+            <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Authorship"/>
             <rdfs:label>
                 <xsl:value-of select="./gml:data"/>
             </rdfs:label>
