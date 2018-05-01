@@ -37,10 +37,15 @@
             </researchers>
             <!--<publications>
                 <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="publication"/>
-            </publications>           
+            </publications> -->          
            <relations>
-                <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
-            </relations>-->
+               <xsl:if test=".//gmd:MD_Metadata/gmd:contact/gmd:CI_ResponsibleParty/gmd:role/gmd:CI_RoleCode[@codeListValue='owner'] or
+                   .//gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:citedResponsibleParty/gmd:CI_ResponsibleParty/gmd:role/gmd:CI_RoleCode[@codeListValue='custodian']">
+                   
+                   <xsl:apply-templates select="oai:OAI-PMH/*/oai:record" mode="relation"/>
+                   
+               </xsl:if>
+            </relations>
         </registryObjects>
     </xsl:template>
     
@@ -110,9 +115,9 @@
        <xsl:for-each select="gmd:contact/gmd:CI_ResponsibleParty/gmd:individualName">
                 <researcher>
                     <key>
-                        <xsl:value-of select="../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+                        <xsl:value-of select="concat('researchgraph.org/nci/',../gmd:contactInfo/gmd:CI_Contact/gmd:address/gmd:CI_Address/gmd:electronicMailAddress/gco:CharacterString)"/>
                     </key>
-                    <source>
+                   <source>
                         <xsl:value-of select="$source"/>
                     </source>
                     <local_id>
@@ -127,11 +132,13 @@
                     <full_name> 
                         <xsl:value-of select="normalize-space(.)"/>
                     </full_name>
-                    <xsl:if test="(../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:name/gco:CharacterString='ORCID')">
+                    <xsl:choose>
+                        <xsl:when test="(../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:name/gco:CharacterString='ORCID')">
                         <orcid>
                             <xsl:value-of select="../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
                         </orcid>
-                    </xsl:if>
+                        </xsl:when>
+                    </xsl:choose>
                 </researcher>
             </xsl:for-each>  
         
@@ -139,7 +146,7 @@
             <xsl:for-each select="gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:citedResponsibleParty/gmd:CI_ResponsibleParty/gmd:individualName">
        		<researcher>
        		    <key>
-       		        <xsl:value-of select="../gmd:contactInfo/gmd:CI_Contact/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
+       		        <xsl:value-of select="concat('researchgraph.org/nci/',../gmd:contactInfo/gmd:CI_Contact/gmd:address/gmd:CI_Address/gmd:electronicMailAddress/gco:CharacterString)"/>
        		    </key>
        		    <source>
        		        <xsl:value-of select="$source"/>
@@ -204,24 +211,43 @@
     <!-- =========================================== -->
     <!-- Relation Template                            -->
     <!-- =========================================== -->
- <!--   <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relation">
-        <xsl:apply-templates select=".//oai:metadata" mode="relation"/>
-    </xsl:template>
+         
+ <xsl:template match="oai:OAI-PMH/*/oai:record" mode="relation">
+     <xsl:param name="date-stamp">
+         <xsl:value-of select=".//oai:datestamp"/>
+     </xsl:param>
+     <xsl:apply-templates select=".//oai:metadata" mode="relation">
+         <xsl:with-param name="date-stamp" select="$date-stamp"/>
+     </xsl:apply-templates>
+         </xsl:template>
     
     <xsl:template match="oai:metadata" mode="relation">
         <xsl:param name="local_id">
                 <xsl:value-of select=".//*/gmd:fileIdentifier/gco:CharacterString"/>
             </xsl:param>
+        <xsl:for-each select=".//gmd:MD_Metadata">     
+            <xsl:for-each select="gmd:contact/gmd:CI_ResponsibleParty/gmd:individualName">
         <relation>       
             <from_key>
                 <xsl:value-of select="concat('researchgraph.org/nci/',$local_id)"/>
             </from_key>
-            <xsl:if test="(.//*/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:name/gco:CharacterString='ORCID')">
-                <to_url>
-                    <xsl:value-of select=".//*/gmd:contact/gmd:contactInfo/gmd:onlineResource/gmd:CI_OnlineResource/gmd:linkage/gmd:URL"/>
-                </to_url>
-            </xsl:if>
-        </relation>        
-    </xsl:template>-->
+            <to_url>
+                <xsl:value-of select="concat('researchgraph.org/nci/',../gmd:contactInfo/gmd:CI_Contact/gmd:address/gmd:CI_Address/gmd:electronicMailAddress/gco:CharacterString)"/>
+            </to_url>
+        </relation>   
+            </xsl:for-each>  
+            
+            <xsl:for-each select="gmd:identificationInfo/gmd:MD_DataIdentification/gmd:citation/gmd:CI_Citation/gmd:citedResponsibleParty/gmd:CI_ResponsibleParty/gmd:individualName">
+                <relation>       
+                    <from_key>
+                        <xsl:value-of select="concat('researchgraph.org/nci/',$local_id)"/>
+                    </from_key>
+                    <to_url>
+                        <xsl:value-of select="concat('researchgraph.org/nci/',../gmd:contactInfo/gmd:CI_Contact/gmd:address/gmd:CI_Address/gmd:electronicMailAddress/gco:CharacterString)"/>
+                    </to_url>
+                </relation>  
+            </xsl:for-each>
+        </xsl:for-each>
+    </xsl:template>
     
 </xsl:stylesheet>
