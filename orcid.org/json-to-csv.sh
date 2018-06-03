@@ -159,19 +159,19 @@ do
 	end' | getDOI | getScopusEID | getURL | fixTitle | makePublicationCSV >> $workCSV
 
 	#Relations
-		ORCID=`cat $f | jq -r '.["orcid-identifier"]["path"]'`
+	ORCID=`cat $f | jq -r '.["orcid-identifier"]["path"]'`
 
-		cat $f | jq --arg key $ORCID -r 'if .["orcid-profile"]["orcid-activities"]["orcid-works"]["orcid-work"]!=null then
-			.["orcid-profile"]["orcid-activities"]["orcid-works"]["orcid-work"][] | 
-			if .["work-title"]!=null then
-				{
-					"from_key": ("researchgraph.org/orcid/" + $key), 
-					"to_uri": ("researchgraph.org/orcid/" + .["put-code"])
-				}
-			else
-				empty
-			end
+	cat $f | jq --arg key $ORCID -r 'if .["activities-summary"]["works"]["group"]!=null then
+		.["activities-summary"]["works"]["group"][]["work-summary"][] | 
+		if .["title"]["title"]!=null then
+			{
+				"from_key": ("researchgraph.org/orcid/" + $key), 
+				"to_uri": ("researchgraph.org/orcid/" + (.["put-code"]|tostring))
+			}
 		else
 			empty
-		end' | makeRelationCSV  >> $relationCSV
+		end
+	else
+		empty
+	end' | makeRelationCSV  >> $relationCSV
 done
