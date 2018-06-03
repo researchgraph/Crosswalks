@@ -50,24 +50,23 @@ function fixTitle {
 	jq  '.title |= sub("\\n|\\r|\\t|\"|\\|\\\"|\\\\|<CR>"; " "; "g")'
 }
 
-function createAuthorList {
-	jq '.author_list |= (if .contributor!=null then
-		[.["contributor"][] |
-			select (.["credit-name"]!=null) |
-				select (.["credit-name"].value!=null) |
-					.["credit-name"].value |= sub("\\n|\\r|\\t|\"|\\|\\\"|\\\\|<CR>"; " "; "g") |
-						.["credit-name"].value+";"] | add 
-	else
-		""
-	end)'
+function getDOI {
+	jq '.doi |= (if .["external-id"]!=null then 
+					if [.["external-id"][]["external-id-type"]=="doi"] | contains([true]) then
+	 						[.["external-id"][] | select (.["external-id-type"]=="doi") |
+							 	.["external-id-value"]][0] | sub("\\n|\\r|\\t|\"|\\|\\\"|\\\\|<CR>"; " "; "g")							
+	 				else
+	 						""
+	 				end
+	 			else
+	 				""
+				end)'
 }
 
-
-function getDOI {
-	jq '.doi |= (if .["work-external-identifier"]!=null then 
-					if [.["work-external-identifier"][]["work-external-identifier-type"]=="DOI"] | contains([true]) then
-	 						[.["work-external-identifier"][] | select (.["work-external-identifier-type"]=="DOI") |
-							 	.["work-external-identifier-id"]["value"]][0] | sub("\\n|\\r|\\t|\"|\\|\\\"|\\\\|<CR>"; " "; "g")							
+function getURL {
+	jq '.scopus_eid |= (if .["external-id"]!=null then 
+					if [.["external-id"][]["external-id-url"]!=null] | contains([true]) then
+	 						[.["external-id"][] | select (.["external-id-url"]!=null) | .["external-id-url"]][0]["value"]							
 	 				else
 	 						""
 	 				end
@@ -77,9 +76,9 @@ function getDOI {
 }
 
 function getScopusEID {
-	jq '.scopus_eid |= (if .["work-external-identifier"]!=null then 
-					if [.["work-external-identifier"][]["work-external-identifier-type"]=="EID"] | contains([true]) then
-	 						[.["work-external-identifier"][] | select (.["work-external-identifier-type"]=="EID") | .["work-external-identifier-id"]["value"]][0]							
+	jq '.url |= (if .["external-id"]!=null then 
+					if [.["external-id"][]["external-id-type"]=="eid"] | contains([true]) then
+	 						[.["external-id"][] | select (.["external-id-type"]=="eid") | .["external-id-value"]][0]							
 	 				else
 	 						""
 	 				end
@@ -87,7 +86,6 @@ function getScopusEID {
 	 				""
 				end)'
 }
-
 
 function getScopusAID {
 	jq '.scopus_author_id |= (if .["external-identifier"]!=null then
@@ -122,35 +120,35 @@ do
 
 	#Researchers
 	cat $f | jq -r --arg fN $fileName '{
-			"key": ("researchgraph.org/orcid/"+.["orcid-profile"]["orcid-identifier"]["path"]),
-			"local_id": .["orcid-profile"]["orcid-identifier"]["path"],
-			"last_updated": [.["orcid-profile"]["orcid-history"]["last-modified-date"]["value"]/1000 | todateiso8601][],
-			"url": .["orcid-profile"]["orcid-identifier"]["uri"],
-			"full_name": (.["orcid-profile"]["orcid-bio"]["personal-details"]["given-names"]["value"] + " " + .["orcid-profile"]["orcid-bio"]["personal-details"]["family-name"]["value"]),
-			"first_name": (.["orcid-profile"]["orcid-bio"]["personal-details"]["given-names"]["value"] // ""),
-			"last_name": (.["orcid-profile"]["orcid-bio"]["personal-details"]["family-name"]["value"] // ""),
-			"orcid": .["orcid-profile"]["orcid-identifier"]["path"],
-			"scopus_author_id": .["orcid-profile"]["orcid-bio"]["external-identifiers"],
+			"key": ("researchgraph.org/orcid/"+.["orcid-identifier"]["path"]),
+			"local_id": .["orcid-identifier"]["path"],
+			"last_updated": [.["history"]["last-modified-date"]["value"]/1000 | todateiso8601][],
+			"url": .["orcid-identifier"]["uri"],
+			"full_name": (.["person"]["given-names"]["value"] + " " + .["person"]["family-names"]["value"]),
+			"first_name": (.["person"]["given-names"]["value"] // ""),
+			"last_name": (.["person"]["family-names"]["value"] // ""),
+			"orcid": .["orcid-identifier"]["path"],
+			"scopus_author_id": .["person"]["external-identifiers"],
 			"source_file": $fN
 			}' | getScopusAID | fixName | makeResearcherCSV >> $researcherCSV
 
 
 	#Publications
-	cat $f | jq -r --arg fN $fileName 'if .["orcid-profile"]["orcid-activities"]["orcid-works"]["orcid-work"]!=null then
-		.["orcid-profile"]["orcid-activities"]["orcid-works"]["orcid-work"][] |
-			if .["work-title"]!=null then
+	cat $f | jq -r --arg fN $fileName 'if .["activities-summary"]["works"]["group"]!=null then
+		.["activities-summary"]["works"]["group"][]["work-summary"][] |
+			if .["title"]["title"]!=null then
 				{
-					"key": ("researchgraph.org/orcid/"+.["put-code"]),
-					"local_id": .["put-code"],
-					"title": .["work-title"]["title"]["value"],
-					"author_list": .["work-contributors"],		
+					"key": ("researchgraph.org/orcid/"+(.["put-code"]|tostring)),
+					"local_id": .["put-code"]|tostring,
+					"title": .["title"]["title"]["value"],
+					"author_list": "",		
 					"last_updated": [.["last-modified-date"]["value"]/1000 | todateiso8601][],
 					"publication_year":(.["publication-date"]["year"]["value"] // ""),
-					"url":(.["url"]["value"] // ""),
-					"doi":.["work-external-identifiers"],
-					"scopus_eid":.["work-external-identifiers"],
-					"orcid_work_type":.["work-type"],
-					"type": (if .["work-type"]=="DATA_SET" then "dataset" else "publication"	end),
+					"url":.["external-ids"],
+					"doi":.["external-ids"],
+					"scopus_eid":.["external-ids"],
+					"orcid_work_type":(.["type"]| ascii_downcase),
+					"type": (if .["work-type"]=="DATA_SET" then "dataset" else "publication" end),
 					"source_file": $fN
 				}
 		else
@@ -158,10 +156,10 @@ do
 		end
 	else
 		empty
-	end' | getDOI | getScopusEID | fixTitle | createAuthorList | makePublicationCSV >> $workCSV
+	end' | getDOI | getScopusEID | getURL | fixTitle | makePublicationCSV >> $workCSV
 
 	#Relations
-		ORCID=`cat $f | jq -r '.["orcid-profile"]["orcid-identifier"]["path"]'`
+		ORCID=`cat $f | jq -r '.["orcid-identifier"]["path"]'`
 
 		cat $f | jq --arg key $ORCID -r 'if .["orcid-profile"]["orcid-activities"]["orcid-works"]["orcid-work"]!=null then
 			.["orcid-profile"]["orcid-activities"]["orcid-works"]["orcid-work"][] | 
