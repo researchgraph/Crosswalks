@@ -119,7 +119,7 @@ do
 	fi
 
 	#Researchers
-	cat $f | jq -r --arg fN $fileName '{
+	cat $f | jq -r --arg fN $fileName 'if .["orcid-identifier"]!=null then {
 			"key": ("researchgraph.org/orcid/"+.["orcid-identifier"]["path"]),
 			"local_id": .["orcid-identifier"]["path"],
 			"last_updated": [.["history"]["last-modified-date"]["value"]/1000 | todateiso8601][],
@@ -130,7 +130,9 @@ do
 			"orcid": .["orcid-identifier"]["path"],
 			"scopus_author_id": .["person"]["external-identifiers"],
 			"source_file": $fN
-			}' | getScopusAID | fixName | makeResearcherCSV >> $researcherCSV
+			} else
+				empty
+			end' | getScopusAID | fixName | makeResearcherCSV >> $researcherCSV
 
 
 	#Publications
