@@ -115,7 +115,7 @@ do
 	
 	if [ "$DEBUG" == 'true' ]
 	then
-		echo $fileName
+		echo $FILECOUNTER':'$fileName
 	fi
 
 	#Researchers
