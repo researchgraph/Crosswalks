@@ -1,7 +1,11 @@
-# The Crosswalk between ORCID JSON and Research Graph Metamodel
+# Crosswalk from ORCID JSON/XML to Research Graph metamodel in CSV
 
 
 The current crosswalk is updated for ORCID version 2.0 Schema.
+
+* json-to-csv.sh: convert ORCID JSON to CSV
+* xml-to-csv-summaries.py: convert ORCID XML Summaries to CSV. There are researcher records.
+* xml-to-csv-activties.py: convert ORCID XML Actvities to CSV. There are publication/data records.
 
 The old crosswalks are kept for future reference in the Archive folder.
 
